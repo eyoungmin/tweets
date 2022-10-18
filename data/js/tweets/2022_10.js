@@ -1,6 +1,858 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 18 12:45:11 +0000 2022",
+		"id": 1582340729073848300,
+		"id_str": "1582352087668531203",
+		"full_text": "컴백 전 균형잡힌 식단과 운동으로 한 달 만에 -8kg 감량한 아이돌? #걸그룹_다이어트_식단\n#레드벨벳 #웬디 #마마무 #화사 #휘인 #솔라 #오마이걸 #승희 #아이즈원 #권은비\nhttps://t.co/zFeRaK92RW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "걸그룹_다이어트_식단",
+					"indices": [
+						40,
+						52
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "화사",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "휘인",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "솔라",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "승희",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "아이즈원",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "권은비",
+					"indices": [
+						96,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zFeRaK92RW",
+					"expanded_url": "https://www.allurekorea.com/2022/05/08/%ea%b1%b8%ea%b7%b8%eb%a3%b9-%eb%8b%a4%ec%9d%b4%ec%96%b4%ed%8a%b8-%ec%8b%9d%eb%8b%a8/?ddw=121506&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2022/05/08/%ea…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38133,
+			"friends_count": 1,
+			"listed_count": 298,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 335,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1666074741",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "컴백 전 균형잡힌 식단과 운동으로 한 달 만에 -8kg 감량한 아이돌? #걸그룹_다이어트_식단\n#레드벨벳 #웬디 #마마무 #화사 #휘인 #솔라 #오마이걸 #승희 #아이즈원 #권은비\nhttps://t.co/zFeRaK92RW"
+	},
+	{
+		"created_at": "Tue Oct 18 12:40:23 +0000 2022",
+		"id": 1582342811910688800,
+		"id_str": "1582350882519552000",
+		"full_text": "𝚃𝚊𝚜𝚝𝚎 𝚕𝚒𝚔𝚎 🍓🍰\n\n🎬 𝙀𝙥𝙞𝙨𝙤𝙙𝙚 𝟮 : 𝗦𝗜𝗟𝗞𝗬 (𝖳𝖾𝖺𝗌𝖾𝗋 #5)\n\n&lt;𝖢𝗁𝖺𝗉𝗍𝖾𝗋 5&gt;\n\n“𝗦𝘁𝗿𝗮𝘄𝗯𝗲𝗿𝗿𝘆 𝗖𝗮𝗸𝗲”🎂💋\n\n𝟮𝟬𝟮𝟮.𝟭𝟬.𝟮𝟮 𝟭𝟮𝗣𝗠 (𝗞𝗦𝗧) https://t.co/NlQukGeGzc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1582342747788234800,
+					"id_str": "1582342747788234752",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1582342747788234752/pu/img/N5WnJlMdT-3AILOQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1582342747788234752/pu/img/N5WnJlMdT-3AILOQ.jpg",
+					"url": "https://t.co/NlQukGeGzc",
+					"display_url": "pic.twitter.com/NlQukGeGzc",
+					"expanded_url": "https://twitter.com/silly__silky/status/1582342811910688768/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582342747788234800,
+					"id_str": "1582342747788234752",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1582342747788234752/pu/img/N5WnJlMdT-3AILOQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1582342747788234752/pu/img/N5WnJlMdT-3AILOQ.jpg",
+					"url": "https://t.co/NlQukGeGzc",
+					"display_url": "pic.twitter.com/NlQukGeGzc",
+					"expanded_url": "https://twitter.com/silly__silky/status/1582342811910688768/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 36035,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1582342747788234752/pu/vid/720x900/c1GcwW1U3NAPUtXB.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1582342747788234752/pu/pl/tlxcnK7-QpuxD9gf.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1582342747788234752/pu/vid/320x400/9OzX4yCo1pprtQb7.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1582342747788234752/pu/vid/480x600/UoIMSi7_9Ir9ypEy.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1474343943890677800,
+			"id_str": "1474343943890677765",
+			"name": "𝓢𝓲𝓵𝓵𝔂 𝓢𝓲𝓵𝓴𝔂",
+			"screen_name": "silly__silky",
+			"location": "",
+			"description": "✨ 𝓢𝓲𝓵𝓵𝔂 𝓢𝓲𝓵𝓴𝔂 ✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25,
+			"friends_count": 2,
+			"listed_count": 1,
+			"created_at": "Fri Dec 24 11:39:40 +0000 2021",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1580926387581353984/pLEDAQ9d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1580926387581353984/pLEDAQ9d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1474343943890677765/1652342994",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "𝚃𝚊𝚜𝚝𝚎 𝚕𝚒𝚔𝚎 🍓🍰\n\n🎬 𝙀𝙥𝙞𝙨𝙤𝙙𝙚 𝟮 : 𝗦𝗜𝗟𝗞𝗬 (𝖳𝖾𝖺𝗌𝖾𝗋 #5)\n\n&lt;𝖢𝗁𝖺𝗉𝗍𝖾𝗋 5&gt;\n\n“𝗦𝘁𝗿𝗮𝘄𝗯𝗲𝗿𝗿𝘆 𝗖𝗮𝗸𝗲”🎂💋\n\n𝟮𝟬𝟮𝟮.𝟭𝟬.𝟮𝟮 𝟭𝟮𝗣𝗠 (𝗞𝗦𝗧) https://t.co/NlQukGeGzc"
+	},
+	{
+		"created_at": "Tue Oct 18 12:40:19 +0000 2022",
+		"id": 1582340720412827600,
+		"id_str": "1582350864953487360",
+		"full_text": "tripleS\nAcid Angel from Asia\n\nConcept Shoot 2\n‘YooYeon’\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#김유연 #YooYeon https://t.co/aFw7hIJj0Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						57,
+						65
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						73,
+						91
+					]
+				},
+				{
+					"text": "애시드엔젤프롬에이시아",
+					"indices": [
+						92,
+						104
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						105,
+						117
+					]
+				},
+				{
+					"text": "김유연",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "YooYeon",
+					"indices": [
+						123,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1582292743921234000,
+					"id_str": "1582292743921233926",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FfVu3gQacAYwDc_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfVu3gQacAYwDc_.jpg",
+					"url": "https://t.co/aFw7hIJj0Q",
+					"display_url": "pic.twitter.com/aFw7hIJj0Q",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1582340720412827649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1396,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 818,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582292743921234000,
+					"id_str": "1582292743921233926",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FfVu3gQacAYwDc_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfVu3gQacAYwDc_.jpg",
+					"url": "https://t.co/aFw7hIJj0Q",
+					"display_url": "pic.twitter.com/aFw7hIJj0Q",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1582340720412827649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1396,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 818,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15629,
+			"friends_count": 0,
+			"listed_count": 103,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 686,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 340,
+		"favorite_count": 738,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "tripleS\nAcid Angel from Asia\n\nConcept Shoot 2\n‘YooYeon’\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#김유연 #YooYeon https://t.co/aFw7hIJj0Q"
+	},
+	{
+		"created_at": "Tue Oct 18 12:40:14 +0000 2022",
+		"id": 1582338102114537500,
+		"id_str": "1582350843205996544",
+		"full_text": "😚👍\n\n#aespa #WINTER https://t.co/KbO9Njempq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						4,
+						10
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						11,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1582338096187977700,
+					"id_str": "1582338096187977730",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/FfWYHWnaMAIGajC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfWYHWnaMAIGajC.jpg",
+					"url": "https://t.co/KbO9Njempq",
+					"display_url": "pic.twitter.com/KbO9Njempq",
+					"expanded_url": "https://twitter.com/aespa_official/status/1582338102114537473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582338096187977700,
+					"id_str": "1582338096187977730",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/FfWYHWnaMAIGajC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfWYHWnaMAIGajC.jpg",
+					"url": "https://t.co/KbO9Njempq",
+					"display_url": "pic.twitter.com/KbO9Njempq",
+					"expanded_url": "https://twitter.com/aespa_official/status/1582338102114537473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1582338096187998200,
+					"id_str": "1582338096187998208",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/FfWYHWnagAAh0PJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfWYHWnagAAh0PJ.jpg",
+					"url": "https://t.co/KbO9Njempq",
+					"display_url": "pic.twitter.com/KbO9Njempq",
+					"expanded_url": "https://twitter.com/aespa_official/status/1582338102114537473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1582338096192196600,
+					"id_str": "1582338096192196608",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/FfWYHWoakAAfXGW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfWYHWoakAAfXGW.jpg",
+					"url": "https://t.co/KbO9Njempq",
+					"display_url": "pic.twitter.com/KbO9Njempq",
+					"expanded_url": "https://twitter.com/aespa_official/status/1582338102114537473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1582338093646254000,
+		"in_reply_to_status_id_str": "1582338093646254080",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3225429,
+			"friends_count": 2,
+			"listed_count": 9618,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2096,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6281,
+		"favorite_count": 20298,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "😚👍\n\n#aespa #WINTER https://t.co/KbO9Njempq"
+	},
+	{
 		"created_at": "Tue Oct 18 11:37:44 +0000 2022",
 		"id": 1582325684097409000,
 		"id_str": "1582335116042375168",
