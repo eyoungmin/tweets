@@ -1,6 +1,164 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 18 01:51:14 +0000 2022",
+		"id": 1582183342853673000,
+		"id_str": "1582187516886585344",
+		"full_text": "&lt;#하퍼스바자&gt; 11월호, #태연 과 #루이비통 이 함께한 #디지털커버 공개! 🖤#카퓌신백 과 함께한 이번 화보는 데뷔 15주년을 맞아 태연이 뿜어내는 낯선 아름다움을 포착했습니다.✨ 화보와 인터뷰는 웹사이트와 SNS에서 확인해보세요! #TAEYEON @TAEYEONsmtown https://t.co/SXzBnb3RPE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하퍼스바자",
+					"indices": [
+						4,
+						10
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						21,
+						24
+					]
+				},
+				{
+					"text": "루이비통",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "디지털커버",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "카퓌신백",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						138,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TAEYEONsmtown",
+					"name": "TAEYEON Official",
+					"id": 1496499777965822000,
+					"id_str": "1496499777965821956",
+					"indices": [
+						147,
+						161
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SXzBnb3RPE",
+					"expanded_url": "https://bit.ly/3eAk7W3",
+					"display_url": "bit.ly/3eAk7W3",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 196001644,
+			"id_str": "196001644",
+			"name": "하퍼스바자",
+			"screen_name": "bazaarkorea",
+			"location": "South Korea",
+			"description": "세계 최초의 패션 매거진 하퍼스 바자\n\n https://t.co/anxga5uHtr",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/anxga5uHtr",
+							"expanded_url": "http://harpersbazaar.co.kr",
+							"display_url": "harpersbazaar.co.kr",
+							"indices": [
+								23,
+								46
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34936,
+			"friends_count": 0,
+			"listed_count": 195,
+			"created_at": "Tue Sep 28 02:26:27 +0000 2010",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350003704779272193/KOXSR-bJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350003704779272193/KOXSR-bJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/196001644/1665717138",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 258,
+		"favorite_count": 308,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;#하퍼스바자&gt; 11월호, #태연 과 #루이비통 이 함께한 #디지털커버 공개! 🖤#카퓌신백 과 함께한 이번 화보는 데뷔 15주년을 맞아 태연이 뿜어내는 낯선 아름다움을 포착했습니다.✨ 화보와 인터뷰는 웹사이트와 SNS에서 확인해보세요! #TAEYEON @TAEYEONsmtown https://t.co/SXzBnb3RPE"
+	},
+	{
 		"created_at": "Mon Oct 17 14:40:40 +0000 2022",
 		"id": 1582016441603469300,
 		"id_str": "1582018765729906689",
