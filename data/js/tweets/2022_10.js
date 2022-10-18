@@ -1,6 +1,591 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 18 08:40:22 +0000 2022",
+		"id": 1582288066332725200,
+		"id_str": "1582290479139684352",
+		"full_text": "✨ツイッターイベント✨\n\nCOSMOをダウンロードしてファーストクラスのオブジェクトをゲットしてください！\n\n1⃣ 友達3人タグ後COSMOIDをコメントで残してください。\n2⃣ いいね&amp;リツイート\n3⃣ フォロー@triplescosmos\n⏰期間:〜10月31日　23:59\n\n#tripleS #트리플에스 #トリプルS https://t.co/bw1UCxDNz4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						161,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "triplescosmos",
+					"name": "tripleS official",
+					"id": 1509037477369024500,
+					"id_str": "1509037477369024517",
+					"indices": [
+						111,
+						125
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1582287843455815700,
+					"id_str": "1582287843455815680",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FfVqaQmaUAAkpA9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfVqaQmaUAAkpA9.jpg",
+					"url": "https://t.co/bw1UCxDNz4",
+					"display_url": "pic.twitter.com/bw1UCxDNz4",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1582288066332725249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582287843455815700,
+					"id_str": "1582287843455815680",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FfVqaQmaUAAkpA9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfVqaQmaUAAkpA9.jpg",
+					"url": "https://t.co/bw1UCxDNz4",
+					"display_url": "pic.twitter.com/bw1UCxDNz4",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1582288066332725249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1582288060980813800,
+		"in_reply_to_status_id_str": "1582288060980813824",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15607,
+			"friends_count": 0,
+			"listed_count": 103,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "✨ツイッターイベント✨\n\nCOSMOをダウンロードしてファーストクラスのオブジェクトをゲットしてください！\n\n1⃣ 友達3人タグ後COSMOIDをコメントで残してください。\n2⃣ いいね&amp;リツイート\n3⃣ フォロー@triplescosmos\n⏰期間:〜10月31日　23:59\n\n#tripleS #트리플에스 #トリプルS https://t.co/bw1UCxDNz4"
+	},
+	{
+		"created_at": "Tue Oct 18 08:40:18 +0000 2022",
+		"id": 1582288060980813800,
+		"id_str": "1582290461582295040",
+		"full_text": "✨Twitter Event✨\n\nDownload COSMO App and receive a First Class Objekt!\n\n1⃣ Tag 3 friends and leave your COSMO ID in the comments\n2⃣ Like &amp; Retweet\n3⃣ Follow @triplescosmos\n⏰ Period: ~ Oct 31st 23:59 KST/10:59 EST\n\n#tripleS #트리플에스 #トリプルS https://t.co/vgPMKeV4fB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						217,
+						225
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						226,
+						232
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						233,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "triplescosmos",
+					"name": "tripleS official",
+					"id": 1509037477369024500,
+					"id_str": "1509037477369024517",
+					"indices": [
+						160,
+						174
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1582287821460893700,
+					"id_str": "1582287821460893696",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FfVqY-qacAACLjE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfVqY-qacAACLjE.jpg",
+					"url": "https://t.co/vgPMKeV4fB",
+					"display_url": "pic.twitter.com/vgPMKeV4fB",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1582288060980813824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582287821460893700,
+					"id_str": "1582287821460893696",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FfVqY-qacAACLjE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfVqY-qacAACLjE.jpg",
+					"url": "https://t.co/vgPMKeV4fB",
+					"display_url": "pic.twitter.com/vgPMKeV4fB",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1582288060980813824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1582288056031514600,
+		"in_reply_to_status_id_str": "1582288056031514625",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15607,
+			"friends_count": 0,
+			"listed_count": 103,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✨Twitter Event✨\n\nDownload COSMO App and receive a First Class Objekt!\n\n1⃣ Tag 3 friends and leave your COSMO ID in the comments\n2⃣ Like &amp; Retweet\n3⃣ Follow @triplescosmos\n⏰ Period: ~ Oct 31st 23:59 KST/10:59 EST\n\n#tripleS #트리플에스 #トリプルS https://t.co/vgPMKeV4fB"
+	},
+	{
+		"created_at": "Tue Oct 18 08:40:14 +0000 2022",
+		"id": 1582288056031514600,
+		"id_str": "1582290444024545282",
+		"full_text": "✨트위터 이벤트✨\n\n COSMO 다운 받고 퍼스트 클래스 오브젝트 받아가세요!\n\n1⃣ 친구 3명 태그 후 COSMO ID를 답글로 남겨주세요\n2⃣ 좋아요 &amp; 리트윗\n3⃣ 팔로우 @triplescosmos\n⏰ 기간: ~ 10월 31일 23:59\n\n#tripleS #트리플에스 #トリプルS https://t.co/ZM2TBbENuG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						141,
+						149
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						157,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "triplescosmos",
+					"name": "tripleS official",
+					"id": 1509037477369024500,
+					"id_str": "1509037477369024517",
+					"indices": [
+						103,
+						117
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1582287806684356600,
+					"id_str": "1582287806684356609",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FfVqYHnaYAEpRtw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfVqYHnaYAEpRtw.jpg",
+					"url": "https://t.co/ZM2TBbENuG",
+					"display_url": "pic.twitter.com/ZM2TBbENuG",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1582288056031514625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582287806684356600,
+					"id_str": "1582287806684356609",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FfVqYHnaYAEpRtw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfVqYHnaYAEpRtw.jpg",
+					"url": "https://t.co/ZM2TBbENuG",
+					"display_url": "pic.twitter.com/ZM2TBbENuG",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1582288056031514625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15607,
+			"friends_count": 0,
+			"listed_count": 103,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨트위터 이벤트✨\n\n COSMO 다운 받고 퍼스트 클래스 오브젝트 받아가세요!\n\n1⃣ 친구 3명 태그 후 COSMO ID를 답글로 남겨주세요\n2⃣ 좋아요 &amp; 리트윗\n3⃣ 팔로우 @triplescosmos\n⏰ 기간: ~ 10월 31일 23:59\n\n#tripleS #트리플에스 #トリプルS https://t.co/ZM2TBbENuG"
+	},
+	{
 		"created_at": "Tue Oct 18 07:51:18 +0000 2022",
 		"id": 1582265229358112800,
 		"id_str": "1582278132551192576",
