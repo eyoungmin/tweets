@@ -1,6 +1,927 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 18 07:51:18 +0000 2022",
+		"id": 1582265229358112800,
+		"id_str": "1582278132551192576",
+		"full_text": "가을 필드에선 이렇게! 스타들의 골프 룩\n\n소녀시대 수영부터 고성희까지, 골프에 푹 빠진 스타들의 근사한 패션 팁을 만나보세요. \nhttps://t.co/Rx7VW7Jk9i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Rx7VW7Jk9i",
+					"expanded_url": "https://www.vogue.co.kr/2022/10/14/%ea%b0%80%ec%9d%84-%ed%95%84%eb%93%9c%ec%97%90%ec%84%a0-%ec%9d%b4%eb%a0%87%ea%b2%8c-%ec%8a%a4%ed%83%80%eb%93%a4%ec%9d%98-%ea%b3%a8%ed%94%84-%eb%a3%a9/",
+					"display_url": "vogue.co.kr/2022/10/14/%ea…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159102271,
+			"id_str": "159102271",
+			"name": "VOGUE KOREA",
+			"screen_name": "VogueKorea",
+			"location": "",
+			"description": "Vogue Korea official twitter",
+			"url": "https://t.co/76FZW5IsXW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/76FZW5IsXW",
+							"expanded_url": "http://www.vogue.co.kr",
+							"display_url": "vogue.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 193978,
+			"friends_count": 0,
+			"listed_count": 424,
+			"created_at": "Thu Jun 24 13:11:05 +0000 2010",
+			"favourites_count": 62,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159102271/1665741675",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5EF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "가을 필드에선 이렇게! 스타들의 골프 룩\n\n소녀시대 수영부터 고성희까지, 골프에 푹 빠진 스타들의 근사한 패션 팁을 만나보세요. \nhttps://t.co/Rx7VW7Jk9i"
+	},
+	{
+		"created_at": "Tue Oct 18 07:40:29 +0000 2022",
+		"id": 1582266385270730800,
+		"id_str": "1582275410246520833",
+		"full_text": "今夜10時〜！ジウの単独ライブです〜💎\n面白い話いっぱ聞く準備してて下さい！📘\n\n#tripleS #트리플에스 #トリプルS https://t.co/vIBsw4wT1Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						41,
+						49
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						57,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1582266355847680000,
+					"id_str": "1582266355847680001",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FfVW3hBaUAEfi1P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfVW3hBaUAEfi1P.jpg",
+					"url": "https://t.co/vIBsw4wT1Y",
+					"display_url": "pic.twitter.com/vIBsw4wT1Y",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1582266385270730752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582266355847680000,
+					"id_str": "1582266355847680001",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FfVW3hBaUAEfi1P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfVW3hBaUAEfi1P.jpg",
+					"url": "https://t.co/vIBsw4wT1Y",
+					"display_url": "pic.twitter.com/vIBsw4wT1Y",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1582266385270730752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1582266376240402400,
+		"in_reply_to_status_id_str": "1582266376240402432",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15608,
+			"friends_count": 0,
+			"listed_count": 103,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "今夜10時〜！ジウの単独ライブです〜💎\n面白い話いっぱ聞く準備してて下さい！📘\n\n#tripleS #트리플에스 #トリプルS https://t.co/vIBsw4wT1Y"
+	},
+	{
+		"created_at": "Tue Oct 18 07:40:27 +0000 2022",
+		"id": 1582266376240402400,
+		"id_str": "1582275401157840897",
+		"full_text": "Tonight (Oct 18th) at 10 pm KST/9am EST~!\nJiWoo is going LIVE~💎\nPlease look forward to hearing her stories📘\n\n#tripleS #트리플에스 #トリプルS https://t.co/nd35zJPSUG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						125,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1582266338135113700,
+					"id_str": "1582266338135113729",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FfVW2fCaAAE_F_q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfVW2fCaAAE_F_q.jpg",
+					"url": "https://t.co/nd35zJPSUG",
+					"display_url": "pic.twitter.com/nd35zJPSUG",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1582266376240402432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582266338135113700,
+					"id_str": "1582266338135113729",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FfVW2fCaAAE_F_q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfVW2fCaAAE_F_q.jpg",
+					"url": "https://t.co/nd35zJPSUG",
+					"display_url": "pic.twitter.com/nd35zJPSUG",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1582266376240402432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1582266367793057800,
+		"in_reply_to_status_id_str": "1582266367793057794",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15608,
+			"friends_count": 0,
+			"listed_count": 103,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tonight (Oct 18th) at 10 pm KST/9am EST~!\nJiWoo is going LIVE~💎\nPlease look forward to hearing her stories📘\n\n#tripleS #트리플에스 #トリプルS https://t.co/nd35zJPSUG"
+	},
+	{
+		"created_at": "Tue Oct 18 07:40:23 +0000 2022",
+		"id": 1582266367793057800,
+		"id_str": "1582275383671795712",
+		"full_text": "오늘 저녁 10시! 지우의 단독 라이브입니당~💎\n재미있는 이야기 실컷 들을 준비해주세요!📘\n\n#tripleS #트리플에스 #トリプルS https://t.co/h51QyHWAeo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						68,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1582266314944839700,
+					"id_str": "1582266314944839680",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FfVW1IpagAAT_uL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfVW1IpagAAT_uL.jpg",
+					"url": "https://t.co/h51QyHWAeo",
+					"display_url": "pic.twitter.com/h51QyHWAeo",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1582266367793057794/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582266314944839700,
+					"id_str": "1582266314944839680",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FfVW1IpagAAT_uL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfVW1IpagAAT_uL.jpg",
+					"url": "https://t.co/h51QyHWAeo",
+					"display_url": "pic.twitter.com/h51QyHWAeo",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1582266367793057794/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15608,
+			"friends_count": 0,
+			"listed_count": 103,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 저녁 10시! 지우의 단독 라이브입니당~💎\n재미있는 이야기 실컷 들을 준비해주세요!📘\n\n#tripleS #트리플에스 #トリプルS https://t.co/h51QyHWAeo"
+	},
+	{
+		"created_at": "Tue Oct 18 07:40:16 +0000 2022",
+		"id": 1582265471063453700,
+		"id_str": "1582275353510555650",
+		"full_text": "happy birthday Matthew Williams 🖤 miss you! so grateful for you always~! xx\n\n#aespa #GISELLE https://t.co/GXtv573bBR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						84,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1582265462851010600,
+					"id_str": "1582265462851010560",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FfVWDiWagAAmNZK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfVWDiWagAAmNZK.jpg",
+					"url": "https://t.co/GXtv573bBR",
+					"display_url": "pic.twitter.com/GXtv573bBR",
+					"expanded_url": "https://twitter.com/aespa_official/status/1582265471063453696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 835,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1002,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 473,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582265462851010600,
+					"id_str": "1582265462851010560",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FfVWDiWagAAmNZK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfVWDiWagAAmNZK.jpg",
+					"url": "https://t.co/GXtv573bBR",
+					"display_url": "pic.twitter.com/GXtv573bBR",
+					"expanded_url": "https://twitter.com/aespa_official/status/1582265471063453696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 835,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1002,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 473,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1582265462851010600,
+					"id_str": "1582265462851010562",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FfVWDiWagAIMpYz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfVWDiWagAIMpYz.jpg",
+					"url": "https://t.co/GXtv573bBR",
+					"display_url": "pic.twitter.com/GXtv573bBR",
+					"expanded_url": "https://twitter.com/aespa_official/status/1582265471063453696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 858,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 715,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 405,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1582265463421436000,
+					"id_str": "1582265463421435904",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FfVWDkeagAAQsTm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfVWDkeagAAQsTm.jpg",
+					"url": "https://t.co/GXtv573bBR",
+					"display_url": "pic.twitter.com/GXtv573bBR",
+					"expanded_url": "https://twitter.com/aespa_official/status/1582265471063453696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 988,
+							"h": 831,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 988,
+							"h": 831,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 572,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1582265458832863200,
+		"in_reply_to_status_id_str": "1582265458832863233",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3224649,
+			"friends_count": 2,
+			"listed_count": 9612,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1934,
+		"favorite_count": 8337,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "happy birthday Matthew Williams 🖤 miss you! so grateful for you always~! xx\n\n#aespa #GISELLE https://t.co/GXtv573bBR"
+	},
+	{
 		"created_at": "Tue Oct 18 06:45:45 +0000 2022",
 		"id": 1582257671448633300,
 		"id_str": "1582261636177371137",
