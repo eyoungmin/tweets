@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 19 08:40:10 +0000 2022",
+		"id": 1582629811712729000,
+		"id_str": "1582652817017344000",
+		"full_text": "20001019\nHAPPY #HeeJin DAY\n\nPLAY NOW AND GET BIRTHDAY GIFT\n#SuperStarLOONA https://t.co/ySedgepFe9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HeeJin",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"text": "SuperStarLOONA",
+					"indices": [
+						59,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1582629761439785000,
+					"id_str": "1582629761439784960",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FfahYgWUYAAMRoP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfahYgWUYAAMRoP.jpg",
+					"url": "https://t.co/ySedgepFe9",
+					"display_url": "pic.twitter.com/ySedgepFe9",
+					"expanded_url": "https://twitter.com/SuperStar_GL/status/1582629811712729095/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 426,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 576,
+							"h": 920,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582629761439785000,
+					"id_str": "1582629761439784960",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FfahYgWUYAAMRoP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfahYgWUYAAMRoP.jpg",
+					"url": "https://t.co/ySedgepFe9",
+					"display_url": "pic.twitter.com/ySedgepFe9",
+					"expanded_url": "https://twitter.com/SuperStar_GL/status/1582629811712729095/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 426,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 576,
+							"h": 920,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1376465832633462800,
+			"id_str": "1376465832633462788",
+			"name": "SuperStar Official",
+			"screen_name": "SuperStar_GL",
+			"location": "",
+			"description": "슈퍼스타 리듬게임 공식계정 ♪\nThis is the Official Twitter for #SuperStar",
+			"url": "https://t.co/UDM8pr62ts",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UDM8pr62ts",
+							"expanded_url": "http://www.dalcomsoft.com/",
+							"display_url": "dalcomsoft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20806,
+			"friends_count": 28,
+			"listed_count": 66,
+			"created_at": "Mon Mar 29 09:27:25 +0000 2021",
+			"favourites_count": 239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 857,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377030737518465026/UXa9HvOx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377030737518465026/UXa9HvOx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1376465832633462788/1617145421",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 563,
+		"favorite_count": 2002,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "20001019\nHAPPY #HeeJin DAY\n\nPLAY NOW AND GET BIRTHDAY GIFT\n#SuperStarLOONA https://t.co/ySedgepFe9"
+	},
+	{
 		"created_at": "Wed Oct 19 05:40:19 +0000 2022",
 		"id": 1582395083911233500,
 		"id_str": "1582607557511684096",
