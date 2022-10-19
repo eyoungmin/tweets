@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 19 05:40:19 +0000 2022",
+		"id": 1582395083911233500,
+		"id_str": "1582607557511684096",
+		"full_text": "Be sure to join us 19 October at 5PM ET for a chat with @blakekathryn about her collection with @aespa_official! #aespa #æspa #에스파 \nhttps://t.co/lzkVaUsBmo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						126,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "blakekathryn",
+					"name": "blake kathryn",
+					"id": 43792797,
+					"id_str": "43792797",
+					"indices": [
+						56,
+						69
+					]
+				},
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						96,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lzkVaUsBmo",
+					"expanded_url": "https://twitter.com/i/spaces/1YqxoAzbVYZGv",
+					"display_url": "twitter.com/i/spaces/1Yqxo…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1425131723155705900,
+			"id_str": "1425131723155705860",
+			"name": "Sotheby's Metaverse",
+			"screen_name": "Sothebysverse",
+			"location": "",
+			"description": "Welcome to Sotheby’s Metaverse. Auction house for a selection of rare NFTs and digital art.",
+			"url": "https://t.co/795YhrDGgT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/795YhrDGgT",
+							"expanded_url": "https://metaverse.sothebys.com/aegirls",
+							"display_url": "metaverse.sothebys.com/aegirls",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28295,
+			"friends_count": 196,
+			"listed_count": 240,
+			"created_at": "Tue Aug 10 16:28:27 +0000 2021",
+			"favourites_count": 1115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 959,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496904103221415940/I4EnfXkh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496904103221415940/I4EnfXkh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1425131723155705860/1665805078",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 335,
+		"favorite_count": 1454,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Be sure to join us 19 October at 5PM ET for a chat with @blakekathryn about her collection with @aespa_official! #aespa #æspa #에스파 \nhttps://t.co/lzkVaUsBmo"
+	},
+	{
 		"created_at": "Wed Oct 19 03:40:25 +0000 2022",
 		"id": 1582567269686603800,
 		"id_str": "1582577382929485824",
