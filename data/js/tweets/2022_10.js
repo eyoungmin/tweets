@@ -1,6 +1,1087 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 19 09:40:37 +0000 2022",
+		"id": 1582658098560643000,
+		"id_str": "1582668030999293952",
+		"full_text": "こんにちは、トリプルSのファンの皆さん、11月から近くのGS25コンビニでtripleSの新しいスタートに立ち会えます。 SたちのフィジカルオブジェクトをGS25コンビニでチェックしてみてください。 トリプルSを愛してくださってありがとうございます。\n\n#tripleS #트리플에스 #トリプルS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						127,
+						135
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						143,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1582658096887124000,
+		"in_reply_to_status_id_str": "1582658096887123968",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15797,
+			"friends_count": 0,
+			"listed_count": 103,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "こんにちは、トリプルSのファンの皆さん、11月から近くのGS25コンビニでtripleSの新しいスタートに立ち会えます。 SたちのフィジカルオブジェクトをGS25コンビニでチェックしてみてください。 トリプルSを愛してくださってありがとうございます。\n\n#tripleS #트리플에스 #トリプルS"
+	},
+	{
+		"created_at": "Wed Oct 19 09:40:32 +0000 2022",
+		"id": 1582658096887124000,
+		"id_str": "1582668008870137856",
+		"full_text": "Hello tripleS fans! Starting in November, greet tripleS at your nearest GS25 convenience store. Physical Objekts of each S will be available at GS25. \nThank you for loving tripleS.\n\n#tripleS #트리플에스 #トリプルS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						182,
+						190
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						191,
+						197
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						198,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1582658095075176400,
+		"in_reply_to_status_id_str": "1582658095075176449",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15797,
+			"friends_count": 0,
+			"listed_count": 103,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hello tripleS fans! Starting in November, greet tripleS at your nearest GS25 convenience store. Physical Objekts of each S will be available at GS25. \nThank you for loving tripleS.\n\n#tripleS #트리플에스 #トリプルS"
+	},
+	{
+		"created_at": "Wed Oct 19 09:40:29 +0000 2022",
+		"id": 1582658095075176400,
+		"id_str": "1582667995222269952",
+		"full_text": "안녕하세요 트리플에스 팬 여러분, 11월부터 가까운 GS25 편의점에서 tripleS의 새로운 시작을 함께하실 수 있습니다. \nS들의 피지컬 오브젝트를 GS25 편의점에서 만나보세요. \n\n트리플에스를 사랑해주셔서 감사합니다.\n\n#tripleS #트리플에스 #トリプルS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						127,
+						135
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						143,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15797,
+			"friends_count": 0,
+			"listed_count": 103,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "안녕하세요 트리플에스 팬 여러분, 11월부터 가까운 GS25 편의점에서 tripleS의 새로운 시작을 함께하실 수 있습니다. \nS들의 피지컬 오브젝트를 GS25 편의점에서 만나보세요. \n\n트리플에스를 사랑해주셔서 감사합니다.\n\n#tripleS #트리플에스 #トリプルS"
+	},
+	{
+		"created_at": "Wed Oct 19 09:40:17 +0000 2022",
+		"id": 1582657808444661800,
+		"id_str": "1582667946945486848",
+		"full_text": "[📢]\n\naespa初来日イベント「aespa JAPAN PREMIUM SHOWCASE 2022 〜SYNK〜」開催期間中、メンバーに密着！📹本番前の様子や一部ステージ映像も含めたメイキング映像をメルマガサイト『BLOG』にて公開！！\nぜひチェックしてください💙⭐️🌙🦋\n\nhttps://t.co/BvN8a2TkF4\n\n#aespa #æspa #에스파 #エスパ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						172,
+						177
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						178,
+						182
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						183,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BvN8a2TkF4",
+					"expanded_url": "http://aespa.smtown-official.jp/blog/",
+					"display_url": "aespa.smtown-official.jp/blog/",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 218585,
+			"friends_count": 1,
+			"listed_count": 674,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 465,
+		"favorite_count": 1920,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[📢]\n\naespa初来日イベント「aespa JAPAN PREMIUM SHOWCASE 2022 〜SYNK〜」開催期間中、メンバーに密着！📹本番前の様子や一部ステージ映像も含めたメイキング映像をメルマガサイト『BLOG』にて公開！！\nぜひチェックしてください💙⭐️🌙🦋\n\nhttps://t.co/BvN8a2TkF4\n\n#aespa #æspa #에스파 #エスパ"
+	},
+	{
+		"created_at": "Wed Oct 19 09:40:12 +0000 2022",
+		"id": 1582654714914963500,
+		"id_str": "1582667924640186368",
+		"full_text": "just put up some bts from Laterals mag shoot - https://t.co/VFJ8TJuTXp :)\nlove u ❤️ https://t.co/6oRysiVcYd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VFJ8TJuTXp",
+					"expanded_url": "http://tinyurl.com/BIBIofficialYT",
+					"display_url": "tinyurl.com/BIBIofficialYT",
+					"indices": [
+						47,
+						70
+					]
+				},
+				{
+					"url": "https://t.co/6oRysiVcYd",
+					"expanded_url": "https://twitter.com/ghoodmusic_/status/1582653365787721730",
+					"display_url": "twitter.com/ghoodmusic_/st…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91796,
+			"friends_count": 7,
+			"listed_count": 219,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1576411206835109888/NsHSTOWf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1576411206835109888/NsHSTOWf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1582653365787721700,
+		"quoted_status_id_str": "1582653365787721730",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6oRysiVcYd",
+			"expanded": "https://twitter.com/ghoodmusic_/status/1582653365787721730",
+			"display": "twitter.com/ghoodmusic_/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 19 08:42:21 +0000 2022",
+			"id": 1582653365787721700,
+			"id_str": "1582653365787721730",
+			"full_text": "Are you following @nakedbibi’s YouTube channel yet? Follow now to not miss out on exclusive #BIBI content (BTS photos, film, etc) 😊😊😊\n\n📌 Sign up here:\nhttps://t.co/tDkWsXRQjd\n\n🤍🤍🤍",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				179
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BIBI",
+						"indices": [
+							92,
+							97
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nakedbibi",
+						"name": "nakedbibi",
+						"id": 1448497121867436000,
+						"id_str": "1448497121867436037",
+						"indices": [
+							18,
+							28
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/tDkWsXRQjd",
+						"expanded_url": "http://tinyurl.com/BIBIofficialYT",
+						"display_url": "tinyurl.com/BIBIofficialYT",
+						"indices": [
+							151,
+							174
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1467799012216508400,
+				"id_str": "1467799012216508419",
+				"name": "Feel Ghood Music",
+				"screen_name": "gHoodmusic_",
+				"location": "Worldwide",
+				"description": "OFFICIAL TWITTER for Feel Ghood Music: @drunkentigerjk @yoonmirae @bizzionary @nakedbibi (Curated + Managed by Feel Ghood Music Staff)",
+				"url": "https://t.co/3TdHUbAG7t",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3TdHUbAG7t",
+								"expanded_url": "http://88rising.lnk.to/BestLover",
+								"display_url": "88rising.lnk.to/BestLover",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1388,
+				"friends_count": 6,
+				"listed_count": 15,
+				"created_at": "Mon Dec 06 10:12:59 +0000 2021",
+				"favourites_count": 17,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 204,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1467855847506124800/RRG8CM6b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467855847506124800/RRG8CM6b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1467799012216508419/1638799747",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 24,
+		"favorite_count": 121,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "just put up some bts from Laterals mag shoot - https://t.co/VFJ8TJuTXp :)\nlove u ❤️ https://t.co/6oRysiVcYd"
+	},
+	{
+		"created_at": "Wed Oct 19 09:37:57 +0000 2022",
+		"id": 1582657821094518800,
+		"id_str": "1582667356727173120",
+		"full_text": "[📹] CHUNG HA in LAㅣVLOG\n\n▶️ https://t.co/RwB9BzxgwN\n\n#청하 #CHUNGHA https://t.co/HOpADE5EDn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						53,
+						56
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						57,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RwB9BzxgwN",
+					"expanded_url": "https://youtu.be/OL1euonwlqI",
+					"display_url": "youtu.be/OL1euonwlqI",
+					"indices": [
+						28,
+						51
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1582335660530094000,
+					"id_str": "1582335660530094080",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1582335660530094080/pu/img/UGcV0iBlLfSRDwQ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1582335660530094080/pu/img/UGcV0iBlLfSRDwQ6.jpg",
+					"url": "https://t.co/HOpADE5EDn",
+					"display_url": "pic.twitter.com/HOpADE5EDn",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1582657821094518784/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582335660530094000,
+					"id_str": "1582335660530094080",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1582335660530094080/pu/img/UGcV0iBlLfSRDwQ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1582335660530094080/pu/img/UGcV0iBlLfSRDwQ6.jpg",
+					"url": "https://t.co/HOpADE5EDn",
+					"display_url": "pic.twitter.com/HOpADE5EDn",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1582657821094518784/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 36636,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1582335660530094080/pu/pl/mvh_e8XixIAa9t7x.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1582335660530094080/pu/vid/640x360/Z4RWWbNEXbFIzZvI.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1582335660530094080/pu/vid/480x270/R7LJ83E7iCy9ZZcR.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1582335660530094080/pu/vid/1280x720/hq9M8T8EEsGZXOLT.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 356293,
+			"friends_count": 1,
+			"listed_count": 2223,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 163,
+		"favorite_count": 473,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "vi",
+		"text": "[📹] CHUNG HA in LAㅣVLOG\n\n▶️ https://t.co/RwB9BzxgwN\n\n#청하 #CHUNGHA https://t.co/HOpADE5EDn"
+	},
+	{
+		"created_at": "Wed Oct 19 09:37:31 +0000 2022",
+		"id": 1582658984519282700,
+		"id_str": "1582667250359599104",
+		"full_text": "셀럽들의 간절기 패딩 스타일링❄❄\n\n#제니 #블랙핑크 #슬기 #레드벨벳 #예지 #있지 #전소미 #셀럽패션 \n\nhttps://t.co/GJBUNtH0Qc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제니",
+					"indices": [
+						20,
+						23
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "예지",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "있지",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "전소미",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "셀럽패션",
+					"indices": [
+						53,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GJBUNtH0Qc",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/71661?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/71661?…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88971,
+			"friends_count": 4,
+			"listed_count": 418,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "셀럽들의 간절기 패딩 스타일링❄❄\n\n#제니 #블랙핑크 #슬기 #레드벨벳 #예지 #있지 #전소미 #셀럽패션 \n\nhttps://t.co/GJBUNtH0Qc"
+	},
+	{
 		"created_at": "Wed Oct 19 08:40:10 +0000 2022",
 		"id": 1582629811712729000,
 		"id_str": "1582652817017344000",
