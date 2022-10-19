@@ -1,6 +1,601 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 19 03:40:25 +0000 2022",
+		"id": 1582567269686603800,
+		"id_str": "1582577382929485824",
+		"full_text": "[2022 ADOR Global Audition]\n\nThank you for your interest and participation in ADOR's second global audition.\nWe are currently reviewing every submission. Applicants who pass will be notified individually by the end of October.\nThank you so much! https://t.co/8Up8FGTW3P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1582567265320325000,
+					"id_str": "1582567265320325121",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/FfZoiwKUUAEpMPo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfZoiwKUUAEpMPo.jpg",
+					"url": "https://t.co/8Up8FGTW3P",
+					"display_url": "pic.twitter.com/8Up8FGTW3P",
+					"expanded_url": "https://twitter.com/alldoorsoneroom/status/1582567269686603777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 353,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 623,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 623,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582567265320325000,
+					"id_str": "1582567265320325121",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/FfZoiwKUUAEpMPo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfZoiwKUUAEpMPo.jpg",
+					"url": "https://t.co/8Up8FGTW3P",
+					"display_url": "pic.twitter.com/8Up8FGTW3P",
+					"expanded_url": "https://twitter.com/alldoorsoneroom/status/1582567269686603777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 353,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 623,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 623,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1373509657868660700,
+			"id_str": "1373509657868660740",
+			"name": "ADOR",
+			"screen_name": "alldoorsoneroom",
+			"location": "",
+			"description": "All Doors One Room\nAttention! NewJeans👖\nhttps://t.co/UyuE2A6KSA",
+			"url": "https://t.co/Y17aJsmF2p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y17aJsmF2p",
+							"expanded_url": "http://ador.world",
+							"display_url": "ador.world",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UyuE2A6KSA",
+							"expanded_url": "https://youtu.be/js1CtxSY38I",
+							"display_url": "youtu.be/js1CtxSY38I",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 96937,
+			"friends_count": 4,
+			"listed_count": 496,
+			"created_at": "Sun Mar 21 05:40:10 +0000 2021",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 49,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1564073067080712192/6XWxQ3Na_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1564073067080712192/6XWxQ3Na_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1373509657868660740/1661739064",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 314,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[2022 ADOR Global Audition]\n\nThank you for your interest and participation in ADOR's second global audition.\nWe are currently reviewing every submission. Applicants who pass will be notified individually by the end of October.\nThank you so much! https://t.co/8Up8FGTW3P"
+	},
+	{
+		"created_at": "Wed Oct 19 03:40:19 +0000 2022",
+		"id": 1582567217492656000,
+		"id_str": "1582577356585115650",
+		"full_text": "[2022 ADOR Global Audition]\n\nADOR의 두 번째 글로벌 오디션을 향한 많은 관심과 참여 감사드립니다.\n지원 서류는 검토 중이며 합격자에 한하여 10월 말까지 개별 연락드릴 예정입니다.\n감사합니다! https://t.co/tkwQB5jkyS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1582549185408401400,
+					"id_str": "1582549185408401408",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FfZYGXPaAAAiLzD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfZYGXPaAAAiLzD.jpg",
+					"url": "https://t.co/tkwQB5jkyS",
+					"display_url": "pic.twitter.com/tkwQB5jkyS",
+					"expanded_url": "https://twitter.com/alldoorsoneroom/status/1582567217492656129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 353,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 623,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 623,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582549185408401400,
+					"id_str": "1582549185408401408",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FfZYGXPaAAAiLzD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfZYGXPaAAAiLzD.jpg",
+					"url": "https://t.co/tkwQB5jkyS",
+					"display_url": "pic.twitter.com/tkwQB5jkyS",
+					"expanded_url": "https://twitter.com/alldoorsoneroom/status/1582567217492656129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 353,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 623,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 623,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1373509657868660700,
+			"id_str": "1373509657868660740",
+			"name": "ADOR",
+			"screen_name": "alldoorsoneroom",
+			"location": "",
+			"description": "All Doors One Room\nAttention! NewJeans👖\nhttps://t.co/UyuE2A6KSA",
+			"url": "https://t.co/Y17aJsmF2p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y17aJsmF2p",
+							"expanded_url": "http://ador.world",
+							"display_url": "ador.world",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UyuE2A6KSA",
+							"expanded_url": "https://youtu.be/js1CtxSY38I",
+							"display_url": "youtu.be/js1CtxSY38I",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 96937,
+			"friends_count": 4,
+			"listed_count": 496,
+			"created_at": "Sun Mar 21 05:40:10 +0000 2021",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 49,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1564073067080712192/6XWxQ3Na_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1564073067080712192/6XWxQ3Na_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1373509657868660740/1661739064",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 355,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2022 ADOR Global Audition]\n\nADOR의 두 번째 글로벌 오디션을 향한 많은 관심과 참여 감사드립니다.\n지원 서류는 검토 중이며 합격자에 한하여 10월 말까지 개별 연락드릴 예정입니다.\n감사합니다! https://t.co/tkwQB5jkyS"
+	},
+	{
+		"created_at": "Wed Oct 19 03:40:10 +0000 2022",
+		"id": 1582567211931164700,
+		"id_str": "1582577318203166720",
+		"full_text": "가을소녀단  Autumn Girl Scouts\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/9wQH5y2Yrp\n\n#tripleS #트리플에스 #トリプルS https://t.co/eOUordYPqD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						98,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9wQH5y2Yrp",
+					"expanded_url": "http://youtu.be/Y0H-rnOb0Sc",
+					"display_url": "youtu.be/Y0H-rnOb0Sc",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1582553242743214000,
+					"id_str": "1582553242743214080",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1582553242743214080/pu/img/QVaJMZ1QCIrEEHqf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1582553242743214080/pu/img/QVaJMZ1QCIrEEHqf.jpg",
+					"url": "https://t.co/eOUordYPqD",
+					"display_url": "pic.twitter.com/eOUordYPqD",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1582567211931164673/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582553242743214000,
+					"id_str": "1582553242743214080",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1582553242743214080/pu/img/QVaJMZ1QCIrEEHqf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1582553242743214080/pu/img/QVaJMZ1QCIrEEHqf.jpg",
+					"url": "https://t.co/eOUordYPqD",
+					"display_url": "pic.twitter.com/eOUordYPqD",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1582567211931164673/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 24469,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1582553242743214080/pu/vid/1280x720/SCaWXMojG2jf4FvJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1582553242743214080/pu/vid/480x270/4PCm9mupfMANm1MT.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1582553242743214080/pu/vid/640x360/aWaKC6Wm9FRmrD_o.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1582553242743214080/pu/pl/NRFjCcrqdBqnVJcI.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15770,
+			"friends_count": 0,
+			"listed_count": 103,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 112,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "가을소녀단  Autumn Girl Scouts\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/9wQH5y2Yrp\n\n#tripleS #트리플에스 #トリプルS https://t.co/eOUordYPqD"
+	},
+	{
 		"created_at": "Wed Oct 19 01:40:10 +0000 2022",
 		"id": 1582537013600948200,
 		"id_str": "1582547119654817793",
