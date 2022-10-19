@@ -1,6 +1,439 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 19 15:40:20 +0000 2022",
+		"id": 1582756762796822500,
+		"id_str": "1582758555882774528",
+		"full_text": "#1020_HBD_Chuu\n#Happy_Chuu_Day\n\n이달의 소녀의 갱얼쥐🐶 \n츄의 생일을 축하합니다💕\n\n#이달의소녀 #츄 #LOONA #Chuu https://t.co/A3WrtOsVqx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "1020_HBD_Chuu",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "Happy_Chuu_Day",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						68,
+						70
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						78,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1582756756404719600,
+					"id_str": "1582756756404719616",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FfcU4ldaUAALs6g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfcU4ldaUAALs6g.jpg",
+					"url": "https://t.co/A3WrtOsVqx",
+					"display_url": "pic.twitter.com/A3WrtOsVqx",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1582756762796822529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582756756404719600,
+					"id_str": "1582756756404719616",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FfcU4ldaUAALs6g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfcU4ldaUAALs6g.jpg",
+					"url": "https://t.co/A3WrtOsVqx",
+					"display_url": "pic.twitter.com/A3WrtOsVqx",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1582756762796822529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 985653,
+			"friends_count": 3,
+			"listed_count": 8979,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4356,
+		"favorite_count": 9418,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#1020_HBD_Chuu\n#Happy_Chuu_Day\n\n이달의 소녀의 갱얼쥐🐶 \n츄의 생일을 축하합니다💕\n\n#이달의소녀 #츄 #LOONA #Chuu https://t.co/A3WrtOsVqx"
+	},
+	{
+		"created_at": "Wed Oct 19 15:40:16 +0000 2022",
+		"id": 1582748411891024000,
+		"id_str": "1582758538228924416",
+		"full_text": "'The Astronaut' Poster\n\n2022.10. 28. 1PM (KST) | 12AM (ET)\nCo-written by Jin x @Coldplay \n\n#진 #Jin #TheAstronaut #JinXColdplay https://t.co/wKkCnxiD1J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "진",
+					"indices": [
+						91,
+						93
+					]
+				},
+				{
+					"text": "Jin",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "TheAstronaut",
+					"indices": [
+						99,
+						112
+					]
+				},
+				{
+					"text": "JinXColdplay",
+					"indices": [
+						113,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						79,
+						88
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1582739834736496600,
+					"id_str": "1582739834736496641",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FfcFfnVUUAEMJ7y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfcFfnVUUAEMJ7y.jpg",
+					"url": "https://t.co/wKkCnxiD1J",
+					"display_url": "pic.twitter.com/wKkCnxiD1J",
+					"expanded_url": "https://twitter.com/BIGHIT_MUSIC/status/1582748411891023872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582739834736496600,
+					"id_str": "1582739834736496641",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FfcFfnVUUAEMJ7y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfcFfnVUUAEMJ7y.jpg",
+					"url": "https://t.co/wKkCnxiD1J",
+					"display_url": "pic.twitter.com/wKkCnxiD1J",
+					"expanded_url": "https://twitter.com/BIGHIT_MUSIC/status/1582748411891023872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 168683422,
+			"id_str": "168683422",
+			"name": "BIGHIT MUSIC",
+			"screen_name": "BIGHIT_MUSIC",
+			"location": "Seoul, Korea",
+			"description": "빅히트 뮤직 공식 트위터입니다. \nBIGHIT MUSIC Official Twitter.",
+			"url": "https://t.co/8BbCnaUhLb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8BbCnaUhLb",
+							"expanded_url": "https://ibighit.com/",
+							"display_url": "ibighit.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26502586,
+			"friends_count": 30,
+			"listed_count": 38472,
+			"created_at": "Tue Jul 20 14:40:33 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFEDBF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377078197813092352/s8NryGbR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377078197813092352/s8NryGbR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168683422/1617156003",
+			"profile_link_color": "C90404",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C1C6F5",
+			"profile_text_color": "383738",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 103439,
+		"favorite_count": 190945,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'The Astronaut' Poster\n\n2022.10. 28. 1PM (KST) | 12AM (ET)\nCo-written by Jin x @Coldplay \n\n#진 #Jin #TheAstronaut #JinXColdplay https://t.co/wKkCnxiD1J"
+	},
+	{
 		"created_at": "Wed Oct 19 13:40:10 +0000 2022",
 		"id": 1582688504374759400,
 		"id_str": "1582728313667457024",
