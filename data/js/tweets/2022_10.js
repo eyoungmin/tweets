@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 20 16:40:10 +0000 2022",
+		"id": 1583126910611390500,
+		"id_str": "1583136002654502912",
+		"full_text": "It's official! Jin of BTS is the Special Guest at the Live Broadcast from Buenos Aires, which is in cinemas worldwide on Oct 28 / 29. \n\nJin is joining the band to perform his new single The Astronaut, co-written by Coldplay. \n\nScreenings info / tickets at https://t.co/ucbxKMpfQh https://t.co/tVRTyDfEQr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ucbxKMpfQh",
+					"expanded_url": "https://www.coldplaycinema.live/",
+					"display_url": "coldplaycinema.live",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1583125808025305000,
+					"id_str": "1583125808025305089",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FfhkuexUYAAHB5I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfhkuexUYAAHB5I.jpg",
+					"url": "https://t.co/tVRTyDfEQr",
+					"display_url": "pic.twitter.com/tVRTyDfEQr",
+					"expanded_url": "https://twitter.com/coldplay/status/1583126910611390464/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583125808025305000,
+					"id_str": "1583125808025305089",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FfhkuexUYAAHB5I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfhkuexUYAAHB5I.jpg",
+					"url": "https://t.co/tVRTyDfEQr",
+					"display_url": "pic.twitter.com/tVRTyDfEQr",
+					"expanded_url": "https://twitter.com/coldplay/status/1583126910611390464/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 9800,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1583125808025305089/vid/480x600/b7MZU8NgiwEheAJ0.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1583125808025305089/pl/PTLAw9FjtXcqiGQ9.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1583125808025305089/vid/720x900/X4tAnW9crywKwA_x.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1583125808025305089/vid/320x400/TXkjUkwRGbeNNQ9-.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.coldplaycinema.live/"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Santiago, Chile",
+			"description": "The official Twitter of the band Coldplay. Latest album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022/23.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23693525,
+			"friends_count": 780,
+			"listed_count": 42393,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25784,
+		"favorite_count": 48536,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's official! Jin of BTS is the Special Guest at the Live Broadcast from Buenos Aires, which is in cinemas worldwide on Oct 28 / 29. \n\nJin is joining the band to perform his new single The Astronaut, co-written by Coldplay. \n\nScreenings info / tickets at https://t.co/ucbxKMpfQh https://t.co/tVRTyDfEQr"
+	},
+	{
 		"created_at": "Thu Oct 20 12:40:14 +0000 2022",
 		"id": 1583068811044958200,
 		"id_str": "1583075620007055360",
