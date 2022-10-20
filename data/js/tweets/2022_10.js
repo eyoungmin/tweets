@@ -1,6 +1,591 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 20 07:40:33 +0000 2022",
+		"id": 1582996166954057700,
+		"id_str": "1583000203560247299",
+		"full_text": "Acid Angel from Asia &lt;ACCESS&gt; \n\nA+B+OBJEKT\n\n예약판매 안내\n\nYES24 : https://t.co/EHAxxCu9qR\n핫트랙스 : https://t.co/e4S9kCVrID\n인터파크 : https://t.co/lPItMfedxW\n신나라 : https://t.co/wCzFgNoTI0\n알라딘: https://t.co/JD59RV5rAt\n\n#tripleS #트리플에스 #AcidAngelfromAsia \n#ACCESS https://t.co/ERVYJHSZse",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						213,
+						221
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						222,
+						228
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						229,
+						247
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						249,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EHAxxCu9qR",
+					"expanded_url": "https://bit.ly/3Toh2HO",
+					"display_url": "bit.ly/3Toh2HO",
+					"indices": [
+						67,
+						90
+					]
+				},
+				{
+					"url": "https://t.co/e4S9kCVrID",
+					"expanded_url": "https://bit.ly/3DcYN2k",
+					"display_url": "bit.ly/3DcYN2k",
+					"indices": [
+						98,
+						121
+					]
+				},
+				{
+					"url": "https://t.co/lPItMfedxW",
+					"expanded_url": "https://bit.ly/3TBOKcl",
+					"display_url": "bit.ly/3TBOKcl",
+					"indices": [
+						129,
+						152
+					]
+				},
+				{
+					"url": "https://t.co/wCzFgNoTI0",
+					"expanded_url": "https://bit.ly/3TEdtfZ",
+					"display_url": "bit.ly/3TEdtfZ",
+					"indices": [
+						159,
+						182
+					]
+				},
+				{
+					"url": "https://t.co/JD59RV5rAt",
+					"expanded_url": "https://bit.ly/3yUepFs",
+					"display_url": "bit.ly/3yUepFs",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1582992598213750800,
+					"id_str": "1582992598213750790",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FffrYYqacAYNOpn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FffrYYqacAYNOpn.jpg",
+					"url": "https://t.co/ERVYJHSZse",
+					"display_url": "pic.twitter.com/ERVYJHSZse",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1582996166954057729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582992598213750800,
+					"id_str": "1582992598213750790",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FffrYYqacAYNOpn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FffrYYqacAYNOpn.jpg",
+					"url": "https://t.co/ERVYJHSZse",
+					"display_url": "pic.twitter.com/ERVYJHSZse",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1582996166954057729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16042,
+			"friends_count": 0,
+			"listed_count": 104,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 109,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Acid Angel from Asia &lt;ACCESS&gt; \n\nA+B+OBJEKT\n\n예약판매 안내\n\nYES24 : https://t.co/EHAxxCu9qR\n핫트랙스 : https://t.co/e4S9kCVrID\n인터파크 : https://t.co/lPItMfedxW\n신나라 : https://t.co/wCzFgNoTI0\n알라딘: https://t.co/JD59RV5rAt\n\n#tripleS #트리플에스 #AcidAngelfromAsia \n#ACCESS https://t.co/ERVYJHSZse"
+	},
+	{
+		"created_at": "Thu Oct 20 07:40:24 +0000 2022",
+		"id": 1582989997543604200,
+		"id_str": "1583000165064970240",
+		"full_text": "오늘 밤 10시!!\n가을이 지나가기 전에 채연이 보러오세요🍑\n\nTonight(Oct 20th) at 10pm KST/9am EST!!\nCome see ChaeYeon before this autumn is over🍑\n\n今夜10時！！\n秋が過ぎちゃう前にチェヨンを見に来てください🍑\n\n#tripleS #트리플에스 #トリプルS https://t.co/zj5nTnznwJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						155,
+						163
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						164,
+						170
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						171,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1582979929838608400,
+					"id_str": "1582979929838608384",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffff2_SaYAAebyK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffff2_SaYAAebyK.jpg",
+					"url": "https://t.co/zj5nTnznwJ",
+					"display_url": "pic.twitter.com/zj5nTnznwJ",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1582989997543604225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582979929838608400,
+					"id_str": "1582979929838608384",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffff2_SaYAAebyK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffff2_SaYAAebyK.jpg",
+					"url": "https://t.co/zj5nTnznwJ",
+					"display_url": "pic.twitter.com/zj5nTnznwJ",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1582989997543604225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16042,
+			"friends_count": 0,
+			"listed_count": 104,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "오늘 밤 10시!!\n가을이 지나가기 전에 채연이 보러오세요🍑\n\nTonight(Oct 20th) at 10pm KST/9am EST!!\nCome see ChaeYeon before this autumn is over🍑\n\n今夜10時！！\n秋が過ぎちゃう前にチェヨンを見に来てください🍑\n\n#tripleS #트리플에스 #トリプルS https://t.co/zj5nTnznwJ"
+	},
+	{
+		"created_at": "Thu Oct 20 07:37:44 +0000 2022",
+		"id": 1582999291110781000,
+		"id_str": "1582999493187817472",
+		"full_text": "미국 TV 토크쇼와 K-팝이 만났을 때. \n\n#블랙핑크 #씨엘 #슈퍼엠 #방탄소년단 #BLACKPINK #CL #SuperM #BTS\n\nhttps://t.co/gNy19ujd3d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						25,
+						30
+					]
+				},
+				{
+					"text": "씨엘",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "슈퍼엠",
+					"indices": [
+						35,
+						39
+					]
+				},
+				{
+					"text": "방탄소년단",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"text": "CL",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "SuperM",
+					"indices": [
+						62,
+						69
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						70,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gNy19ujd3d",
+					"expanded_url": "https://www.wkorea.com/2022/10/20/k-%ed%8c%9d%ea%b3%bc-%eb%af%b8%ea%b5%ad-%ed%86%a0%ed%81%ac%ec%87%bc%ec%9d%98-%eb%9e%91%eb%8d%b0%eb%b6%80/?ddw=126455&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2022/10/20/k-%…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5xzw0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5xzw0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 310672,
+			"friends_count": 0,
+			"listed_count": 848,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1666243978",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미국 TV 토크쇼와 K-팝이 만났을 때. \n\n#블랙핑크 #씨엘 #슈퍼엠 #방탄소년단 #BLACKPINK #CL #SuperM #BTS\n\nhttps://t.co/gNy19ujd3d"
+	},
+	{
 		"created_at": "Thu Oct 20 06:45:03 +0000 2022",
 		"id": 1582985745471443000,
 		"id_str": "1582986233256374272",
