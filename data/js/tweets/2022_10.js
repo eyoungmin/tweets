@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 20 05:40:10 +0000 2022",
+		"id": 1582959805593010200,
+		"id_str": "1582969906605064192",
+		"full_text": "tripleS 트리플에스 : sweets '지우는 디즈니 공주님 재질'\n\nhttps://t.co/nTff7yXPWy\n\n#tripleS #트리플에스 #トリプルS https://t.co/sOMeL4EPNC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						66,
+						74
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						82,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nTff7yXPWy",
+					"expanded_url": "http://youtube.com/shorts/Ln0F-kn3nv8",
+					"display_url": "youtube.com/shorts/Ln0F-kn…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1582939525718102000,
+					"id_str": "1582939525718102016",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1582939525718102016/pu/img/7GaTMtUv2LDU-WY4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1582939525718102016/pu/img/7GaTMtUv2LDU-WY4.jpg",
+					"url": "https://t.co/sOMeL4EPNC",
+					"display_url": "pic.twitter.com/sOMeL4EPNC",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1582959805593010177/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582939525718102000,
+					"id_str": "1582939525718102016",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1582939525718102016/pu/img/7GaTMtUv2LDU-WY4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1582939525718102016/pu/img/7GaTMtUv2LDU-WY4.jpg",
+					"url": "https://t.co/sOMeL4EPNC",
+					"display_url": "pic.twitter.com/sOMeL4EPNC",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1582959805593010177/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 48448,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1582939525718102016/pu/vid/720x1280/B6Ik2WgmP_MnTysd.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1582939525718102016/pu/vid/320x568/wl_nlJwx0uA5MK0d.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1582939525718102016/pu/vid/480x852/hbtIxrwJ2dlR3MHN.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1582939525718102016/pu/pl/j8eWjTen9a_ooS_G.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16032,
+			"friends_count": 0,
+			"listed_count": 104,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "tripleS 트리플에스 : sweets '지우는 디즈니 공주님 재질'\n\nhttps://t.co/nTff7yXPWy\n\n#tripleS #트리플에스 #トリプルS https://t.co/sOMeL4EPNC"
+	},
+	{
 		"created_at": "Thu Oct 20 04:40:30 +0000 2022",
 		"id": 1582952247394066400,
 		"id_str": "1582954889440768001",
