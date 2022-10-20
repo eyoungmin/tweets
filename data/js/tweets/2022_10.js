@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 20 10:40:13 +0000 2022",
+		"id": 1583026597912682500,
+		"id_str": "1583045416748482565",
+		"full_text": "#멜론 #Christopher #청하\n'Bad Boy'의 열풍✨을 이어 돌아온👀\n역대급 콜라보, 청하 X 크리스토퍼🎧💘\n신곡 'When I Get Old' 발매 기념\n⚡️멜로너 단독 영상⚡️이 도착했어요🎁\n\n💿 청하, Christopher - When I Get Old\n\n신곡이 궁금하다면❗️\n👉🏻https://t.co/rxlZz8kpxi\n\n#CHUNGHA @CHUNGHA_MNHent https://t.co/4twcvvn5x5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "Christopher",
+					"indices": [
+						4,
+						16
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						17,
+						20
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						191,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						200,
+						215
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rxlZz8kpxi",
+					"expanded_url": "http://kko.to/2_RWqV3-Dt",
+					"display_url": "kko.to/2_RWqV3-Dt",
+					"indices": [
+						166,
+						189
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1583026562110062600,
+					"id_str": "1583026562110062592",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1583026562110062592/pu/img/YtJR5Yt7jlm60dIk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1583026562110062592/pu/img/YtJR5Yt7jlm60dIk.jpg",
+					"url": "https://t.co/4twcvvn5x5",
+					"display_url": "pic.twitter.com/4twcvvn5x5",
+					"expanded_url": "https://twitter.com/melon/status/1583026597912682496/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583026562110062600,
+					"id_str": "1583026562110062592",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1583026562110062592/pu/img/YtJR5Yt7jlm60dIk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1583026562110062592/pu/img/YtJR5Yt7jlm60dIk.jpg",
+					"url": "https://t.co/4twcvvn5x5",
+					"display_url": "pic.twitter.com/4twcvvn5x5",
+					"expanded_url": "https://twitter.com/melon/status/1583026597912682496/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 36714,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1583026562110062592/pu/vid/480x852/RH4-rOXj52-X8Ug0.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1583026562110062592/pu/pl/wysjpgyGOjGWrwIg.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1583026562110062592/pu/vid/320x568/XCDnnCo_rFbl68Jx.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1583026562110062592/pu/vid/720x1280/sOfzuaqzsNbvYzFo.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118953366,
+			"id_str": "118953366",
+			"name": "Melon",
+			"screen_name": "melon",
+			"location": "Seoul, Korea",
+			"description": "세상의 모든 TOP100, 멜론💚",
+			"url": "https://t.co/7eLGETkiu5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7eLGETkiu5",
+							"expanded_url": "http://melon.com",
+							"display_url": "melon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 209329,
+			"friends_count": 76,
+			"listed_count": 683,
+			"created_at": "Tue Mar 02 06:13:44 +0000 2010",
+			"favourites_count": 313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118953366/1661247119",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 120,
+		"favorite_count": 293,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#멜론 #Christopher #청하\n'Bad Boy'의 열풍✨을 이어 돌아온👀\n역대급 콜라보, 청하 X 크리스토퍼🎧💘\n신곡 'When I Get Old' 발매 기념\n⚡️멜로너 단독 영상⚡️이 도착했어요🎁\n\n💿 청하, Christopher - When I Get Old\n\n신곡이 궁금하다면❗️\n👉🏻https://t.co/rxlZz8kpxi\n\n#CHUNGHA @CHUNGHA_MNHent https://t.co/4twcvvn5x5"
+	},
+	{
 		"created_at": "Thu Oct 20 09:45:39 +0000 2022",
 		"id": 1583020208695828500,
 		"id_str": "1583031683967614976",
@@ -509,7 +765,7 @@ Grailbird.data.tweets_2022_10 =
 		"created_at": "Thu Oct 20 09:40:20 +0000 2022",
 		"id": 1583020223418228700,
 		"id_str": "1583030346731266050",
-		"full_text": "💌A new message has arrived from Chris Martin for Kim Seokjin.\n    🧑‍🎤 안녕, 내 동생 진!\n    👨‍🚀 Hey, my bro! My Superstar💜\n\n#진 #Jin #TheAstronaut #JinXColdplay @Coldplay https://t.co/h6LODffCyI",
+		"full_text": "💌A new message has arrived from Chris Martin for Kim Seokjin.\n    🧑🎤 안녕, 내 동생 진!\n    👨🚀 Hey, my bro! My Superstar💜\n\n#진 #Jin #TheAstronaut #JinXColdplay @Coldplay https://t.co/h6LODffCyI",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -759,7 +1015,7 @@ Grailbird.data.tweets_2022_10 =
 			"name": "BTS_official",
 			"screen_name": "bts_bighit",
 			"location": "",
-			"description": "#방탄소년단 공식 트위터입니다\nThis is the official Twitter for #BTS\n\n#진 #Jin 'The Astronaut'\n👨‍🚀https://t.co/Xk1T8kJnzu\n2022.10.28. 1PM KST",
+			"description": "#방탄소년단 공식 트위터입니다\nThis is the official Twitter for #BTS\n\n#진 #Jin 'The Astronaut'\n👨🚀https://t.co/Xk1T8kJnzu\n2022.10.28. 1PM KST",
 			"url": "https://t.co/GpZ5ZrPTOf",
 			"entities": {
 				"url": {
@@ -836,7 +1092,7 @@ Grailbird.data.tweets_2022_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "💌A new message has arrived from Chris Martin for Kim Seokjin.\n    🧑‍🎤 안녕, 내 동생 진!\n    👨‍🚀 Hey, my bro! My Superstar💜\n\n#진 #Jin #TheAstronaut #JinXColdplay @Coldplay https://t.co/h6LODffCyI"
+		"text": "💌A new message has arrived from Chris Martin for Kim Seokjin.\n    🧑🎤 안녕, 내 동생 진!\n    👨🚀 Hey, my bro! My Superstar💜\n\n#진 #Jin #TheAstronaut #JinXColdplay @Coldplay https://t.co/h6LODffCyI"
 	},
 	{
 		"created_at": "Thu Oct 20 09:40:10 +0000 2022",
