@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 21 17:40:10 +0000 2022",
+		"id": 1583505550293147600,
+		"id_str": "1583513488802328577",
+		"full_text": "Tomorrow night (Saturday) BBC Two in the UK is broadcasting a special evening of Coldplay shows from the BBC archive - also on iPlayer. https://t.co/CKtQtwPAhd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1583505542764454000,
+					"id_str": "1583505542764453888",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffm95sBWYAABElg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffm95sBWYAABElg.jpg",
+					"url": "https://t.co/CKtQtwPAhd",
+					"display_url": "pic.twitter.com/CKtQtwPAhd",
+					"expanded_url": "https://twitter.com/coldplay/status/1583505550293147650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583505542764454000,
+					"id_str": "1583505542764453888",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffm95sBWYAABElg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffm95sBWYAABElg.jpg",
+					"url": "https://t.co/CKtQtwPAhd",
+					"display_url": "pic.twitter.com/CKtQtwPAhd",
+					"expanded_url": "https://twitter.com/coldplay/status/1583505550293147650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Santiago, Chile",
+			"description": "The official Twitter of the band Coldplay. Latest album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022/23.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23697087,
+			"friends_count": 779,
+			"listed_count": 42394,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9455,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 210,
+		"favorite_count": 1649,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tomorrow night (Saturday) BBC Two in the UK is broadcasting a special evening of Coldplay shows from the BBC archive - also on iPlayer. https://t.co/CKtQtwPAhd"
+	},
+	{
 		"created_at": "Fri Oct 21 14:40:46 +0000 2022",
 		"id": 1583467745227612200,
 		"id_str": "1583468340676157442",
@@ -380,7 +555,7 @@ Grailbird.data.tweets_2022_10 =
 		"created_at": "Fri Oct 21 14:40:15 +0000 2022",
 		"id": 1583467277348794400,
 		"id_str": "1583468211651371014",
-		"full_text": "내일 오후 12시! 또 발매해요!! 히히✨ \n내일은 더 즐겨버립시다아 \nTomorrow!!! Let’s have fun ❤️‍🔥\n\n🎬 𝙀𝙥𝙞𝙨𝙤𝙙𝙚 𝟮 : 𝗦𝗜𝗟𝗞𝗬 (𝗧𝗿𝗮𝗰𝗸 𝗟𝗶𝘀𝘁) \n/ 𝖧𝗂𝗀𝗁𝗅𝗂𝗀𝗁𝗍 𝖬𝖾𝖽𝗅𝖾𝗒\n\n𝟮𝟬𝟮𝟮.𝟭𝟬.𝟮𝟮 𝟭𝟮𝗣𝗠 (𝗞𝗦𝗧) https://t.co/xiYF2ls97g",
+		"full_text": "내일 오후 12시! 또 발매해요!! 히히✨ \n내일은 더 즐겨버립시다아 \nTomorrow!!! Let’s have fun ❤️🔥\n\n🎬 𝙀𝙥𝙞𝙨𝙤𝙙𝙚 𝟮 : 𝗦𝗜𝗟𝗞𝗬 (𝗧𝗿𝗮𝗰𝗸 𝗟𝗶𝘀𝘁) \n/ 𝖧𝗂𝗀𝗁𝗅𝗂𝗀𝗁𝗍 𝖬𝖾𝖽𝗅𝖾𝗒\n\n𝟮𝟬𝟮𝟮.𝟭𝟬.𝟮𝟮 𝟭𝟮𝗣𝗠 (𝗞𝗦𝗧) https://t.co/xiYF2ls97g",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -567,7 +742,7 @@ Grailbird.data.tweets_2022_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "내일 오후 12시! 또 발매해요!! 히히✨ \n내일은 더 즐겨버립시다아 \nTomorrow!!! Let’s have fun ❤️‍🔥\n\n🎬 𝙀𝙥𝙞𝙨𝙤𝙙𝙚 𝟮 : 𝗦𝗜𝗟𝗞𝗬 (𝗧𝗿𝗮𝗰𝗸 𝗟𝗶𝘀𝘁) \n/ 𝖧𝗂𝗀𝗁𝗅𝗂𝗀𝗁𝗍 𝖬𝖾𝖽𝗅𝖾𝗒\n\n𝟮𝟬𝟮𝟮.𝟭𝟬.𝟮𝟮 𝟭𝟮𝗣𝗠 (𝗞𝗦𝗧) https://t.co/xiYF2ls97g"
+		"text": "내일 오후 12시! 또 발매해요!! 히히✨ \n내일은 더 즐겨버립시다아 \nTomorrow!!! Let’s have fun ❤️🔥\n\n🎬 𝙀𝙥𝙞𝙨𝙤𝙙𝙚 𝟮 : 𝗦𝗜𝗟𝗞𝗬 (𝗧𝗿𝗮𝗰𝗸 𝗟𝗶𝘀𝘁) \n/ 𝖧𝗂𝗀𝗁𝗅𝗂𝗀𝗁𝗍 𝖬𝖾𝖽𝗅𝖾𝗒\n\n𝟮𝟬𝟮𝟮.𝟭𝟬.𝟮𝟮 𝟭𝟮𝗣𝗠 (𝗞𝗦𝗧) https://t.co/xiYF2ls97g"
 	},
 	{
 		"created_at": "Fri Oct 21 13:40:10 +0000 2022",
