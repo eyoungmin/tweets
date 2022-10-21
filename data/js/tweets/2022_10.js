@@ -1,6 +1,405 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 21 11:01:03 +0000 2022",
+		"id": 1583412990929293300,
+		"id_str": "1583413046881374209",
+		"full_text": "SEULGI 슬기 '28 Reasons' Performance Video Behind I 28 Reasons\n\nhttps://t.co/yxHj23quqG \n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#Performance_Video #28Reasons #Behind https://t.co/tt9PaSwayC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						106,
+						116
+					]
+				},
+				{
+					"text": "Performance_Video",
+					"indices": [
+						118,
+						136
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						137,
+						147
+					]
+				},
+				{
+					"text": "Behind",
+					"indices": [
+						148,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yxHj23quqG",
+					"expanded_url": "https://youtu.be/KbRWxLxYLGM",
+					"display_url": "youtu.be/KbRWxLxYLGM",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1583412983501185000,
+					"id_str": "1583412983501185025",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FflpuB5UYAEvbX-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FflpuB5UYAEvbX-.jpg",
+					"url": "https://t.co/tt9PaSwayC",
+					"display_url": "pic.twitter.com/tt9PaSwayC",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1583412990929293312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583412983501185000,
+					"id_str": "1583412983501185025",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FflpuB5UYAEvbX-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FflpuB5UYAEvbX-.jpg",
+					"url": "https://t.co/tt9PaSwayC",
+					"display_url": "pic.twitter.com/tt9PaSwayC",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1583412990929293312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5682089,
+			"friends_count": 2,
+			"listed_count": 11360,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 392,
+		"favorite_count": 694,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SEULGI 슬기 '28 Reasons' Performance Video Behind I 28 Reasons\n\nhttps://t.co/yxHj23quqG \n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#Performance_Video #28Reasons #Behind https://t.co/tt9PaSwayC"
+	},
+	{
+		"created_at": "Fri Oct 21 10:09:44 +0000 2022",
+		"id": 1583399808353521700,
+		"id_str": "1583400134062526464",
+		"full_text": "It's a Beautiful 28 Reasons😆\n🕺💃\n\nhttps://t.co/SnLmCvnYCg\n\n#슬기 #SEULGI\n#주안 #JOOAN\n#28Reasons\n#28Reasons_challenge\n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						62,
+						69
+					]
+				},
+				{
+					"text": "주안",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "JOOAN",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						81,
+						91
+					]
+				},
+				{
+					"text": "28Reasons_challenge",
+					"indices": [
+						92,
+						112
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						119,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SnLmCvnYCg",
+					"expanded_url": "https://vt.tiktok.com/ZSRsaafJN/",
+					"display_url": "vt.tiktok.com/ZSRsaafJN/",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5682089,
+			"friends_count": 2,
+			"listed_count": 11360,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 964,
+		"favorite_count": 2705,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's a Beautiful 28 Reasons😆\n🕺💃\n\nhttps://t.co/SnLmCvnYCg\n\n#슬기 #SEULGI\n#주안 #JOOAN\n#28Reasons\n#28Reasons_challenge\n#레드벨벳 #RedVelvet"
+	},
+	{
 		"created_at": "Fri Oct 21 09:40:36 +0000 2022",
 		"id": 1583389493935022000,
 		"id_str": "1583392799445000194",
@@ -28,7 +427,7 @@ Grailbird.data.tweets_2022_10 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "How To Let Go out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
@@ -124,7 +523,7 @@ Grailbird.data.tweets_2022_10 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "How To Let Go out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
@@ -231,7 +630,7 @@ Grailbird.data.tweets_2022_10 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "How To Let Go out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
@@ -415,7 +814,7 @@ Grailbird.data.tweets_2022_10 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "How To Let Go out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
