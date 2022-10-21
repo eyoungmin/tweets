@@ -1,6 +1,575 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 21 14:40:46 +0000 2022",
+		"id": 1583467745227612200,
+		"id_str": "1583468340676157442",
+		"full_text": "@the_chi_girl Yeap!!!😆",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "the_chi_girl",
+					"name": "⚜ᥴꫝ꠸ ꪜꪗ᥇ꫀƺ⚜",
+					"id": 766328949077082100,
+					"id_str": "766328949077082112",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1578949244656185300,
+		"in_reply_to_status_id_str": "1578949244656185344",
+		"in_reply_to_user_id": 766328949077082100,
+		"in_reply_to_user_id_str": "766328949077082112",
+		"in_reply_to_screen_name": "the_chi_girl",
+		"user": {
+			"id": 1474343943890677800,
+			"id_str": "1474343943890677765",
+			"name": "𝓢𝓲𝓵𝓵𝔂 𝓢𝓲𝓵𝓴𝔂",
+			"screen_name": "silly__silky",
+			"location": "",
+			"description": "✨ 𝓢𝓲𝓵𝓵𝔂 𝓢𝓲𝓵𝓴𝔂 ✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26,
+			"friends_count": 2,
+			"listed_count": 1,
+			"created_at": "Fri Dec 24 11:39:40 +0000 2021",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1580926387581353984/pLEDAQ9d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1580926387581353984/pLEDAQ9d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1474343943890677765/1652342994",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@the_chi_girl Yeap!!!😆"
+	},
+	{
+		"created_at": "Fri Oct 21 14:40:43 +0000 2022",
+		"id": 1583467636280545300,
+		"id_str": "1583468327284146176",
+		"full_text": "@sinapitch Yes!! Me too💖",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sinapitch",
+					"name": "sîna p!tch (yarı rest)",
+					"id": 1014850460518355000,
+					"id_str": "1014850460518354945",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1579119081537798100,
+		"in_reply_to_status_id_str": "1579119081537798145",
+		"in_reply_to_user_id": 1014850460518355000,
+		"in_reply_to_user_id_str": "1014850460518354945",
+		"in_reply_to_screen_name": "sinapitch",
+		"user": {
+			"id": 1474343943890677800,
+			"id_str": "1474343943890677765",
+			"name": "𝓢𝓲𝓵𝓵𝔂 𝓢𝓲𝓵𝓴𝔂",
+			"screen_name": "silly__silky",
+			"location": "",
+			"description": "✨ 𝓢𝓲𝓵𝓵𝔂 𝓢𝓲𝓵𝓴𝔂 ✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26,
+			"friends_count": 2,
+			"listed_count": 1,
+			"created_at": "Fri Dec 24 11:39:40 +0000 2021",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1580926387581353984/pLEDAQ9d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1580926387581353984/pLEDAQ9d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1474343943890677765/1652342994",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@sinapitch Yes!! Me too💖"
+	},
+	{
+		"created_at": "Fri Oct 21 14:40:34 +0000 2022",
+		"id": 1583467531662000000,
+		"id_str": "1583468288704905218",
+		"full_text": "@m0rfeu_ Yeah💥💥",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "m0rfeu_",
+					"name": "𝔧𝔞𝔪𝔢𝔰 ,,❀🐉",
+					"id": 1028394138302066700,
+					"id_str": "1028394138302066688",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1579131260555137000,
+		"in_reply_to_status_id_str": "1579131260555137024",
+		"in_reply_to_user_id": 1028394138302066700,
+		"in_reply_to_user_id_str": "1028394138302066688",
+		"in_reply_to_screen_name": "m0rfeu_",
+		"user": {
+			"id": 1474343943890677800,
+			"id_str": "1474343943890677765",
+			"name": "𝓢𝓲𝓵𝓵𝔂 𝓢𝓲𝓵𝓴𝔂",
+			"screen_name": "silly__silky",
+			"location": "",
+			"description": "✨ 𝓢𝓲𝓵𝓵𝔂 𝓢𝓲𝓵𝓴𝔂 ✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26,
+			"friends_count": 2,
+			"listed_count": 1,
+			"created_at": "Fri Dec 24 11:39:40 +0000 2021",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1580926387581353984/pLEDAQ9d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1580926387581353984/pLEDAQ9d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1474343943890677765/1652342994",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@m0rfeu_ Yeah💥💥"
+	},
+	{
+		"created_at": "Fri Oct 21 14:40:24 +0000 2022",
+		"id": 1583467360219893800,
+		"id_str": "1583468250146316288",
+		"full_text": "@JackWhite9909 U will get soon✨✨ Dear",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JackWhite9909",
+					"name": "Jack White",
+					"id": 2319274460,
+					"id_str": "2319274460",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1581667926649630700,
+		"in_reply_to_status_id_str": "1581667926649630721",
+		"in_reply_to_user_id": 2319274460,
+		"in_reply_to_user_id_str": "2319274460",
+		"in_reply_to_screen_name": "JackWhite9909",
+		"user": {
+			"id": 1474343943890677800,
+			"id_str": "1474343943890677765",
+			"name": "𝓢𝓲𝓵𝓵𝔂 𝓢𝓲𝓵𝓴𝔂",
+			"screen_name": "silly__silky",
+			"location": "",
+			"description": "✨ 𝓢𝓲𝓵𝓵𝔂 𝓢𝓲𝓵𝓴𝔂 ✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26,
+			"friends_count": 2,
+			"listed_count": 1,
+			"created_at": "Fri Dec 24 11:39:40 +0000 2021",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1580926387581353984/pLEDAQ9d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1580926387581353984/pLEDAQ9d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1474343943890677765/1652342994",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@JackWhite9909 U will get soon✨✨ Dear"
+	},
+	{
+		"created_at": "Fri Oct 21 14:40:15 +0000 2022",
+		"id": 1583467277348794400,
+		"id_str": "1583468211651371014",
+		"full_text": "내일 오후 12시! 또 발매해요!! 히히✨ \n내일은 더 즐겨버립시다아 \nTomorrow!!! Let’s have fun ❤️‍🔥\n\n🎬 𝙀𝙥𝙞𝙨𝙤𝙙𝙚 𝟮 : 𝗦𝗜𝗟𝗞𝗬 (𝗧𝗿𝗮𝗰𝗸 𝗟𝗶𝘀𝘁) \n/ 𝖧𝗂𝗀𝗁𝗅𝗂𝗀𝗁𝗍 𝖬𝖾𝖽𝗅𝖾𝗒\n\n𝟮𝟬𝟮𝟮.𝟭𝟬.𝟮𝟮 𝟭𝟮𝗣𝗠 (𝗞𝗦𝗧) https://t.co/xiYF2ls97g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1583467188203057200,
+					"id_str": "1583467188203057152",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1583467188203057152/pu/img/eg4M2Rf3hKQckPpo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1583467188203057152/pu/img/eg4M2Rf3hKQckPpo.jpg",
+					"url": "https://t.co/xiYF2ls97g",
+					"display_url": "pic.twitter.com/xiYF2ls97g",
+					"expanded_url": "https://twitter.com/silly__silky/status/1583467277348794368/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583467188203057200,
+					"id_str": "1583467188203057152",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1583467188203057152/pu/img/eg4M2Rf3hKQckPpo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1583467188203057152/pu/img/eg4M2Rf3hKQckPpo.jpg",
+					"url": "https://t.co/xiYF2ls97g",
+					"display_url": "pic.twitter.com/xiYF2ls97g",
+					"expanded_url": "https://twitter.com/silly__silky/status/1583467277348794368/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 58558,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1583467188203057152/pu/vid/720x720/7z7fQhfFAHD78eXk.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1583467188203057152/pu/vid/540x540/oLf24mOhq538AQkT.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1583467188203057152/pu/pl/JzeR9dOl5Z8RnBeJ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1583467188203057152/pu/vid/320x320/J3QLaS7Ex1IoBXr5.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1474343943890677800,
+			"id_str": "1474343943890677765",
+			"name": "𝓢𝓲𝓵𝓵𝔂 𝓢𝓲𝓵𝓴𝔂",
+			"screen_name": "silly__silky",
+			"location": "",
+			"description": "✨ 𝓢𝓲𝓵𝓵𝔂 𝓢𝓲𝓵𝓴𝔂 ✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26,
+			"friends_count": 2,
+			"listed_count": 1,
+			"created_at": "Fri Dec 24 11:39:40 +0000 2021",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1580926387581353984/pLEDAQ9d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1580926387581353984/pLEDAQ9d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1474343943890677765/1652342994",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내일 오후 12시! 또 발매해요!! 히히✨ \n내일은 더 즐겨버립시다아 \nTomorrow!!! Let’s have fun ❤️‍🔥\n\n🎬 𝙀𝙥𝙞𝙨𝙤𝙙𝙚 𝟮 : 𝗦𝗜𝗟𝗞𝗬 (𝗧𝗿𝗮𝗰𝗸 𝗟𝗶𝘀𝘁) \n/ 𝖧𝗂𝗀𝗁𝗅𝗂𝗀𝗁𝗍 𝖬𝖾𝖽𝗅𝖾𝗒\n\n𝟮𝟬𝟮𝟮.𝟭𝟬.𝟮𝟮 𝟭𝟮𝗣𝗠 (𝗞𝗦𝗧) https://t.co/xiYF2ls97g"
+	},
+	{
 		"created_at": "Fri Oct 21 13:40:10 +0000 2022",
 		"id": 1583442993062854700,
 		"id_str": "1583453088991842304",
