@@ -1,6 +1,560 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 21 05:40:13 +0000 2022",
+		"id": 1583331545804177400,
+		"id_str": "1583332307900854272",
+		"full_text": "[#ViVi] 내 앞머리~\n\n#이달의소녀 #LOONA https://t.co/4xCYcbteO3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ViVi",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						23,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1583331528041369600,
+					"id_str": "1583331528041369600",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FfkfosqVEAAnwSN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfkfosqVEAAnwSN.jpg",
+					"url": "https://t.co/4xCYcbteO3",
+					"display_url": "pic.twitter.com/4xCYcbteO3",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1583331545804177408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583331528041369600,
+					"id_str": "1583331528041369600",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FfkfosqVEAAnwSN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfkfosqVEAAnwSN.jpg",
+					"url": "https://t.co/4xCYcbteO3",
+					"display_url": "pic.twitter.com/4xCYcbteO3",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1583331545804177408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1583331528041341000,
+					"id_str": "1583331528041340928",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FfkfosqUoAAMlno.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfkfosqUoAAMlno.jpg",
+					"url": "https://t.co/4xCYcbteO3",
+					"display_url": "pic.twitter.com/4xCYcbteO3",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1583331545804177408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1583331528045564000,
+					"id_str": "1583331528045563904",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FfkfosrVEAATkgh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfkfosrVEAATkgh.jpg",
+					"url": "https://t.co/4xCYcbteO3",
+					"display_url": "pic.twitter.com/4xCYcbteO3",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1583331545804177408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1583331528028745700,
+					"id_str": "1583331528028745728",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FfkfosnUcAA66vm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfkfosnUcAA66vm.jpg",
+					"url": "https://t.co/4xCYcbteO3",
+					"display_url": "pic.twitter.com/4xCYcbteO3",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1583331545804177408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 986004,
+			"friends_count": 3,
+			"listed_count": 8984,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1284,
+		"favorite_count": 4329,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#ViVi] 내 앞머리~\n\n#이달의소녀 #LOONA https://t.co/4xCYcbteO3"
+	},
+	{
+		"created_at": "Fri Oct 21 05:08:11 +0000 2022",
+		"id": 1583310176681349000,
+		"id_str": "1583324243772682240",
+		"full_text": "aespa 에스파 'Girls (Minit Remix)' Visualizer\n\nhttps://t.co/BaRKUgBhdF\n\n#aespa #æspa #에스파 #Girls \n#MINIT\n#Remix\n#iScreaM\n#ScreaMRecords\n#SMTOWN https://t.co/yV7gmrxye8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "MINIT",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						118,
+						132
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						133,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BaRKUgBhdF",
+					"expanded_url": "https://youtu.be/FEuiCIBxksA",
+					"display_url": "youtu.be/FEuiCIBxksA",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1583310153478467600,
+					"id_str": "1583310153478467589",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FfkMMiNacAUEDhE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfkMMiNacAUEDhE.jpg",
+					"url": "https://t.co/yV7gmrxye8",
+					"display_url": "pic.twitter.com/yV7gmrxye8",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1583310176681349121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583310153478467600,
+					"id_str": "1583310153478467589",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FfkMMiNacAUEDhE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfkMMiNacAUEDhE.jpg",
+					"url": "https://t.co/yV7gmrxye8",
+					"display_url": "pic.twitter.com/yV7gmrxye8",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1583310176681349121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11236849,
+			"friends_count": 55,
+			"listed_count": 12654,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 375,
+		"favorite_count": 1212,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa 에스파 'Girls (Minit Remix)' Visualizer\n\nhttps://t.co/BaRKUgBhdF\n\n#aespa #æspa #에스파 #Girls \n#MINIT\n#Remix\n#iScreaM\n#ScreaMRecords\n#SMTOWN https://t.co/yV7gmrxye8"
+	},
+	{
 		"created_at": "Fri Oct 21 04:40:33 +0000 2022",
 		"id": 1582750754062073900,
 		"id_str": "1583317292896882688",
