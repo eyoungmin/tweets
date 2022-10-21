@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 21 02:39:02 +0000 2022",
+		"id": 1583286523432423400,
+		"id_str": "1583286710749736961",
+		"full_text": "콜드플레이 월드 투어 콘서트 10월 29일 CGV 실황 중계. BTS 진이 스페셜 게스트로 참여, ‘디 아스트로넛(The Astronaut)’의 라이브 공연을 펼칩니다. https://t.co/RuWIx1PYiH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1583286375511920600,
+					"id_str": "1583286375511920640",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffj2keYakAAehmA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffj2keYakAAehmA.jpg",
+					"url": "https://t.co/RuWIx1PYiH",
+					"display_url": "pic.twitter.com/RuWIx1PYiH",
+					"expanded_url": "https://twitter.com/tailorcontents/status/1583286523432423425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 810,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1382,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583286375511920600,
+					"id_str": "1583286375511920640",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffj2keYakAAehmA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffj2keYakAAehmA.jpg",
+					"url": "https://t.co/RuWIx1PYiH",
+					"display_url": "pic.twitter.com/RuWIx1PYiH",
+					"expanded_url": "https://twitter.com/tailorcontents/status/1583286523432423425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 810,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1382,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22545,
+			"friends_count": 720,
+			"listed_count": 129,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 974,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29061,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1591696070",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "016f47142c73cfda",
+			"url": "https://api.twitter.com/1.1/geo/id/016f47142c73cfda.json",
+			"place_type": "city",
+			"name": "성남시",
+			"full_name": "대한민국 성남시",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							127.03468381481,
+							37.3204629906937
+						],
+						[
+							127.19094146485,
+							37.3204629906937
+						],
+						[
+							127.19094146485,
+							37.4674936879181
+						],
+						[
+							127.03468381481,
+							37.4674936879181
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "콜드플레이 월드 투어 콘서트 10월 29일 CGV 실황 중계. BTS 진이 스페셜 게스트로 참여, ‘디 아스트로넛(The Astronaut)’의 라이브 공연을 펼칩니다. https://t.co/RuWIx1PYiH"
+	},
+	{
 		"created_at": "Thu Oct 20 23:40:10 +0000 2022",
 		"id": 1583227492562706400,
 		"id_str": "1583241698007580673",
