@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 21 07:40:40 +0000 2022",
+		"id": 1583333718793461800,
+		"id_str": "1583362618328481792",
+		"full_text": "For the first time ever... Crocs presents @aespa_official  in Crocs World on @Roblox! Who is joining? #crocsxaespa https://t.co/TWnFGbQpfa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "crocsxaespa",
+					"indices": [
+						102,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						42,
+						57
+					]
+				},
+				{
+					"screen_name": "Roblox",
+					"name": "Roblox",
+					"id": 16745055,
+					"id_str": "16745055",
+					"indices": [
+						77,
+						84
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1583333592217706500,
+					"id_str": "1583333592217706497",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffkhg2UUYAEuvCt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffkhg2UUYAEuvCt.jpg",
+					"url": "https://t.co/TWnFGbQpfa",
+					"display_url": "pic.twitter.com/TWnFGbQpfa",
+					"expanded_url": "https://twitter.com/Crocs/status/1583333718793461760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583333592217706500,
+					"id_str": "1583333592217706497",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffkhg2UUYAEuvCt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffkhg2UUYAEuvCt.jpg",
+					"url": "https://t.co/TWnFGbQpfa",
+					"display_url": "pic.twitter.com/TWnFGbQpfa",
+					"expanded_url": "https://twitter.com/Crocs/status/1583333718793461760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45710831,
+			"id_str": "45710831",
+			"name": "Crocs",
+			"screen_name": "Crocs",
+			"location": "Boulder, CO",
+			"description": "Celebrating 20 years of Crocs fandom. Follow if you're a real fan. #Croctober",
+			"url": "https://t.co/6gMLwSJ24V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6gMLwSJ24V",
+							"expanded_url": "http://crocs.com",
+							"display_url": "crocs.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 157699,
+			"friends_count": 1284,
+			"listed_count": 827,
+			"created_at": "Tue Jun 09 00:05:38 +0000 2009",
+			"favourites_count": 17342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1576238344433901570/-LHnPZxl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1576238344433901570/-LHnPZxl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45710831/1641420782",
+			"profile_link_color": "5DB32E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "CC0E70",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2944,
+		"favorite_count": 5992,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For the first time ever... Crocs presents @aespa_official  in Crocs World on @Roblox! Who is joining? #crocsxaespa https://t.co/TWnFGbQpfa"
+	},
+	{
+		"created_at": "Fri Oct 21 07:40:32 +0000 2022",
+		"id": 1583311396112322600,
+		"id_str": "1583362583998107648",
+		"full_text": "iScreaM Vol.18 Girls Remixes \n\nListen now on your favorite platform \n➫ https://t.co/VBs8UQ9Otd\n\n#Girls\n#BRLLNT \n#MINIT \n#Remix\n#iScreaM\n#ScreaMRecords\n#SMTOWN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Girls",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "BRLLNT",
+					"indices": [
+						103,
+						110
+					]
+				},
+				{
+					"text": "MINIT",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						127,
+						135
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						136,
+						150
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						151,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VBs8UQ9Otd",
+					"expanded_url": "https://aespa.lnk.to/iscreamvol18",
+					"display_url": "aespa.lnk.to/iscreamvol18",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11237114,
+			"friends_count": 55,
+			"listed_count": 12656,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 499,
+		"favorite_count": 2598,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "iScreaM Vol.18 Girls Remixes \n\nListen now on your favorite platform \n➫ https://t.co/VBs8UQ9Otd\n\n#Girls\n#BRLLNT \n#MINIT \n#Remix\n#iScreaM\n#ScreaMRecords\n#SMTOWN"
+	},
+	{
 		"created_at": "Fri Oct 21 05:40:13 +0000 2022",
 		"id": 1583331545804177400,
 		"id_str": "1583332307900854272",
