@@ -1,6 +1,968 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 22 12:40:16 +0000 2022",
+		"id": 1583790520433664000,
+		"id_str": "1583800404634062848",
+		"full_text": "tripleS : Acid Angel from Asia ‘Generation’ Teaser (Base Ver.)\n\nhttps://t.co/x9RI7xiTPJ\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS https://t.co/XBf2y2Pwqf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						89,
+						97
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						105,
+						123
+					]
+				},
+				{
+					"text": "애시드엔젤프롬에이시아",
+					"indices": [
+						124,
+						136
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						137,
+						149
+					]
+				},
+				{
+					"text": "Generation",
+					"indices": [
+						150,
+						161
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						162,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x9RI7xiTPJ",
+					"expanded_url": "https://youtu.be/GYBz4vbdcTM",
+					"display_url": "youtu.be/GYBz4vbdcTM",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1583703841056338000,
+					"id_str": "1583703841056337921",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffp2u5-VQAAH1LD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffp2u5-VQAAH1LD.jpg",
+					"url": "https://t.co/XBf2y2Pwqf",
+					"display_url": "pic.twitter.com/XBf2y2Pwqf",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1583790520433664000/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583703841056338000,
+					"id_str": "1583703841056337921",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffp2u5-VQAAH1LD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffp2u5-VQAAH1LD.jpg",
+					"url": "https://t.co/XBf2y2Pwqf",
+					"display_url": "pic.twitter.com/XBf2y2Pwqf",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1583790520433664000/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 27402,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1583703841056337921/pl/HE4m97-aFkZoXl6d.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1583703841056337921/vid/480x270/yVfzhASvJFwViOCk.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1583703841056337921/vid/640x360/-_2CrlJlJy5r3u2g.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1583703841056337921/vid/1280x720/DSw2tN_fmDA6FfhG.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/GYBz4vbdcTM"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16481,
+			"friends_count": 0,
+			"listed_count": 108,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 356,
+		"favorite_count": 584,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "tripleS : Acid Angel from Asia ‘Generation’ Teaser (Base Ver.)\n\nhttps://t.co/x9RI7xiTPJ\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS https://t.co/XBf2y2Pwqf"
+	},
+	{
+		"created_at": "Sat Oct 22 12:40:14 +0000 2022",
+		"id": 1583790270105149400,
+		"id_str": "1583800395444326400",
+		"full_text": "tripleS : Acid Angel from Asia ‘Generation’ Teaser (Acid Ver.) \n\nhttps://t.co/Md7e1rOj9W\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS https://t.co/69O1J5FgJz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						90,
+						98
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						106,
+						124
+					]
+				},
+				{
+					"text": "애시드엔젤프롬에이시아",
+					"indices": [
+						125,
+						137
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						138,
+						150
+					]
+				},
+				{
+					"text": "Generation",
+					"indices": [
+						151,
+						162
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						163,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Md7e1rOj9W",
+					"expanded_url": "http://youtu.be/wjpKW8G9Zys",
+					"display_url": "youtu.be/wjpKW8G9Zys",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1583707044871164000,
+					"id_str": "1583707044871163904",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffp3AmCVsAEOS6f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffp3AmCVsAEOS6f.jpg",
+					"url": "https://t.co/69O1J5FgJz",
+					"display_url": "pic.twitter.com/69O1J5FgJz",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1583790270105149440/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583707044871164000,
+					"id_str": "1583707044871163904",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffp3AmCVsAEOS6f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffp3AmCVsAEOS6f.jpg",
+					"url": "https://t.co/69O1J5FgJz",
+					"display_url": "pic.twitter.com/69O1J5FgJz",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1583790270105149440/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 46046,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1583707044871163904/pl/1mpZe1WC0H7nQSA-.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1583707044871163904/vid/640x360/tgKVZvZJhrhmL4Z-.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1583707044871163904/vid/1280x720/S1Aea6dBxvxIN1hk.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1583707044871163904/vid/480x270/jQbJoQkQi_btYqiR.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/wjpKW8G9Zys"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16481,
+			"friends_count": 0,
+			"listed_count": 108,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 334,
+		"favorite_count": 517,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "tripleS : Acid Angel from Asia ‘Generation’ Teaser (Acid Ver.) \n\nhttps://t.co/Md7e1rOj9W\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS https://t.co/69O1J5FgJz"
+	},
+	{
+		"created_at": "Sat Oct 22 12:40:10 +0000 2022",
+		"id": 1583788468098191400,
+		"id_str": "1583800377694388225",
+		"full_text": "imsoexciteddddd🤍\n#LowlifePrincess \n#Motospeed24\n#SweetSorrowofMother\n@gHoodmusic_ https://t.co/bu84tRpVs7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LowlifePrincess",
+					"indices": [
+						17,
+						33
+					]
+				},
+				{
+					"text": "Motospeed24",
+					"indices": [
+						35,
+						47
+					]
+				},
+				{
+					"text": "SweetSorrowofMother",
+					"indices": [
+						48,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gHoodmusic_",
+					"name": "Feel Ghood Music",
+					"id": 1467799012216508400,
+					"id_str": "1467799012216508419",
+					"indices": [
+						69,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bu84tRpVs7",
+					"expanded_url": "https://twitter.com/ghoodmusic_/status/1583788151717638145",
+					"display_url": "twitter.com/ghoodmusic_/st…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91935,
+			"friends_count": 7,
+			"listed_count": 218,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1576411206835109888/NsHSTOWf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1576411206835109888/NsHSTOWf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1583788151717638100,
+		"quoted_status_id_str": "1583788151717638145",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bu84tRpVs7",
+			"expanded": "https://twitter.com/ghoodmusic_/status/1583788151717638145",
+			"display": "twitter.com/ghoodmusic_/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 22 11:51:35 +0000 2022",
+			"id": 1583788151717638100,
+			"id_str": "1583788151717638145",
+			"full_text": "𝙍𝙚𝙡𝙚𝙖𝙨𝙚 𝙎𝙘𝙝𝙚𝙙𝙪𝙡𝙚 for 𝐵𝐼𝐵𝐼: https://t.co/JZzKHDyAFS\n\n#FeelGhoodMusic\n#BIBI #비비 #LowlifePrincess\n@nakedbibi @feelghoodmusic https://t.co/MMiQWZT9tH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				121
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FeelGhoodMusic",
+						"indices": [
+							52,
+							67
+						]
+					},
+					{
+						"text": "BIBI",
+						"indices": [
+							68,
+							73
+						]
+					},
+					{
+						"text": "비비",
+						"indices": [
+							74,
+							77
+						]
+					},
+					{
+						"text": "LowlifePrincess",
+						"indices": [
+							78,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nakedbibi",
+						"name": "nakedbibi",
+						"id": 1448497121867436000,
+						"id_str": "1448497121867436037",
+						"indices": [
+							95,
+							105
+						]
+					},
+					{
+						"screen_name": "FeelgHoodMusic",
+						"name": "Nathan Kim",
+						"id": 772156238,
+						"id_str": "772156238",
+						"indices": [
+							106,
+							121
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/JZzKHDyAFS",
+						"expanded_url": "https://www.instagram.com/p/CkA3ehwJOmP/?igshid=YmMyMTA2M2Y=",
+						"display_url": "instagram.com/p/CkA3ehwJOmP/…",
+						"indices": [
+							27,
+							50
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1583788135225647000,
+						"id_str": "1583788135225647104",
+						"indices": [
+							122,
+							145
+						],
+						"media_url": "http://pbs.twimg.com/media/Ffq-6u-aYAAVn9T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ffq-6u-aYAAVn9T.jpg",
+						"url": "https://t.co/MMiQWZT9tH",
+						"display_url": "pic.twitter.com/MMiQWZT9tH",
+						"expanded_url": "https://twitter.com/gHoodmusic_/status/1583788151717638145/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 785,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1051,
+								"h": 1606,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 445,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1583788135225647000,
+						"id_str": "1583788135225647104",
+						"indices": [
+							122,
+							145
+						],
+						"media_url": "http://pbs.twimg.com/media/Ffq-6u-aYAAVn9T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ffq-6u-aYAAVn9T.jpg",
+						"url": "https://t.co/MMiQWZT9tH",
+						"display_url": "pic.twitter.com/MMiQWZT9tH",
+						"expanded_url": "https://twitter.com/gHoodmusic_/status/1583788151717638145/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 785,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1051,
+								"h": 1606,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 445,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1583788135208874000,
+						"id_str": "1583788135208873984",
+						"indices": [
+							122,
+							145
+						],
+						"media_url": "http://pbs.twimg.com/media/Ffq-6u6acAANh7o.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ffq-6u6acAANh7o.jpg",
+						"url": "https://t.co/MMiQWZT9tH",
+						"display_url": "pic.twitter.com/MMiQWZT9tH",
+						"expanded_url": "https://twitter.com/gHoodmusic_/status/1583788151717638145/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1583788135217246200,
+						"id_str": "1583788135217246208",
+						"indices": [
+							122,
+							145
+						],
+						"media_url": "http://pbs.twimg.com/media/Ffq-6u8aMAAe-j1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ffq-6u8aMAAe-j1.jpg",
+						"url": "https://t.co/MMiQWZT9tH",
+						"display_url": "pic.twitter.com/MMiQWZT9tH",
+						"expanded_url": "https://twitter.com/gHoodmusic_/status/1583788151717638145/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1467799012216508400,
+				"id_str": "1467799012216508419",
+				"name": "Feel Ghood Music",
+				"screen_name": "gHoodmusic_",
+				"location": "Worldwide",
+				"description": "OFFICIAL TWITTER for Feel Ghood Music: @drunkentigerjk @yoonmirae @bizzionary @nakedbibi (Curated + Managed by Feel Ghood Music Staff)",
+				"url": "https://t.co/3TdHUbAG7t",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3TdHUbAG7t",
+								"expanded_url": "http://88rising.lnk.to/BestLover",
+								"display_url": "88rising.lnk.to/BestLover",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1394,
+				"friends_count": 6,
+				"listed_count": 15,
+				"created_at": "Mon Dec 06 10:12:59 +0000 2021",
+				"favourites_count": 17,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 206,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1467855847506124800/RRG8CM6b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467855847506124800/RRG8CM6b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1467799012216508419/1638799747",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 78,
+			"favorite_count": 116,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ro"
+		},
+		"retweet_count": 87,
+		"favorite_count": 303,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "imsoexciteddddd🤍\n#LowlifePrincess \n#Motospeed24\n#SweetSorrowofMother\n@gHoodmusic_ https://t.co/bu84tRpVs7"
+	},
+	{
 		"created_at": "Sat Oct 22 11:40:10 +0000 2022",
 		"id": 1583489543193628700,
 		"id_str": "1583785278711287808",
