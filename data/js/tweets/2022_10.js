@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 22 01:29:39 +0000 2022",
+		"id": 1583629990666436600,
+		"id_str": "1583631636041633792",
+		"full_text": "Stay FOREVER with Girls’ Generation! 🥰\n\nGrab the Girls’ Generation ‘FOREVER 1’ Varsity Jacket because it’s now or never!\n\n#girlsgeneration \n#소녀시대 #FOREVER1\n#smglobalshop #SGS https://t.co/dN08Ej6dsT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "girlsgeneration",
+					"indices": [
+						122,
+						138
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						146,
+						155
+					]
+				},
+				{
+					"text": "smglobalshop",
+					"indices": [
+						156,
+						169
+					]
+				},
+				{
+					"text": "SGS",
+					"indices": [
+						170,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1583629987331965000,
+					"id_str": "1583629987331964928",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FfovFUKUAAAeXI3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfovFUKUAAAeXI3.jpg",
+					"url": "https://t.co/dN08Ej6dsT",
+					"display_url": "pic.twitter.com/dN08Ej6dsT",
+					"expanded_url": "https://twitter.com/SMGlobalShop/status/1583629990666436608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583629987331965000,
+					"id_str": "1583629987331964928",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FfovFUKUAAAeXI3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfovFUKUAAAeXI3.jpg",
+					"url": "https://t.co/dN08Ej6dsT",
+					"display_url": "pic.twitter.com/dN08Ej6dsT",
+					"expanded_url": "https://twitter.com/SMGlobalShop/status/1583629990666436608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 994706386696073200,
+			"id_str": "994706386696073221",
+			"name": "SMGlobalShop",
+			"screen_name": "SMGlobalShop",
+			"location": "Los Angeles, CA",
+			"description": "Official SM Entertainment Merchandise Shop ft. #SuperM #SHINee #RedVelvet #NCT #EXO #SuperJunior #TVXQ #GirlsGeneration #fx #aespa",
+			"url": "https://t.co/Jh5aLrc38L",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Jh5aLrc38L",
+							"expanded_url": "https://smglobalshop.com",
+							"display_url": "smglobalshop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55663,
+			"friends_count": 21,
+			"listed_count": 118,
+			"created_at": "Thu May 10 22:30:58 +0000 2018",
+			"favourites_count": 1231,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278022817506668544/xfnu-OxB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278022817506668544/xfnu-OxB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/994706386696073221/1644868385",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 111,
+		"favorite_count": 212,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Stay FOREVER with Girls’ Generation! 🥰\n\nGrab the Girls’ Generation ‘FOREVER 1’ Varsity Jacket because it’s now or never!\n\n#girlsgeneration \n#소녀시대 #FOREVER1\n#smglobalshop #SGS https://t.co/dN08Ej6dsT"
+	},
+	{
 		"created_at": "Fri Oct 21 22:40:10 +0000 2022",
 		"id": 1583588381095006200,
 		"id_str": "1583588985858756608",
