@@ -1,6 +1,601 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 22 14:40:24 +0000 2022",
+		"id": 1583829565796888600,
+		"id_str": "1583830634446745600",
+		"full_text": "‘놓’고!!!!! 👿👿👿 https://t.co/V1SFUlkHGD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V1SFUlkHGD",
+					"expanded_url": "https://twitter.com/love_yuna/status/1583814047996076032",
+					"display_url": "twitter.com/love_yuna/stat…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275633,
+			"friends_count": 599,
+			"listed_count": 2745,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1583814047996076000,
+		"quoted_status_id_str": "1583814047996076032",
+		"quoted_status_permalink": {
+			"url": "https://t.co/V1SFUlkHGD",
+			"expanded": "https://twitter.com/love_yuna/status/1583814047996076032",
+			"display": "twitter.com/love_yuna/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 22 13:34:29 +0000 2022",
+			"id": 1583814047996076000,
+			"id_str": "1583814047996076032",
+			"full_text": "2. \n웃긴 우리 팀과 함께 \n상상마당에서 대기하다가\n( 웃다가 배꼽 부산에 넣고 올 뻔 함 ) https://t.co/3BvyWkzbdh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				53
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1583814040488333300,
+						"id_str": "1583814040488333313",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/FfrWenmVUAEwsv7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfrWenmVUAEwsv7.jpg",
+						"url": "https://t.co/3BvyWkzbdh",
+						"display_url": "pic.twitter.com/3BvyWkzbdh",
+						"expanded_url": "https://twitter.com/love_yuna/status/1583814047996076032/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1430,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 838,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 475,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1583814040488333300,
+						"id_str": "1583814040488333313",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/FfrWenmVUAEwsv7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfrWenmVUAEwsv7.jpg",
+						"url": "https://t.co/3BvyWkzbdh",
+						"display_url": "pic.twitter.com/3BvyWkzbdh",
+						"expanded_url": "https://twitter.com/love_yuna/status/1583814047996076032/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1430,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 838,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 475,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1583814040538648600,
+						"id_str": "1583814040538648576",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/FfrWenyVEAAQDSR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfrWenyVEAAQDSR.jpg",
+						"url": "https://t.co/3BvyWkzbdh",
+						"display_url": "pic.twitter.com/3BvyWkzbdh",
+						"expanded_url": "https://twitter.com/love_yuna/status/1583814047996076032/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1568,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 521,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 919,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1583814037208301600,
+			"in_reply_to_status_id_str": "1583814037208301569",
+			"in_reply_to_user_id": 120741919,
+			"in_reply_to_user_id_str": "120741919",
+			"in_reply_to_screen_name": "love_yuna",
+			"user": {
+				"id": 120741919,
+				"id_str": "120741919",
+				"name": "김윤아",
+				"screen_name": "love_yuna",
+				"location": "",
+				"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+				"url": "https://t.co/YE7aKeUGLd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YE7aKeUGLd",
+								"expanded_url": "https://www.youtube.com/c/loveyuna",
+								"display_url": "youtube.com/c/loveyuna",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 275633,
+				"friends_count": 599,
+				"listed_count": 2745,
+				"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+				"favourites_count": 456,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6919,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 47,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 13,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘놓’고!!!!! 👿👿👿 https://t.co/V1SFUlkHGD"
+	},
+	{
+		"created_at": "Sat Oct 22 14:40:17 +0000 2022",
+		"id": 1583825811345318000,
+		"id_str": "1583830608295624705",
+		"full_text": "G.O.A.T. (Greatest Of All Time) IN THE KEYLAND\nwith @RVsmtown #YERI 💜💎\n\n#KEY #키\n#RedVelvet #레드벨벳 \n#YERI #예리 \n#KEYLAND #키랜드\n#GOAT_IN_THE_KEYLAND\n#SHINee #샤이니 https://t.co/lso38Kxy2n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YERI",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "KEY",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						77,
+						79
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "KEYLAND",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "키랜드",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "GOAT_IN_THE_KEYLAND",
+					"indices": [
+						123,
+						143
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						144,
+						151
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						152,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						52,
+						61
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1583825802772172800,
+					"id_str": "1583825802772172800",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FfrhLRhVUAAEVvS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfrhLRhVUAAEVvS.jpg",
+					"url": "https://t.co/lso38Kxy2n",
+					"display_url": "pic.twitter.com/lso38Kxy2n",
+					"expanded_url": "https://twitter.com/SHINee/status/1583825811345317891/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583825802772172800,
+					"id_str": "1583825802772172800",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FfrhLRhVUAAEVvS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfrhLRhVUAAEVvS.jpg",
+					"url": "https://t.co/lso38Kxy2n",
+					"display_url": "pic.twitter.com/lso38Kxy2n",
+					"expanded_url": "https://twitter.com/SHINee/status/1583825811345317891/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "KEY 키 The 2nd Album 〖Gasoline〗",
+			"url": "https://t.co/9wXASkfVaG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9wXASkfVaG",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2306347,
+			"friends_count": 2,
+			"listed_count": 5914,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556656521966395394/u5-a-Upl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556656521966395394/u5-a-Upl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1659970812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5472,
+		"favorite_count": 13140,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "G.O.A.T. (Greatest Of All Time) IN THE KEYLAND\nwith @RVsmtown #YERI 💜💎\n\n#KEY #키\n#RedVelvet #레드벨벳 \n#YERI #예리 \n#KEYLAND #키랜드\n#GOAT_IN_THE_KEYLAND\n#SHINee #샤이니 https://t.co/lso38Kxy2n"
+	},
+	{
 		"created_at": "Sat Oct 22 13:40:27 +0000 2022",
 		"id": 1583814066039947300,
 		"id_str": "1583815551280742400",
