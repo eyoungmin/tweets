@@ -1,6 +1,145 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 22 15:40:13 +0000 2022",
+		"id": 1583835625664364500,
+		"id_str": "1583845689133391872",
+		"full_text": "한 살 더 먹은 만큼 성장한 닝닝이의 모습 보여줄 테니 우리 앞으로도 많이 만나고 매년 생일 때 함께해요🤍🤍 고마워요\n\n#aespa #æspa #에스파 \n#NINGNING #닝닝\n#HappyNINGNINGDay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"text": "닝닝",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "HappyNINGNINGDay",
+					"indices": [
+						100,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1583835617380618200,
+		"in_reply_to_status_id_str": "1583835617380618242",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3233038,
+			"friends_count": 2,
+			"listed_count": 9655,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2607,
+		"favorite_count": 7879,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한 살 더 먹은 만큼 성장한 닝닝이의 모습 보여줄 테니 우리 앞으로도 많이 만나고 매년 생일 때 함께해요🤍🤍 고마워요\n\n#aespa #æspa #에스파 \n#NINGNING #닝닝\n#HappyNINGNINGDay"
+	},
+	{
 		"created_at": "Sat Oct 22 14:40:24 +0000 2022",
 		"id": 1583829565796888600,
 		"id_str": "1583830634446745600",
