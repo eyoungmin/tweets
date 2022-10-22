@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 22 11:40:10 +0000 2022",
+		"id": 1583489543193628700,
+		"id_str": "1583785278711287808",
+		"full_text": "With the new Crocs items 🐊,  you're ready to meet aespa! \nCelebrate Crocs' 20th anniversary with aespa 🦋\n\n👉https://t.co/87GT9TY2hi \n\n@crocs @aespa_official\n#ZEPETO #CrocsXaespaXZEPETO #CrocsWorld #CrocsXZEPETO https://t.co/ekRI3wFbOn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ZEPETO",
+					"indices": [
+						156,
+						163
+					]
+				},
+				{
+					"text": "CrocsXaespaXZEPETO",
+					"indices": [
+						164,
+						183
+					]
+				},
+				{
+					"text": "CrocsWorld",
+					"indices": [
+						184,
+						195
+					]
+				},
+				{
+					"text": "CrocsXZEPETO",
+					"indices": [
+						196,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Crocs",
+					"name": "Crocs",
+					"id": 45710831,
+					"id_str": "45710831",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						140,
+						155
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/87GT9TY2hi",
+					"expanded_url": "https://buff.ly/3CUvcsW",
+					"display_url": "buff.ly/3CUvcsW",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1583489540051931100,
+					"id_str": "1583489540051931136",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FfmvWNRXkAAXuAK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfmvWNRXkAAXuAK.jpg",
+					"url": "https://t.co/ekRI3wFbOn",
+					"display_url": "pic.twitter.com/ekRI3wFbOn",
+					"expanded_url": "https://twitter.com/zepeto_official/status/1583489543193628673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583489540051931100,
+					"id_str": "1583489540051931136",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FfmvWNRXkAAXuAK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfmvWNRXkAAXuAK.jpg",
+					"url": "https://t.co/ekRI3wFbOn",
+					"display_url": "pic.twitter.com/ekRI3wFbOn",
+					"expanded_url": "https://twitter.com/zepeto_official/status/1583489543193628673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1254595988796264400,
+			"id_str": "1254595988796264450",
+			"name": "ZEPETO",
+			"screen_name": "zepeto_official",
+			"location": "INSTAGRAM : @zepeto.official",
+			"description": "Another me in another universe  https://t.co/UrgB0czvgB",
+			"url": "https://t.co/PjB45ZkpiH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PjB45ZkpiH",
+							"expanded_url": "http://youtube.com/c/ZEPETO_official",
+							"display_url": "youtube.com/c/ZEPETO_offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UrgB0czvgB",
+							"expanded_url": "http://zepeto.me",
+							"display_url": "zepeto.me",
+							"indices": [
+								32,
+								55
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 52717,
+			"friends_count": 3,
+			"listed_count": 88,
+			"created_at": "Mon Apr 27 02:20:42 +0000 2020",
+			"favourites_count": 8431,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1581940603721420803/X7a_BJ8e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1581940603721420803/X7a_BJ8e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1254595988796264450/1665999006",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1134,
+		"favorite_count": 3384,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "With the new Crocs items 🐊,  you're ready to meet aespa! \nCelebrate Crocs' 20th anniversary with aespa 🦋\n\n👉https://t.co/87GT9TY2hi \n\n@crocs @aespa_official\n#ZEPETO #CrocsXaespaXZEPETO #CrocsWorld #CrocsXZEPETO https://t.co/ekRI3wFbOn"
+	},
+	{
 		"created_at": "Sat Oct 22 10:40:12 +0000 2022",
 		"id": 1583759244150833200,
 		"id_str": "1583770187924328450",
@@ -137,7 +382,7 @@ Grailbird.data.tweets_2022_10 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "How To Let Go out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
