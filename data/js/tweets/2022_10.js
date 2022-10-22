@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 22 06:40:16 +0000 2022",
+		"id": 1583473180051591200,
+		"id_str": "1583709807890268160",
+		"full_text": "We met @aespa_official in Paris to learn about their favorite things 🖤 🫶 When you're done watching their #KTops interview, discover all their favorite tracks in their brand new #MY playlist 🔥 https://t.co/nzzHkvC5Zs #aespa #AESPA_GIRLS https://t.co/wEfo4VVmJm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KTops",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "MY",
+					"indices": [
+						177,
+						180
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						216,
+						222
+					]
+				},
+				{
+					"text": "AESPA_GIRLS",
+					"indices": [
+						223,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						7,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nzzHkvC5Zs",
+					"expanded_url": "https://deezer.lnk.to/MYbyAespa",
+					"display_url": "deezer.lnk.to/MYbyAespa",
+					"indices": [
+						192,
+						215
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1583465651980624000,
+					"id_str": "1583465651980623872",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1583465651980623872/pu/img/r58c0wnahkwgezG_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1583465651980623872/pu/img/r58c0wnahkwgezG_.jpg",
+					"url": "https://t.co/wEfo4VVmJm",
+					"display_url": "pic.twitter.com/wEfo4VVmJm",
+					"expanded_url": "https://twitter.com/Deezer/status/1583473180051591171/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583465651980624000,
+					"id_str": "1583465651980623872",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1583465651980623872/pu/img/r58c0wnahkwgezG_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1583465651980623872/pu/img/r58c0wnahkwgezG_.jpg",
+					"url": "https://t.co/wEfo4VVmJm",
+					"display_url": "pic.twitter.com/wEfo4VVmJm",
+					"expanded_url": "https://twitter.com/Deezer/status/1583473180051591171/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 124040,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1583465651980623872/pu/pl/esCSRdO-3O1DZcWS.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1583465651980623872/pu/vid/720x720/_wEGp1gDsSf_kL6z.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1583465651980623872/pu/vid/540x540/lSyibStZq5_1UYFY.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1583465651980623872/pu/vid/320x320/jvMmTgMxSz1n_os7.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 375861459,
+			"id_str": "375861459",
+			"name": "Deezer",
+			"screen_name": "Deezer",
+			"location": "",
+			"description": "#ThePowerofMusic 🎶 \n\nNeed help? Head to @DeezerHelp.",
+			"url": "https://t.co/RmIhu6jBp9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RmIhu6jBp9",
+							"expanded_url": "http://www.deezer.com",
+							"display_url": "deezer.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 248355,
+			"friends_count": 1102,
+			"listed_count": 1076,
+			"created_at": "Sun Sep 18 21:30:06 +0000 2011",
+			"favourites_count": 15537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263469903950106626/zCK-Zj1Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263469903950106626/zCK-Zj1Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/375861459/1609867928",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1790,
+		"favorite_count": 4775,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We met @aespa_official in Paris to learn about their favorite things 🖤 🫶 When you're done watching their #KTops interview, discover all their favorite tracks in their brand new #MY playlist 🔥 https://t.co/nzzHkvC5Zs #aespa #AESPA_GIRLS https://t.co/wEfo4VVmJm"
+	},
+	{
 		"created_at": "Sat Oct 22 05:45:37 +0000 2022",
 		"id": 1583694761420288000,
 		"id_str": "1583696055454994432",
