@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 22 04:40:10 +0000 2022",
+		"id": 1583664597482975200,
+		"id_str": "1583679583018053632",
+		"full_text": "✨SILKY is OUT!!!✨\n에피소드 2 “실키”가 세상에 나왔어요!!!\n저의 오랜만의 R&amp;B 💝 즐겨주세요 ㅎㅎ\n\n함께 해주신 분들 정말 모두 감사드립니다!!\n최고에요오🫶🏻\n\n🎬 EPISODE 2 : SILKY https://t.co/x9iM74WDRJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1583664586300870700,
+					"id_str": "1583664586300870656",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FfpOjPXUUAA94ZB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfpOjPXUUAA94ZB.jpg",
+					"url": "https://t.co/x9iM74WDRJ",
+					"display_url": "pic.twitter.com/x9iM74WDRJ",
+					"expanded_url": "https://twitter.com/silly__silky/status/1583664597482975234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583664586300870700,
+					"id_str": "1583664586300870656",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FfpOjPXUUAA94ZB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfpOjPXUUAA94ZB.jpg",
+					"url": "https://t.co/x9iM74WDRJ",
+					"display_url": "pic.twitter.com/x9iM74WDRJ",
+					"expanded_url": "https://twitter.com/silly__silky/status/1583664597482975234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1474343943890677800,
+			"id_str": "1474343943890677765",
+			"name": "𝓢𝓲𝓵𝓵𝔂 𝓢𝓲𝓵𝓴𝔂",
+			"screen_name": "silly__silky",
+			"location": "",
+			"description": "✨ 𝓢𝓲𝓵𝓵𝔂 𝓢𝓲𝓵𝓴𝔂 ✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26,
+			"friends_count": 2,
+			"listed_count": 1,
+			"created_at": "Fri Dec 24 11:39:40 +0000 2021",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1580926387581353984/pLEDAQ9d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1580926387581353984/pLEDAQ9d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1474343943890677765/1652342994",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨SILKY is OUT!!!✨\n에피소드 2 “실키”가 세상에 나왔어요!!!\n저의 오랜만의 R&amp;B 💝 즐겨주세요 ㅎㅎ\n\n함께 해주신 분들 정말 모두 감사드립니다!!\n최고에요오🫶🏻\n\n🎬 EPISODE 2 : SILKY https://t.co/x9iM74WDRJ"
+	},
+	{
 		"created_at": "Sat Oct 22 03:40:10 +0000 2022",
 		"id": 1583654384088584200,
 		"id_str": "1583664481539760128",
