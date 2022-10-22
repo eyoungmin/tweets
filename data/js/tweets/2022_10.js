@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 22 08:40:22 +0000 2022",
+		"id": 1583729912048803800,
+		"id_str": "1583740032422060039",
+		"full_text": "[NewZips📹] EP.5\n토끼 구출 작전 💣💥\n🔗https://t.co/SxUDYKE2Xk\n\n#NewJeans #뉴진스 #NewZips   \n#NewJeans_1st_EP #WeAreNewJeans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						54,
+						63
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "NewZips",
+					"indices": [
+						69,
+						77
+					]
+				},
+				{
+					"text": "NewJeans_1st_EP",
+					"indices": [
+						81,
+						97
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						98,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SxUDYKE2Xk",
+					"expanded_url": "https://youtu.be/LkJOwHmkySI",
+					"display_url": "youtu.be/LkJOwHmkySI",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "NewJeans Official Twitter",
+			"url": "https://t.co/wITF1P8yFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1P8yFO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 597192,
+			"friends_count": 4,
+			"listed_count": 1882,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 405,
+		"favorite_count": 1435,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NewZips📹] EP.5\n토끼 구출 작전 💣💥\n🔗https://t.co/SxUDYKE2Xk\n\n#NewJeans #뉴진스 #NewZips   \n#NewJeans_1st_EP #WeAreNewJeans"
+	},
+	{
 		"created_at": "Sat Oct 22 08:01:15 +0000 2022",
 		"id": 1583726387470356500,
 		"id_str": "1583730188096970753",
