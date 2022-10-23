@@ -1,6 +1,126 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 23 04:40:10 +0000 2022",
+		"id": 1584035621097865200,
+		"id_str": "1584041969436983297",
+		"full_text": "내일❤️\n\n불륜 (𝐒𝐰𝐞𝐞𝐭 𝐒𝐨𝐫𝐫𝐨𝐰 𝐨𝐟 𝐌𝐨𝐭𝐡𝐞𝐫)\nOUT TOMORROW\n2022.10.24 • 12AM (EST) • 1PM (KST)\n\nTeaser:\nhttps://t.co/Ghs3ZpLmjV\n\n@gHoodmusic_ \n#불륜 #SweetSorrowofMother",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "불륜",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "SweetSorrowofMother",
+					"indices": [
+						135,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gHoodmusic_",
+					"name": "Feel Ghood Music",
+					"id": 1467799012216508400,
+					"id_str": "1467799012216508419",
+					"indices": [
+						117,
+						129
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ghs3ZpLmjV",
+					"expanded_url": "https://www.youtube.com/shorts/JVKOUQW6Jds",
+					"display_url": "youtube.com/shorts/JVKOUQW…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91974,
+			"friends_count": 7,
+			"listed_count": 219,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1576411206835109888/NsHSTOWf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1576411206835109888/NsHSTOWf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 120,
+		"favorite_count": 355,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "내일❤️\n\n불륜 (𝐒𝐰𝐞𝐞𝐭 𝐒𝐨𝐫𝐫𝐨𝐰 𝐨𝐟 𝐌𝐨𝐭𝐡𝐞𝐫)\nOUT TOMORROW\n2022.10.24 • 12AM (EST) • 1PM (KST)\n\nTeaser:\nhttps://t.co/Ghs3ZpLmjV\n\n@gHoodmusic_ \n#불륜 #SweetSorrowofMother"
+	},
+	{
 		"created_at": "Sun Oct 23 03:40:13 +0000 2022",
 		"id": 1584016768573603800,
 		"id_str": "1584026883645407232",
