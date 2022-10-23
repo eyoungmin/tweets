@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 23 03:40:13 +0000 2022",
+		"id": 1584016768573603800,
+		"id_str": "1584026883645407232",
+		"full_text": "[📢]\n\n誕生日を迎えた #NINGNING から、aespa OFFICIAL MAIL MAGAZINE MEMBERSのみなさんにセルフィ＆メッセージが届きました🎂🎉\nメルマガサイト内『BLOG』よりご覧ください🦋\n\nhttps://t.co/BvN8a2TkF4\n\n#aespa #æspa #에스파 #エスパ \n#HappyNINGNINGDay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NINGNING",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						137,
+						143
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "HappyNINGNINGDay",
+					"indices": [
+						161,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BvN8a2TkF4",
+					"expanded_url": "http://aespa.smtown-official.jp/blog/",
+					"display_url": "aespa.smtown-official.jp/blog/",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 219022,
+			"friends_count": 1,
+			"listed_count": 682,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 402,
+		"favorite_count": 1739,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[📢]\n\n誕生日を迎えた #NINGNING から、aespa OFFICIAL MAIL MAGAZINE MEMBERSのみなさんにセルフィ＆メッセージが届きました🎂🎉\nメルマガサイト内『BLOG』よりご覧ください🦋\n\nhttps://t.co/BvN8a2TkF4\n\n#aespa #æspa #에스파 #エスパ \n#HappyNINGNINGDay"
+	},
+	{
+		"created_at": "Sun Oct 23 03:40:10 +0000 2022",
+		"id": 1584016764182093800,
+		"id_str": "1584026870290739200",
+		"full_text": "다람쥐를 본 적 없는 다람쥐  The Squirrel That Hasn’t Seen a Squirrel\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/D2OfRI49Gr\n\n#tripleS #트리플에스 #トリプルS https://t.co/sEWIHl8bbc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						114,
+						122
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						130,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D2OfRI49Gr",
+					"expanded_url": "http://youtu.be/1D9qXHWie4s",
+					"display_url": "youtu.be/1D9qXHWie4s",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1584003041610506200,
+					"id_str": "1584003041610506240",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1584003041610506240/pu/img/vG6FOHxZ84iOnyhT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1584003041610506240/pu/img/vG6FOHxZ84iOnyhT.jpg",
+					"url": "https://t.co/sEWIHl8bbc",
+					"display_url": "pic.twitter.com/sEWIHl8bbc",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1584016764182093825/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584003041610506200,
+					"id_str": "1584003041610506240",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1584003041610506240/pu/img/vG6FOHxZ84iOnyhT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1584003041610506240/pu/img/vG6FOHxZ84iOnyhT.jpg",
+					"url": "https://t.co/sEWIHl8bbc",
+					"display_url": "pic.twitter.com/sEWIHl8bbc",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1584016764182093825/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 46016,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584003041610506240/pu/vid/480x270/Gda8W3dkRT0QtioK.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584003041610506240/pu/vid/640x360/84iFYhdi7ug83lxO.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584003041610506240/pu/vid/1280x720/RA8KgWrpItXkDgSE.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1584003041610506240/pu/pl/KRMmwOrNzcS-dJJy.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16733,
+			"friends_count": 0,
+			"listed_count": 108,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다람쥐를 본 적 없는 다람쥐  The Squirrel That Hasn’t Seen a Squirrel\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/D2OfRI49Gr\n\n#tripleS #트리플에스 #トリプルS https://t.co/sEWIHl8bbc"
+	},
+	{
 		"created_at": "Sun Oct 23 01:40:13 +0000 2022",
 		"id": 1583986796404215800,
 		"id_str": "1583996686275203072",
