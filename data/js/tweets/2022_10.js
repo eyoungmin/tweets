@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 23 09:38:25 +0000 2022",
+		"id": 1584107360171294700,
+		"id_str": "1584117027601408007",
+		"full_text": "올해 부츠 유행은 뜨겁다! #제니 #나연 #Libyanudes #팬츠부츠 \n\n#블핑 #블랙핑크 #BLACKPINK @ygofficialblink #트와이스 @JYPETWICE #TWICE \nhttps://t.co/66mVEpe0MC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제니",
+					"indices": [
+						15,
+						18
+					]
+				},
+				{
+					"text": "나연",
+					"indices": [
+						19,
+						22
+					]
+				},
+				{
+					"text": "Libyanudes",
+					"indices": [
+						23,
+						34
+					]
+				},
+				{
+					"text": "팬츠부츠",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "블핑",
+					"indices": [
+						43,
+						46
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						47,
+						52
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						53,
+						63
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "TWICE",
+					"indices": [
+						98,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						64,
+						80
+					]
+				},
+				{
+					"screen_name": "JYPETWICE",
+					"name": "TWICE",
+					"id": 3129056526,
+					"id_str": "3129056526",
+					"indices": [
+						87,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/66mVEpe0MC",
+					"expanded_url": "https://www.allurekorea.com/?p=184943&ddw=126674&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=184943&ddw=…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38109,
+			"friends_count": 1,
+			"listed_count": 299,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 340,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1666074741",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "올해 부츠 유행은 뜨겁다! #제니 #나연 #Libyanudes #팬츠부츠 \n\n#블핑 #블랙핑크 #BLACKPINK @ygofficialblink #트와이스 @JYPETWICE #TWICE \nhttps://t.co/66mVEpe0MC"
+	},
+	{
 		"created_at": "Sun Oct 23 04:40:10 +0000 2022",
 		"id": 1584035621097865200,
 		"id_str": "1584041969436983297",
