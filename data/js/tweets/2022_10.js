@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 23 18:40:10 +0000 2022",
+		"id": 1584246257421537300,
+		"id_str": "1584253363084234752",
+		"full_text": "RT or REPLY with the same tweet 👻\n\nI'm voting for Coldplay for Favorite Touring Artist at the #AMAs https://t.co/h2D5u2Q9Rt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AMAs",
+					"indices": [
+						94,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584246253399019500,
+					"id_str": "1584246253399019521",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FfxfkuKXkAE-uVg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfxfkuKXkAE-uVg.jpg",
+					"url": "https://t.co/h2D5u2Q9Rt",
+					"display_url": "pic.twitter.com/h2D5u2Q9Rt",
+					"expanded_url": "https://twitter.com/coldplayxtra/status/1584246257421537280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584246253399019500,
+					"id_str": "1584246253399019521",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FfxfkuKXkAE-uVg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfxfkuKXkAE-uVg.jpg",
+					"url": "https://t.co/h2D5u2Q9Rt",
+					"display_url": "pic.twitter.com/h2D5u2Q9Rt",
+					"expanded_url": "https://twitter.com/coldplayxtra/status/1584246257421537280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968972541787344900,
+			"id_str": "968972541787344897",
+			"name": "ColdplayXtra",
+			"screen_name": "coldplayxtra",
+			"location": "The Spheres",
+			"description": "Coldplay news, content, livestreams and updates about the band’s #MusicOfTheSpheresWorldTour 🪐 #ForTheHardcore",
+			"url": "https://t.co/x5y7dXs5VH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x5y7dXs5VH",
+							"expanded_url": "https://linktr.ee/coldplayxtra",
+							"display_url": "linktr.ee/coldplayxtra",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56747,
+			"friends_count": 1305,
+			"listed_count": 100,
+			"created_at": "Wed Feb 28 22:13:51 +0000 2018",
+			"favourites_count": 4762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1387879728154136578/lrhYNmnX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387879728154136578/lrhYNmnX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968972541787344897/1660242563",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1683,
+		"favorite_count": 1697,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "RT or REPLY with the same tweet 👻\n\nI'm voting for Coldplay for Favorite Touring Artist at the #AMAs https://t.co/h2D5u2Q9Rt"
+	},
+	{
 		"created_at": "Sun Oct 23 14:40:10 +0000 2022",
 		"id": 1584186630990078000,
 		"id_str": "1584192964284526593",
