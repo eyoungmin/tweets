@@ -1,6 +1,875 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 24 09:40:32 +0000 2022",
+		"id": 1584473037084102700,
+		"id_str": "1584479949091528704",
+		"full_text": "수면 부족+이른 기상 = 졸려.. \n일 많이 해서 오른쪽 어깨 아픈데\n이 감각 오랜만. \n미스터K 계속 작업중. \nSC 도 오늘 더 해야 됨.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1584397341473517600,
+		"in_reply_to_status_id_str": "1584397341473517569",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275623,
+			"friends_count": 599,
+			"listed_count": 2744,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 459,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "수면 부족+이른 기상 = 졸려.. \n일 많이 해서 오른쪽 어깨 아픈데\n이 감각 오랜만. \n미스터K 계속 작업중. \nSC 도 오늘 더 해야 됨."
+	},
+	{
+		"created_at": "Mon Oct 24 09:40:27 +0000 2022",
+		"id": 1584035046260117500,
+		"id_str": "1584479927281205248",
+		"full_text": "こっち見てくるアルパカ！！！😂😂 https://t.co/nbwFenITj5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579971007569629200,
+					"id_str": "1579971007569629185",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1579971007569629185/pu/img/54jx4BG_vR8JFN2P.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1579971007569629185/pu/img/54jx4BG_vR8JFN2P.jpg",
+					"url": "https://t.co/nbwFenITj5",
+					"display_url": "pic.twitter.com/nbwFenITj5",
+					"expanded_url": "https://twitter.com/UOldguy/status/1579971054914908161/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1579971054914908200,
+					"source_status_id_str": "1579971054914908161",
+					"source_user_id": 1192104015909113900,
+					"source_user_id_str": "1192104015909113856"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579971007569629200,
+					"id_str": "1579971007569629185",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1579971007569629185/pu/img/54jx4BG_vR8JFN2P.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1579971007569629185/pu/img/54jx4BG_vR8JFN2P.jpg",
+					"url": "https://t.co/nbwFenITj5",
+					"display_url": "pic.twitter.com/nbwFenITj5",
+					"expanded_url": "https://twitter.com/UOldguy/status/1579971054914908161/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1579971054914908200,
+					"source_status_id_str": "1579971054914908161",
+					"source_user_id": 1192104015909113900,
+					"source_user_id_str": "1192104015909113856",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 15800,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579971007569629185/pu/vid/480x852/GEhSVl8t0gonfxGj.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1579971007569629185/pu/pl/r6nIYoioVxhCCUGl.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579971007569629185/pu/vid/320x568/WFyPFxFydz3G0xx-.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579971007569629185/pu/vid/720x1280/sYdZIVTQknPPQJuc.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1192104015909113900,
+							"id_str": "1192104015909113856",
+							"name": "UOldGuy🇨🇦",
+							"screen_name": "UOldguy",
+							"location": "Greater Vancouver A",
+							"description": "Proud Dad of 3. Broncos, ‘Nucks, Great Whites. Making the world funnier and hopefully tolerable. They’re jokes people. DM for credit or Removal",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 53026,
+							"friends_count": 89,
+							"listed_count": 314,
+							"created_at": "Wed Nov 06 15:38:52 +0000 2019",
+							"favourites_count": 53271,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 129,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1446868112326889477/4L3KF9d3_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1446868112326889477/4L3KF9d3_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192104015909113856/1588179246",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 712720356587364400,
+			"id_str": "712720356587364353",
+			"name": "進撃のChannell",
+			"screen_name": "roketdan4",
+			"location": "メメタア",
+			"description": "🛸👾進撃のChannell👾🛸 引用動画リツイートします。是非フォローよろしくお願いします！！！",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42543,
+			"friends_count": 45009,
+			"listed_count": 152,
+			"created_at": "Wed Mar 23 19:19:09 +0000 2016",
+			"favourites_count": 19615,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8769,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/767109483390644224/EFBIwf9f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/767109483390644224/EFBIwf9f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/712720356587364353/1602687904",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1669,
+		"favorite_count": 12707,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "こっち見てくるアルパカ！！！😂😂 https://t.co/nbwFenITj5"
+	},
+	{
+		"created_at": "Mon Oct 24 09:40:18 +0000 2022",
+		"id": 1584469758283374600,
+		"id_str": "1584479888790388738",
+		"full_text": "[유애나공지]\n💚8차 Lotto Show 응모 안내\n\n▶ https://t.co/DbMTnnRW8U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DbMTnnRW8U",
+					"expanded_url": "https://cafe.daum.net/IU/S1tj",
+					"display_url": "cafe.daum.net/IU/S1tj",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1528814,
+			"friends_count": 0,
+			"listed_count": 2388,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 425,
+		"favorite_count": 2019,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유애나공지]\n💚8차 Lotto Show 응모 안내\n\n▶ https://t.co/DbMTnnRW8U"
+	},
+	{
+		"created_at": "Mon Oct 24 09:40:10 +0000 2022",
+		"id": 1584469750146482200,
+		"id_str": "1584479854518366210",
+		"full_text": "S3 지우가 HAUS에서🏡\n처음으로 맞이하는 18번째 생일을 축하해주세요!🎉\n\nS3 JiWoo’s first birthday at the HAUS🏡\nHappy 17th birthday JiWoo!🎉\n\nS3ジウがHAUSで🏡\n初めて迎える１７回目の誕生日を祝ってください！🎉\n\n#tripleS #트리플에스 #トリプルS #LeeJiWoo https://t.co/gqHR5tcLOU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						150,
+						158
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						159,
+						165
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						166,
+						172
+					]
+				},
+				{
+					"text": "LeeJiWoo",
+					"indices": [
+						173,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584468603579293700,
+					"id_str": "1584468603579293696",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff0pzNIaYAAr734.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff0pzNIaYAAr734.jpg",
+					"url": "https://t.co/gqHR5tcLOU",
+					"display_url": "pic.twitter.com/gqHR5tcLOU",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1584469750146482176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584468603579293700,
+					"id_str": "1584468603579293696",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff0pzNIaYAAr734.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff0pzNIaYAAr734.jpg",
+					"url": "https://t.co/gqHR5tcLOU",
+					"display_url": "pic.twitter.com/gqHR5tcLOU",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1584469750146482176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17259,
+			"friends_count": 0,
+			"listed_count": 110,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 241,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "S3 지우가 HAUS에서🏡\n처음으로 맞이하는 18번째 생일을 축하해주세요!🎉\n\nS3 JiWoo’s first birthday at the HAUS🏡\nHappy 17th birthday JiWoo!🎉\n\nS3ジウがHAUSで🏡\n初めて迎える１７回目の誕生日を祝ってください！🎉\n\n#tripleS #트리플에스 #トリプルS #LeeJiWoo https://t.co/gqHR5tcLOU"
+	},
+	{
+		"created_at": "Mon Oct 24 09:29:47 +0000 2022",
+		"id": 1584477113444622300,
+		"id_str": "1584477242444304384",
+		"full_text": "[#2022MAMA] Best Vocal Performance Solo Nominee l #taeyeon #태연 #INVU\n\nWorld's No.1 K-POP Awards\n2022 MAMA AWARDS\n2022.11.29(TUE)-30(WED)\n\n✅ Mnet Plus 앱 다운로드 받고\n2022 MAMA AWARDS 투표에 참여하세요\n#2022MAMA #MAMAAWARDS #Mnet https://t.co/zJtKysGyWX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2022MAMA",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "taeyeon",
+					"indices": [
+						50,
+						58
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "2022MAMA",
+					"indices": [
+						187,
+						196
+					]
+				},
+				{
+					"text": "MAMAAWARDS",
+					"indices": [
+						197,
+						208
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						209,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584477104397488000,
+					"id_str": "1584477104397488129",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff0xiBJaEAEOHsm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff0xiBJaEAEOHsm.jpg",
+					"url": "https://t.co/zJtKysGyWX",
+					"display_url": "pic.twitter.com/zJtKysGyWX",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1584477113444622336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584477104397488000,
+					"id_str": "1584477104397488129",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff0xiBJaEAEOHsm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff0xiBJaEAEOHsm.jpg",
+					"url": "https://t.co/zJtKysGyWX",
+					"display_url": "pic.twitter.com/zJtKysGyWX",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1584477113444622336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128487133,
+			"id_str": "128487133",
+			"name": "MAMA AWARDS",
+			"screen_name": "MnetMAMA",
+			"location": "Seoul, South Korea",
+			"description": "MAMA AWARDS Official Twitter \n2022.11.29-30",
+			"url": "https://t.co/sZOg3I5lbo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sZOg3I5lbo",
+							"expanded_url": "http://2022mama.com",
+							"display_url": "2022mama.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2497702,
+			"friends_count": 101,
+			"listed_count": 2305,
+			"created_at": "Thu Apr 01 07:54:34 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562343149011636225/C2jJobl4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562343149011636225/C2jJobl4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128487133/1661326610",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2365,
+		"favorite_count": 3783,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#2022MAMA] Best Vocal Performance Solo Nominee l #taeyeon #태연 #INVU\n\nWorld's No.1 K-POP Awards\n2022 MAMA AWARDS\n2022.11.29(TUE)-30(WED)\n\n✅ Mnet Plus 앱 다운로드 받고\n2022 MAMA AWARDS 투표에 참여하세요\n#2022MAMA #MAMAAWARDS #Mnet https://t.co/zJtKysGyWX"
+	},
+	{
 		"created_at": "Mon Oct 24 08:40:26 +0000 2022",
 		"id": 1584449993536340000,
 		"id_str": "1584464821801472000",
