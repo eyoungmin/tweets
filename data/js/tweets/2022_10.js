@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 24 03:40:10 +0000 2022",
+		"id": 1584379150374142000,
+		"id_str": "1584389258298552320",
+		"full_text": "지우의 수행평가  JiWoo’s Performance Assessment\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/WvxyE3wrRB\n\n#tripleS #트리플에스 #トリプルS https://t.co/DSDjBK82hH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						113,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WvxyE3wrRB",
+					"expanded_url": "https://youtu.be/W5UYcFIB0Oc",
+					"display_url": "youtu.be/W5UYcFIB0Oc",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1584350571904974800,
+					"id_str": "1584350571904974848",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1584350571904974848/pu/img/S-AH6_csnKh3N-ku.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1584350571904974848/pu/img/S-AH6_csnKh3N-ku.jpg",
+					"url": "https://t.co/DSDjBK82hH",
+					"display_url": "pic.twitter.com/DSDjBK82hH",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1584379150374141952/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584350571904974800,
+					"id_str": "1584350571904974848",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1584350571904974848/pu/img/S-AH6_csnKh3N-ku.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1584350571904974848/pu/img/S-AH6_csnKh3N-ku.jpg",
+					"url": "https://t.co/DSDjBK82hH",
+					"display_url": "pic.twitter.com/DSDjBK82hH",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1584379150374141952/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 32554,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1584350571904974848/pu/pl/6PNXwQzY6AIrGu69.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584350571904974848/pu/vid/640x360/ipQWan3QLkDL4LCw.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584350571904974848/pu/vid/1280x720/b2F_FHMT8Ym-Iw6O.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584350571904974848/pu/vid/480x270/NLhs9ILRRws_6XDS.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17206,
+			"friends_count": 0,
+			"listed_count": 110,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 112,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지우의 수행평가  JiWoo’s Performance Assessment\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/WvxyE3wrRB\n\n#tripleS #트리플에스 #トリプルS https://t.co/DSDjBK82hH"
+	},
+	{
 		"created_at": "Mon Oct 24 02:40:18 +0000 2022",
 		"id": 1584372032757969000,
 		"id_str": "1584374193474633730",
