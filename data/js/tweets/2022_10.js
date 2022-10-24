@@ -1,6 +1,1707 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 24 04:56:23 +0000 2022",
+		"id": 1584406099989475300,
+		"id_str": "1584408439542886400",
+		"full_text": "[#여진 / #YeoJin] 🥀\n\n#이달의소녀 #LOONA https://t.co/oW1A8Pk5k4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						19,
+						25
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						26,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584406094687850500,
+					"id_str": "1584406094687850499",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffzw8tXVUAMnLWe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffzw8tXVUAMnLWe.jpg",
+					"url": "https://t.co/oW1A8Pk5k4",
+					"display_url": "pic.twitter.com/oW1A8Pk5k4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1584406099989475329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 690,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 690,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584406094687850500,
+					"id_str": "1584406094687850499",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffzw8tXVUAMnLWe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffzw8tXVUAMnLWe.jpg",
+					"url": "https://t.co/oW1A8Pk5k4",
+					"display_url": "pic.twitter.com/oW1A8Pk5k4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1584406099989475329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 690,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 690,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1584406094696194000,
+					"id_str": "1584406094696194048",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffzw8tZUoAArk5C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffzw8tZUoAArk5C.jpg",
+					"url": "https://t.co/oW1A8Pk5k4",
+					"display_url": "pic.twitter.com/oW1A8Pk5k4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1584406099989475329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 690,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 690,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1584406094658490400,
+					"id_str": "1584406094658490369",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffzw8tQVUAED5wa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffzw8tQVUAED5wa.jpg",
+					"url": "https://t.co/oW1A8Pk5k4",
+					"display_url": "pic.twitter.com/oW1A8Pk5k4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1584406099989475329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 690,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 690,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1584406091718283300,
+		"in_reply_to_status_id_str": "1584406091718283264",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 986490,
+			"friends_count": 3,
+			"listed_count": 8985,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 427,
+		"favorite_count": 1782,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[#여진 / #YeoJin] 🥀\n\n#이달의소녀 #LOONA https://t.co/oW1A8Pk5k4"
+	},
+	{
+		"created_at": "Mon Oct 24 04:56:23 +0000 2022",
+		"id": 1584406091718283300,
+		"id_str": "1584408439538655232",
+		"full_text": "[#여진 / #YeoJin] 🥀 \n\n#이달의소녀 #LOONA https://t.co/L7KBEWMSqi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						27,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584406087029051400,
+					"id_str": "1584406087029051392",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffzw8Q1VUAAxAns.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffzw8Q1VUAAxAns.jpg",
+					"url": "https://t.co/L7KBEWMSqi",
+					"display_url": "pic.twitter.com/L7KBEWMSqi",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1584406091718283264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 690,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 690,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584406087029051400,
+					"id_str": "1584406087029051392",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffzw8Q1VUAAxAns.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffzw8Q1VUAAxAns.jpg",
+					"url": "https://t.co/L7KBEWMSqi",
+					"display_url": "pic.twitter.com/L7KBEWMSqi",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1584406091718283264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 690,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 690,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1584406087028965400,
+					"id_str": "1584406087028965376",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffzw8Q1UAAAGC68.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffzw8Q1UAAAGC68.jpg",
+					"url": "https://t.co/L7KBEWMSqi",
+					"display_url": "pic.twitter.com/L7KBEWMSqi",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1584406091718283264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 690,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 690,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1584406087062601700,
+					"id_str": "1584406087062601730",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffzw8Q9VQAIn1xk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffzw8Q9VQAIn1xk.jpg",
+					"url": "https://t.co/L7KBEWMSqi",
+					"display_url": "pic.twitter.com/L7KBEWMSqi",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1584406091718283264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 690,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 690,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1584406084223062000,
+		"in_reply_to_status_id_str": "1584406084223062017",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 986490,
+			"friends_count": 3,
+			"listed_count": 8985,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 394,
+		"favorite_count": 1842,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[#여진 / #YeoJin] 🥀 \n\n#이달의소녀 #LOONA https://t.co/L7KBEWMSqi"
+	},
+	{
+		"created_at": "Mon Oct 24 04:56:23 +0000 2022",
+		"id": 1584406084223062000,
+		"id_str": "1584408439509307393",
+		"full_text": "[#여진 / #YeoJin] 🥀 \n\n#이달의소녀 #LOONA https://t.co/2YqnE3uVk9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						27,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584406076492914700,
+					"id_str": "1584406076492914688",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffzw7plUoAA3pK1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffzw7plUoAA3pK1.jpg",
+					"url": "https://t.co/2YqnE3uVk9",
+					"display_url": "pic.twitter.com/2YqnE3uVk9",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1584406084223062017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 807,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584406076492914700,
+					"id_str": "1584406076492914688",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffzw7plUoAA3pK1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffzw7plUoAA3pK1.jpg",
+					"url": "https://t.co/2YqnE3uVk9",
+					"display_url": "pic.twitter.com/2YqnE3uVk9",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1584406084223062017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 807,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1584406076522303500,
+					"id_str": "1584406076522303488",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffzw7psVEAAILMb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffzw7psVEAAILMb.jpg",
+					"url": "https://t.co/2YqnE3uVk9",
+					"display_url": "pic.twitter.com/2YqnE3uVk9",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1584406084223062017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 807,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1584406076522315800,
+					"id_str": "1584406076522315781",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffzw7psVQAUn_uJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffzw7psVQAUn_uJ.jpg",
+					"url": "https://t.co/2YqnE3uVk9",
+					"display_url": "pic.twitter.com/2YqnE3uVk9",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1584406084223062017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 807,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1378,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1584406076526497800,
+					"id_str": "1584406076526497792",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffzw7ptVEAASBUR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffzw7ptVEAASBUR.jpg",
+					"url": "https://t.co/2YqnE3uVk9",
+					"display_url": "pic.twitter.com/2YqnE3uVk9",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1584406084223062017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 807,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1378,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 986490,
+			"friends_count": 3,
+			"listed_count": 8985,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1148,
+		"favorite_count": 3716,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[#여진 / #YeoJin] 🥀 \n\n#이달의소녀 #LOONA https://t.co/2YqnE3uVk9"
+	},
+	{
+		"created_at": "Mon Oct 24 04:40:49 +0000 2022",
+		"id": 1584399291925532700,
+		"id_str": "1584404521672851456",
+		"full_text": "OUT NOWWWW🌹\nprod by unnie Zoey Cho 🎹\n\nBIBI - '불륜 (𝐒𝐰𝐞𝐞𝐭 𝐒𝐨𝐫𝐫𝐨𝐰 𝐨𝐟 𝐌𝐨𝐭𝐡𝐞𝐫)'\nhttps://t.co/JXE9f84cr6\n@gHoodmusic_ https://t.co/xZBXvvYs2K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gHoodmusic_",
+					"name": "Feel Ghood Music",
+					"id": 1467799012216508400,
+					"id_str": "1467799012216508419",
+					"indices": [
+						99,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JXE9f84cr6",
+					"expanded_url": "https://tinyurl.com/SSoMbyBIBI",
+					"display_url": "tinyurl.com/SSoMbyBIBI",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1584399252427800600,
+					"id_str": "1584399252427800576",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1584399252427800576/pu/img/hah52Vo2RfDGsh1b.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1584399252427800576/pu/img/hah52Vo2RfDGsh1b.jpg",
+					"url": "https://t.co/xZBXvvYs2K",
+					"display_url": "pic.twitter.com/xZBXvvYs2K",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1584399291925532672/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584399252427800600,
+					"id_str": "1584399252427800576",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1584399252427800576/pu/img/hah52Vo2RfDGsh1b.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1584399252427800576/pu/img/hah52Vo2RfDGsh1b.jpg",
+					"url": "https://t.co/xZBXvvYs2K",
+					"display_url": "pic.twitter.com/xZBXvvYs2K",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1584399291925532672/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 25530,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1584399252427800576/pu/pl/mR5IDML_m9H_Uy_q.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584399252427800576/pu/vid/480x360/0Atf2G96-R2v5ChQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584399252427800576/pu/vid/360x270/vdKSM7jfZLT_6J0u.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584399252427800576/pu/vid/960x720/mB8q2hQGjPyh4CDf.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 92041,
+			"friends_count": 7,
+			"listed_count": 223,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1576411206835109888/NsHSTOWf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1576411206835109888/NsHSTOWf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 334,
+		"favorite_count": 801,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OUT NOWWWW🌹\nprod by unnie Zoey Cho 🎹\n\nBIBI - '불륜 (𝐒𝐰𝐞𝐞𝐭 𝐒𝐨𝐫𝐫𝐨𝐰 𝐨𝐟 𝐌𝐨𝐭𝐡𝐞𝐫)'\nhttps://t.co/JXE9f84cr6\n@gHoodmusic_ https://t.co/xZBXvvYs2K"
+	},
+	{
+		"created_at": "Mon Oct 24 04:40:44 +0000 2022",
+		"id": 1584397341473517600,
+		"id_str": "1584404500000886784",
+		"full_text": "밥 끝!! \n이제 작업하러 가니까 \n말 걸지 마~😈",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1584391041775698000,
+		"in_reply_to_status_id_str": "1584391041775697920",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275628,
+			"friends_count": 599,
+			"listed_count": 2745,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 459,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "밥 끝!! \n이제 작업하러 가니까 \n말 걸지 마~😈"
+	},
+	{
+		"created_at": "Mon Oct 24 04:40:21 +0000 2022",
+		"id": 1583699674719916000,
+		"id_str": "1584404405956186112",
+		"full_text": "‘Bad Boy’로 많은 사랑을 받았던\n크리스토퍼, 청하의 두 번째 콜라보💕\n\n지금  #스포티파이 에서 \n[When I Get Old]를 들어보세요!\nhttps://t.co/WyXhyxiHbK \n\n@CHUNGHA_MNHent #청하 \n#크리스토퍼 #WhenIGetOld https://t.co/G1dSoxbpzz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스포티파이",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "크리스토퍼",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "WhenIGetOld",
+					"indices": [
+						138,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						110,
+						125
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WyXhyxiHbK",
+					"expanded_url": "http://spotify.link/YffTR06niub",
+					"display_url": "spotify.link/YffTR06niub",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1583607661307695000,
+					"id_str": "1583607661307695104",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1583607661307695104/pu/img/91uhQQsi5q3qNC2s.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1583607661307695104/pu/img/91uhQQsi5q3qNC2s.jpg",
+					"url": "https://t.co/G1dSoxbpzz",
+					"display_url": "pic.twitter.com/G1dSoxbpzz",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1583699674719916034/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583607661307695000,
+					"id_str": "1583607661307695104",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1583607661307695104/pu/img/91uhQQsi5q3qNC2s.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1583607661307695104/pu/img/91uhQQsi5q3qNC2s.jpg",
+					"url": "https://t.co/G1dSoxbpzz",
+					"display_url": "pic.twitter.com/G1dSoxbpzz",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1583699674719916034/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 32840,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1583607661307695104/pu/vid/720x720/x2R3ydwmc25_lFIE.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1583607661307695104/pu/pl/FwxYQsSDA_UEGfJ5.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1583607661307695104/pu/vid/320x320/GcQ1hs9Ck0oxL1bC.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1583607661307695104/pu/vid/540x540/eRzuDBJWPEU-yEWN.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1207908245118963700,
+			"id_str": "1207908245118963712",
+			"name": "Spotify Korea",
+			"screen_name": "SpotifyKR",
+			"location": "",
+			"description": "스포티파이, 지금 3개월 무료체험 중💚",
+			"url": "https://t.co/g8ARcwfOBL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/g8ARcwfOBL",
+							"expanded_url": "https://spotify.link/dZVcBzH3Etb",
+							"display_url": "spotify.link/dZVcBzH3Etb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 163491,
+			"friends_count": 0,
+			"listed_count": 100,
+			"created_at": "Fri Dec 20 06:19:10 +0000 2019",
+			"favourites_count": 582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1207908245118963712/1662081183",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 122,
+		"favorite_count": 360,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘Bad Boy’로 많은 사랑을 받았던\n크리스토퍼, 청하의 두 번째 콜라보💕\n\n지금  #스포티파이 에서 \n[When I Get Old]를 들어보세요!\nhttps://t.co/WyXhyxiHbK \n\n@CHUNGHA_MNHent #청하 \n#크리스토퍼 #WhenIGetOld https://t.co/G1dSoxbpzz"
+	},
+	{
+		"created_at": "Mon Oct 24 04:40:19 +0000 2022",
+		"id": 1584391041775698000,
+		"id_str": "1584404396531941376",
+		"full_text": "‘아’니었어!!! 👿👿👿",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1584390800351588400,
+		"in_reply_to_status_id_str": "1584390800351588354",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275628,
+			"friends_count": 599,
+			"listed_count": 2745,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 459,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "‘아’니었어!!! 👿👿👿"
+	},
+	{
+		"created_at": "Mon Oct 24 04:40:10 +0000 2022",
+		"id": 1584390800351588400,
+		"id_str": "1584404357935927296",
+		"full_text": "피팅 끝!! 밥 먹음. \n\n어휴 샌드위치 잘 나온 줄 알았는데 어니었어!! https://t.co/wE0CYTt5db",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584390793397121000,
+					"id_str": "1584390793397121025",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/FfzjCDnVsAEVZsI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfzjCDnVsAEVZsI.jpg",
+					"url": "https://t.co/wE0CYTt5db",
+					"display_url": "pic.twitter.com/wE0CYTt5db",
+					"expanded_url": "https://twitter.com/love_yuna/status/1584390800351588354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584390793397121000,
+					"id_str": "1584390793397121025",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/FfzjCDnVsAEVZsI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfzjCDnVsAEVZsI.jpg",
+					"url": "https://t.co/wE0CYTt5db",
+					"display_url": "pic.twitter.com/wE0CYTt5db",
+					"expanded_url": "https://twitter.com/love_yuna/status/1584390800351588354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1584372032757969000,
+		"in_reply_to_status_id_str": "1584372032757968897",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275628,
+			"friends_count": 599,
+			"listed_count": 2745,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 459,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "피팅 끝!! 밥 먹음. \n\n어휴 샌드위치 잘 나온 줄 알았는데 어니었어!! https://t.co/wE0CYTt5db"
+	},
+	{
 		"created_at": "Mon Oct 24 03:40:10 +0000 2022",
 		"id": 1584379150374142000,
 		"id_str": "1584389258298552320",
