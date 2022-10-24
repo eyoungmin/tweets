@@ -1,6 +1,825 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 24 14:01:47 +0000 2022",
+		"id": 1584544811452768300,
+		"id_str": "1584545695674925057",
+		"full_text": "JOY with Marie Claire X TOD’S\nCheck out in November issue👍\n\n#조이 #JOY\n#마리끌레르코리아 #MarieClaireKOREA\n#토즈 #TODS\n#레드벨벳 #RedVelvet https://t.co/u4k0dJIDNC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조이",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "마리끌레르코리아",
+					"indices": [
+						69,
+						78
+					]
+				},
+				{
+					"text": "MarieClaireKOREA",
+					"indices": [
+						79,
+						96
+					]
+				},
+				{
+					"text": "토즈",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "TODS",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						113,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584544633123573800,
+					"id_str": "1584544633123573760",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff1u8tQVEAAtnNZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff1u8tQVEAAtnNZ.jpg",
+					"url": "https://t.co/u4k0dJIDNC",
+					"display_url": "pic.twitter.com/u4k0dJIDNC",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1584544811452768256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1418,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 471,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 831,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584544633123573800,
+					"id_str": "1584544633123573760",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff1u8tQVEAAtnNZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff1u8tQVEAAtnNZ.jpg",
+					"url": "https://t.co/u4k0dJIDNC",
+					"display_url": "pic.twitter.com/u4k0dJIDNC",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1584544811452768256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1418,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 471,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 831,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1584544751931379700,
+					"id_str": "1584544751931379716",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff1vDn2UUAQ8wSo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff1vDn2UUAQ8wSo.jpg",
+					"url": "https://t.co/u4k0dJIDNC",
+					"display_url": "pic.twitter.com/u4k0dJIDNC",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1584544811452768256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1676,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1584544769065201700,
+					"id_str": "1584544769065201666",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff1vEnrVsAIY7jV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff1vEnrVsAIY7jV.jpg",
+					"url": "https://t.co/u4k0dJIDNC",
+					"display_url": "pic.twitter.com/u4k0dJIDNC",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1584544811452768256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1676,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1584544790984634400,
+					"id_str": "1584544790984634368",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff1vF5VVsAAiyLA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff1vF5VVsAAiyLA.jpg",
+					"url": "https://t.co/u4k0dJIDNC",
+					"display_url": "pic.twitter.com/u4k0dJIDNC",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1584544811452768256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 471,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 831,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1418,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1584544626991542300,
+		"in_reply_to_status_id_str": "1584544626991542272",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5686130,
+			"friends_count": 2,
+			"listed_count": 11366,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2997,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 359,
+		"favorite_count": 757,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "JOY with Marie Claire X TOD’S\nCheck out in November issue👍\n\n#조이 #JOY\n#마리끌레르코리아 #MarieClaireKOREA\n#토즈 #TODS\n#레드벨벳 #RedVelvet https://t.co/u4k0dJIDNC"
+	},
+	{
+		"created_at": "Mon Oct 24 14:01:46 +0000 2022",
+		"id": 1584544626991542300,
+		"id_str": "1584545691401039877",
+		"full_text": "TOD’S의 2022 FW를 입고 등장한 조이 ✨\n쿨한 그녀의 모습을 마리끌레르 코리아 11월호에서 확인해보세요 🕶\n\n#조이 #JOY\n#마리끌레르코리아 #MarieClaireKOREA\n#토즈 #TODS\n#레드벨벳 #RedVelvet https://t.co/MmRpctAfR6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조이",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "마리끌레르코리아",
+					"indices": [
+						75,
+						84
+					]
+				},
+				{
+					"text": "MarieClaireKOREA",
+					"indices": [
+						85,
+						102
+					]
+				},
+				{
+					"text": "토즈",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "TODS",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						119,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584544566874513400,
+					"id_str": "1584544566874513408",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff1u42dUoAANS8v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff1u42dUoAANS8v.jpg",
+					"url": "https://t.co/MmRpctAfR6",
+					"display_url": "pic.twitter.com/MmRpctAfR6",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1584544626991542272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1676,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584544566874513400,
+					"id_str": "1584544566874513408",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff1u42dUoAANS8v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff1u42dUoAANS8v.jpg",
+					"url": "https://t.co/MmRpctAfR6",
+					"display_url": "pic.twitter.com/MmRpctAfR6",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1584544626991542272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1676,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1584544586159911000,
+					"id_str": "1584544586159910914",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff1u5-TUcAITY59.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff1u5-TUcAITY59.jpg",
+					"url": "https://t.co/MmRpctAfR6",
+					"display_url": "pic.twitter.com/MmRpctAfR6",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1584544626991542272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1676,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1584544604732342300,
+					"id_str": "1584544604732342272",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff1u7DfVQAAzPZX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff1u7DfVQAAzPZX.jpg",
+					"url": "https://t.co/MmRpctAfR6",
+					"display_url": "pic.twitter.com/MmRpctAfR6",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1584544626991542272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1418,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 831,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5686130,
+			"friends_count": 2,
+			"listed_count": 11366,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2997,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1129,
+		"favorite_count": 2558,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TOD’S의 2022 FW를 입고 등장한 조이 ✨\n쿨한 그녀의 모습을 마리끌레르 코리아 11월호에서 확인해보세요 🕶\n\n#조이 #JOY\n#마리끌레르코리아 #MarieClaireKOREA\n#토즈 #TODS\n#레드벨벳 #RedVelvet https://t.co/MmRpctAfR6"
+	},
+	{
+		"created_at": "Mon Oct 24 13:40:13 +0000 2022",
+		"id": 1584530655383539700,
+		"id_str": "1584540266291249152",
+		"full_text": "단백질 투하!! 씻고 작업 고고!!!\n💥💥💥🔥🔥🔥🔥🔥💥💥💥 https://t.co/yILx17sQMC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584530648496189400,
+					"id_str": "1584530648496189440",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff1iOsdVsAAjH5A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff1iOsdVsAAjH5A.jpg",
+					"url": "https://t.co/yILx17sQMC",
+					"display_url": "pic.twitter.com/yILx17sQMC",
+					"expanded_url": "https://twitter.com/love_yuna/status/1584530655383539712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584530648496189400,
+					"id_str": "1584530648496189440",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff1iOsdVsAAjH5A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff1iOsdVsAAjH5A.jpg",
+					"url": "https://t.co/yILx17sQMC",
+					"display_url": "pic.twitter.com/yILx17sQMC",
+					"expanded_url": "https://twitter.com/love_yuna/status/1584530655383539712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1584527175684092000,
+		"in_reply_to_status_id_str": "1584527175684091904",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275513,
+			"friends_count": 599,
+			"listed_count": 2744,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 459,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "단백질 투하!! 씻고 작업 고고!!!\n💥💥💥🔥🔥🔥🔥🔥💥💥💥 https://t.co/yILx17sQMC"
+	},
+	{
 		"created_at": "Mon Oct 24 12:40:10 +0000 2022",
 		"id": 1584515048109744000,
 		"id_str": "1584525154633207810",
