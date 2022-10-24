@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 24 08:40:26 +0000 2022",
+		"id": 1584449993536340000,
+		"id_str": "1584464821801472000",
+		"full_text": "こんにちは、トリプルSファンの皆さん、ユビンのスペシャルオブジェクトがCOSMOスタンタブに追加されました。 コンユビンファーストクラスオブジェクト8種(101-108)をすべて集めた方は今すぐスタンタブでユビンのスペシャルオブジェクトをご確認ください!\n\n#tripleS #트리플에스 #トリプルS #GongYuBin",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						129,
+						137
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "GongYuBin",
+					"indices": [
+						152,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1584449992139608000,
+		"in_reply_to_status_id_str": "1584449992139608065",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17257,
+			"friends_count": 0,
+			"listed_count": 110,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "こんにちは、トリプルSファンの皆さん、ユビンのスペシャルオブジェクトがCOSMOスタンタブに追加されました。 コンユビンファーストクラスオブジェクト8種(101-108)をすべて集めた方は今すぐスタンタブでユビンのスペシャルオブジェクトをご確認ください!\n\n#tripleS #트리플에스 #トリプルS #GongYuBin"
+	},
+	{
+		"created_at": "Mon Oct 24 08:40:19 +0000 2022",
+		"id": 1584449992139608000,
+		"id_str": "1584464795872681985",
+		"full_text": "Hello tripleS fans, YuBin’s long-awaited Special Objekts have just been added to COSMO’s Stan tab. If you’ve collected all 8 YuBin First Class Objekts(101-108), please go meet YuBin’s Speical Objekt now!\n\n#tripleS #트리플에스 #トリプルS #GongYuBin",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						205,
+						213
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						214,
+						220
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						221,
+						227
+					]
+				},
+				{
+					"text": "GongYuBin",
+					"indices": [
+						228,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1584449990843596800,
+		"in_reply_to_status_id_str": "1584449990843596800",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17257,
+			"friends_count": 0,
+			"listed_count": 110,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hello tripleS fans, YuBin’s long-awaited Special Objekts have just been added to COSMO’s Stan tab. If you’ve collected all 8 YuBin First Class Objekts(101-108), please go meet YuBin’s Speical Objekt now!\n\n#tripleS #트리플에스 #トリプルS #GongYuBin"
+	},
+	{
 		"created_at": "Mon Oct 24 07:40:20 +0000 2022",
 		"id": 1584442070537994200,
 		"id_str": "1584449697078743040",
