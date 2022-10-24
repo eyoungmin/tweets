@@ -1,6 +1,369 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 24 07:40:20 +0000 2022",
+		"id": 1584442070537994200,
+		"id_str": "1584449697078743040",
+		"full_text": "Get ready to meet @aespa_official live at 1:30am PT with fans in Crocs World 🐊, play in our new Crocs golf carnival ⛳️, and so much more 🥳\n\n👉https://t.co/f111g32UDF \n\n@crocs\n#ZEPETO #CrocsXaespaXZEPETO #CrocsWorld #CrocsXZEPETO https://t.co/qkTkfhijiS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ZEPETO",
+					"indices": [
+						174,
+						181
+					]
+				},
+				{
+					"text": "CrocsXaespaXZEPETO",
+					"indices": [
+						182,
+						201
+					]
+				},
+				{
+					"text": "CrocsWorld",
+					"indices": [
+						202,
+						213
+					]
+				},
+				{
+					"text": "CrocsXZEPETO",
+					"indices": [
+						214,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						18,
+						33
+					]
+				},
+				{
+					"screen_name": "Crocs",
+					"name": "Crocs",
+					"id": 45710831,
+					"id_str": "45710831",
+					"indices": [
+						167,
+						173
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/f111g32UDF",
+					"expanded_url": "https://buff.ly/3DkPAnx",
+					"display_url": "buff.ly/3DkPAnx",
+					"indices": [
+						141,
+						164
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1584442067224330200,
+					"id_str": "1584442067224330242",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff0RqlgXgAIuoze.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff0RqlgXgAIuoze.jpg",
+					"url": "https://t.co/qkTkfhijiS",
+					"display_url": "pic.twitter.com/qkTkfhijiS",
+					"expanded_url": "https://twitter.com/zepeto_official/status/1584442070537994240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584442067224330200,
+					"id_str": "1584442067224330242",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff0RqlgXgAIuoze.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff0RqlgXgAIuoze.jpg",
+					"url": "https://t.co/qkTkfhijiS",
+					"display_url": "pic.twitter.com/qkTkfhijiS",
+					"expanded_url": "https://twitter.com/zepeto_official/status/1584442070537994240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1254595988796264400,
+			"id_str": "1254595988796264450",
+			"name": "ZEPETO",
+			"screen_name": "zepeto_official",
+			"location": "INSTAGRAM : @zepeto.official",
+			"description": "Another me in another universe  https://t.co/UrgB0czvgB",
+			"url": "https://t.co/PjB45ZkpiH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PjB45ZkpiH",
+							"expanded_url": "http://youtube.com/c/ZEPETO_official",
+							"display_url": "youtube.com/c/ZEPETO_offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UrgB0czvgB",
+							"expanded_url": "http://zepeto.me",
+							"display_url": "zepeto.me",
+							"indices": [
+								32,
+								55
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 52822,
+			"friends_count": 3,
+			"listed_count": 88,
+			"created_at": "Mon Apr 27 02:20:42 +0000 2020",
+			"favourites_count": 8425,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2256,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1581940603721420803/X7a_BJ8e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1581940603721420803/X7a_BJ8e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1254595988796264450/1665999006",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1181,
+		"favorite_count": 2619,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Get ready to meet @aespa_official live at 1:30am PT with fans in Crocs World 🐊, play in our new Crocs golf carnival ⛳️, and so much more 🥳\n\n👉https://t.co/f111g32UDF \n\n@crocs\n#ZEPETO #CrocsXaespaXZEPETO #CrocsWorld #CrocsXZEPETO https://t.co/qkTkfhijiS"
+	},
+	{
+		"created_at": "Mon Oct 24 07:40:16 +0000 2022",
+		"id": 1584438224667414500,
+		"id_str": "1584449683635990529",
+		"full_text": "Pre-orders for @nakedBIBI’s forthcoming first album, 𝙇𝙤𝙬𝙡𝙞𝙛𝙚 𝙋𝙧𝙞𝙣𝙘𝙚𝙨𝙨: 𝙉𝙤𝙞𝙧 — out November 18th — are AVAILABLE NOW on all Korean platforms (HotTracks, Interpark, YES24, Aladin). \n\nFor international pre-orders, go here: https://t.co/taqaqOPeaA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nakedbibi",
+					"name": "nakedbibi",
+					"id": 1448497121867436000,
+					"id_str": "1448497121867436037",
+					"indices": [
+						15,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/taqaqOPeaA",
+					"expanded_url": "https://bibi.lnk.to/LowlifePrincessNoirPS",
+					"display_url": "bibi.lnk.to/LowlifePrinces…",
+					"indices": [
+						220,
+						243
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1467799012216508400,
+			"id_str": "1467799012216508419",
+			"name": "Feel Ghood Music",
+			"screen_name": "gHoodmusic_",
+			"location": "Worldwide",
+			"description": "OFFICIAL TWITTER for Feel Ghood Music: @drunkentigerjk @yoonmirae @bizzionary @nakedbibi (Curated + Managed by Feel Ghood Music Staff)",
+			"url": "https://t.co/3TdHUbAG7t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3TdHUbAG7t",
+							"expanded_url": "http://88rising.lnk.to/BestLover",
+							"display_url": "88rising.lnk.to/BestLover",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1423,
+			"friends_count": 6,
+			"listed_count": 16,
+			"created_at": "Mon Dec 06 10:12:59 +0000 2021",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1467855847506124800/RRG8CM6b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467855847506124800/RRG8CM6b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1467799012216508419/1638799747",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 114,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pre-orders for @nakedBIBI’s forthcoming first album, 𝙇𝙤𝙬𝙡𝙞𝙛𝙚 𝙋𝙧𝙞𝙣𝙘𝙚𝙨𝙨: 𝙉𝙤𝙞𝙧 — out November 18th — are AVAILABLE NOW on all Korean platforms (HotTracks, Interpark, YES24, Aladin). \n\nFor international pre-orders, go here: https://t.co/taqaqOPeaA"
+	},
+	{
 		"created_at": "Mon Oct 24 04:56:23 +0000 2022",
 		"id": 1584406099989475300,
 		"id_str": "1584408439542886400",
