@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 25 07:40:10 +0000 2022",
+		"id": 1584809484978888700,
+		"id_str": "1584812043282124800",
+		"full_text": "tripleS 트리플에스 : sweets '아기 강아지 특: 방송에 못나갈 표정 계속함'\n\nhttps://t.co/Pbb00nRZSe\n\n#tripleS #트리플에스 #トリプルS https://t.co/naqISqnTGP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						92,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Pbb00nRZSe",
+					"expanded_url": "https://youtube.com/shorts/dvhLZHG8tek",
+					"display_url": "youtube.com/shorts/dvhLZHG…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1584806082605551600,
+					"id_str": "1584806082605551616",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1584806082605551616/pu/img/EBQp5V4w8kagSHMX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1584806082605551616/pu/img/EBQp5V4w8kagSHMX.jpg",
+					"url": "https://t.co/naqISqnTGP",
+					"display_url": "pic.twitter.com/naqISqnTGP",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1584809484978888704/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584806082605551600,
+					"id_str": "1584806082605551616",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1584806082605551616/pu/img/EBQp5V4w8kagSHMX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1584806082605551616/pu/img/EBQp5V4w8kagSHMX.jpg",
+					"url": "https://t.co/naqISqnTGP",
+					"display_url": "pic.twitter.com/naqISqnTGP",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1584809484978888704/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 27360,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1584806082605551616/pu/pl/kG1TGvxDCxNdZSVA.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584806082605551616/pu/vid/720x1280/OMSa2XssItQWkmXK.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584806082605551616/pu/vid/480x852/onN6JiSNAnz7Ax1K.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584806082605551616/pu/vid/320x568/dqeltEt0rOW1oBTc.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17778,
+			"friends_count": 0,
+			"listed_count": 112,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "tripleS 트리플에스 : sweets '아기 강아지 특: 방송에 못나갈 표정 계속함'\n\nhttps://t.co/Pbb00nRZSe\n\n#tripleS #트리플에스 #トリプルS https://t.co/naqISqnTGP"
+	},
+	{
 		"created_at": "Tue Oct 25 05:40:18 +0000 2022",
 		"id": 1584773986013315000,
 		"id_str": "1584781878275579904",
