@@ -1,6 +1,709 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 25 09:46:49 +0000 2022",
+		"id": 1584832889958543400,
+		"id_str": "1584843916691415040",
+		"full_text": "#제작협찬 #토즈 2022 F/W 컬렉션을 입은 #조이 의 #마리끌레르 11월호 화보 비하인드 영상을 공개합니다. 그만의 매력으로 가득한 비하인드 영상, #마리끌레르 유튜브에서 확인하세요. 곧 공개될 패션 필름과 '마이 텐 페이보릿' 영상도 기대해 주세요!\n@RVsmtown @Tods\n👉https://t.co/km5hconzEH https://t.co/oyJJAeLxhw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제작협찬",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "토즈",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "마리끌레르",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "마리끌레르",
+					"indices": [
+						86,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						144,
+						153
+					]
+				},
+				{
+					"screen_name": "Tods",
+					"name": "Tods",
+					"id": 1524667988535881700,
+					"id_str": "1524667988535881729",
+					"indices": [
+						154,
+						159
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/km5hconzEH",
+					"expanded_url": "https://youtu.be/NvyaglPSfRk",
+					"display_url": "youtu.be/NvyaglPSfRk",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1584818005586096000,
+					"id_str": "1584818005586096129",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ff5nlFCaMAEnzI2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ff5nlFCaMAEnzI2.jpg",
+					"url": "https://t.co/oyJJAeLxhw",
+					"display_url": "pic.twitter.com/oyJJAeLxhw",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1584832889958543361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584818005586096000,
+					"id_str": "1584818005586096129",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ff5nlFCaMAEnzI2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ff5nlFCaMAEnzI2.jpg",
+					"url": "https://t.co/oyJJAeLxhw",
+					"display_url": "pic.twitter.com/oyJJAeLxhw",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1584832889958543361/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							300,
+							169
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Ff5nlFCaMAEnzI2.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107682,
+			"friends_count": 1,
+			"listed_count": 336,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1666070372",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#제작협찬 #토즈 2022 F/W 컬렉션을 입은 #조이 의 #마리끌레르 11월호 화보 비하인드 영상을 공개합니다. 그만의 매력으로 가득한 비하인드 영상, #마리끌레르 유튜브에서 확인하세요. 곧 공개될 패션 필름과 '마이 텐 페이보릿' 영상도 기대해 주세요!\n@RVsmtown @Tods\n👉https://t.co/km5hconzEH https://t.co/oyJJAeLxhw"
+	},
+	{
+		"created_at": "Tue Oct 25 09:40:23 +0000 2022",
+		"id": 1584832405780967400,
+		"id_str": "1584842297300090882",
+		"full_text": "[IU TV]\n\n아름다웠던 아이유애나의\n오렌지 태양 아래의 순간과💜\n공연장을 가득 채워준 \n유애나들의 밤편지까지💌\n행복했던 그날로 떠나볼까요?🎈\n\n🎥 https://t.co/tkszQaPDg9 https://t.co/cgMPMy84tJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tkszQaPDg9",
+					"expanded_url": "https://youtu.be/rquWzHAO0S0",
+					"display_url": "youtu.be/rquWzHAO0S0",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1584832390551449600,
+					"id_str": "1584832390551449608",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff50qZNaMAg591U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff50qZNaMAg591U.jpg",
+					"url": "https://t.co/cgMPMy84tJ",
+					"display_url": "pic.twitter.com/cgMPMy84tJ",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1584832405780967424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584832390551449600,
+					"id_str": "1584832390551449608",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff50qZNaMAg591U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff50qZNaMAg591U.jpg",
+					"url": "https://t.co/cgMPMy84tJ",
+					"display_url": "pic.twitter.com/cgMPMy84tJ",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1584832405780967424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1529729,
+			"friends_count": 0,
+			"listed_count": 2389,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2524,
+		"favorite_count": 5550,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[IU TV]\n\n아름다웠던 아이유애나의\n오렌지 태양 아래의 순간과💜\n공연장을 가득 채워준 \n유애나들의 밤편지까지💌\n행복했던 그날로 떠나볼까요?🎈\n\n🎥 https://t.co/tkszQaPDg9 https://t.co/cgMPMy84tJ"
+	},
+	{
+		"created_at": "Tue Oct 25 09:40:15 +0000 2022",
+		"id": 1584817701901373400,
+		"id_str": "1584842263158562817",
+		"full_text": "(두둥) #이브 의 손에 쥐어진 의문의 상자..📦 \n과연 이 상자는 어떤 것들로 채워질까?\n\n#굿네이버스 에서 최초로 공개하는\n#이달의소녀 이브의 \"왓츠 인 마이 박스\"\nFULL 영상 보러 가기👉https://t.co/4drWFKO6cI\n\n#GoodNeighbors #이달소 #Yves #오빛 #Orbit\n#여아지원캠페인 #소녀별 #생리대후원 https://t.co/mKsutEZGzG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이브",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "굿네이버스",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "GoodNeighbors",
+					"indices": [
+						134,
+						148
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "오빛",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "Orbit",
+					"indices": [
+						164,
+						170
+					]
+				},
+				{
+					"text": "여아지원캠페인",
+					"indices": [
+						171,
+						179
+					]
+				},
+				{
+					"text": "소녀별",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "생리대후원",
+					"indices": [
+						185,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4drWFKO6cI",
+					"expanded_url": "https://vvd.bz/bO0F",
+					"display_url": "vvd.bz/bO0F",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1584817580593672200,
+					"id_str": "1584817580593672192",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff5nMV0UcAAEpug.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff5nMV0UcAAEpug.jpg",
+					"url": "https://t.co/mKsutEZGzG",
+					"display_url": "pic.twitter.com/mKsutEZGzG",
+					"expanded_url": "https://twitter.com/Good_Neighbors/status/1584817701901373440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584817580593672200,
+					"id_str": "1584817580593672192",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff5nMV0UcAAEpug.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff5nMV0UcAAEpug.jpg",
+					"url": "https://t.co/mKsutEZGzG",
+					"display_url": "pic.twitter.com/mKsutEZGzG",
+					"expanded_url": "https://twitter.com/Good_Neighbors/status/1584817701901373440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 64963693,
+			"id_str": "64963693",
+			"name": "굿네이버스",
+			"screen_name": "Good_Neighbors",
+			"location": "Seoul, South Korea",
+			"description": "굿네이버스는 1991년 한국에서 설립되어 국내, 북한 및 해외에서 굶주림 없는 세상, 더불어 사는 세상을 만들기 위해 전문사회복지사업과 국제개발협력사업을 활발히 수행하고 있는 글로벌 아동권리 전문 NGO입니다.",
+			"url": "https://t.co/OGZfH0BE5J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OGZfH0BE5J",
+							"expanded_url": "http://goodneighbors.kr",
+							"display_url": "goodneighbors.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20434,
+			"friends_count": 18125,
+			"listed_count": 746,
+			"created_at": "Wed Aug 12 06:46:08 +0000 2009",
+			"favourites_count": 2073,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8AA230",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/547225993715277824/yv7gWZjS_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/547225993715277824/yv7gWZjS_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64963693/1663206254",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 244,
+		"favorite_count": 885,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "(두둥) #이브 의 손에 쥐어진 의문의 상자..📦 \n과연 이 상자는 어떤 것들로 채워질까?\n\n#굿네이버스 에서 최초로 공개하는\n#이달의소녀 이브의 \"왓츠 인 마이 박스\"\nFULL 영상 보러 가기👉https://t.co/4drWFKO6cI\n\n#GoodNeighbors #이달소 #Yves #오빛 #Orbit\n#여아지원캠페인 #소녀별 #생리대후원 https://t.co/mKsutEZGzG"
+	},
+	{
 		"created_at": "Tue Oct 25 08:40:41 +0000 2022",
 		"id": 1584824700655796200,
 		"id_str": "1584827275513585664",
