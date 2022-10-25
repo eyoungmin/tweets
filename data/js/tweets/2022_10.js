@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 25 11:40:14 +0000 2022",
+		"id": 1584870353289252900,
+		"id_str": "1584872458695352320",
+		"full_text": "영스트리트 오신 거 맞죠❓️\n환영합니다💙 즐겁게 놀다 가세요😄\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/ufdlC7BkNf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						36,
+						39
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						51,
+						61
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						69,
+						78
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						90,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584870319294070800,
+					"id_str": "1584870319294070784",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff6XKIyVQAAhWAn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff6XKIyVQAAhWAn.jpg",
+					"url": "https://t.co/ufdlC7BkNf",
+					"display_url": "pic.twitter.com/ufdlC7BkNf",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1584870353289252864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584870319294070800,
+					"id_str": "1584870319294070784",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff6XKIyVQAAhWAn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff6XKIyVQAAhWAn.jpg",
+					"url": "https://t.co/ufdlC7BkNf",
+					"display_url": "pic.twitter.com/ufdlC7BkNf",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1584870353289252864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1584870337413451800,
+					"id_str": "1584870337413451776",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff6XLMSVEAA1-p6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff6XLMSVEAA1-p6.jpg",
+					"url": "https://t.co/ufdlC7BkNf",
+					"display_url": "pic.twitter.com/ufdlC7BkNf",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1584870353289252864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5687350,
+			"friends_count": 2,
+			"listed_count": 11362,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1726,
+		"favorite_count": 4589,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "영스트리트 오신 거 맞죠❓️\n환영합니다💙 즐겁게 놀다 가세요😄\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/ufdlC7BkNf"
+	},
+	{
 		"created_at": "Tue Oct 25 10:40:19 +0000 2022",
 		"id": 1584847286081056800,
 		"id_str": "1584857382827565058",
