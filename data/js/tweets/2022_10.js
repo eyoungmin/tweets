@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 25 04:40:10 +0000 2022",
+		"id": 1584765015995089000,
+		"id_str": "1584766745448964096",
+		"full_text": "winter is comin’~~~ ❄️☃️ 날씨는 이제 점점 추워지고 있어서 꼭 따듯하게 입어요!! 💙 #HANNI #하니 #NewJeans https://t.co/iwomndBd0z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HANNI",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "하니",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						70,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584765007900049400,
+					"id_str": "1584765007900049409",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff43YNRaAAEb3VY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff43YNRaAAEb3VY.jpg",
+					"url": "https://t.co/iwomndBd0z",
+					"display_url": "pic.twitter.com/iwomndBd0z",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1584765015995088896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584765007900049400,
+					"id_str": "1584765007900049409",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff43YNRaAAEb3VY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff43YNRaAAEb3VY.jpg",
+					"url": "https://t.co/iwomndBd0z",
+					"display_url": "pic.twitter.com/iwomndBd0z",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1584765015995088896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1584765007933608000,
+					"id_str": "1584765007933607936",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff43YNZaEAAVSzC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff43YNZaEAAVSzC.jpg",
+					"url": "https://t.co/iwomndBd0z",
+					"display_url": "pic.twitter.com/iwomndBd0z",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1584765015995088896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1584765007900078000,
+					"id_str": "1584765007900078082",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff43YNRacAIoBI1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff43YNRacAIoBI1.jpg",
+					"url": "https://t.co/iwomndBd0z",
+					"display_url": "pic.twitter.com/iwomndBd0z",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1584765015995088896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1584765007925244000,
+					"id_str": "1584765007925243907",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff43YNXacAMXifd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff43YNXacAMXifd.jpg",
+					"url": "https://t.co/iwomndBd0z",
+					"display_url": "pic.twitter.com/iwomndBd0z",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1584765015995088896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1079,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476466754641891300,
+			"id_str": "1476466754641891328",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_twt",
+			"location": "",
+			"description": "You know who we are😉우리는 뉴진스✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288542,
+			"friends_count": 3,
+			"listed_count": 961,
+			"created_at": "Thu Dec 30 08:14:54 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 31,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1578760330775519233/zV-W-AXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1578760330775519233/zV-W-AXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476466754641891328/1662431415",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3528,
+		"favorite_count": 9337,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "winter is comin’~~~ ❄️☃️ 날씨는 이제 점점 추워지고 있어서 꼭 따듯하게 입어요!! 💙 #HANNI #하니 #NewJeans https://t.co/iwomndBd0z"
+	},
+	{
 		"created_at": "Tue Oct 25 03:40:17 +0000 2022",
 		"id": 1584741893593702400,
 		"id_str": "1584751677671936000",
