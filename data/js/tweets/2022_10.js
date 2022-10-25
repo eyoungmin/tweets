@@ -1,6 +1,1230 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 25 08:40:41 +0000 2022",
+		"id": 1584824700655796200,
+		"id_str": "1584827275513585664",
+		"full_text": "Welcome to EDAM🎉\n\n오늘부터\nEDAM엔터테인먼트의 새 식구가 된\nWOODZ(조승연)님을 환영합니다💙\n앞으로 EDAM과 함께 만들어 나갈\n꽃길 가득한 나날들을\n많이 기대해주세요🌸🌸🌸 https://t.co/SS2ggGtlIa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584824693391257600,
+					"id_str": "1584824693391257603",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff5tqXDacAMeZ1u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff5tqXDacAMeZ1u.jpg",
+					"url": "https://t.co/SS2ggGtlIa",
+					"display_url": "pic.twitter.com/SS2ggGtlIa",
+					"expanded_url": "https://twitter.com/edam_ent/status/1584824700655796224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584824693391257600,
+					"id_str": "1584824693391257603",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff5tqXDacAMeZ1u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff5tqXDacAMeZ1u.jpg",
+					"url": "https://t.co/SS2ggGtlIa",
+					"display_url": "pic.twitter.com/SS2ggGtlIa",
+					"expanded_url": "https://twitter.com/edam_ent/status/1584824700655796224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72090,
+			"friends_count": 3,
+			"listed_count": 257,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6249,
+		"favorite_count": 6573,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Welcome to EDAM🎉\n\n오늘부터\nEDAM엔터테인먼트의 새 식구가 된\nWOODZ(조승연)님을 환영합니다💙\n앞으로 EDAM과 함께 만들어 나갈\n꽃길 가득한 나날들을\n많이 기대해주세요🌸🌸🌸 https://t.co/SS2ggGtlIa"
+	},
+	{
+		"created_at": "Tue Oct 25 08:40:33 +0000 2022",
+		"id": 1584818302068875300,
+		"id_str": "1584827241493680130",
+		"full_text": "Check out the lastest #BLACKPINK | #CASETiFY drop. \n\nThe special collection recollects on the unforgettables of BLACKPINK's most memorable music tracks and style.\n\nVisit #BLACKPINKxCASETiFY @casetify @casetify_kr\n\n🔗 CASETiFY ➡ https://t.co/NAy8PKA072 https://t.co/yVRpZ2NRog",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						22,
+						32
+					]
+				},
+				{
+					"text": "CASETiFY",
+					"indices": [
+						35,
+						44
+					]
+				},
+				{
+					"text": "BLACKPINKxCASETiFY",
+					"indices": [
+						170,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Casetify",
+					"name": "CASETiFY",
+					"id": 368835879,
+					"id_str": "368835879",
+					"indices": [
+						190,
+						199
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NAy8PKA072",
+					"expanded_url": "https://www.casetify.com/co-lab/blackpink-2022",
+					"display_url": "casetify.com/co-lab/blackpi…",
+					"indices": [
+						227,
+						250
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1584818267759124500,
+					"id_str": "1584818267759124480",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1584818267759124480/pu/img/4rQfZI4T9nTHmgPI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1584818267759124480/pu/img/4rQfZI4T9nTHmgPI.jpg",
+					"url": "https://t.co/yVRpZ2NRog",
+					"display_url": "pic.twitter.com/yVRpZ2NRog",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1584818302068875266/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584818267759124500,
+					"id_str": "1584818267759124480",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1584818267759124480/pu/img/4rQfZI4T9nTHmgPI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1584818267759124480/pu/img/4rQfZI4T9nTHmgPI.jpg",
+					"url": "https://t.co/yVRpZ2NRog",
+					"display_url": "pic.twitter.com/yVRpZ2NRog",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1584818302068875266/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 11040,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584818267759124480/pu/vid/320x400/WJbOhyAgUPSXUymz.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584818267759124480/pu/vid/480x600/WuybeR6kjbQlB0Wl.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584818267759124480/pu/vid/720x900/fG8VG62HQul5HQn3.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1584818267759124480/pu/pl/bBYIhbwwABWCIYF6.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1584818263326093300,
+		"in_reply_to_status_id_str": "1584818263326093312",
+		"in_reply_to_user_id": 1273850774380884000,
+		"in_reply_to_user_id_str": "1273850774380883975",
+		"in_reply_to_screen_name": "BLACKPINK",
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7815412,
+			"friends_count": 0,
+			"listed_count": 7828,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 665,
+		"favorite_count": 2731,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out the lastest #BLACKPINK | #CASETiFY drop. \n\nThe special collection recollects on the unforgettables of BLACKPINK's most memorable music tracks and style.\n\nVisit #BLACKPINKxCASETiFY @casetify @casetify_kr\n\n🔗 CASETiFY ➡ https://t.co/NAy8PKA072 https://t.co/yVRpZ2NRog"
+	},
+	{
+		"created_at": "Tue Oct 25 08:40:31 +0000 2022",
+		"id": 1584818263326093300,
+		"id_str": "1584827232618520577",
+		"full_text": "#BLACKPINK | #CASETiFY 컬렉션이 더욱 다채롭게 돌아왔습니다! \n\n블랙핑크만의 독보적 시크 🖤 큐트 💖 무드를 담은 스페셜 한정판 컬렉션을 즐겨보세요.\n\n#BLACKPINKxCASETiFY 컬렉션은 @casetify @casetify_kr 에서 만나보세요\n\n🔗 CASETiFY ➡ https://t.co/NAy8PKA072 https://t.co/V1dC0YKw9o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "CASETiFY",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"text": "BLACKPINKxCASETiFY",
+					"indices": [
+						95,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Casetify",
+					"name": "CASETiFY",
+					"id": 368835879,
+					"id_str": "368835879",
+					"indices": [
+						120,
+						129
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NAy8PKA072",
+					"expanded_url": "https://www.casetify.com/co-lab/blackpink-2022",
+					"display_url": "casetify.com/co-lab/blackpi…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1584818232417931300,
+					"id_str": "1584818232417931265",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1584818232417931265/pu/img/idDJ5efNFXfSff-j.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1584818232417931265/pu/img/idDJ5efNFXfSff-j.jpg",
+					"url": "https://t.co/V1dC0YKw9o",
+					"display_url": "pic.twitter.com/V1dC0YKw9o",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1584818263326093312/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584818232417931300,
+					"id_str": "1584818232417931265",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1584818232417931265/pu/img/idDJ5efNFXfSff-j.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1584818232417931265/pu/img/idDJ5efNFXfSff-j.jpg",
+					"url": "https://t.co/V1dC0YKw9o",
+					"display_url": "pic.twitter.com/V1dC0YKw9o",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1584818263326093312/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 15435,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584818232417931265/pu/vid/320x400/bN948wNBHU5GmNwp.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1584818232417931265/pu/pl/jVDbdAu6PJFIMRga.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584818232417931265/pu/vid/720x900/obti49NT39yUkHCW.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584818232417931265/pu/vid/480x600/P2_Y5FvVTrrNtVfX.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7815412,
+			"friends_count": 0,
+			"listed_count": 7828,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2139,
+		"favorite_count": 7788,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BLACKPINK | #CASETiFY 컬렉션이 더욱 다채롭게 돌아왔습니다! \n\n블랙핑크만의 독보적 시크 🖤 큐트 💖 무드를 담은 스페셜 한정판 컬렉션을 즐겨보세요.\n\n#BLACKPINKxCASETiFY 컬렉션은 @casetify @casetify_kr 에서 만나보세요\n\n🔗 CASETiFY ➡ https://t.co/NAy8PKA072 https://t.co/V1dC0YKw9o"
+	},
+	{
+		"created_at": "Tue Oct 25 08:40:25 +0000 2022",
+		"id": 1584817121556471800,
+		"id_str": "1584827206588588032",
+		"full_text": "#BLACKPINK | #CASETiFY 컬렉션이 더욱 다채롭게 돌아왔습니다!\n\n블랙핑크만의 독보적 시크 🖤 큐트 💖 무드를 담은 스페셜 한정판 컬렉션을 즐겨보세요.\n\n#BLACKPINKxCASETiFY 컬렉션은 @casetify @casetify_kr 에서 만나보세요\n\n🔗 CASETiFY ➡ https://t.co/yvVlau65tq\n\n#블랙핑크 #YG https://t.co/3vqLwIP5Fg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "CASETiFY",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"text": "BLACKPINKxCASETiFY",
+					"indices": [
+						94,
+						113
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						190,
+						195
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						196,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Casetify",
+					"name": "CASETiFY",
+					"id": 368835879,
+					"id_str": "368835879",
+					"indices": [
+						119,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yvVlau65tq",
+					"expanded_url": "https://www.casetify.com/co-lab/blackpink-2022",
+					"display_url": "casetify.com/co-lab/blackpi…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1584813757355544600,
+					"id_str": "1584813757355544576",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1584813757355544576/pu/img/U9Ygs-SJoJiXbBAg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1584813757355544576/pu/img/U9Ygs-SJoJiXbBAg.jpg",
+					"url": "https://t.co/3vqLwIP5Fg",
+					"display_url": "pic.twitter.com/3vqLwIP5Fg",
+					"expanded_url": "https://twitter.com/ygent_official/status/1584817121556471809/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584813757355544600,
+					"id_str": "1584813757355544576",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1584813757355544576/pu/img/U9Ygs-SJoJiXbBAg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1584813757355544576/pu/img/U9Ygs-SJoJiXbBAg.jpg",
+					"url": "https://t.co/3vqLwIP5Fg",
+					"display_url": "pic.twitter.com/3vqLwIP5Fg",
+					"expanded_url": "https://twitter.com/ygent_official/status/1584817121556471809/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 15390,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1584813757355544576/pu/pl/eJi5A_efWSehFRdJ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584813757355544576/pu/vid/480x600/HdOh-QfEPCzxQDx5.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584813757355544576/pu/vid/320x400/irEgCJL-GjtKSdkM.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584813757355544576/pu/vid/720x900/6NR4f0On2M3CJ55U.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8993161,
+			"friends_count": 35,
+			"listed_count": 9904,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 726,
+		"favorite_count": 3112,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BLACKPINK | #CASETiFY 컬렉션이 더욱 다채롭게 돌아왔습니다!\n\n블랙핑크만의 독보적 시크 🖤 큐트 💖 무드를 담은 스페셜 한정판 컬렉션을 즐겨보세요.\n\n#BLACKPINKxCASETiFY 컬렉션은 @casetify @casetify_kr 에서 만나보세요\n\n🔗 CASETiFY ➡ https://t.co/yvVlau65tq\n\n#블랙핑크 #YG https://t.co/3vqLwIP5Fg"
+	},
+	{
+		"created_at": "Tue Oct 25 08:40:19 +0000 2022",
+		"id": 1584817237365751800,
+		"id_str": "1584827180986540032",
+		"full_text": "요즘 날씨 많이 추워졌죠??\n저는 어제 너무 추워서 깜짝 놀랐어요 ㅎㅎ\n옷 따뜻하게 입고 감기 조심하세요!🤧\n(사진은 저와 방글이에요…🤭)  #NewJeans  #해린 #HAERIN https://t.co/KqeS09dJHQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						79,
+						88
+					]
+				},
+				{
+					"text": "해린",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "HAERIN",
+					"indices": [
+						94,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584817220001370000,
+					"id_str": "1584817220001370112",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff5m3WgakAAXhFq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff5m3WgakAAXhFq.jpg",
+					"url": "https://t.co/KqeS09dJHQ",
+					"display_url": "pic.twitter.com/KqeS09dJHQ",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1584817237365751810/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584817220001370000,
+					"id_str": "1584817220001370112",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff5m3WgakAAXhFq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff5m3WgakAAXhFq.jpg",
+					"url": "https://t.co/KqeS09dJHQ",
+					"display_url": "pic.twitter.com/KqeS09dJHQ",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1584817237365751810/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1584817220009726000,
+					"id_str": "1584817220009725954",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff5m3WiaEAIRmOW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff5m3WiaEAIRmOW.jpg",
+					"url": "https://t.co/KqeS09dJHQ",
+					"display_url": "pic.twitter.com/KqeS09dJHQ",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1584817237365751810/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1584817220022304800,
+					"id_str": "1584817220022304768",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff5m3WlaAAA9kRl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff5m3WlaAAA9kRl.jpg",
+					"url": "https://t.co/KqeS09dJHQ",
+					"display_url": "pic.twitter.com/KqeS09dJHQ",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1584817237365751810/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1584817220009726000,
+					"id_str": "1584817220009725953",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff5m3WiaEAEPcdZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff5m3WiaEAEPcdZ.jpg",
+					"url": "https://t.co/KqeS09dJHQ",
+					"display_url": "pic.twitter.com/KqeS09dJHQ",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1584817237365751810/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476466754641891300,
+			"id_str": "1476466754641891328",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_twt",
+			"location": "",
+			"description": "You know who we are😉우리는 뉴진스✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292372,
+			"friends_count": 3,
+			"listed_count": 967,
+			"created_at": "Thu Dec 30 08:14:54 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 32,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1578760330775519233/zV-W-AXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1578760330775519233/zV-W-AXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476466754641891328/1662431415",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6900,
+		"favorite_count": 17056,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "요즘 날씨 많이 추워졌죠??\n저는 어제 너무 추워서 깜짝 놀랐어요 ㅎㅎ\n옷 따뜻하게 입고 감기 조심하세요!🤧\n(사진은 저와 방글이에요…🤭)  #NewJeans  #해린 #HAERIN https://t.co/KqeS09dJHQ"
+	},
+	{
 		"created_at": "Tue Oct 25 07:40:10 +0000 2022",
 		"id": 1584809484978888700,
 		"id_str": "1584812043282124800",
