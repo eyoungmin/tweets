@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 25 16:40:10 +0000 2022",
+		"id": 1584941574638575600,
+		"id_str": "1584947940518420489",
+		"full_text": "heya! you can pre-order the Special Edition of How To Let Go now, including the acoustic version of Bad Life! ❤️ out in 10 days x https://t.co/hadwBamw2p https://t.co/Wvllg2TT4g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hadwBamw2p",
+					"expanded_url": "https://Sigrid.lnk.to/htlgspecialedition",
+					"display_url": "Sigrid.lnk.to/htlgspecialedi…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1584941502375121000,
+					"id_str": "1584941502375120896",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1584941502375120896/pu/img/-beYvjXKYcidWwN3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1584941502375120896/pu/img/-beYvjXKYcidWwN3.jpg",
+					"url": "https://t.co/Wvllg2TT4g",
+					"display_url": "pic.twitter.com/Wvllg2TT4g",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1584941574638575616/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584941502375121000,
+					"id_str": "1584941502375120896",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1584941502375120896/pu/img/-beYvjXKYcidWwN3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1584941502375120896/pu/img/-beYvjXKYcidWwN3.jpg",
+					"url": "https://t.co/Wvllg2TT4g",
+					"display_url": "pic.twitter.com/Wvllg2TT4g",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1584941574638575616/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 20200,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584941502375120896/pu/vid/720x1280/7jOsIA-ciEzJ2M3b.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1584941502375120896/pu/pl/jQlyp6FC2vyknsbk.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584941502375120896/pu/vid/480x852/HCevq484I7hOtCvv.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584941502375120896/pu/vid/320x568/wxzJnPX9qXYSyv9x.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/POgzOrDXO4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/POgzOrDXO4",
+							"expanded_url": "https://Sigrid.lnk.to/htlgspecialedition",
+							"display_url": "Sigrid.lnk.to/htlgspecialedi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89379,
+			"friends_count": 271,
+			"listed_count": 333,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 6169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1651819275",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 157,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "heya! you can pre-order the Special Edition of How To Let Go now, including the acoustic version of Bad Life! ❤️ out in 10 days x https://t.co/hadwBamw2p https://t.co/Wvllg2TT4g"
+	},
+	{
 		"created_at": "Tue Oct 25 15:40:10 +0000 2022",
 		"id": 1584922738241769500,
 		"id_str": "1584932839694426118",
