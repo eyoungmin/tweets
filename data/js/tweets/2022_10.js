@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 25 01:40:17 +0000 2022",
+		"id": 1584477575698862000,
+		"id_str": "1584721478125232128",
+		"full_text": "[#2022MAMA] Best Band Performance Nominee l #jaurim #자우림 #STAYWITHME\n\nWorld's No.1 K-POP Awards\n2022 MAMA AWARDS\n2022.11.29(TUE)-30(WED)\n\n✅ Mnet Plus 앱 다운로드 받고\n2022 MAMA AWARDS 투표에 참여하세요\n#2022MAMA #MAMAAWARDS #Mnet https://t.co/6v88AgsuSf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2022MAMA",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "jaurim",
+					"indices": [
+						44,
+						51
+					]
+				},
+				{
+					"text": "자우림",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "STAYWITHME",
+					"indices": [
+						57,
+						68
+					]
+				},
+				{
+					"text": "2022MAMA",
+					"indices": [
+						187,
+						196
+					]
+				},
+				{
+					"text": "MAMAAWARDS",
+					"indices": [
+						197,
+						208
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						209,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584477567679365000,
+					"id_str": "1584477567679365120",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff0x8_AagAAH7Ir.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff0x8_AagAAH7Ir.jpg",
+					"url": "https://t.co/6v88AgsuSf",
+					"display_url": "pic.twitter.com/6v88AgsuSf",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1584477575698862081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584477567679365000,
+					"id_str": "1584477567679365120",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff0x8_AagAAH7Ir.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff0x8_AagAAH7Ir.jpg",
+					"url": "https://t.co/6v88AgsuSf",
+					"display_url": "pic.twitter.com/6v88AgsuSf",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1584477575698862081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128487133,
+			"id_str": "128487133",
+			"name": "MAMA AWARDS",
+			"screen_name": "MnetMAMA",
+			"location": "Seoul, South Korea",
+			"description": "MAMA AWARDS Official Twitter \n2022.11.29(TUE)-30(WED)",
+			"url": "https://t.co/UwLMaqogrf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UwLMaqogrf",
+							"expanded_url": "http://mnetplus.world",
+							"display_url": "mnetplus.world",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2519253,
+			"friends_count": 101,
+			"listed_count": 2268,
+			"created_at": "Thu Apr 01 07:54:34 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562343149011636225/C2jJobl4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562343149011636225/C2jJobl4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128487133/1661326610",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 195,
+		"favorite_count": 853,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#2022MAMA] Best Band Performance Nominee l #jaurim #자우림 #STAYWITHME\n\nWorld's No.1 K-POP Awards\n2022 MAMA AWARDS\n2022.11.29(TUE)-30(WED)\n\n✅ Mnet Plus 앱 다운로드 받고\n2022 MAMA AWARDS 투표에 참여하세요\n#2022MAMA #MAMAAWARDS #Mnet https://t.co/6v88AgsuSf"
+	},
+	{
+		"created_at": "Tue Oct 25 01:40:10 +0000 2022",
+		"id": 1584707334273540000,
+		"id_str": "1584721448266080256",
+		"full_text": "병원.  진료 대기중.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1584578049416515600,
+		"in_reply_to_status_id_str": "1584578049416515586",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275479,
+			"friends_count": 599,
+			"listed_count": 2744,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 459,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "병원.  진료 대기중."
+	},
+	{
 		"created_at": "Mon Oct 24 19:14:48 +0000 2022",
 		"id": 1584618987950051300,
 		"id_str": "1584624467937964032",
