@@ -1,6 +1,750 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 25 03:40:17 +0000 2022",
+		"id": 1584741893593702400,
+		"id_str": "1584751677671936000",
+		"full_text": "AAA 티저 리액션 + 지우의 생일  AAA’s Teaser Reaction + JiWoo’s Birthday\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/xhocJOrilW\n\n#tripleS #트리플에스 #トリプルS https://t.co/oJke7R8O0I https://t.co/CHec2fEbhq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						134,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xhocJOrilW",
+					"expanded_url": "https://youtu.be/i529xmO40Mg",
+					"display_url": "youtu.be/i529xmO40Mg",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/oJke7R8O0I",
+					"expanded_url": "https://twitter.com/i/web/status/1584741893593702401",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1584741738895143000,
+					"id_str": "1584741738895142912",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1584741738895142912/pu/img/nBDkXgT1lrNmnrvs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1584741738895142912/pu/img/nBDkXgT1lrNmnrvs.jpg",
+					"url": "https://t.co/CHec2fEbhq",
+					"display_url": "pic.twitter.com/CHec2fEbhq",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1584741893593702401/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584741738895143000,
+					"id_str": "1584741738895142912",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1584741738895142912/pu/img/nBDkXgT1lrNmnrvs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1584741738895142912/pu/img/nBDkXgT1lrNmnrvs.jpg",
+					"url": "https://t.co/CHec2fEbhq",
+					"display_url": "pic.twitter.com/CHec2fEbhq",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1584741893593702401/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29166,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584741738895142912/pu/vid/640x360/oV0DxWUINU46nHIS.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584741738895142912/pu/vid/1280x720/H_gAWUB4m9aNMlCl.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1584741738895142912/pu/vid/480x270/Ajn_1XMQ4mnx1V6E.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1584741738895142912/pu/pl/NgB4OrPU-Qk78KoN.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17656,
+			"friends_count": 0,
+			"listed_count": 112,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 715,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 149,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "AAA 티저 리액션 + 지우의 생일  AAA’s Teaser Reaction + JiWoo’s Birthday\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/xhocJOrilW\n\n#tripleS #트리플에스 #トリプルS https://t.co/oJke7R8O0I https://t.co/CHec2fEbhq"
+	},
+	{
+		"created_at": "Tue Oct 25 03:40:10 +0000 2022",
+		"id": 1584741575170863000,
+		"id_str": "1584751647716245504",
+		"full_text": "#BLACKPINK_BORNPINK WORLD TOUR\nOfficial Merch Online Release✨\n\n#BLACKPINK 월드투어의 열기를 다시 한번! 월드투어 공식 MD를 이제 온라인에서 만나보세요.\n\n🔗 Weverse Shop: https://t.co/DyEDocDcHa\n🔗 #YGSELECT CN: https://t.co/uTNQjA1qs5\n🔗 YG SELECT T-mall: https://t.co/hjQ91nRxUf https://t.co/uvoaIhURPW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK_BORNPINK",
+					"indices": [
+						0,
+						19
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						63,
+						73
+					]
+				},
+				{
+					"text": "YGSELECT",
+					"indices": [
+						162,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DyEDocDcHa",
+					"expanded_url": "https://bit.ly/3CT7Iod",
+					"display_url": "bit.ly/3CT7Iod",
+					"indices": [
+						136,
+						159
+					]
+				},
+				{
+					"url": "https://t.co/uTNQjA1qs5",
+					"expanded_url": "https://bit.ly/3EZBDOa",
+					"display_url": "bit.ly/3EZBDOa",
+					"indices": [
+						176,
+						199
+					]
+				},
+				{
+					"url": "https://t.co/hjQ91nRxUf",
+					"expanded_url": "https://ygeshop.tmall.hk",
+					"display_url": "ygeshop.tmall.hk",
+					"indices": [
+						220,
+						243
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1584739238217543700,
+					"id_str": "1584739238217543680",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff4f8NuUcAAT2de.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff4f8NuUcAAT2de.jpg",
+					"url": "https://t.co/uvoaIhURPW",
+					"display_url": "pic.twitter.com/uvoaIhURPW",
+					"expanded_url": "https://twitter.com/ygent_official/status/1584741575170863105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584739238217543700,
+					"id_str": "1584739238217543680",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff4f8NuUcAAT2de.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff4f8NuUcAAT2de.jpg",
+					"url": "https://t.co/uvoaIhURPW",
+					"display_url": "pic.twitter.com/uvoaIhURPW",
+					"expanded_url": "https://twitter.com/ygent_official/status/1584741575170863105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8992794,
+			"friends_count": 35,
+			"listed_count": 9906,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2448,
+		"favorite_count": 9774,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BLACKPINK_BORNPINK WORLD TOUR\nOfficial Merch Online Release✨\n\n#BLACKPINK 월드투어의 열기를 다시 한번! 월드투어 공식 MD를 이제 온라인에서 만나보세요.\n\n🔗 Weverse Shop: https://t.co/DyEDocDcHa\n🔗 #YGSELECT CN: https://t.co/uTNQjA1qs5\n🔗 YG SELECT T-mall: https://t.co/hjQ91nRxUf https://t.co/uvoaIhURPW"
+	},
+	{
+		"created_at": "Tue Oct 25 03:39:24 +0000 2022",
+		"id": 1584750344705560600,
+		"id_str": "1584751454258024448",
+		"full_text": "[🗳] #2022MAMA Spotify\nWorldwide Fan's Choice 후보 선정 투표 안내\n\n✔️ 투표 기간 : ~ 2022.11.04 (금) 11:59 PM\n✔️ 투표 방법\n1️⃣ Spotify 접속 후 로그인\n2️⃣ 2022 Worldwide Fans' Choice 선택\n3️⃣ 청하 'Sparkling' 30초 이상 재생\n\n🔗 https://t.co/lMg2FqAN1x\n\n#청하 #CHUNGHA\n#MAMAAWARDS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2022MAMA",
+					"indices": [
+						4,
+						13
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						217,
+						220
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						221,
+						229
+					]
+				},
+				{
+					"text": "MAMAAWARDS",
+					"indices": [
+						230,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lMg2FqAN1x",
+					"expanded_url": "https://open.spotify.com/playlist/37i9dQZF1DX4OyEPaWHBdk",
+					"display_url": "open.spotify.com/playlist/37i9d…",
+					"indices": [
+						192,
+						215
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1584750343111737300,
+		"in_reply_to_status_id_str": "1584750343111737345",
+		"in_reply_to_user_id": 1097557125742489600,
+		"in_reply_to_user_id_str": "1097557125742489600",
+		"in_reply_to_screen_name": "CHUNGHA_MNHent",
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 356225,
+			"friends_count": 1,
+			"listed_count": 2223,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🗳] #2022MAMA Spotify\nWorldwide Fan's Choice 후보 선정 투표 안내\n\n✔️ 투표 기간 : ~ 2022.11.04 (금) 11:59 PM\n✔️ 투표 방법\n1️⃣ Spotify 접속 후 로그인\n2️⃣ 2022 Worldwide Fans' Choice 선택\n3️⃣ 청하 'Sparkling' 30초 이상 재생\n\n🔗 https://t.co/lMg2FqAN1x\n\n#청하 #CHUNGHA\n#MAMAAWARDS"
+	},
+	{
+		"created_at": "Tue Oct 25 03:39:24 +0000 2022",
+		"id": 1584750346307793000,
+		"id_str": "1584751453729497088",
+		"full_text": "[🗳] #2022MAMA Twitter\nWorldwide Fan's Choice 후보 선정 투표 안내\n\n✔️ 투표 기간 : ~ 2022.11.04 (금) 11:59 PM\n✔️ 투표 방법\n1️⃣  Twitter 접속 후 공개 계정으로 로그인\n2️⃣ #MAMAVOTE #CHUNGHA\n     필수 해시태그와 함께 트윗 작성\n\n#청하 #CHUNGHA\n#MAMAAWARDS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2022MAMA",
+					"indices": [
+						4,
+						13
+					]
+				},
+				{
+					"text": "MAMAVOTE",
+					"indices": [
+						138,
+						147
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						148,
+						156
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						181,
+						184
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						185,
+						193
+					]
+				},
+				{
+					"text": "MAMAAWARDS",
+					"indices": [
+						194,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1584750344705560600,
+		"in_reply_to_status_id_str": "1584750344705560576",
+		"in_reply_to_user_id": 1097557125742489600,
+		"in_reply_to_user_id_str": "1097557125742489600",
+		"in_reply_to_screen_name": "CHUNGHA_MNHent",
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 356225,
+			"friends_count": 1,
+			"listed_count": 2223,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[🗳] #2022MAMA Twitter\nWorldwide Fan's Choice 후보 선정 투표 안내\n\n✔️ 투표 기간 : ~ 2022.11.04 (금) 11:59 PM\n✔️ 투표 방법\n1️⃣  Twitter 접속 후 공개 계정으로 로그인\n2️⃣ #MAMAVOTE #CHUNGHA\n     필수 해시태그와 함께 트윗 작성\n\n#청하 #CHUNGHA\n#MAMAAWARDS"
+	},
+	{
 		"created_at": "Tue Oct 25 02:40:10 +0000 2022",
 		"id": 1584726770515071000,
 		"id_str": "1584736547236192258",
