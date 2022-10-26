@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 25 23:40:10 +0000 2022",
+		"id": 1585043563343380500,
+		"id_str": "1585053634949271552",
+		"full_text": "#BLACKPINK 'Shut Down' M/V HITS 200 MILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n'Shut Down' M/V \n🎥 https://t.co/Rf0cN9I80D \n\n#블랙핑크 #ShutDown #MV #200MILLION #YOUTUBE #YG https://t.co/OiTazboWvT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						148,
+						157
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						158,
+						161
+					]
+				},
+				{
+					"text": "200MILLION",
+					"indices": [
+						162,
+						173
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						183,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						50,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Rf0cN9I80D",
+					"expanded_url": "https://youtu.be/POe9SOEKotk",
+					"display_url": "youtu.be/POe9SOEKotk",
+					"indices": [
+						116,
+						139
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1585040970944770000,
+					"id_str": "1585040970944770049",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff8yXXuacAEaZBY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff8yXXuacAEaZBY.jpg",
+					"url": "https://t.co/OiTazboWvT",
+					"display_url": "pic.twitter.com/OiTazboWvT",
+					"expanded_url": "https://twitter.com/ygent_official/status/1585043563343380488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585040970944770000,
+					"id_str": "1585040970944770049",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff8yXXuacAEaZBY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff8yXXuacAEaZBY.jpg",
+					"url": "https://t.co/OiTazboWvT",
+					"display_url": "pic.twitter.com/OiTazboWvT",
+					"expanded_url": "https://twitter.com/ygent_official/status/1585043563343380488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8994281,
+			"friends_count": 35,
+			"listed_count": 9898,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5084,
+		"favorite_count": 15437,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 'Shut Down' M/V HITS 200 MILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n'Shut Down' M/V \n🎥 https://t.co/Rf0cN9I80D \n\n#블랙핑크 #ShutDown #MV #200MILLION #YOUTUBE #YG https://t.co/OiTazboWvT"
+	},
+	{
 		"created_at": "Tue Oct 25 20:40:10 +0000 2022",
 		"id": 1585004446198923300,
 		"id_str": "1585008338538205184",
