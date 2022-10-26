@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 26 01:40:10 +0000 2022",
+		"id": 1585070547553382400,
+		"id_str": "1585083835502497792",
+		"full_text": "여러분 모두 좋은 아침이에요💗💗\n어제 업로드 된 Light Jeans 보셨나요?!\n제가 정말 올리고 싶던 영상이 있는데 드디어! 트위터에 올려요😆😆\n오늘도 즐겁고 행복한 하루 보내세요🥰🧸\n\n#NewJeans #민지 #MINJI https://t.co/IvLVrW9Gma https://t.co/tx0F217ohX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						106,
+						115
+					]
+				},
+				{
+					"text": "민지",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "MINJI",
+					"indices": [
+						120,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IvLVrW9Gma",
+					"expanded_url": "https://twitter.com/i/web/status/1585070547553382400",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1585070499885121500,
+					"id_str": "1585070499885121536",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff9NOLmagAA8eOO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff9NOLmagAA8eOO.jpg",
+					"url": "https://t.co/tx0F217ohX",
+					"display_url": "pic.twitter.com/tx0F217ohX",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1585070547553382400/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585070499885121500,
+					"id_str": "1585070499885121536",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff9NOLmagAA8eOO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff9NOLmagAA8eOO.jpg",
+					"url": "https://t.co/tx0F217ohX",
+					"display_url": "pic.twitter.com/tx0F217ohX",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1585070547553382400/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476466754641891300,
+			"id_str": "1476466754641891328",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_twt",
+			"location": "",
+			"description": "You know who we are😉우리는 뉴진스✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304277,
+			"friends_count": 3,
+			"listed_count": 968,
+			"created_at": "Thu Dec 30 08:14:54 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 33,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1578760330775519233/zV-W-AXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1578760330775519233/zV-W-AXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476466754641891328/1662431415",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3897,
+		"favorite_count": 11990,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여러분 모두 좋은 아침이에요💗💗\n어제 업로드 된 Light Jeans 보셨나요?!\n제가 정말 올리고 싶던 영상이 있는데 드디어! 트위터에 올려요😆😆\n오늘도 즐겁고 행복한 하루 보내세요🥰🧸\n\n#NewJeans #민지 #MINJI https://t.co/IvLVrW9Gma https://t.co/tx0F217ohX"
+	},
+	{
 		"created_at": "Tue Oct 25 23:40:10 +0000 2022",
 		"id": 1585043563343380500,
 		"id_str": "1585053634949271552",
