@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 26 06:40:10 +0000 2022",
+		"id": 1585149224282251300,
+		"id_str": "1585159331493847040",
+		"full_text": "#트리플에스 #ACCESS\n\n#tripleS\ntripleS: Acid Angel from Asia &lt;ACCESS&gt; 발매기념\n#케타포 영상통화 사인회 오픈🎊\n\n🤍전 구매 고객, 케타포 단독 digital double class objekt 증정!\n🤍추첨을 통해, 영상통화 사인회 초대!\n🤍~ 22.10.27 PM 23:59\n\n✅ https://t.co/besnC8ZJQC\n\n#Ktown4u https://t.co/INieIIeeRN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "트리플에스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "tripleS",
+					"indices": [
+						16,
+						24
+					]
+				},
+				{
+					"text": "케타포",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "Ktown4u",
+					"indices": [
+						214,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/besnC8ZJQC",
+					"expanded_url": "http://bit.ly/3SHqp3Y",
+					"display_url": "bit.ly/3SHqp3Y",
+					"indices": [
+						189,
+						212
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1585147969023905800,
+					"id_str": "1585147969023905793",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff-TreoaEAElR_5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff-TreoaEAElR_5.jpg",
+					"url": "https://t.co/INieIIeeRN",
+					"display_url": "pic.twitter.com/INieIIeeRN",
+					"expanded_url": "https://twitter.com/Ktown4u_Event/status/1585149224282251264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 343,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1034,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 606,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585147969023905800,
+					"id_str": "1585147969023905793",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff-TreoaEAElR_5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff-TreoaEAElR_5.jpg",
+					"url": "https://t.co/INieIIeeRN",
+					"display_url": "pic.twitter.com/INieIIeeRN",
+					"expanded_url": "https://twitter.com/Ktown4u_Event/status/1585149224282251264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 343,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1034,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 606,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1354259510219554800,
+			"id_str": "1354259510219554816",
+			"name": "𝐊𝐭𝐨𝐰𝐧𝟒𝐮 𝐄𝐕𝐄𝐍𝐓",
+			"screen_name": "Ktown4u_Event",
+			"location": "",
+			"description": "🔔케타포 공식 이벤트 안내 계정🔔\nKtown4u Official Event Notice Account",
+			"url": "https://t.co/jxBMiC1f6a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jxBMiC1f6a",
+							"expanded_url": "http://www.ktown4u.com",
+							"display_url": "ktown4u.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11303,
+			"friends_count": 0,
+			"listed_count": 34,
+			"created_at": "Wed Jan 27 02:46:54 +0000 2021",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478983192283856896/x2t6bqIb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478983192283856896/x2t6bqIb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1354259510219554816/1641452005",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#트리플에스 #ACCESS\n\n#tripleS\ntripleS: Acid Angel from Asia &lt;ACCESS&gt; 발매기념\n#케타포 영상통화 사인회 오픈🎊\n\n🤍전 구매 고객, 케타포 단독 digital double class objekt 증정!\n🤍추첨을 통해, 영상통화 사인회 초대!\n🤍~ 22.10.27 PM 23:59\n\n✅ https://t.co/besnC8ZJQC\n\n#Ktown4u https://t.co/INieIIeeRN"
+	},
+	{
 		"created_at": "Wed Oct 26 03:40:10 +0000 2022",
 		"id": 1585106844863037400,
 		"id_str": "1585114035145555970",
