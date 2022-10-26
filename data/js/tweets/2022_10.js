@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 26 12:40:10 +0000 2022",
+		"id": 1585239825547989000,
+		"id_str": "1585249928330215424",
+		"full_text": "tripleS\nAcid Angel from Asia\n\nGeneration M/V Behind Shoot\n‘HyeRin’\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS\n#정혜린 #Hyerin https://t.co/LIhqgMqwMB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						84,
+						102
+					]
+				},
+				{
+					"text": "애시드엔젤프롬에이시아",
+					"indices": [
+						103,
+						115
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						116,
+						128
+					]
+				},
+				{
+					"text": "Generation",
+					"indices": [
+						129,
+						140
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						141,
+						148
+					]
+				},
+				{
+					"text": "정혜린",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "Hyerin",
+					"indices": [
+						154,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1585152460842492000,
+					"id_str": "1585152460842491904",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff-Xw79aYAAoiSb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff-Xw79aYAAoiSb.jpg",
+					"url": "https://t.co/LIhqgMqwMB",
+					"display_url": "pic.twitter.com/LIhqgMqwMB",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1585239825547988997/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585152460842492000,
+					"id_str": "1585152460842491904",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff-Xw79aYAAoiSb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff-Xw79aYAAoiSb.jpg",
+					"url": "https://t.co/LIhqgMqwMB",
+					"display_url": "pic.twitter.com/LIhqgMqwMB",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1585239825547988997/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18725,
+			"friends_count": 0,
+			"listed_count": 113,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 190,
+		"favorite_count": 534,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "tripleS\nAcid Angel from Asia\n\nGeneration M/V Behind Shoot\n‘HyeRin’\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS\n#정혜린 #Hyerin https://t.co/LIhqgMqwMB"
+	},
+	{
 		"created_at": "Wed Oct 26 11:40:43 +0000 2022",
 		"id": 1585231701999247400,
 		"id_str": "1585234969273794560",
