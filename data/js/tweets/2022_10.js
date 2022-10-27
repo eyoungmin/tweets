@@ -1,6 +1,930 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 27 09:47:14 +0000 2022",
+		"id": 1585557665605886000,
+		"id_str": "1585568797364133888",
+		"full_text": "#제작협찬 #레드벨벳 #조이 와 함께한 '마이 텐 페이보릿'🥰평소 아끼는 깜찍템부터 #토즈 크리에이티브 디렉터 발테르 키아포니에게 받은 생일 선물, 삶의 질을 수직 상승시키는 아이템까지! 그의 최애템들은 #마리끌레르 유튜브에서 확인해 보세요.\n@RVsmtown @Tods \n👉https://t.co/km5hco5YN9 https://t.co/wLcABvQ4kF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제작협찬",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						12,
+						15
+					]
+				},
+				{
+					"text": "토즈",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "마리끌레르",
+					"indices": [
+						114,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						136,
+						145
+					]
+				},
+				{
+					"screen_name": "Tods",
+					"name": "Tods",
+					"id": 1524667988535881700,
+					"id_str": "1524667988535881729",
+					"indices": [
+						146,
+						151
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/km5hco5YN9",
+					"expanded_url": "https://youtu.be/NvyaglPSfRk",
+					"display_url": "youtu.be/NvyaglPSfRk",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1585095119119978500,
+					"id_str": "1585095119119978496",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ff9jnNZaEAAL5Z4.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ff9jnNZaEAAL5Z4.jpg",
+					"url": "https://t.co/wLcABvQ4kF",
+					"display_url": "pic.twitter.com/wLcABvQ4kF",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1585557665605885953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585095119119978500,
+					"id_str": "1585095119119978496",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ff9jnNZaEAAL5Z4.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ff9jnNZaEAAL5Z4.jpg",
+					"url": "https://t.co/wLcABvQ4kF",
+					"display_url": "pic.twitter.com/wLcABvQ4kF",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1585557665605885953/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							300,
+							169
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Ff9jnNZaEAAL5Z4.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107695,
+			"friends_count": 1,
+			"listed_count": 336,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11581,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1666070372",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 268,
+		"favorite_count": 390,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#제작협찬 #레드벨벳 #조이 와 함께한 '마이 텐 페이보릿'🥰평소 아끼는 깜찍템부터 #토즈 크리에이티브 디렉터 발테르 키아포니에게 받은 생일 선물, 삶의 질을 수직 상승시키는 아이템까지! 그의 최애템들은 #마리끌레르 유튜브에서 확인해 보세요.\n@RVsmtown @Tods \n👉https://t.co/km5hco5YN9 https://t.co/wLcABvQ4kF"
+	},
+	{
+		"created_at": "Thu Oct 27 09:40:58 +0000 2022",
+		"id": 1585557707318530000,
+		"id_str": "1585567221949952000",
+		"full_text": "[유라]\n제 11회 서울레코드페어에서\n유라의 첫 바이닐 앨범을 만나보세요!\n\n상세 정보 : https://t.co/4acLBXUCXH https://t.co/IaaVFvllpO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4acLBXUCXH",
+					"expanded_url": "https://bit.ly/3fdUNW8",
+					"display_url": "bit.ly/3fdUNW8",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1585557383186907100,
+					"id_str": "1585557383186907137",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FgEIChPagAE87q2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgEIChPagAE87q2.jpg",
+					"url": "https://t.co/IaaVFvllpO",
+					"display_url": "pic.twitter.com/IaaVFvllpO",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1585557707318530049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 805,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1266,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585557383186907100,
+					"id_str": "1585557383186907137",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FgEIChPagAE87q2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgEIChPagAE87q2.jpg",
+					"url": "https://t.co/IaaVFvllpO",
+					"display_url": "pic.twitter.com/IaaVFvllpO",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1585557707318530049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 805,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1266,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/허회경",
+			"url": "https://t.co/EWOG41NDnZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41NDnZ",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 937,
+			"friends_count": 8,
+			"listed_count": 20,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 85,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1653271322",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유라]\n제 11회 서울레코드페어에서\n유라의 첫 바이닐 앨범을 만나보세요!\n\n상세 정보 : https://t.co/4acLBXUCXH https://t.co/IaaVFvllpO"
+	},
+	{
+		"created_at": "Thu Oct 27 09:40:12 +0000 2022",
+		"id": 1585555616483139600,
+		"id_str": "1585567029129580544",
+		"full_text": "📢📢Community,\n4,000 participants for the @LeagueKingdoms X @triplescosmos partnership Gleam Event !!🎉🎉\n\nWe have decided to :\n1⃣Throw 'MORE' 🎁LoK package NFTs\n2⃣$3 of First Class Objekt for 'ALL' participants\n3⃣For 3 'MORE' days. \n👇👇👇\nhttps://t.co/95mqFtAacU https://t.co/XP8g6T85zf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeagueKingdoms",
+					"name": "LEAGUE OF KINGDOMS🌽",
+					"id": 1244522704377491500,
+					"id_str": "1244522704377491457",
+					"indices": [
+						40,
+						55
+					]
+				},
+				{
+					"screen_name": "triplescosmos",
+					"name": "tripleS official",
+					"id": 1509037477369024500,
+					"id_str": "1509037477369024517",
+					"indices": [
+						58,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/95mqFtAacU",
+					"expanded_url": "https://gleam.io/Gr4t2/triples-x-league-of-kingdoms-partnership-giveaway",
+					"display_url": "gleam.io/Gr4t2/triples-…",
+					"indices": [
+						233,
+						256
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1585550158854770700,
+					"id_str": "1585550158854770688",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FgEBeAgaUAANu9I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgEBeAgaUAANu9I.jpg",
+					"url": "https://t.co/XP8g6T85zf",
+					"display_url": "pic.twitter.com/XP8g6T85zf",
+					"expanded_url": "https://twitter.com/LeagueKingdoms/status/1585555616483139585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 776,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 440,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585550158854770700,
+					"id_str": "1585550158854770688",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FgEBeAgaUAANu9I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgEBeAgaUAANu9I.jpg",
+					"url": "https://t.co/XP8g6T85zf",
+					"display_url": "pic.twitter.com/XP8g6T85zf",
+					"expanded_url": "https://twitter.com/LeagueKingdoms/status/1585555616483139585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 776,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 440,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1585550158854762500,
+					"id_str": "1585550158854762496",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FgEBeAgaMAAEUvL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgEBeAgaMAAEUvL.jpg",
+					"url": "https://t.co/XP8g6T85zf",
+					"display_url": "pic.twitter.com/XP8g6T85zf",
+					"expanded_url": "https://twitter.com/LeagueKingdoms/status/1585555616483139585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 776,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 440,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1244522704377491500,
+			"id_str": "1244522704377491457",
+			"name": "LEAGUE OF KINGDOMS🌽",
+			"screen_name": "LeagueKingdoms",
+			"location": "The Genesis Continent, LoK",
+			"description": "The world's first blockchain MMORTS game⚔️ Own your Lands & build a great kingdom!👑\n\n🧑‍🤝‍🧑#MMO |🌽#NFT |💎 $LOKA |🎮#GAMEFI |🏞 #METAVERSE\n👾https://t.co/PbiMDgl0GA",
+			"url": "https://t.co/wOOXLorRUh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wOOXLorRUh",
+							"expanded_url": "https://play.leagueofkingdoms.com/",
+							"display_url": "play.leagueofkingdoms.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PbiMDgl0GA",
+							"expanded_url": "http://dsc.gg/join.lok",
+							"display_url": "dsc.gg/join.lok",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 85088,
+			"friends_count": 145,
+			"listed_count": 404,
+			"created_at": "Mon Mar 30 07:12:04 +0000 2020",
+			"favourites_count": 819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1584768270900809729/bYB4OQ4a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1584768270900809729/bYB4OQ4a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1244522704377491457/1666171537",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📢📢Community,\n4,000 participants for the @LeagueKingdoms X @triplescosmos partnership Gleam Event !!🎉🎉\n\nWe have decided to :\n1⃣Throw 'MORE' 🎁LoK package NFTs\n2⃣$3 of First Class Objekt for 'ALL' participants\n3⃣For 3 'MORE' days. \n👇👇👇\nhttps://t.co/95mqFtAacU https://t.co/XP8g6T85zf"
+	},
+	{
+		"created_at": "Thu Oct 27 09:40:10 +0000 2022",
+		"id": 1585556914158575600,
+		"id_str": "1585567020183130122",
+		"full_text": "🏆주간인기상_트로피_근황.jpg🏆\n\n찰칵 - 📸\n#블랙핑크 의 주간인기상 수상 인증사진이 도착했어요💘\n무려 3회 '연속' 수상을 기록한 Shut Down🌹🎵\n앞으로의 활약도 기대합니다👏\n\n🔗 더 크게, 고화질로 보고 싶다면👀\nhttps://t.co/G39n0Z80bL\n\n#멜론 #Melon #주간인기상 #BLACKPINK\n@BLACKPINK https://t.co/caED7Bcnd8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "Melon",
+					"indices": [
+						155,
+						161
+					]
+				},
+				{
+					"text": "주간인기상",
+					"indices": [
+						162,
+						168
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						169,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						180,
+						190
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/G39n0Z80bL",
+					"expanded_url": "http://kko.to/WuXYtMdd7Y",
+					"display_url": "kko.to/WuXYtMdd7Y",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1585498241646616600,
+					"id_str": "1585498241646616578",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FgDSQB1aYAI-3Uo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgDSQB1aYAI-3Uo.jpg",
+					"url": "https://t.co/caED7Bcnd8",
+					"display_url": "pic.twitter.com/caED7Bcnd8",
+					"expanded_url": "https://twitter.com/melon/status/1585556914158575617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 805,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585498241646616600,
+					"id_str": "1585498241646616578",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FgDSQB1aYAI-3Uo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgDSQB1aYAI-3Uo.jpg",
+					"url": "https://t.co/caED7Bcnd8",
+					"display_url": "pic.twitter.com/caED7Bcnd8",
+					"expanded_url": "https://twitter.com/melon/status/1585556914158575617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 805,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118953366,
+			"id_str": "118953366",
+			"name": "Melon",
+			"screen_name": "melon",
+			"location": "Seoul, Korea",
+			"description": "The 14th K-Music Awards, MMA2022 (11/26 PM6)",
+			"url": "https://t.co/7eLGETkiu5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7eLGETkiu5",
+							"expanded_url": "http://melon.com",
+							"display_url": "melon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 210608,
+			"friends_count": 77,
+			"listed_count": 682,
+			"created_at": "Tue Mar 02 06:13:44 +0000 2010",
+			"favourites_count": 314,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118953366/1666762902",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2150,
+		"favorite_count": 6263,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🏆주간인기상_트로피_근황.jpg🏆\n\n찰칵 - 📸\n#블랙핑크 의 주간인기상 수상 인증사진이 도착했어요💘\n무려 3회 '연속' 수상을 기록한 Shut Down🌹🎵\n앞으로의 활약도 기대합니다👏\n\n🔗 더 크게, 고화질로 보고 싶다면👀\nhttps://t.co/G39n0Z80bL\n\n#멜론 #Melon #주간인기상 #BLACKPINK\n@BLACKPINK https://t.co/caED7Bcnd8"
+	},
+	{
 		"created_at": "Thu Oct 27 08:59:42 +0000 2022",
 		"id": 1585541886219276300,
 		"id_str": "1585556836429615106",
