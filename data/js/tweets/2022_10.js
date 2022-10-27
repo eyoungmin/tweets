@@ -1,6 +1,793 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 27 11:40:38 +0000 2022",
+		"id": 1585595963371966500,
+		"id_str": "1585597334032883713",
+		"full_text": "#광주 !!!\n\n[ 𝕄𝔼ℝℝ𝕐 𝕊ℙ𝕆𝕆𝕂𝕐 𝕁𝔸𝕌ℝ𝕀𝕄 ] \n\n▌일시\n𝟤𝟢𝟤𝟥. 𝟣. 𝟩 (토) 𝟨𝖯𝖬\n@ 김대중컨벤션센터 다목적홀\n\n▌예매 오픈\n𝟮𝟬𝟮𝟮. 𝟭𝟭. 𝟭𝟱 (화) 𝟱𝗣𝗠\n@ 인터파크 티켓\n\n📍𝗺𝗼𝗿𝗲 𝗶𝗻𝗳𝗼\nhttps://t.co/n6jum6J1a9\n\n#MERRY_SPOOKY_XMAS\n#JAURIM\n#자우림 \n#자우림공연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "광주",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "MERRY_SPOOKY_XMAS",
+					"indices": [
+						150,
+						168
+					]
+				},
+				{
+					"text": "JAURIM",
+					"indices": [
+						169,
+						176
+					]
+				},
+				{
+					"text": "자우림",
+					"indices": [
+						177,
+						181
+					]
+				},
+				{
+					"text": "자우림공연",
+					"indices": [
+						183,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n6jum6J1a9",
+					"expanded_url": "https://url.kr/9bkuh2",
+					"display_url": "url.kr/9bkuh2",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1585595961316737000,
+		"in_reply_to_status_id_str": "1585595961316737024",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275427,
+			"friends_count": 599,
+			"listed_count": 2744,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 459,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#광주 !!!\n\n[ 𝕄𝔼ℝℝ𝕐 𝕊ℙ𝕆𝕆𝕂𝕐 𝕁𝔸𝕌ℝ𝕀𝕄 ] \n\n▌일시\n𝟤𝟢𝟤𝟥. 𝟣. 𝟩 (토) 𝟨𝖯𝖬\n@ 김대중컨벤션센터 다목적홀\n\n▌예매 오픈\n𝟮𝟬𝟮𝟮. 𝟭𝟭. 𝟭𝟱 (화) 𝟱𝗣𝗠\n@ 인터파크 티켓\n\n📍𝗺𝗼𝗿𝗲 𝗶𝗻𝗳𝗼\nhttps://t.co/n6jum6J1a9\n\n#MERRY_SPOOKY_XMAS\n#JAURIM\n#자우림 \n#자우림공연"
+	},
+	{
+		"created_at": "Thu Oct 27 11:40:29 +0000 2022",
+		"id": 1585595961316737000,
+		"id_str": "1585597299945873412",
+		"full_text": "#부산 !!!! \n\n[ 𝕄𝔼ℝℝ𝕐 𝕊ℙ𝕆𝕆𝕂𝕐 𝕁𝔸𝕌ℝ𝕀𝕄 ] \n▌일시\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟥𝟢 (금) 𝟩:𝟥𝟢𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟥𝟣 (토) 𝟨𝖯𝖬\n@ 𝖪𝖡𝖲부산홀\n\n▌예매 오픈\n𝟮𝟬𝟮𝟮. 𝟭𝟭. 𝟴 (화) 𝟱𝗣𝗠\n@ 인터파크 티켓\n\n#MERRY_SPOOKY_XMAS\n#JAURIM\n#자우림 #단독콘서트\n#자우림공연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "부산",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "MERRY_SPOOKY_XMAS",
+					"indices": [
+						133,
+						151
+					]
+				},
+				{
+					"text": "JAURIM",
+					"indices": [
+						152,
+						159
+					]
+				},
+				{
+					"text": "자우림",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "자우림공연",
+					"indices": [
+						172,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1585595959102185500,
+		"in_reply_to_status_id_str": "1585595959102185472",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275427,
+			"friends_count": 599,
+			"listed_count": 2744,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 459,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#부산 !!!! \n\n[ 𝕄𝔼ℝℝ𝕐 𝕊ℙ𝕆𝕆𝕂𝕐 𝕁𝔸𝕌ℝ𝕀𝕄 ] \n▌일시\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟥𝟢 (금) 𝟩:𝟥𝟢𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟥𝟣 (토) 𝟨𝖯𝖬\n@ 𝖪𝖡𝖲부산홀\n\n▌예매 오픈\n𝟮𝟬𝟮𝟮. 𝟭𝟭. 𝟴 (화) 𝟱𝗣𝗠\n@ 인터파크 티켓\n\n#MERRY_SPOOKY_XMAS\n#JAURIM\n#자우림 #단독콘서트\n#자우림공연"
+	},
+	{
+		"created_at": "Thu Oct 27 11:40:25 +0000 2022",
+		"id": 1585595959102185500,
+		"id_str": "1585597282619121664",
+		"full_text": "서울 공연 팬클럽 선예매 기간\n𝟮𝟬𝟮𝟮. 𝟭𝟭. 𝟭 (화) 𝟭𝗣𝗠 ~ 𝟰𝗣𝗠\n@ 인터파크 티켓\n* 선예매는 팬클럽을 통한 사전 신청 후 인증이 완료된 회원에 한해 예매가 가능합니다.\n\n#MERRY_SPOOKY_XMAS\n#JAURIM\n#자우림 #단독콘서트\n#자우림공연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MERRY_SPOOKY_XMAS",
+					"indices": [
+						103,
+						121
+					]
+				},
+				{
+					"text": "JAURIM",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "자우림",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "자우림공연",
+					"indices": [
+						142,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1585595956224938000,
+		"in_reply_to_status_id_str": "1585595956224937984",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275427,
+			"friends_count": 599,
+			"listed_count": 2744,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 459,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "서울 공연 팬클럽 선예매 기간\n𝟮𝟬𝟮𝟮. 𝟭𝟭. 𝟭 (화) 𝟭𝗣𝗠 ~ 𝟰𝗣𝗠\n@ 인터파크 티켓\n* 선예매는 팬클럽을 통한 사전 신청 후 인증이 완료된 회원에 한해 예매가 가능합니다.\n\n#MERRY_SPOOKY_XMAS\n#JAURIM\n#자우림 #단독콘서트\n#자우림공연"
+	},
+	{
+		"created_at": "Thu Oct 27 11:40:20 +0000 2022",
+		"id": 1585595956224938000,
+		"id_str": "1585597260880019458",
+		"full_text": "자우림 단독 콘서트\n[ 𝕄𝔼ℝℝ𝕐 𝕊ℙ𝕆𝕆𝕂𝕐 𝕏-𝕄𝔸𝕊 ] \n\n#서울\n\n▌일시\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟫 (금) 𝟪𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟢 (토) 𝟨𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟣 (일) 𝟧𝖯𝖬\n@ 올림픽공원 𝖲𝖪핸드볼경기장\n\n▌일반 예매 오픈\n𝟮𝟬𝟮𝟮. 𝟭𝟭. 𝟭 (화) 𝟱𝗣𝗠\n@ 인터파크 티켓 https://t.co/XNBOscIB21",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울",
+					"indices": [
+						36,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1585595947886616600,
+					"id_str": "1585595947886616576",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FgErHR8UoAAqW4R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgErHR8UoAAqW4R.jpg",
+					"url": "https://t.co/XNBOscIB21",
+					"display_url": "pic.twitter.com/XNBOscIB21",
+					"expanded_url": "https://twitter.com/love_yuna/status/1585595956224937984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1640,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585595947886616600,
+					"id_str": "1585595947886616576",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FgErHR8UoAAqW4R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgErHR8UoAAqW4R.jpg",
+					"url": "https://t.co/XNBOscIB21",
+					"display_url": "pic.twitter.com/XNBOscIB21",
+					"expanded_url": "https://twitter.com/love_yuna/status/1585595956224937984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1640,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275427,
+			"friends_count": 599,
+			"listed_count": 2744,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 459,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 103,
+		"favorite_count": 115,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자우림 단독 콘서트\n[ 𝕄𝔼ℝℝ𝕐 𝕊ℙ𝕆𝕆𝕂𝕐 𝕏-𝕄𝔸𝕊 ] \n\n#서울\n\n▌일시\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟫 (금) 𝟪𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟢 (토) 𝟨𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟣 (일) 𝟧𝖯𝖬\n@ 올림픽공원 𝖲𝖪핸드볼경기장\n\n▌일반 예매 오픈\n𝟮𝟬𝟮𝟮. 𝟭𝟭. 𝟭 (화) 𝟱𝗣𝗠\n@ 인터파크 티켓 https://t.co/XNBOscIB21"
+	},
+	{
+		"created_at": "Thu Oct 27 11:40:14 +0000 2022",
+		"id": 1585587276175888400,
+		"id_str": "1585597235043086337",
+		"full_text": "Jin is here! Rehearsals for #TheAstronaut, River Plate stadium, Buenos Aires. First ever live performance tomorrow #ColdplayLiveBroadcast 💜 https://t.co/ShPefIQ95j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheAstronaut",
+					"indices": [
+						28,
+						41
+					]
+				},
+				{
+					"text": "ColdplayLiveBroadcast",
+					"indices": [
+						115,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1585587270182133800,
+					"id_str": "1585587270182133761",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FgEjOK-WYAEh1QH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgEjOK-WYAEh1QH.jpg",
+					"url": "https://t.co/ShPefIQ95j",
+					"display_url": "pic.twitter.com/ShPefIQ95j",
+					"expanded_url": "https://twitter.com/coldplay/status/1585587276175888384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1512,
+							"h": 1512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585587270182133800,
+					"id_str": "1585587270182133761",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FgEjOK-WYAEh1QH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgEjOK-WYAEh1QH.jpg",
+					"url": "https://t.co/ShPefIQ95j",
+					"display_url": "pic.twitter.com/ShPefIQ95j",
+					"expanded_url": "https://twitter.com/coldplay/status/1585587276175888384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1512,
+							"h": 1512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Santiago, Chile",
+			"description": "The official Twitter of the band Coldplay. Latest album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022/23.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23717331,
+			"friends_count": 779,
+			"listed_count": 42393,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 102342,
+		"favorite_count": 246872,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jin is here! Rehearsals for #TheAstronaut, River Plate stadium, Buenos Aires. First ever live performance tomorrow #ColdplayLiveBroadcast 💜 https://t.co/ShPefIQ95j"
+	},
+	{
 		"created_at": "Thu Oct 27 09:47:14 +0000 2022",
 		"id": 1585557665605886000,
 		"id_str": "1585568797364133888",
@@ -613,7 +1400,7 @@ Grailbird.data.tweets_2022_10 =
 			"name": "LEAGUE OF KINGDOMS🌽",
 			"screen_name": "LeagueKingdoms",
 			"location": "The Genesis Continent, LoK",
-			"description": "The world's first blockchain MMORTS game⚔️ Own your Lands & build a great kingdom!👑\n\n🧑‍🤝‍🧑#MMO |🌽#NFT |💎 $LOKA |🎮#GAMEFI |🏞 #METAVERSE\n👾https://t.co/PbiMDgl0GA",
+			"description": "The world's first blockchain MMORTS game⚔️ Own your Lands & build a great kingdom!👑\n\n🧑🤝🧑#MMO |🌽#NFT |💎 $LOKA |🎮#GAMEFI |🏞 #METAVERSE\n👾https://t.co/PbiMDgl0GA",
 			"url": "https://t.co/wOOXLorRUh",
 			"entities": {
 				"url": {
