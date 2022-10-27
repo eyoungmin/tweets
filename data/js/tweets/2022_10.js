@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 27 08:59:42 +0000 2022",
+		"id": 1585541886219276300,
+		"id_str": "1585556836429615106",
+		"full_text": "[공지] 공식 팬카페 내 \n개인정보 수집 및 악용 관련 조치 안내\n\n▶ https://t.co/tQQyayIuFh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tQQyayIuFh",
+					"expanded_url": "https://cafe.daum.net/IU/NDuY/513",
+					"display_url": "cafe.daum.net/IU/NDuY/513",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1531542,
+			"friends_count": 0,
+			"listed_count": 2388,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 374,
+		"favorite_count": 1895,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공지] 공식 팬카페 내 \n개인정보 수집 및 악용 관련 조치 안내\n\n▶ https://t.co/tQQyayIuFh"
+	},
+	{
+		"created_at": "Thu Oct 27 08:28:51 +0000 2022",
+		"id": 1585547446419132400,
+		"id_str": "1585549070558724096",
+		"full_text": "【 🎟️ 】\n#인터파크티켓 #티켓오픈소식 #티켓오픈\n자우림 단독 콘서트 [ MERRY SPOOKY X-MAS ] - 서울 티켓오픈 안내 \n📅 22.11.01(화) 17:00\n▶️ https://t.co/AIrdf6VUXk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "티켓오픈소식",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"text": "티켓오픈",
+					"indices": [
+						23,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AIrdf6VUXk",
+					"expanded_url": "https://bit.ly/3Dg0Ocy",
+					"display_url": "bit.ly/3Dg0Ocy",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1210277696464248800,
+			"id_str": "1210277696464248832",
+			"name": "인터파크 티켓 - 티켓오픈소식",
+			"screen_name": "InterTicketOpen",
+			"location": "",
+			"description": "#인터파크티켓 #티켓오픈소식 #주요티켓오픈 비공식 봇  \n \n#티켓오픈 @TicketOpen \n#예스24티켓 @YES24TicketOpen \n#멜론티켓 @MelonTicketOpen \n#위메프공연티켓 @WeMakeTicket \n \n문의 : @TicketOpen DM",
+			"url": "https://t.co/lSFbS58r6L",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lSFbS58r6L",
+							"expanded_url": "http://bit.ly/InterparkTicketOpen",
+							"display_url": "bit.ly/InterparkTicke…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1863,
+			"friends_count": 13,
+			"listed_count": 21,
+			"created_at": "Thu Dec 26 19:14:33 +0000 2019",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210277915377594368/N2kpJZh2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210277915377594368/N2kpJZh2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1210277696464248832/1583569240",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 🎟️ 】\n#인터파크티켓 #티켓오픈소식 #티켓오픈\n자우림 단독 콘서트 [ MERRY SPOOKY X-MAS ] - 서울 티켓오픈 안내 \n📅 22.11.01(화) 17:00\n▶️ https://t.co/AIrdf6VUXk"
+	},
+	{
 		"created_at": "Thu Oct 27 07:40:32 +0000 2022",
 		"id": 1585529227259957200,
 		"id_str": "1585536914605711361",
