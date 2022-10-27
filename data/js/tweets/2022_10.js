@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 27 14:02:56 +0000 2022",
+		"id": 1585631974680428500,
+		"id_str": "1585633147441455108",
+		"full_text": "오늘 몫 노래 녹음 완료!!\n\n1. WW\n2. HHC\n3. SC\n\n하하하핫\n하나 남았다 이제!!\n\n#자우림_겨울스페셜앨범 \n#자우림 #이선규 #김진만 #김윤아 https://t.co/fULeVbajcP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림_겨울스페셜앨범",
+					"indices": [
+						55,
+						67
+					]
+				},
+				{
+					"text": "자우림",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "이선규",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "김진만",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "김윤아",
+					"indices": [
+						84,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1585631966631600000,
+					"id_str": "1585631966631600128",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/FgFL32OUoAAHs5C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgFL32OUoAAHs5C.jpg",
+					"url": "https://t.co/fULeVbajcP",
+					"display_url": "pic.twitter.com/fULeVbajcP",
+					"expanded_url": "https://twitter.com/love_yuna/status/1585631974680428544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585631966631600000,
+					"id_str": "1585631966631600128",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/FgFL32OUoAAHs5C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgFL32OUoAAHs5C.jpg",
+					"url": "https://t.co/fULeVbajcP",
+					"display_url": "pic.twitter.com/fULeVbajcP",
+					"expanded_url": "https://twitter.com/love_yuna/status/1585631974680428544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1585631966707167200,
+					"id_str": "1585631966707167232",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/FgFL32gVsAAxJ2v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgFL32gVsAAxJ2v.jpg",
+					"url": "https://t.co/fULeVbajcP",
+					"display_url": "pic.twitter.com/fULeVbajcP",
+					"expanded_url": "https://twitter.com/love_yuna/status/1585631974680428544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 965,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1791,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275431,
+			"friends_count": 599,
+			"listed_count": 2744,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 459,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 114,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 몫 노래 녹음 완료!!\n\n1. WW\n2. HHC\n3. SC\n\n하하하핫\n하나 남았다 이제!!\n\n#자우림_겨울스페셜앨범 \n#자우림 #이선규 #김진만 #김윤아 https://t.co/fULeVbajcP"
+	},
+	{
 		"created_at": "Thu Oct 27 13:40:16 +0000 2022",
 		"id": 1585617347305681000,
 		"id_str": "1585627442105942021",
