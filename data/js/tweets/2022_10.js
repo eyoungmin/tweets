@@ -1,6 +1,428 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 26 23:45:40 +0000 2022",
+		"id": 1585406246156488700,
+		"id_str": "1585417407862132736",
+		"full_text": "[LOONATHEWORLD] in EU Official Tour MD👕🧢 ONLINE SALE Open\n\n✨Mark your calendars, Orbit! \n\n📆October 28, 7 AM ~ November 4, 6:59 AM (GMT)\n🛒ONLY AVAILABLE FOR LIMITED TIME\n👀Don’t miss the 20% discounts!\n\n#이달의소녀 #LOONA \n#LOONATHEWORLD #1st_WorldTour \n#OfficialMD https://t.co/4lwKap1u2h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						201,
+						207
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						208,
+						214
+					]
+				},
+				{
+					"text": "LOONATHEWORLD",
+					"indices": [
+						216,
+						230
+					]
+				},
+				{
+					"text": "1st_WorldTour",
+					"indices": [
+						231,
+						245
+					]
+				},
+				{
+					"text": "OfficialMD",
+					"indices": [
+						247,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1585406235045777400,
+					"id_str": "1585406235045777408",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/FgB-kiiX0AAw-oG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgB-kiiX0AAw-oG.jpg",
+					"url": "https://t.co/4lwKap1u2h",
+					"display_url": "pic.twitter.com/4lwKap1u2h",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1585406246156488708/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 322,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 970,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 568,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585406235045777400,
+					"id_str": "1585406235045777408",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/FgB-kiiX0AAw-oG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgB-kiiX0AAw-oG.jpg",
+					"url": "https://t.co/4lwKap1u2h",
+					"display_url": "pic.twitter.com/4lwKap1u2h",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1585406246156488708/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 322,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 970,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 568,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://socialbu.com\" rel=\"nofollow\">socialbu.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149432,
+			"friends_count": 104,
+			"listed_count": 327,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 380,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[LOONATHEWORLD] in EU Official Tour MD👕🧢 ONLINE SALE Open\n\n✨Mark your calendars, Orbit! \n\n📆October 28, 7 AM ~ November 4, 6:59 AM (GMT)\n🛒ONLY AVAILABLE FOR LIMITED TIME\n👀Don’t miss the 20% discounts!\n\n#이달의소녀 #LOONA \n#LOONATHEWORLD #1st_WorldTour \n#OfficialMD https://t.co/4lwKap1u2h"
+	},
+	{
+		"created_at": "Wed Oct 26 23:45:37 +0000 2022",
+		"id": 1585406024621727700,
+		"id_str": "1585417394712879113",
+		"full_text": "[LOONATHEWORLD] in US Official Tour MD👕🧢 ONLINE SALE Open\n\n✨Mark your calendars, Orbit! \n\n📆October 28, 12 AM ~ November 3, 11:59 PM (PDT)\n🛒ONLY AVAILABLE FOR LIMITED TIME\n👀Don’t miss the 20% discounts!\n\n#이달의소녀 #LOONA \n#LOONATHEWORLD #1st_WorldTour \n#OfficialMD https://t.co/DHVaCy8a1B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						203,
+						209
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						210,
+						216
+					]
+				},
+				{
+					"text": "LOONATHEWORLD",
+					"indices": [
+						218,
+						232
+					]
+				},
+				{
+					"text": "1st_WorldTour",
+					"indices": [
+						233,
+						247
+					]
+				},
+				{
+					"text": "OfficialMD",
+					"indices": [
+						249,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1585406013334818800,
+					"id_str": "1585406013334818817",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/FgB-XomXEAE3KVl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgB-XomXEAE3KVl.jpg",
+					"url": "https://t.co/DHVaCy8a1B",
+					"display_url": "pic.twitter.com/DHVaCy8a1B",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1585406024621727745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 970,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 568,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 322,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585406013334818800,
+					"id_str": "1585406013334818817",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/FgB-XomXEAE3KVl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgB-XomXEAE3KVl.jpg",
+					"url": "https://t.co/DHVaCy8a1B",
+					"display_url": "pic.twitter.com/DHVaCy8a1B",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1585406024621727745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 970,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 568,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 322,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://socialbu.com\" rel=\"nofollow\">socialbu.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149432,
+			"friends_count": 104,
+			"listed_count": 327,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 443,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[LOONATHEWORLD] in US Official Tour MD👕🧢 ONLINE SALE Open\n\n✨Mark your calendars, Orbit! \n\n📆October 28, 12 AM ~ November 3, 11:59 PM (PDT)\n🛒ONLY AVAILABLE FOR LIMITED TIME\n👀Don’t miss the 20% discounts!\n\n#이달의소녀 #LOONA \n#LOONATHEWORLD #1st_WorldTour \n#OfficialMD https://t.co/DHVaCy8a1B"
+	},
+	{
 		"created_at": "Wed Oct 26 19:40:10 +0000 2022",
 		"id": 1585346325050454000,
 		"id_str": "1585355625453715467",
