@@ -1,6 +1,670 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 27 03:40:20 +0000 2022",
+		"id": 1585466316000882700,
+		"id_str": "1585476465767874563",
+		"full_text": "[달의 일기 #24] LOONATHEWORLD IN AMERICA Part.2\n\n또르르르 은옥이와 애옹이 굴러왔애옹\n덴버에서 레딩까지의 달의 일기 볼 오빛!\n알 유 레딩?! (feat. 🐟🐸)   \n\n▶ https://t.co/v7CCaSQZ9a\n\n#이달의소녀 #LOONA\n#달의일기 #LOONANOTE https://t.co/P8vFYJJhmj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "달의일기",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "LOONANOTE",
+					"indices": [
+						159,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v7CCaSQZ9a",
+					"expanded_url": "https://youtu.be/5MrEz30d98w",
+					"display_url": "youtu.be/5MrEz30d98w",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1585212563968516000,
+					"id_str": "1585212563968516099",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff_ObZjUYAMqUQF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff_ObZjUYAMqUQF.jpg",
+					"url": "https://t.co/P8vFYJJhmj",
+					"display_url": "pic.twitter.com/P8vFYJJhmj",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1585466316000882688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585212563968516000,
+					"id_str": "1585212563968516099",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff_ObZjUYAMqUQF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff_ObZjUYAMqUQF.jpg",
+					"url": "https://t.co/P8vFYJJhmj",
+					"display_url": "pic.twitter.com/P8vFYJJhmj",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1585466316000882688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 986557,
+			"friends_count": 3,
+			"listed_count": 8983,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 653,
+		"favorite_count": 2091,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[달의 일기 #24] LOONATHEWORLD IN AMERICA Part.2\n\n또르르르 은옥이와 애옹이 굴러왔애옹\n덴버에서 레딩까지의 달의 일기 볼 오빛!\n알 유 레딩?! (feat. 🐟🐸)   \n\n▶ https://t.co/v7CCaSQZ9a\n\n#이달의소녀 #LOONA\n#달의일기 #LOONANOTE https://t.co/P8vFYJJhmj"
+	},
+	{
+		"created_at": "Thu Oct 27 03:40:12 +0000 2022",
+		"id": 1585466314595844000,
+		"id_str": "1585476431693348869",
+		"full_text": "퍼플방 관찰기  Purple Room Observations\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/3KH2mHjh2l\n\n#tripleS #트리플에스 #トリプルS https://t.co/GTwjA3pRD9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						90,
+						98
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						106,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3KH2mHjh2l",
+					"expanded_url": "https://youtu.be/9B7XBmke6MA",
+					"display_url": "youtu.be/9B7XBmke6MA",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1585463420388020200,
+					"id_str": "1585463420388020225",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1585463420388020225/pu/img/YsNWIPg3WzAB7zF2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1585463420388020225/pu/img/YsNWIPg3WzAB7zF2.jpg",
+					"url": "https://t.co/GTwjA3pRD9",
+					"display_url": "pic.twitter.com/GTwjA3pRD9",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1585466314595844097/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585463420388020200,
+					"id_str": "1585463420388020225",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1585463420388020225/pu/img/YsNWIPg3WzAB7zF2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1585463420388020225/pu/img/YsNWIPg3WzAB7zF2.jpg",
+					"url": "https://t.co/GTwjA3pRD9",
+					"display_url": "pic.twitter.com/GTwjA3pRD9",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1585466314595844097/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30272,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1585463420388020225/pu/pl/hpsZXI8ne_ohvjGj.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1585463420388020225/pu/vid/640x360/j-oiQ7OU3-evigf8.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1585463420388020225/pu/vid/1280x720/SAv-Xv6JlULrsWpc.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1585463420388020225/pu/vid/480x270/aQh6TS6WSBLfrN2Z.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19179,
+			"friends_count": 0,
+			"listed_count": 116,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "퍼플방 관찰기  Purple Room Observations\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/3KH2mHjh2l\n\n#tripleS #트리플에스 #トリプルS https://t.co/GTwjA3pRD9"
+	},
+	{
+		"created_at": "Thu Oct 27 03:40:10 +0000 2022",
+		"id": 1585463796465664000,
+		"id_str": "1585476422658818049",
+		"full_text": "커피는 못 마시지만  Although I Can’t Drink Coffee\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/GIbDT0Je6G\n\n#tripleS #트리플에스 #トリプルS https://t.co/G0gsRLCB4U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						114,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GIbDT0Je6G",
+					"expanded_url": "https://youtu.be/0-rUimV5mBA",
+					"display_url": "youtu.be/0-rUimV5mBA",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1585463647106924500,
+					"id_str": "1585463647106924544",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FgCzB_maUAAaspO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgCzB_maUAAaspO.jpg",
+					"url": "https://t.co/G0gsRLCB4U",
+					"display_url": "pic.twitter.com/G0gsRLCB4U",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1585463796465664000/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585463647106924500,
+					"id_str": "1585463647106924544",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FgCzB_maUAAaspO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgCzB_maUAAaspO.jpg",
+					"url": "https://t.co/G0gsRLCB4U",
+					"display_url": "pic.twitter.com/G0gsRLCB4U",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1585463796465664000/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 10964,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1585463647106924544/pu/vid/480x270/eeQGov5uXcl7_LD1.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1585463647106924544/pu/vid/1280x720/Z8LJhLkgJLZLXBsB.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1585463647106924544/pu/pl/JvrcD6dlaDvywLT5.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1585463647106924544/pu/vid/640x360/QgNhUPOeWO45zla-.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19179,
+			"friends_count": 0,
+			"listed_count": 116,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "커피는 못 마시지만  Although I Can’t Drink Coffee\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/GIbDT0Je6G\n\n#tripleS #트리플에스 #トリプルS https://t.co/G0gsRLCB4U"
+	},
+	{
 		"created_at": "Thu Oct 27 02:40:28 +0000 2022",
 		"id": 1585459314789081000,
 		"id_str": "1585461399504961537",
