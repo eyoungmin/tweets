@@ -1,6 +1,1069 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 28 17:15:40 +0000 2022",
+		"id": 1586039021427634200,
+		"id_str": "1586044037294804992",
+		"full_text": "i can't wait to play shows again 🤍\ntickets for my 2023 tour are on sale now. \nhttps://t.co/Lg0Mg1lHzs https://t.co/QvfqDqSalN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Lg0Mg1lHzs",
+					"expanded_url": "http://www.officialbirdy.com/",
+					"display_url": "officialbirdy.com",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1586038645131206700,
+					"id_str": "1586038645131206657",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1586038645131206657/pu/img/WY3YGrNQvqRruv5d.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1586038645131206657/pu/img/WY3YGrNQvqRruv5d.jpg",
+					"url": "https://t.co/QvfqDqSalN",
+					"display_url": "pic.twitter.com/QvfqDqSalN",
+					"expanded_url": "https://twitter.com/birdy/status/1586039021427634180/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1586038645131206700,
+					"id_str": "1586038645131206657",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1586038645131206657/pu/img/WY3YGrNQvqRruv5d.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1586038645131206657/pu/img/WY3YGrNQvqRruv5d.jpg",
+					"url": "https://t.co/QvfqDqSalN",
+					"display_url": "pic.twitter.com/QvfqDqSalN",
+					"expanded_url": "https://twitter.com/birdy/status/1586039021427634180/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							76,
+							135
+						],
+						"duration_millis": 36880,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1586038645131206657/pu/pl/RQa7Ypvsx4hZ_D4H.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1586038645131206657/pu/vid/320x568/FFCkxrhrh9bQsPS8.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1586038645131206657/pu/vid/608x1080/9eCjG3__KTAAARHS.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1586038645131206657/pu/vid/480x852/U4xANMDaAy5cuaFh.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "State Lines with Hybrid Minds is out now ✨ tickets to my 2023 european tour are on sale",
+			"url": "https://t.co/ZKWv3eIilG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZKWv3eIilG",
+							"expanded_url": "https://linktr.ee/officialbirdy",
+							"display_url": "linktr.ee/officialbirdy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308996,
+			"friends_count": 177,
+			"listed_count": 1177,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 866,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1559470636900274176/uDiw2PLl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1559470636900274176/uDiw2PLl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1660641749",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "i can't wait to play shows again 🤍\ntickets for my 2023 tour are on sale now. \nhttps://t.co/Lg0Mg1lHzs https://t.co/QvfqDqSalN"
+	},
+	{
+		"created_at": "Fri Oct 28 15:40:32 +0000 2022",
+		"id": 1586010501183508500,
+		"id_str": "1586020098002780162",
+		"full_text": "Naver NOW.“The First Stage”\n\n「Generation」から「Rolex」のステージまで楽しくご覧になりましたか？\n明日また会いましょう🎧\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS https://t.co/g43Qrjrr8W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						100,
+						118
+					]
+				},
+				{
+					"text": "애시드엔젤프롬에이시아",
+					"indices": [
+						119,
+						131
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						132,
+						144
+					]
+				},
+				{
+					"text": "Generation",
+					"indices": [
+						145,
+						156
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						157,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1586010422552846300,
+					"id_str": "1586010422552846337",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FgKkE4ZUYAEC5XC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgKkE4ZUYAEC5XC.jpg",
+					"url": "https://t.co/g43Qrjrr8W",
+					"display_url": "pic.twitter.com/g43Qrjrr8W",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1586010501183508481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1586010422552846300,
+					"id_str": "1586010422552846337",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FgKkE4ZUYAEC5XC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgKkE4ZUYAEC5XC.jpg",
+					"url": "https://t.co/g43Qrjrr8W",
+					"display_url": "pic.twitter.com/g43Qrjrr8W",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1586010501183508481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1586010489766613000,
+		"in_reply_to_status_id_str": "1586010489766612992",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29077,
+			"friends_count": 0,
+			"listed_count": 147,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 228,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "Naver NOW.“The First Stage”\n\n「Generation」から「Rolex」のステージまで楽しくご覧になりましたか？\n明日また会いましょう🎧\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS https://t.co/g43Qrjrr8W"
+	},
+	{
+		"created_at": "Fri Oct 28 15:40:25 +0000 2022",
+		"id": 1586010489766613000,
+		"id_str": "1586020068076527619",
+		"full_text": "Naver NOW.“The First Stage”\n\nDid you enjoy ‘Generation’ and ‘Rolex’?\nSee you tomorrow🎧\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS https://t.co/U4ZJTWypMW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						104,
+						122
+					]
+				},
+				{
+					"text": "애시드엔젤프롬에이시아",
+					"indices": [
+						123,
+						135
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						136,
+						148
+					]
+				},
+				{
+					"text": "Generation",
+					"indices": [
+						149,
+						160
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						161,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1586010395512164400,
+					"id_str": "1586010395512164352",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FgKkDTqUUAAzPGu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgKkDTqUUAAzPGu.jpg",
+					"url": "https://t.co/U4ZJTWypMW",
+					"display_url": "pic.twitter.com/U4ZJTWypMW",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1586010489766612992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1586010395512164400,
+					"id_str": "1586010395512164352",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FgKkDTqUUAAzPGu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgKkDTqUUAAzPGu.jpg",
+					"url": "https://t.co/U4ZJTWypMW",
+					"display_url": "pic.twitter.com/U4ZJTWypMW",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1586010489766612992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1586010477334626300,
+		"in_reply_to_status_id_str": "1586010477334626305",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29077,
+			"friends_count": 0,
+			"listed_count": 147,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 275,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Naver NOW.“The First Stage”\n\nDid you enjoy ‘Generation’ and ‘Rolex’?\nSee you tomorrow🎧\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS https://t.co/U4ZJTWypMW"
+	},
+	{
+		"created_at": "Fri Oct 28 15:40:17 +0000 2022",
+		"id": 1586010477334626300,
+		"id_str": "1586020033989410816",
+		"full_text": "Naver NOW.“The First Stage”\n\n‘Generation’부터 ‘Rolex’무대까지 재미있게 보셨나요?\n내일 또 만나요🎧\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS https://t.co/VjF1IphHE1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						78,
+						86
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						94,
+						112
+					]
+				},
+				{
+					"text": "애시드엔젤프롬에이시아",
+					"indices": [
+						113,
+						125
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						126,
+						138
+					]
+				},
+				{
+					"text": "Generation",
+					"indices": [
+						139,
+						150
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						151,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1586010301740130300,
+					"id_str": "1586010301740130304",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FgKj92VUoAAKr-V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgKj92VUoAAKr-V.jpg",
+					"url": "https://t.co/VjF1IphHE1",
+					"display_url": "pic.twitter.com/VjF1IphHE1",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1586010477334626305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1586010301740130300,
+					"id_str": "1586010301740130304",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FgKj92VUoAAKr-V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgKj92VUoAAKr-V.jpg",
+					"url": "https://t.co/VjF1IphHE1",
+					"display_url": "pic.twitter.com/VjF1IphHE1",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1586010477334626305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29077,
+			"friends_count": 0,
+			"listed_count": 147,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 363,
+		"favorite_count": 1253,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Naver NOW.“The First Stage”\n\n‘Generation’부터 ‘Rolex’무대까지 재미있게 보셨나요?\n내일 또 만나요🎧\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS https://t.co/VjF1IphHE1"
+	},
+	{
+		"created_at": "Fri Oct 28 15:40:14 +0000 2022",
+		"id": 1586009899628220400,
+		"id_str": "1586020020831887362",
+		"full_text": "🐰NewJeans DEBUT 100 DAYS💕🎉\n\n#NewJeans #뉴진스\n#100DAYS_WITH_NewJeans\n#WeAreNewJeans #데뷔100일 https://t.co/tGrLDBgJP2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						28,
+						37
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "100DAYS_WITH_NewJeans",
+					"indices": [
+						43,
+						65
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						66,
+						80
+					]
+				},
+				{
+					"text": "데뷔100일",
+					"indices": [
+						81,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1586007563405267000,
+					"id_str": "1586007563405266946",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/FgKhedPakAIVuEh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgKhedPakAIVuEh.jpg",
+					"url": "https://t.co/tGrLDBgJP2",
+					"display_url": "pic.twitter.com/tGrLDBgJP2",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1586009899628220417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1586007563405267000,
+					"id_str": "1586007563405266946",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/FgKhedPakAIVuEh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgKhedPakAIVuEh.jpg",
+					"url": "https://t.co/tGrLDBgJP2",
+					"display_url": "pic.twitter.com/tGrLDBgJP2",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1586009899628220417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "NewJeans Official Twitter",
+			"url": "https://t.co/wITF1P8yFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1P8yFO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 613395,
+			"friends_count": 4,
+			"listed_count": 1917,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8391,
+		"favorite_count": 20685,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🐰NewJeans DEBUT 100 DAYS💕🎉\n\n#NewJeans #뉴진스\n#100DAYS_WITH_NewJeans\n#WeAreNewJeans #데뷔100일 https://t.co/tGrLDBgJP2"
+	},
+	{
 		"created_at": "Fri Oct 28 14:40:19 +0000 2022",
 		"id": 1586001317105139700,
 		"id_str": "1586004941650411522",
