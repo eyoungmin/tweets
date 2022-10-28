@@ -1,6 +1,588 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 28 13:40:29 +0000 2022",
+		"id": 1585964608065441800,
+		"id_str": "1585989886426992641",
+		"full_text": "Acid Angel from Asia.SSS ‘Generation’ Official Dance Ver.\n\nhttps://t.co/OWSAW7DRNl\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS https://t.co/V4452KbMUv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						100,
+						118
+					]
+				},
+				{
+					"text": "애시드엔젤프롬에이시아",
+					"indices": [
+						119,
+						131
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						132,
+						144
+					]
+				},
+				{
+					"text": "Generation",
+					"indices": [
+						145,
+						156
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						157,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OWSAW7DRNl",
+					"expanded_url": "https://youtu.be/oJD1l-qXMeE",
+					"display_url": "youtu.be/oJD1l-qXMeE",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1585903487367680000,
+					"id_str": "1585903487367680000",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FgJC0byakAA1I8R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgJC0byakAA1I8R.jpg",
+					"url": "https://t.co/V4452KbMUv",
+					"display_url": "pic.twitter.com/V4452KbMUv",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1585964608065441793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585903487367680000,
+					"id_str": "1585903487367680000",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FgJC0byakAA1I8R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgJC0byakAA1I8R.jpg",
+					"url": "https://t.co/V4452KbMUv",
+					"display_url": "pic.twitter.com/V4452KbMUv",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1585964608065441793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28012,
+			"friends_count": 0,
+			"listed_count": 151,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 394,
+		"favorite_count": 1009,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Acid Angel from Asia.SSS ‘Generation’ Official Dance Ver.\n\nhttps://t.co/OWSAW7DRNl\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS https://t.co/V4452KbMUv"
+	},
+	{
+		"created_at": "Fri Oct 28 13:40:19 +0000 2022",
+		"id": 1585963238830710800,
+		"id_str": "1585989843569590273",
+		"full_text": "tripleS\nAcid Angel from Asia\n\n221029 MBC 쇼! 음악중심 본방송 참여 명단 안내\n\nOfficial Discord : https://t.co/SPz9y65YMI\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						107,
+						115
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						123,
+						141
+					]
+				},
+				{
+					"text": "애시드엔젤프롬에이시아",
+					"indices": [
+						142,
+						154
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						155,
+						167
+					]
+				},
+				{
+					"text": "Generation",
+					"indices": [
+						168,
+						179
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						180,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SPz9y65YMI",
+					"expanded_url": "https://bit.ly/3U9DBzX",
+					"display_url": "bit.ly/3U9DBzX",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28012,
+			"friends_count": 0,
+			"listed_count": 151,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 201,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "tripleS\nAcid Angel from Asia\n\n221029 MBC 쇼! 음악중심 본방송 참여 명단 안내\n\nOfficial Discord : https://t.co/SPz9y65YMI\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS"
+	},
+	{
+		"created_at": "Fri Oct 28 13:40:10 +0000 2022",
+		"id": 1585959701359243300,
+		"id_str": "1585989805015552002",
+		"full_text": "this august, we spent two days running around Oslo with cameras, lights and a suitcase of clothes. honestly don’t understand how we got time to shoot it all. more to come, but here’s Driver (Up Close) from Kampen! 🏁 https://t.co/qFMwz70ZDC https://t.co/GKdGQ4Zaqd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qFMwz70ZDC",
+					"expanded_url": "https://Sigrid.lnk.to/drivervisualiserTW",
+					"display_url": "Sigrid.lnk.to/drivervisualis…",
+					"indices": [
+						216,
+						239
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1585959627123990500,
+					"id_str": "1585959627123990529",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1585959627123990529/pu/img/7CRj0mYkSQvx3nY7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1585959627123990529/pu/img/7CRj0mYkSQvx3nY7.jpg",
+					"url": "https://t.co/GKdGQ4Zaqd",
+					"display_url": "pic.twitter.com/GKdGQ4Zaqd",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1585959701359243266/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585959627123990500,
+					"id_str": "1585959627123990529",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1585959627123990529/pu/img/7CRj0mYkSQvx3nY7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1585959627123990529/pu/img/7CRj0mYkSQvx3nY7.jpg",
+					"url": "https://t.co/GKdGQ4Zaqd",
+					"display_url": "pic.twitter.com/GKdGQ4Zaqd",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1585959701359243266/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 18360,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1585959627123990529/pu/vid/720x1280/_AB4tL0D2zQA2VqK.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1585959627123990529/pu/vid/480x852/4Q4xxbQRZQoSE4Ti.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1585959627123990529/pu/pl/13H-ic_p_IwOUeFp.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1585959627123990529/pu/vid/320x568/6CGyfezRxGVqThDA.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/POgzOrDXO4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/POgzOrDXO4",
+							"expanded_url": "https://Sigrid.lnk.to/htlgspecialedition",
+							"display_url": "Sigrid.lnk.to/htlgspecialedi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89354,
+			"friends_count": 271,
+			"listed_count": 333,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 6169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1651819275",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 311,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this august, we spent two days running around Oslo with cameras, lights and a suitcase of clothes. honestly don’t understand how we got time to shoot it all. more to come, but here’s Driver (Up Close) from Kampen! 🏁 https://t.co/qFMwz70ZDC https://t.co/GKdGQ4Zaqd"
+	},
+	{
 		"created_at": "Fri Oct 28 12:15:38 +0000 2022",
 		"id": 1585961084900384800,
 		"id_str": "1585968529936855041",
