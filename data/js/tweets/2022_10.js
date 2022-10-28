@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 28 02:40:10 +0000 2022",
+		"id": 1585813605118795800,
+		"id_str": "1585823710098907138",
+		"full_text": "편-안한 안무 연습  A Rela-xing Choreo Rehearsal\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/3Pk2qUGLSV\n\n#tripleS #트리플에스 #トリプルS https://t.co/ryzblRlGBj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						113,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3Pk2qUGLSV",
+					"expanded_url": "https://youtu.be/kLJal6FmoE8",
+					"display_url": "youtu.be/kLJal6FmoE8",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1585810057513488400,
+					"id_str": "1585810057513488385",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1585810057513488385/pu/img/xTEB7IExRgBmfCxs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1585810057513488385/pu/img/xTEB7IExRgBmfCxs.jpg",
+					"url": "https://t.co/ryzblRlGBj",
+					"display_url": "pic.twitter.com/ryzblRlGBj",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1585813605118795776/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585810057513488400,
+					"id_str": "1585810057513488385",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1585810057513488385/pu/img/xTEB7IExRgBmfCxs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1585810057513488385/pu/img/xTEB7IExRgBmfCxs.jpg",
+					"url": "https://t.co/ryzblRlGBj",
+					"display_url": "pic.twitter.com/ryzblRlGBj",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1585813605118795776/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 36970,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1585810057513488385/pu/pl/7fVYeL2Z9WdC3V34.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1585810057513488385/pu/vid/1280x720/UCnk7XYwk6VmJrlT.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1585810057513488385/pu/vid/480x270/sYVu_C4VqJSC5Uwh.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1585810057513488385/pu/vid/640x360/UisZoX3rLEXDhSs7.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23988,
+			"friends_count": 0,
+			"listed_count": 141,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 736,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 274,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "편-안한 안무 연습  A Rela-xing Choreo Rehearsal\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/3Pk2qUGLSV\n\n#tripleS #트리플에스 #トリプルS https://t.co/ryzblRlGBj"
+	},
+	{
 		"created_at": "Fri Oct 28 01:29:41 +0000 2022",
 		"id": 1585800728458977300,
 		"id_str": "1585805973171617794",
