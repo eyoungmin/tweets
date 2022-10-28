@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 28 19:40:12 +0000 2022",
+		"id": 1586067468715688000,
+		"id_str": "1586080411070889986",
+		"full_text": "📡🍿 Ready to beam a full concert into thousands of cinemas around the world this weekend\n\nFind your local screening + get tickets at https://t.co/8MXtkUjuIb - and let us know where you’ll be watching\n\n#ColdplayLiveBroadcast #ColdplayBuenosAires https://t.co/t09aA6V3SK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ColdplayLiveBroadcast",
+					"indices": [
+						200,
+						222
+					]
+				},
+				{
+					"text": "ColdplayBuenosAires",
+					"indices": [
+						223,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8MXtkUjuIb",
+					"expanded_url": "http://www.coldplaycinema.live",
+					"display_url": "coldplaycinema.live",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1586067407629680600,
+					"id_str": "1586067407629680640",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1586067407629680640/pu/img/EYesa1OP-D9F7iDp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1586067407629680640/pu/img/EYesa1OP-D9F7iDp.jpg",
+					"url": "https://t.co/t09aA6V3SK",
+					"display_url": "pic.twitter.com/t09aA6V3SK",
+					"expanded_url": "https://twitter.com/coldplay/status/1586067468715687936/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1586067407629680600,
+					"id_str": "1586067407629680640",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1586067407629680640/pu/img/EYesa1OP-D9F7iDp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1586067407629680640/pu/img/EYesa1OP-D9F7iDp.jpg",
+					"url": "https://t.co/t09aA6V3SK",
+					"display_url": "pic.twitter.com/t09aA6V3SK",
+					"expanded_url": "https://twitter.com/coldplay/status/1586067468715687936/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 7003,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1586067407629680640/pu/vid/720x1280/OacMk3KdeMHsf6hv.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1586067407629680640/pu/pl/UIW-dv9A5drsfEjc.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1586067407629680640/pu/vid/480x852/9g9T3s9cTfo2fOmi.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1586067407629680640/pu/vid/320x568/MiVTovf6plz3krcU.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Buenos Aires, Argentina",
+			"description": "The official Twitter of the band Coldplay. Latest album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022/23.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23726971,
+			"friends_count": 779,
+			"listed_count": 42387,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9469,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 999,
+		"favorite_count": 4337,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📡🍿 Ready to beam a full concert into thousands of cinemas around the world this weekend\n\nFind your local screening + get tickets at https://t.co/8MXtkUjuIb - and let us know where you’ll be watching\n\n#ColdplayLiveBroadcast #ColdplayBuenosAires https://t.co/t09aA6V3SK"
+	},
+	{
 		"created_at": "Fri Oct 28 18:40:09 +0000 2022",
 		"id": 1586038753428181000,
 		"id_str": "1586065299853529088",
