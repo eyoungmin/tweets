@@ -1,6 +1,2344 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 28 11:40:39 +0000 2022",
+		"id": 1585951039911444500,
+		"id_str": "1585959729309880321",
+		"full_text": "最初のデビューステージはどうでしたか？✨\nこの後Naver NOW 「TheFirstStage」もお見逃しなく！🖤\nTheFirstStageではRolexも公開？👀\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS https://t.co/68JMGZ6lPj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						102,
+						120
+					]
+				},
+				{
+					"text": "애시드엔젤프롬에이시아",
+					"indices": [
+						121,
+						133
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						134,
+						146
+					]
+				},
+				{
+					"text": "Generation",
+					"indices": [
+						147,
+						158
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						159,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1585950708875948000,
+					"id_str": "1585950708875948033",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FgJtxFnUcAEsNvO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgJtxFnUcAEsNvO.jpg",
+					"url": "https://t.co/68JMGZ6lPj",
+					"display_url": "pic.twitter.com/68JMGZ6lPj",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1585951039911444482/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585950708875948000,
+					"id_str": "1585950708875948033",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FgJtxFnUcAEsNvO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgJtxFnUcAEsNvO.jpg",
+					"url": "https://t.co/68JMGZ6lPj",
+					"display_url": "pic.twitter.com/68JMGZ6lPj",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1585951039911444482/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1585951029996097500,
+		"in_reply_to_status_id_str": "1585951029996097536",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26923,
+			"friends_count": 0,
+			"listed_count": 151,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 173,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "最初のデビューステージはどうでしたか？✨\nこの後Naver NOW 「TheFirstStage」もお見逃しなく！🖤\nTheFirstStageではRolexも公開？👀\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS https://t.co/68JMGZ6lPj"
+	},
+	{
+		"created_at": "Fri Oct 28 11:40:32 +0000 2022",
+		"id": 1585951029996097500,
+		"id_str": "1585959699370938369",
+		"full_text": "Did you catch our debut stage? ✨\nPlease catch our upcoming NAVER NOW. “The First Stage”!🖤\nRolex might be performed on “The First Stage” ?👀\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS https://t.co/QI1JmYkHEE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						140,
+						148
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						156,
+						174
+					]
+				},
+				{
+					"text": "애시드엔젤프롬에이시아",
+					"indices": [
+						175,
+						187
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						188,
+						200
+					]
+				},
+				{
+					"text": "Generation",
+					"indices": [
+						201,
+						212
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						213,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1585950532522283000,
+					"id_str": "1585950532522283008",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/FgJtm0pVEAAlELX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgJtm0pVEAAlELX.jpg",
+					"url": "https://t.co/QI1JmYkHEE",
+					"display_url": "pic.twitter.com/QI1JmYkHEE",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1585951029996097536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585950532522283000,
+					"id_str": "1585950532522283008",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/FgJtm0pVEAAlELX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgJtm0pVEAAlELX.jpg",
+					"url": "https://t.co/QI1JmYkHEE",
+					"display_url": "pic.twitter.com/QI1JmYkHEE",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1585951029996097536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1585951020273741800,
+		"in_reply_to_status_id_str": "1585951020273741824",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26923,
+			"friends_count": 0,
+			"listed_count": 151,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 79,
+		"favorite_count": 306,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Did you catch our debut stage? ✨\nPlease catch our upcoming NAVER NOW. “The First Stage”!🖤\nRolex might be performed on “The First Stage” ?👀\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS https://t.co/QI1JmYkHEE"
+	},
+	{
+		"created_at": "Fri Oct 28 11:40:28 +0000 2022",
+		"id": 1585951020273741800,
+		"id_str": "1585959681943638017",
+		"full_text": "첫번째 데뷔 무대 잘 보셨나요? ✨\n좀 이따 Naver NOW. “The First Stage”도 놓치지 마세요! 🖤\nThe First Stage에서는 Rolex도 공개?👀\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS https://t.co/sUmKeqrS07",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						114,
+						132
+					]
+				},
+				{
+					"text": "애시드엔젤프롬에이시아",
+					"indices": [
+						133,
+						145
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						146,
+						158
+					]
+				},
+				{
+					"text": "Generation",
+					"indices": [
+						159,
+						170
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						171,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1585950232449122300,
+					"id_str": "1585950232449122305",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FgJtVWyUAAElTa5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgJtVWyUAAElTa5.jpg",
+					"url": "https://t.co/sUmKeqrS07",
+					"display_url": "pic.twitter.com/sUmKeqrS07",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1585951020273741824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585950232449122300,
+					"id_str": "1585950232449122305",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FgJtVWyUAAElTa5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgJtVWyUAAElTa5.jpg",
+					"url": "https://t.co/sUmKeqrS07",
+					"display_url": "pic.twitter.com/sUmKeqrS07",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1585951020273741824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26923,
+			"friends_count": 0,
+			"listed_count": 151,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 356,
+		"favorite_count": 1076,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "첫번째 데뷔 무대 잘 보셨나요? ✨\n좀 이따 Naver NOW. “The First Stage”도 놓치지 마세요! 🖤\nThe First Stage에서는 Rolex도 공개?👀\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS https://t.co/sUmKeqrS07"
+	},
+	{
+		"created_at": "Fri Oct 28 11:40:13 +0000 2022",
+		"id": 1584590548106707000,
+		"id_str": "1585959618043416577",
+		"full_text": "BIBI (@nakedbibi) '#LowlifePrincess: Noir' two -release singles 'Sweet Sorrow Of Mother' and 'Motospeed 24' https://t.co/Irv1sLkBax",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LowlifePrincess",
+					"indices": [
+						19,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nakedbibi",
+					"name": "nakedbibi",
+					"id": 1448497121867436000,
+					"id_str": "1448497121867436037",
+					"indices": [
+						6,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Irv1sLkBax",
+					"expanded_url": "https://uproxx.it/gjy48fb",
+					"display_url": "uproxx.it/gjy48fb",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://profile.uproxx.com\" rel=\"nofollow\">Thred</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19870967,
+			"id_str": "19870967",
+			"name": "UPROXX",
+			"screen_name": "UPROXX",
+			"location": "",
+			"description": "The Culture of Now -- Music. Film. TV. Creativity.",
+			"url": "https://t.co/JURdVbFkfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JURdVbFkfx",
+							"expanded_url": "http://www.uproxx.com/",
+							"display_url": "uproxx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90239,
+			"friends_count": 536,
+			"listed_count": 1814,
+			"created_at": "Sun Feb 01 19:01:39 +0000 2009",
+			"favourites_count": 15091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 195615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1393205758746058752/K6WOp75y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1393205758746058752/K6WOp75y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19870967/1658526789",
+			"profile_link_color": "2B8CD0",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "EEEAE7",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 76,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BIBI (@nakedbibi) '#LowlifePrincess: Noir' two -release singles 'Sweet Sorrow Of Mother' and 'Motospeed 24' https://t.co/Irv1sLkBax"
+	},
+	{
+		"created_at": "Fri Oct 28 11:40:10 +0000 2022",
+		"id": 1584575497388056600,
+		"id_str": "1585959604776800257",
+		"full_text": "Feeling emboldened by the daring spirit behind the collection, @nakedbibi graces the pages of #Dazed Korea adorned with the magnificent necklace and earrings from the B.zero1 collection — audacious jewelry created for life's rule-breakers. #Bulgari #BulgariJewelry #Bzero1 https://t.co/K7Y03Xpqi4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Dazed",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "Bulgari",
+					"indices": [
+						240,
+						248
+					]
+				},
+				{
+					"text": "BulgariJewelry",
+					"indices": [
+						249,
+						264
+					]
+				},
+				{
+					"text": "Bzero1",
+					"indices": [
+						265,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nakedbibi",
+					"name": "nakedbibi",
+					"id": 1448497121867436000,
+					"id_str": "1448497121867436037",
+					"indices": [
+						63,
+						73
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584575446066561000,
+					"id_str": "1584575446066561024",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff2K-QaagAAV2nB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff2K-QaagAAV2nB.jpg",
+					"url": "https://t.co/K7Y03Xpqi4",
+					"display_url": "pic.twitter.com/K7Y03Xpqi4",
+					"expanded_url": "https://twitter.com/Bulgariofficial/status/1584575497388056578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 941,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 958,
+							"h": 1222,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584575446066561000,
+					"id_str": "1584575446066561024",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff2K-QaagAAV2nB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff2K-QaagAAV2nB.jpg",
+					"url": "https://t.co/K7Y03Xpqi4",
+					"display_url": "pic.twitter.com/K7Y03Xpqi4",
+					"expanded_url": "https://twitter.com/Bulgariofficial/status/1584575497388056578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 941,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 958,
+							"h": 1222,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialbakers.com/\" rel=\"nofollow\">Emplifi</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 60649803,
+			"id_str": "60649803",
+			"name": "Bulgari",
+			"screen_name": "Bulgariofficial",
+			"location": "Rome, Italy",
+			"description": "Bulgari, the magnificent Italian Jeweler since 1884",
+			"url": "https://t.co/8eYF586rYt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8eYF586rYt",
+							"expanded_url": "http://www.bulgari.com/",
+							"display_url": "bulgari.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 768935,
+			"friends_count": 21,
+			"listed_count": 2789,
+			"created_at": "Mon Jul 27 17:06:19 +0000 2009",
+			"favourites_count": 461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/569828110397227008/U_Zt6Pxp_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/569828110397227008/U_Zt6Pxp_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/60649803/1481113323",
+			"profile_link_color": "0755B5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 217,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Feeling emboldened by the daring spirit behind the collection, @nakedbibi graces the pages of #Dazed Korea adorned with the magnificent necklace and earrings from the B.zero1 collection — audacious jewelry created for life's rule-breakers. #Bulgari #BulgariJewelry #Bzero1 https://t.co/K7Y03Xpqi4"
+	},
+	{
+		"created_at": "Fri Oct 28 11:02:41 +0000 2022",
+		"id": 1585949731054026800,
+		"id_str": "1585950173028487168",
+		"full_text": "💖신나서 무대를 뒤집어버렸다!✨ SEULGI 슬기 '28 Reasons' 음악방송 비하인드 I 28 Reasons\n\nhttps://t.co/4stBsAuEHa\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons #Behind https://t.co/chS1bOuz2K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						94,
+						101
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						120,
+						130
+					]
+				},
+				{
+					"text": "Behind",
+					"indices": [
+						131,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4stBsAuEHa",
+					"expanded_url": "https://youtu.be/HrsrAj_4V64",
+					"display_url": "youtu.be/HrsrAj_4V64",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1585949716138713000,
+					"id_str": "1585949716138713088",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FgJs3TYUYAAv1WZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgJs3TYUYAAv1WZ.jpg",
+					"url": "https://t.co/chS1bOuz2K",
+					"display_url": "pic.twitter.com/chS1bOuz2K",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1585949731054026752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585949716138713000,
+					"id_str": "1585949716138713088",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FgJs3TYUYAAv1WZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgJs3TYUYAAv1WZ.jpg",
+					"url": "https://t.co/chS1bOuz2K",
+					"display_url": "pic.twitter.com/chS1bOuz2K",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1585949731054026752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5690398,
+			"friends_count": 2,
+			"listed_count": 11360,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2568,
+		"favorite_count": 5857,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💖신나서 무대를 뒤집어버렸다!✨ SEULGI 슬기 '28 Reasons' 음악방송 비하인드 I 28 Reasons\n\nhttps://t.co/4stBsAuEHa\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons #Behind https://t.co/chS1bOuz2K"
+	},
+	{
+		"created_at": "Fri Oct 28 10:40:10 +0000 2022",
+		"id": 1585934410074837000,
+		"id_str": "1585944505685102599",
+		"full_text": "[💭]\n#aespa_diaries -ViVi\n\n最後は全員での撮影風景からクールに決めるメンバーの姿をお届けします💙⭐️🌙🦋\nまた次のaespa diaries をお楽しみに👀✨\n\n#aespa #æspa #에스파 #エスパ https://t.co/ew41CNQBQf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa_diaries",
+					"indices": [
+						4,
+						18
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						111,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584382379334197200,
+					"id_str": "1584382379334197248",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FfzbYSyaYAAnFQN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfzbYSyaYAAnFQN.jpg",
+					"url": "https://t.co/ew41CNQBQf",
+					"display_url": "pic.twitter.com/ew41CNQBQf",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1585934410074836993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584382379334197200,
+					"id_str": "1584382379334197248",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FfzbYSyaYAAnFQN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfzbYSyaYAAnFQN.jpg",
+					"url": "https://t.co/ew41CNQBQf",
+					"display_url": "pic.twitter.com/ew41CNQBQf",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1585934410074836993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 220625,
+			"friends_count": 1,
+			"listed_count": 685,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2567,
+		"favorite_count": 8513,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[💭]\n#aespa_diaries -ViVi\n\n最後は全員での撮影風景からクールに決めるメンバーの姿をお届けします💙⭐️🌙🦋\nまた次のaespa diaries をお楽しみに👀✨\n\n#aespa #æspa #에스파 #エスパ https://t.co/ew41CNQBQf"
+	},
+	{
+		"created_at": "Fri Oct 28 09:47:28 +0000 2022",
+		"id": 1585919303395647500,
+		"id_str": "1585931246277754880",
+		"full_text": "#뉴진스 처럼 찰랑거리는 머릿결이 갖고 싶다면?\n에디터가 추천해 주는 헤어 템 보러 가자!\n#민니 #아이들 @G_I_DLE #레드벨벳 #조이 @RVsmtown #닝닝 #카리나 #에스파  @asepa_official #사나  @JYPETSICE  #트와이스 #장원영 #아이브  @IVEstarship  #민지 @NewJeans_ADOR \nhttps://t.co/YDC0enmVLR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뉴진스",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "민니",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "아이들",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "닝닝",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "사나",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "장원영",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "아이브",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "민지",
+					"indices": [
+						168,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "G_I_DLE",
+					"name": "(G)I-DLE·(여자)아이들",
+					"id": 967000437797761000,
+					"id_str": "967000437797761024",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						79,
+						88
+					]
+				},
+				{
+					"screen_name": "asepa_official",
+					"name": "aespa 🍥",
+					"id": 1344638801902092300,
+					"id_str": "1344638801902092290",
+					"indices": [
+						104,
+						119
+					]
+				},
+				{
+					"screen_name": "IVEstarship",
+					"name": "IVE OFFICIAL",
+					"id": 1402182579265048600,
+					"id_str": "1402182579265048598",
+					"indices": [
+						154,
+						166
+					]
+				},
+				{
+					"screen_name": "NewJeans_ADOR",
+					"name": "NewJeans",
+					"id": 1476476838180696000,
+					"id_str": "1476476838180696073",
+					"indices": [
+						172,
+						186
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YDC0enmVLR",
+					"expanded_url": "https://www.allurekorea.com/?p=186263&ddw=127162&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=186263&ddw=…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38103,
+			"friends_count": 1,
+			"listed_count": 300,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7788,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1666074741",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#뉴진스 처럼 찰랑거리는 머릿결이 갖고 싶다면?\n에디터가 추천해 주는 헤어 템 보러 가자!\n#민니 #아이들 @G_I_DLE #레드벨벳 #조이 @RVsmtown #닝닝 #카리나 #에스파  @asepa_official #사나  @JYPETSICE  #트와이스 #장원영 #아이브  @IVEstarship  #민지 @NewJeans_ADOR \nhttps://t.co/YDC0enmVLR"
+	},
+	{
+		"created_at": "Fri Oct 28 09:40:28 +0000 2022",
+		"id": 1585924099926544400,
+		"id_str": "1585929484116664323",
+		"full_text": "tripleSの初デビュー！Acid Angel from Asiaのアルバム&lt;ACCESS&gt;がオンライン音源サイトにてオープン致しました！たくさん聴いて下さい！\n\nSpotify : https://t.co/KEjaCGIIyx\nApple Music : https://t.co/S2aq88kdHb\n\n#tripleS #트리플에스 #AcidAngelfromAsia #tripleS_AAA\n#Generation #ACCESS https://t.co/0hUT5n9zFe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						162,
+						170
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						171,
+						177
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						178,
+						196
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						197,
+						209
+					]
+				},
+				{
+					"text": "Generation",
+					"indices": [
+						210,
+						221
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						222,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KEjaCGIIyx",
+					"expanded_url": "https://spoti.fi/3TIw2jV",
+					"display_url": "spoti.fi/3TIw2jV",
+					"indices": [
+						99,
+						122
+					]
+				},
+				{
+					"url": "https://t.co/S2aq88kdHb",
+					"expanded_url": "https://apple.co/3gPgigr",
+					"display_url": "apple.co/3gPgigr",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1585919843030945800,
+					"id_str": "1585919843030945792",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FgJRsdYaUAACjNR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgJRsdYaUAACjNR.jpg",
+					"url": "https://t.co/0hUT5n9zFe",
+					"display_url": "pic.twitter.com/0hUT5n9zFe",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1585924099926544384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585919843030945800,
+					"id_str": "1585919843030945792",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FgJRsdYaUAACjNR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgJRsdYaUAACjNR.jpg",
+					"url": "https://t.co/0hUT5n9zFe",
+					"display_url": "pic.twitter.com/0hUT5n9zFe",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1585924099926544384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1585924090283839500,
+		"in_reply_to_status_id_str": "1585924090283839488",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26923,
+			"friends_count": 0,
+			"listed_count": 151,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 238,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "tripleSの初デビュー！Acid Angel from Asiaのアルバム&lt;ACCESS&gt;がオンライン音源サイトにてオープン致しました！たくさん聴いて下さい！\n\nSpotify : https://t.co/KEjaCGIIyx\nApple Music : https://t.co/S2aq88kdHb\n\n#tripleS #트리플에스 #AcidAngelfromAsia #tripleS_AAA\n#Generation #ACCESS https://t.co/0hUT5n9zFe"
+	},
+	{
+		"created_at": "Fri Oct 28 09:40:26 +0000 2022",
+		"id": 1585924090283839500,
+		"id_str": "1585929475233120258",
+		"full_text": "tripleS’ first debut! Acid Angel from Asia’s &lt;ACCESS&gt; is now open! Please check out the following links to hear it!\n\nSpotify : https://t.co/KEjaCGIIyx\nApple Music : https://t.co/S2aq88kdHb\n\n#tripleS #트리플에스 #AcidAngelfromAsia #tripleS_AAA\n#Generation #ACCESS https://t.co/TwBwgPFwsz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						196,
+						204
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						205,
+						211
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						212,
+						230
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						231,
+						243
+					]
+				},
+				{
+					"text": "Generation",
+					"indices": [
+						244,
+						255
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						256,
+						263
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KEjaCGIIyx",
+					"expanded_url": "https://spoti.fi/3TIw2jV",
+					"display_url": "spoti.fi/3TIw2jV",
+					"indices": [
+						133,
+						156
+					]
+				},
+				{
+					"url": "https://t.co/S2aq88kdHb",
+					"expanded_url": "https://apple.co/3gPgigr",
+					"display_url": "apple.co/3gPgigr",
+					"indices": [
+						171,
+						194
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1585919740266303500,
+					"id_str": "1585919740266303489",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/FgJRmejaUAEWMS8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgJRmejaUAEWMS8.jpg",
+					"url": "https://t.co/TwBwgPFwsz",
+					"display_url": "pic.twitter.com/TwBwgPFwsz",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1585924090283839488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585919740266303500,
+					"id_str": "1585919740266303489",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/FgJRmejaUAEWMS8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgJRmejaUAEWMS8.jpg",
+					"url": "https://t.co/TwBwgPFwsz",
+					"display_url": "pic.twitter.com/TwBwgPFwsz",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1585924090283839488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1585924079890333700,
+		"in_reply_to_status_id_str": "1585924079890333697",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26923,
+			"friends_count": 0,
+			"listed_count": 151,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 154,
+		"favorite_count": 361,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "tripleS’ first debut! Acid Angel from Asia’s &lt;ACCESS&gt; is now open! Please check out the following links to hear it!\n\nSpotify : https://t.co/KEjaCGIIyx\nApple Music : https://t.co/S2aq88kdHb\n\n#tripleS #트리플에스 #AcidAngelfromAsia #tripleS_AAA\n#Generation #ACCESS https://t.co/TwBwgPFwsz"
+	},
+	{
+		"created_at": "Fri Oct 28 09:40:23 +0000 2022",
+		"id": 1585924079890333700,
+		"id_str": "1585929462125936640",
+		"full_text": "tripleS의 첫 데뷔! Acid Angel from Asia의 앨범 &lt;ACCESS&gt;가 온라인 음원 사이트에서 오픈되었습니다! 많이 들어주세요!\n\n스포티파이 : https://t.co/KEjaCGIIyx\n애플뮤직 : https://t.co/S2aq88kdHb\n\n#tripleS #트리플에스 #AcidAngelfromAsia #tripleS_AAA\n#Generation #ACCESS https://t.co/saviahSTG6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						153,
+						161
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						162,
+						168
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						169,
+						187
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						188,
+						200
+					]
+				},
+				{
+					"text": "Generation",
+					"indices": [
+						201,
+						212
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						213,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KEjaCGIIyx",
+					"expanded_url": "https://spoti.fi/3TIw2jV",
+					"display_url": "spoti.fi/3TIw2jV",
+					"indices": [
+						97,
+						120
+					]
+				},
+				{
+					"url": "https://t.co/S2aq88kdHb",
+					"expanded_url": "https://apple.co/3gPgigr",
+					"display_url": "apple.co/3gPgigr",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1585923482432700400,
+					"id_str": "1585923482432700416",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/FgJVATNaAAAMKEB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgJVATNaAAAMKEB.jpg",
+					"url": "https://t.co/saviahSTG6",
+					"display_url": "pic.twitter.com/saviahSTG6",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1585924079890333697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585923482432700400,
+					"id_str": "1585923482432700416",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/FgJVATNaAAAMKEB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgJVATNaAAAMKEB.jpg",
+					"url": "https://t.co/saviahSTG6",
+					"display_url": "pic.twitter.com/saviahSTG6",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1585924079890333697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1585924070410924000,
+		"in_reply_to_status_id_str": "1585924070410924034",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26923,
+			"friends_count": 0,
+			"listed_count": 151,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "tripleS의 첫 데뷔! Acid Angel from Asia의 앨범 &lt;ACCESS&gt;가 온라인 음원 사이트에서 오픈되었습니다! 많이 들어주세요!\n\n스포티파이 : https://t.co/KEjaCGIIyx\n애플뮤직 : https://t.co/S2aq88kdHb\n\n#tripleS #트리플에스 #AcidAngelfromAsia #tripleS_AAA\n#Generation #ACCESS https://t.co/saviahSTG6"
+	},
+	{
 		"created_at": "Fri Oct 28 08:45:37 +0000 2022",
 		"id": 1585908059465023500,
 		"id_str": "1585915680808996864",
