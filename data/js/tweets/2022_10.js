@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 27 23:29:39 +0000 2022",
+		"id": 1585771023273980000,
+		"id_str": "1585775764959543297",
+		"full_text": "10월 29일(토)부터 &lt;#공조2_인터내셔날&gt; 과몰입 서비스 오픈!📺🔥\n...?! 앗차; 극장 동시 서비스 오픈!😅\n\n📌이제 집에서도 극장에서도 공조하자!\n#예매 ▶https://t.co/kbTEEq3B3V\n⠀\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #절찬상영중 https://t.co/ppzG0gl0hz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"text": "예매",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "절찬상영중",
+					"indices": [
+						162,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kbTEEq3B3V",
+					"expanded_url": "https://linktr.ee/cjenmmovie",
+					"display_url": "linktr.ee/cjenmmovie",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1585770956886528000,
+					"id_str": "1585770956886528001",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FgHKSJRaUAEinqb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgHKSJRaUAEinqb.jpg",
+					"url": "https://t.co/ppzG0gl0hz",
+					"display_url": "pic.twitter.com/ppzG0gl0hz",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1585771023273979904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585770956886528000,
+					"id_str": "1585770956886528001",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FgHKSJRaUAEinqb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgHKSJRaUAEinqb.jpg",
+					"url": "https://t.co/ppzG0gl0hz",
+					"display_url": "pic.twitter.com/ppzG0gl0hz",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1585771023273979904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1essF3t7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1essF3t7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331530,
+			"friends_count": 10605,
+			"listed_count": 263,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7638,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1666740044",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "10월 29일(토)부터 &lt;#공조2_인터내셔날&gt; 과몰입 서비스 오픈!📺🔥\n...?! 앗차; 극장 동시 서비스 오픈!😅\n\n📌이제 집에서도 극장에서도 공조하자!\n#예매 ▶https://t.co/kbTEEq3B3V\n⠀\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #절찬상영중 https://t.co/ppzG0gl0hz"
+	},
+	{
 		"created_at": "Thu Oct 27 18:40:23 +0000 2022",
 		"id": 1585690441642541000,
 		"id_str": "1585702970687201284",
