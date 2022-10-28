@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 28 03:40:24 +0000 2022",
+		"id": 1585833846087426000,
+		"id_str": "1585838869936758785",
+		"full_text": "tripleS\nAcid Angel from Asia\n\n221029 MBC 쇼! 음악중심 본방송 참여 안내\n\nOfficial Discord : https://t.co/ruvANIxzG5\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						104,
+						112
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						120,
+						138
+					]
+				},
+				{
+					"text": "애시드엔젤프롬에이시아",
+					"indices": [
+						139,
+						151
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						152,
+						164
+					]
+				},
+				{
+					"text": "Generation",
+					"indices": [
+						165,
+						176
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						177,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ruvANIxzG5",
+					"expanded_url": "https://bit.ly/3zpCZ0Z",
+					"display_url": "bit.ly/3zpCZ0Z",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24276,
+			"friends_count": 0,
+			"listed_count": 140,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 164,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "tripleS\nAcid Angel from Asia\n\n221029 MBC 쇼! 음악중심 본방송 참여 안내\n\nOfficial Discord : https://t.co/ruvANIxzG5\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS"
+	},
+	{
+		"created_at": "Fri Oct 28 03:40:16 +0000 2022",
+		"id": 1585833605070102500,
+		"id_str": "1585838835849728000",
+		"full_text": "슬슬 뭘 올릴까나😘 https://t.co/Zo41uGVnI9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1585833596366901200,
+					"id_str": "1585833596366901248",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/FgIDQPhUUAAtvQn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgIDQPhUUAAtvQn.jpg",
+					"url": "https://t.co/Zo41uGVnI9",
+					"display_url": "pic.twitter.com/Zo41uGVnI9",
+					"expanded_url": "https://twitter.com/silly__silky/status/1585833605070102528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585833596366901200,
+					"id_str": "1585833596366901248",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/FgIDQPhUUAAtvQn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgIDQPhUUAAtvQn.jpg",
+					"url": "https://t.co/Zo41uGVnI9",
+					"display_url": "pic.twitter.com/Zo41uGVnI9",
+					"expanded_url": "https://twitter.com/silly__silky/status/1585833605070102528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1474343943890677800,
+			"id_str": "1474343943890677765",
+			"name": "𝓢𝓲𝓵𝓵𝔂 𝓢𝓲𝓵𝓴𝔂",
+			"screen_name": "silly__silky",
+			"location": "",
+			"description": "✨ 𝓢𝓲𝓵𝓵𝔂 𝓢𝓲𝓵𝓴𝔂 ✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29,
+			"friends_count": 2,
+			"listed_count": 1,
+			"created_at": "Fri Dec 24 11:39:40 +0000 2021",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1580926387581353984/pLEDAQ9d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1580926387581353984/pLEDAQ9d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1474343943890677765/1652342994",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬슬 뭘 올릴까나😘 https://t.co/Zo41uGVnI9"
+	},
+	{
 		"created_at": "Fri Oct 28 02:40:10 +0000 2022",
 		"id": 1585813605118795800,
 		"id_str": "1585823710098907138",
