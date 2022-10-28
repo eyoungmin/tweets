@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 28 14:40:19 +0000 2022",
+		"id": 1586001317105139700,
+		"id_str": "1586004941650411522",
+		"full_text": "#IGC #인천글로벌캠퍼스 너무 고마워요!! 🧡 다리 아팠을 텐데 같이 놀아줘 너무 즐겁고 좋은 에너지 받고 가요!! 🍬 Happy Halloween🎃🎃🎃\n\n#청하 #CHUNGHA https://t.co/75NzC1HM1M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IGC",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "인천글로벌캠퍼스",
+					"indices": [
+						5,
+						14
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						92,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1586001310800695300,
+					"id_str": "1586001310800695296",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FgKbygeUUAAieOb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgKbygeUUAAieOb.jpg",
+					"url": "https://t.co/75NzC1HM1M",
+					"display_url": "pic.twitter.com/75NzC1HM1M",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1586001317105139712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1586001310800695300,
+					"id_str": "1586001310800695296",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FgKbygeUUAAieOb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgKbygeUUAAieOb.jpg",
+					"url": "https://t.co/75NzC1HM1M",
+					"display_url": "pic.twitter.com/75NzC1HM1M",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1586001317105139712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1586001310783983600,
+					"id_str": "1586001310783983616",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FgKbygaVUAAY6P2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgKbygaVUAAY6P2.jpg",
+					"url": "https://t.co/75NzC1HM1M",
+					"display_url": "pic.twitter.com/75NzC1HM1M",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1586001317105139712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1586001310767161300,
+					"id_str": "1586001310767161344",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FgKbygWUoAA9066.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgKbygWUoAA9066.jpg",
+					"url": "https://t.co/75NzC1HM1M",
+					"display_url": "pic.twitter.com/75NzC1HM1M",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1586001317105139712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 356089,
+			"friends_count": 1,
+			"listed_count": 2221,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2581,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 151,
+		"favorite_count": 559,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#IGC #인천글로벌캠퍼스 너무 고마워요!! 🧡 다리 아팠을 텐데 같이 놀아줘 너무 즐겁고 좋은 에너지 받고 가요!! 🍬 Happy Halloween🎃🎃🎃\n\n#청하 #CHUNGHA https://t.co/75NzC1HM1M"
+	},
+	{
 		"created_at": "Fri Oct 28 13:40:29 +0000 2022",
 		"id": 1585964608065441800,
 		"id_str": "1585989886426992641",
@@ -513,7 +789,7 @@ Grailbird.data.tweets_2022_10 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "How To Let Go out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/POgzOrDXO4",
 			"entities": {
 				"url": {
