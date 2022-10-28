@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 28 05:40:25 +0000 2022",
+		"id": 1585860357750288400,
+		"id_str": "1585869073203830785",
+		"full_text": "期間限定！10月28日-10月31日には、AAAの新規発売されるATOM 01の3番目のエディションオブジェクトだけに会うことができます。 また、11月1日-11月7日はAAAWeekで、AAAメンバーのATOM 01(101Z-120Z)オブジェクトだけに会うことができます。\n\n#tripleS #트리플에스 #トリプルS https://t.co/qW2mOf3ERO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						141,
+						149
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						157,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1585860266687725600,
+					"id_str": "1585860266687725568",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FgIbgqNUAAAJkiB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgIbgqNUAAAJkiB.jpg",
+					"url": "https://t.co/qW2mOf3ERO",
+					"display_url": "pic.twitter.com/qW2mOf3ERO",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1585860357750288384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585860266687725600,
+					"id_str": "1585860266687725568",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FgIbgqNUAAAJkiB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgIbgqNUAAAJkiB.jpg",
+					"url": "https://t.co/qW2mOf3ERO",
+					"display_url": "pic.twitter.com/qW2mOf3ERO",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1585860357750288384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1585860349034496000,
+		"in_reply_to_status_id_str": "1585860349034496001",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24774,
+			"friends_count": 0,
+			"listed_count": 142,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "期間限定！10月28日-10月31日には、AAAの新規発売されるATOM 01の3番目のエディションオブジェクトだけに会うことができます。 また、11月1日-11月7日はAAAWeekで、AAAメンバーのATOM 01(101Z-120Z)オブジェクトだけに会うことができます。\n\n#tripleS #트리플에스 #トリプルS https://t.co/qW2mOf3ERO"
+	},
+	{
+		"created_at": "Fri Oct 28 05:40:19 +0000 2022",
+		"id": 1585860349034496000,
+		"id_str": "1585869047513620481",
+		"full_text": "Limited time only! From Oct 28th - Oct 31st you can get our newly launched AAA ATOM 3rd edition Objekts. Also, Nov 1st - Nov 7th will be AAA week, during this time only AAA ATOM 01 Objekts(101Z - 120Z) can be acquired.\n\n#tripleS #트리플에스 #トリプルS https://t.co/sK3h2PcTaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						220,
+						228
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						229,
+						235
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						236,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1585860207766216700,
+					"id_str": "1585860207766216704",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FgIbdOtVIAA_N9U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgIbdOtVIAA_N9U.jpg",
+					"url": "https://t.co/sK3h2PcTaw",
+					"display_url": "pic.twitter.com/sK3h2PcTaw",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1585860349034496001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585860207766216700,
+					"id_str": "1585860207766216704",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FgIbdOtVIAA_N9U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgIbdOtVIAA_N9U.jpg",
+					"url": "https://t.co/sK3h2PcTaw",
+					"display_url": "pic.twitter.com/sK3h2PcTaw",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1585860349034496001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1585860340318843000,
+		"in_reply_to_status_id_str": "1585860340318842880",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24774,
+			"friends_count": 0,
+			"listed_count": 142,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Limited time only! From Oct 28th - Oct 31st you can get our newly launched AAA ATOM 3rd edition Objekts. Also, Nov 1st - Nov 7th will be AAA week, during this time only AAA ATOM 01 Objekts(101Z - 120Z) can be acquired.\n\n#tripleS #트리플에스 #トリプルS https://t.co/sK3h2PcTaw"
+	},
+	{
 		"created_at": "Fri Oct 28 04:40:17 +0000 2022",
 		"id": 1585850874622259200,
 		"id_str": "1585853939597119488",
