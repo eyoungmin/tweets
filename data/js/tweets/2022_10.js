@@ -1,6 +1,483 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 29 03:40:28 +0000 2022",
+		"id": 1586191398164131800,
+		"id_str": "1586201273883365377",
+		"full_text": "[#이달의소녀]\nHalloween EVENT \n‘Trick Or Treat LOONA’ (Orbit 4기 only) 안내\n\n자세한 내용은 공식 팬카페 Orbit 4.0 NOTICE에서 확인해주시기 바랍니다.\n👉👉 https://t.co/V47gYdhPQm\n\n#LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						144,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V47gYdhPQm",
+					"expanded_url": "https://m.cafe.daum.net/loonatheworld/IPld/3",
+					"display_url": "m.cafe.daum.net/loonatheworld/…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 773078392660856800,
+			"id_str": "773078392660856832",
+			"name": "이달의 소녀 Staff",
+			"screen_name": "loonaStaff",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33094,
+			"friends_count": 1,
+			"listed_count": 560,
+			"created_at": "Tue Sep 06 08:40:26 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/773078392660856832/1655716440",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 125,
+		"favorite_count": 415,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이달의소녀]\nHalloween EVENT \n‘Trick Or Treat LOONA’ (Orbit 4기 only) 안내\n\n자세한 내용은 공식 팬카페 Orbit 4.0 NOTICE에서 확인해주시기 바랍니다.\n👉👉 https://t.co/V47gYdhPQm\n\n#LOONA"
+	},
+	{
+		"created_at": "Sat Oct 29 03:40:19 +0000 2022",
+		"id": 1586191147948339200,
+		"id_str": "1586201235631312896",
+		"full_text": "🐰데뷔 100일 기념💙 Special Quiz Show🥕\n\n🔗https://t.co/hCQjMUjeOU\n\n#NewJeans #뉴진스\n#100DAYS_WITH_NewJeans\n#WeAreNewJeans #데뷔100일",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						59,
+						68
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "100DAYS_WITH_NewJeans",
+					"indices": [
+						74,
+						96
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						97,
+						111
+					]
+				},
+				{
+					"text": "데뷔100일",
+					"indices": [
+						112,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hCQjMUjeOU",
+					"expanded_url": "https://youtu.be/JpX3-8hbtOE",
+					"display_url": "youtu.be/JpX3-8hbtOE",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "NewJeans Official Twitter",
+			"url": "https://t.co/wITF1P8yFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1P8yFO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 615403,
+			"friends_count": 4,
+			"listed_count": 1928,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 873,
+		"favorite_count": 2450,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🐰데뷔 100일 기념💙 Special Quiz Show🥕\n\n🔗https://t.co/hCQjMUjeOU\n\n#NewJeans #뉴진스\n#100DAYS_WITH_NewJeans\n#WeAreNewJeans #데뷔100일"
+	},
+	{
+		"created_at": "Sat Oct 29 03:40:10 +0000 2022",
+		"id": 1586191097918722000,
+		"id_str": "1586201197383385089",
+		"full_text": "데뷔하겠습니다  Gonna Debut\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/Az3WcXPIcs\n\n#tripleS #트리플에스 #トリプルS https://t.co/EQNIqjGPer",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						93,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Az3WcXPIcs",
+					"expanded_url": "http://youtu.be/sM8ra4F1YXE",
+					"display_url": "youtu.be/sM8ra4F1YXE",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1586186140377194500,
+					"id_str": "1586186140377194499",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FgNI8A8UoAMg7MD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgNI8A8UoAMg7MD.jpg",
+					"url": "https://t.co/EQNIqjGPer",
+					"display_url": "pic.twitter.com/EQNIqjGPer",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1586191097918722048/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1586186140377194500,
+					"id_str": "1586186140377194499",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FgNI8A8UoAMg7MD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgNI8A8UoAMg7MD.jpg",
+					"url": "https://t.co/EQNIqjGPer",
+					"display_url": "pic.twitter.com/EQNIqjGPer",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1586191097918722048/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 72768,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1586186140377194499/pu/vid/480x270/nK9NrB865-KZyoWw.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1586186140377194499/pu/pl/YanYsVj1U6iY2Ij2.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1586186140377194499/pu/vid/1280x720/O0YisqZ5YtS72NdN.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1586186140377194499/pu/vid/640x360/0Qw0eGyIvRtUtnHC.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30491,
+			"friends_count": 0,
+			"listed_count": 154,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 322,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "데뷔하겠습니다  Gonna Debut\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/Az3WcXPIcs\n\n#tripleS #트리플에스 #トリプルS https://t.co/EQNIqjGPer"
+	},
+	{
 		"created_at": "Sat Oct 29 00:40:15 +0000 2022",
 		"id": 1586155142143152000,
 		"id_str": "1586155919783727105",
