@@ -1,6 +1,779 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 29 06:40:32 +0000 2022",
+		"id": 1586239031272427500,
+		"id_str": "1586246590452453378",
+		"full_text": "🎂GISELLE's Birthday\n📢10/30 Instagram LIVE coming soon \n🌙지젤에게 궁금한 점을 아래 해시태그를 포함하여 작성해 주세요!\nUse the hashtag below to ask any questions to GISELLE!\n\n#QnA_with_GISELLE\n\n마이🖤 궁금한 거 다 물어볼 수 있다. \n30날 봐잉 ~! -지젤 \n\n#aespa #GISELLE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "QnA_with_GISELLE",
+					"indices": [
+						147,
+						164
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						205,
+						211
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						212,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3245122,
+			"friends_count": 2,
+			"listed_count": 9644,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3161,
+		"favorite_count": 7410,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "🎂GISELLE's Birthday\n📢10/30 Instagram LIVE coming soon \n🌙지젤에게 궁금한 점을 아래 해시태그를 포함하여 작성해 주세요!\nUse the hashtag below to ask any questions to GISELLE!\n\n#QnA_with_GISELLE\n\n마이🖤 궁금한 거 다 물어볼 수 있다. \n30날 봐잉 ~! -지젤 \n\n#aespa #GISELLE"
+	},
+	{
+		"created_at": "Sat Oct 29 06:40:28 +0000 2022",
+		"id": 1586236493873324000,
+		"id_str": "1586246573167616000",
+		"full_text": "NAVER VIBE「#パーティールーム」開催案内\n\n10月29日今夜10時30分！\nNAVER VIBEで‘パーティールーム’を行います！ 1:1音声会話も予定されています🖤\nバイブで会いましょう💜\n\n#tripleS #트리플에스 #AcidAngelfromAsia #tripleS_AAA\n#Generation #ACCESS https://t.co/hDt5su8go3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "パーティールーム",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"text": "tripleS",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						118,
+						136
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						137,
+						149
+					]
+				},
+				{
+					"text": "Generation",
+					"indices": [
+						150,
+						161
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						162,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1586234880987304000,
+					"id_str": "1586234880987303937",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FgNwOFOVEAEHuTY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgNwOFOVEAEHuTY.jpg",
+					"url": "https://t.co/hDt5su8go3",
+					"display_url": "pic.twitter.com/hDt5su8go3",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1586236493873324032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1586234880987304000,
+					"id_str": "1586234880987303937",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FgNwOFOVEAEHuTY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgNwOFOVEAEHuTY.jpg",
+					"url": "https://t.co/hDt5su8go3",
+					"display_url": "pic.twitter.com/hDt5su8go3",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1586236493873324032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1586236489138024400,
+		"in_reply_to_status_id_str": "1586236489138024448",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30894,
+			"friends_count": 0,
+			"listed_count": 151,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 762,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "NAVER VIBE「#パーティールーム」開催案内\n\n10月29日今夜10時30分！\nNAVER VIBEで‘パーティールーム’を行います！ 1:1音声会話も予定されています🖤\nバイブで会いましょう💜\n\n#tripleS #트리플에스 #AcidAngelfromAsia #tripleS_AAA\n#Generation #ACCESS https://t.co/hDt5su8go3"
+	},
+	{
+		"created_at": "Sat Oct 29 06:40:21 +0000 2022",
+		"id": 1586236489138024400,
+		"id_str": "1586246543191023618",
+		"full_text": "NAVER VIBE ‘#PartyRoom’ Announcement\n\nTonight (October 29th) at 10:30 pm KST/9:30am EST!\nNAVER VIBE is hosting its ‘Party Room’! 1:1 talks are also in the plans🖤\nMeet us on VIBE💜\n\n#tripleS #트리플에스 #AcidAngelfromAsia #tripleS_AAA\n#Generation #ACCESS https://t.co/ehQZ5I16WN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PartyRoom",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"text": "tripleS",
+					"indices": [
+						180,
+						188
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						189,
+						195
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						196,
+						214
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						215,
+						227
+					]
+				},
+				{
+					"text": "Generation",
+					"indices": [
+						228,
+						239
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						240,
+						247
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1586234415713165300,
+					"id_str": "1586234415713165313",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/FgNvy_8VIAExmsg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgNvy_8VIAExmsg.jpg",
+					"url": "https://t.co/ehQZ5I16WN",
+					"display_url": "pic.twitter.com/ehQZ5I16WN",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1586236489138024448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1586234415713165300,
+					"id_str": "1586234415713165313",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/FgNvy_8VIAExmsg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgNvy_8VIAExmsg.jpg",
+					"url": "https://t.co/ehQZ5I16WN",
+					"display_url": "pic.twitter.com/ehQZ5I16WN",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1586236489138024448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1586236482473246700,
+		"in_reply_to_status_id_str": "1586236482473246720",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30894,
+			"friends_count": 0,
+			"listed_count": 151,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 762,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NAVER VIBE ‘#PartyRoom’ Announcement\n\nTonight (October 29th) at 10:30 pm KST/9:30am EST!\nNAVER VIBE is hosting its ‘Party Room’! 1:1 talks are also in the plans🖤\nMeet us on VIBE💜\n\n#tripleS #트리플에스 #AcidAngelfromAsia #tripleS_AAA\n#Generation #ACCESS https://t.co/ehQZ5I16WN"
+	},
+	{
+		"created_at": "Sat Oct 29 06:40:15 +0000 2022",
+		"id": 1586236482473246700,
+		"id_str": "1586246517429608448",
+		"full_text": "NAVER VIBE ‘#파티룸’ 진행 안내\n\n10월 29일 오늘 밤 10시 30분!\nNAVER VIBE에서 ‘파티룸’을 진행합니다! \n1:1 음성대화도 예정되어 있어요🖤\n바이브에서 만나요💜\n\n🔗https://t.co/RqJq8D41Nx\n🔗https://t.co/OE9YnTSyEt\n\n#tripleS #트리플에스 #AcidAngelfromAsia #tripleS_AAA\n#Generation #ACCESS https://t.co/ev9vut5wVv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "파티룸",
+					"indices": [
+						12,
+						16
+					]
+				},
+				{
+					"text": "tripleS",
+					"indices": [
+						158,
+						166
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						167,
+						173
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						174,
+						192
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						193,
+						205
+					]
+				},
+				{
+					"text": "Generation",
+					"indices": [
+						206,
+						217
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						218,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RqJq8D41Nx",
+					"expanded_url": "http://apple.co/3q7glq9",
+					"display_url": "apple.co/3q7glq9",
+					"indices": [
+						108,
+						131
+					]
+				},
+				{
+					"url": "https://t.co/OE9YnTSyEt",
+					"expanded_url": "http://bit.ly/335pXZo",
+					"display_url": "bit.ly/335pXZo",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1586233813528563700,
+					"id_str": "1586233813528563712",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FgNvP8oVUAAOIvM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgNvP8oVUAAOIvM.jpg",
+					"url": "https://t.co/ev9vut5wVv",
+					"display_url": "pic.twitter.com/ev9vut5wVv",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1586236482473246720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1586233813528563700,
+					"id_str": "1586233813528563712",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FgNvP8oVUAAOIvM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgNvP8oVUAAOIvM.jpg",
+					"url": "https://t.co/ev9vut5wVv",
+					"display_url": "pic.twitter.com/ev9vut5wVv",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1586236482473246720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30894,
+			"friends_count": 0,
+			"listed_count": 151,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 762,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 215,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "NAVER VIBE ‘#파티룸’ 진행 안내\n\n10월 29일 오늘 밤 10시 30분!\nNAVER VIBE에서 ‘파티룸’을 진행합니다! \n1:1 음성대화도 예정되어 있어요🖤\n바이브에서 만나요💜\n\n🔗https://t.co/RqJq8D41Nx\n🔗https://t.co/OE9YnTSyEt\n\n#tripleS #트리플에스 #AcidAngelfromAsia #tripleS_AAA\n#Generation #ACCESS https://t.co/ev9vut5wVv"
+	},
+	{
 		"created_at": "Sat Oct 29 05:40:10 +0000 2022",
 		"id": 1586221288393244700,
 		"id_str": "1586231396250664961",
