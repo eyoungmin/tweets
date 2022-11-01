@@ -1,10 +1,185 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 01 11:40:10 +0000 2022",
+		"id": 1587356284416045000,
+		"id_str": "1587409156348280839",
+		"full_text": "일하는 자우림은 사랑입니다. https://t.co/3vIeXT98Dt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1587356273439232000,
+					"id_str": "1587356273439232000",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/FgdsHtpVUAActzM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgdsHtpVUAActzM.jpg",
+					"url": "https://t.co/3vIeXT98Dt",
+					"display_url": "pic.twitter.com/3vIeXT98Dt",
+					"expanded_url": "https://twitter.com/2sunkyu/status/1587356284416045057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1587356273439232000,
+					"id_str": "1587356273439232000",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/FgdsHtpVUAActzM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgdsHtpVUAActzM.jpg",
+					"url": "https://t.co/3vIeXT98Dt",
+					"display_url": "pic.twitter.com/3vIeXT98Dt",
+					"expanded_url": "https://twitter.com/2sunkyu/status/1587356284416045057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 126699468,
+			"id_str": "126699468",
+			"name": "이선규",
+			"screen_name": "2sunkyu",
+			"location": "",
+			"description": "Rock'n'Roll Warrior",
+			"url": "https://t.co/IF62RzeIlP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IF62RzeIlP",
+							"expanded_url": "https://www.youtube.com/c/rockandrollwarrior",
+							"display_url": "youtube.com/c/rockandrollw…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3740,
+			"friends_count": 111,
+			"listed_count": 72,
+			"created_at": "Fri Mar 26 18:20:30 +0000 2010",
+			"favourites_count": 306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077886139338448896/ONGm7dac_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077886139338448896/ONGm7dac_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/126699468/1657371506",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 72,
+		"favorite_count": 188,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일하는 자우림은 사랑입니다. https://t.co/3vIeXT98Dt"
+	},
+	{
 		"created_at": "Tue Nov 01 05:40:12 +0000 2022",
 		"id": 1587317510956687400,
 		"id_str": "1587318568252841984",
-		"full_text": "[💚📲]\n\nLINE公式アカウントにメッセージが届きました⭐️\n\n☑️お友達登録はこちら🧚‍♂️\n\nhttps://t.co/Ocf7Q7pR52 https://t.co/ooWCLEY67f",
+		"full_text": "[💚📲]\n\nLINE公式アカウントにメッセージが届きました⭐️\n\n☑️お友達登録はこちら🧚♂️\n\nhttps://t.co/Ocf7Q7pR52 https://t.co/ooWCLEY67f",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -183,7 +358,7 @@ Grailbird.data.tweets_2022_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ja",
-		"text": "[💚📲]\n\nLINE公式アカウントにメッセージが届きました⭐️\n\n☑️お友達登録はこちら🧚‍♂️\n\nhttps://t.co/Ocf7Q7pR52 https://t.co/ooWCLEY67f"
+		"text": "[💚📲]\n\nLINE公式アカウントにメッセージが届きました⭐️\n\n☑️お友達登録はこちら🧚♂️\n\nhttps://t.co/Ocf7Q7pR52 https://t.co/ooWCLEY67f"
 	},
 	{
 		"created_at": "Tue Nov 01 02:40:33 +0000 2022",
