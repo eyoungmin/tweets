@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Wed Nov 02 07:40:15 +0000 2022",
+		"id": 1587687247138402300,
+		"id_str": "1587711168617095168",
+		"full_text": "✍️SIGNED ALBUM ALERT✍️\ntripleS - Acid Angel from Asia [ACCESS] [US Edition]\n\n💿 Limited SIGNED album\n💜 Albums will include all the member's signatures!\n\nGRAB IT NOW!\n🌎 https://t.co/RthwjGJngv\n\n@triplescosmos\n#tripleS #트리플에스\n#hello82 #hello82shop https://t.co/Iypb7TZmjm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						207,
+						215
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						216,
+						222
+					]
+				},
+				{
+					"text": "hello82",
+					"indices": [
+						223,
+						231
+					]
+				},
+				{
+					"text": "hello82shop",
+					"indices": [
+						232,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "triplescosmos",
+					"name": "tripleS official",
+					"id": 1509037477369024500,
+					"id_str": "1509037477369024517",
+					"indices": [
+						192,
+						206
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RthwjGJngv",
+					"expanded_url": "http://bit.ly/3SUYzRV",
+					"display_url": "bit.ly/3SUYzRV",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1587687126141137000,
+					"id_str": "1587687126141136896",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FgiZB4AacAAPgAW.png",
+					"media_url_https": "https://pbs.twimg.com/media/FgiZB4AacAAPgAW.png",
+					"url": "https://t.co/Iypb7TZmjm",
+					"display_url": "pic.twitter.com/Iypb7TZmjm",
+					"expanded_url": "https://twitter.com/hello82shop/status/1587687247138402305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1587687126141137000,
+					"id_str": "1587687126141136896",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FgiZB4AacAAPgAW.png",
+					"media_url_https": "https://pbs.twimg.com/media/FgiZB4AacAAPgAW.png",
+					"url": "https://t.co/Iypb7TZmjm",
+					"display_url": "pic.twitter.com/Iypb7TZmjm",
+					"expanded_url": "https://twitter.com/hello82shop/status/1587687247138402305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1333688761595564000,
+			"id_str": "1333688761595564032",
+			"name": "hello82shop",
+			"screen_name": "hello82shop",
+			"location": "",
+			"description": "We got you covered! 🎉 \nBest deals on K-pop albums & merch \nBest shipping price in the U.S.\n👉🏻 Fastest update on https://t.co/FZI4NiNva3 products",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FZI4NiNva3",
+							"expanded_url": "http://hello82.shop",
+							"display_url": "hello82.shop",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4724,
+			"friends_count": 8,
+			"listed_count": 12,
+			"created_at": "Tue Dec 01 08:26:08 +0000 2020",
+			"favourites_count": 242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539494689996689408/zR98kP3B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539494689996689408/zR98kP3B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1333688761595564032/1656653841",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 237,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✍️SIGNED ALBUM ALERT✍️\ntripleS - Acid Angel from Asia [ACCESS] [US Edition]\n\n💿 Limited SIGNED album\n💜 Albums will include all the member's signatures!\n\nGRAB IT NOW!\n🌎 https://t.co/RthwjGJngv\n\n@triplescosmos\n#tripleS #트리플에스\n#hello82 #hello82shop https://t.co/Iypb7TZmjm"
+	},
+	{
 		"created_at": "Wed Nov 02 04:40:10 +0000 2022",
 		"id": 1587653547981959200,
 		"id_str": "1587665848860540929",
