@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Wed Nov 02 03:40:14 +0000 2022",
+		"id": 1587650661763932200,
+		"id_str": "1587650766667489280",
+		"full_text": "이태원에서 발생한 안타까운 사고에 깊은 슬픔과 애도를 표하며, 마음을 함께하고자 11/13 (일) 왓챠홀에서 진행 예정인 호세쿠엘보 X 아도이 공연취소를 결정하게 되었습니다.\n\n많은 기대와 함께 공연을 기다려주신 모든 분들께 사과의 말씀을 드립니다. \n\n@josecuervo_kr @adoyband 올림 https://t.co/aqKQIpe7Yx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adoyband",
+					"name": "ADOY",
+					"id": 755405901515718700,
+					"id_str": "755405901515718656",
+					"indices": [
+						157,
+						166
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1587650655212433400,
+					"id_str": "1587650655212433408",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Fgh32_NacAAYRb8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fgh32_NacAAYRb8.jpg",
+					"url": "https://t.co/aqKQIpe7Yx",
+					"display_url": "pic.twitter.com/aqKQIpe7Yx",
+					"expanded_url": "https://twitter.com/adoyband/status/1587650661763932160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 739,
+							"h": 735,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 739,
+							"h": 735,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1587650655212433400,
+					"id_str": "1587650655212433408",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Fgh32_NacAAYRb8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fgh32_NacAAYRb8.jpg",
+					"url": "https://t.co/aqKQIpe7Yx",
+					"display_url": "pic.twitter.com/aqKQIpe7Yx",
+					"expanded_url": "https://twitter.com/adoyband/status/1587650661763932160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 739,
+							"h": 735,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 739,
+							"h": 735,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/6Dss1BKxuA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6Dss1BKxuA",
+							"expanded_url": "https://m.ticket.melon.com/public/index.html#performance.index?prodId=206862",
+							"display_url": "m.ticket.melon.com/public/index.h…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5254,
+			"friends_count": 482,
+			"listed_count": 42,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1625820897",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이태원에서 발생한 안타까운 사고에 깊은 슬픔과 애도를 표하며, 마음을 함께하고자 11/13 (일) 왓챠홀에서 진행 예정인 호세쿠엘보 X 아도이 공연취소를 결정하게 되었습니다.\n\n많은 기대와 함께 공연을 기다려주신 모든 분들께 사과의 말씀을 드립니다. \n\n@josecuervo_kr @adoyband 올림 https://t.co/aqKQIpe7Yx"
+	},
+	{
 		"created_at": "Tue Nov 01 15:40:10 +0000 2022",
 		"id": 1587466336657182700,
 		"id_str": "1587469555433181190",
