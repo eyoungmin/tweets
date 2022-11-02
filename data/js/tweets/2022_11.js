@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Wed Nov 02 13:40:10 +0000 2022",
+		"id": 1587443310997692400,
+		"id_str": "1587801745039695878",
+		"full_text": "Today, we joined together with an unprecedented group of artists, industry leaders and legal experts to publish an open letter in @nytimes and @ajc calling attention to the racially discriminatory practice of treating rap lyrics as confessions. (1/4) https://t.co/NVmaPWIVnx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						130,
+						138
+					]
+				},
+				{
+					"screen_name": "ajc",
+					"name": "Atlanta Journal-Constitution",
+					"id": 4170491,
+					"id_str": "4170491",
+					"indices": [
+						143,
+						147
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1587443307352887300,
+					"id_str": "1587443307352887298",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/Fge7RwPXEAIPkgF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fge7RwPXEAIPkgF.jpg",
+					"url": "https://t.co/NVmaPWIVnx",
+					"display_url": "pic.twitter.com/NVmaPWIVnx",
+					"expanded_url": "https://twitter.com/AtlanticRecords/status/1587443310997692416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1587443307352887300,
+					"id_str": "1587443307352887298",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/Fge7RwPXEAIPkgF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fge7RwPXEAIPkgF.jpg",
+					"url": "https://t.co/NVmaPWIVnx",
+					"display_url": "pic.twitter.com/NVmaPWIVnx",
+					"expanded_url": "https://twitter.com/AtlanticRecords/status/1587443310997692416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24429991,
+			"id_str": "24429991",
+			"name": "Atlantic Records",
+			"screen_name": "AtlanticRecords",
+			"location": "",
+			"description": "Music For Everyone 🎵 #BlackLivesMatter",
+			"url": "https://t.co/WL9h7cbeoY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WL9h7cbeoY",
+							"expanded_url": "https://linkin.bio/atlanticrecords",
+							"display_url": "linkin.bio/atlanticrecords",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 687933,
+			"friends_count": 1113,
+			"listed_count": 4067,
+			"created_at": "Sat Mar 14 21:07:28 +0000 2009",
+			"favourites_count": 10507,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 37464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478331635129061376/nPCDjhek_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478331635129061376/nPCDjhek_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24429991/1641296703",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "333333",
+			"profile_text_color": "6B6B6B",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 434,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today, we joined together with an unprecedented group of artists, industry leaders and legal experts to publish an open letter in @nytimes and @ajc calling attention to the racially discriminatory practice of treating rap lyrics as confessions. (1/4) https://t.co/NVmaPWIVnx"
+	},
+	{
 		"created_at": "Wed Nov 02 07:40:15 +0000 2022",
 		"id": 1587687247138402300,
 		"id_str": "1587711168617095168",
