@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 03 03:40:10 +0000 2022",
+		"id": 1587998838350037000,
+		"id_str": "1588013136728170496",
+		"full_text": "26시간 동안의 이동 종료. https://t.co/VSYUJs7l8f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1587998831622471700,
+					"id_str": "1587998831622471680",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/Fgm0hhaXwAAYM5w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fgm0hhaXwAAYM5w.jpg",
+					"url": "https://t.co/VSYUJs7l8f",
+					"display_url": "pic.twitter.com/VSYUJs7l8f",
+					"expanded_url": "https://twitter.com/love_yuna/status/1587998838350036992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1587998831622471700,
+					"id_str": "1587998831622471680",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/Fgm0hhaXwAAYM5w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fgm0hhaXwAAYM5w.jpg",
+					"url": "https://t.co/VSYUJs7l8f",
+					"display_url": "pic.twitter.com/VSYUJs7l8f",
+					"expanded_url": "https://twitter.com/love_yuna/status/1587998838350036992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1587998831614066700,
+					"id_str": "1587998831614066690",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/Fgm0hhYXgAI6a5c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fgm0hhYXgAI6a5c.jpg",
+					"url": "https://t.co/VSYUJs7l8f",
+					"display_url": "pic.twitter.com/VSYUJs7l8f",
+					"expanded_url": "https://twitter.com/love_yuna/status/1587998838350036992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1587998831626670000,
+					"id_str": "1587998831626670080",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/Fgm0hhbX0AAuii9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fgm0hhbX0AAuii9.jpg",
+					"url": "https://t.co/VSYUJs7l8f",
+					"display_url": "pic.twitter.com/VSYUJs7l8f",
+					"expanded_url": "https://twitter.com/love_yuna/status/1587998838350036992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1587998831622459400,
+					"id_str": "1587998831622459394",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/Fgm0hhaXkAItshD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fgm0hhaXkAItshD.jpg",
+					"url": "https://t.co/VSYUJs7l8f",
+					"display_url": "pic.twitter.com/VSYUJs7l8f",
+					"expanded_url": "https://twitter.com/love_yuna/status/1587998838350036992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1587988913875886000,
+		"in_reply_to_status_id_str": "1587988913875886081",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275540,
+			"friends_count": 597,
+			"listed_count": 2739,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1587350693115199488/WeM4899U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587350693115199488/WeM4899U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1667288883",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "26시간 동안의 이동 종료. https://t.co/VSYUJs7l8f"
+	},
+	{
 		"created_at": "Thu Nov 03 02:40:12 +0000 2022",
 		"id": 1587988913875886000,
 		"id_str": "1587998045056241664",
