@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 03 02:40:12 +0000 2022",
+		"id": 1587988913875886000,
+		"id_str": "1587998045056241664",
+		"full_text": "굿바이, 프랑크푸르트\n헬로, 포르투 https://t.co/nZ0Yp2gHiT https://t.co/sGRfp4mgfg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nZ0Yp2gHiT",
+					"expanded_url": "https://twitter.com/i/web/status/1587988913875886081",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1587988795034464300,
+					"id_str": "1587988795034464256",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/FgmrZUNUcAAJ9Zh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgmrZUNUcAAJ9Zh.jpg",
+					"url": "https://t.co/sGRfp4mgfg",
+					"display_url": "pic.twitter.com/sGRfp4mgfg",
+					"expanded_url": "https://twitter.com/love_yuna/status/1587988913875886081/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 820,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 820,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1587988795034464300,
+					"id_str": "1587988795034464256",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/FgmrZUNUcAAJ9Zh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgmrZUNUcAAJ9Zh.jpg",
+					"url": "https://t.co/sGRfp4mgfg",
+					"display_url": "pic.twitter.com/sGRfp4mgfg",
+					"expanded_url": "https://twitter.com/love_yuna/status/1587988913875886081/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 820,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 820,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1587874291227693000,
+		"in_reply_to_status_id_str": "1587874291227693057",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275643,
+			"friends_count": 597,
+			"listed_count": 2739,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1587350693115199488/WeM4899U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587350693115199488/WeM4899U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1667288883",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "굿바이, 프랑크푸르트\n헬로, 포르투 https://t.co/nZ0Yp2gHiT https://t.co/sGRfp4mgfg"
+	},
+	{
 		"created_at": "Wed Nov 02 18:40:10 +0000 2022",
 		"id": 1587874291227693000,
 		"id_str": "1587877240343232512",
