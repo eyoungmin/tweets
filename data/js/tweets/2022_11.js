@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 04 03:40:10 +0000 2022",
+		"id": 1588365427800842200,
+		"id_str": "1588375526275780608",
+		"full_text": "[💿] tripleS: Acid Angel from Asia [ACCESS] 발매 기념 팬사인회 이벤트 안내\n\n➠응모 기간: 11/4(금) 12PM - 11/5(토) 11:59PM\n➠이벤트 진행 일시: 11/22(화) 7PM~\n\n트리플에스 사인회 응모가 시작되었습니다!\n이벤트 배너와 #위드뮤 에서 확인해주세요!\n\n#tripleS #트리플에스 #ACCESS https://t.co/A6vTA81tH0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "위드뮤",
+					"indices": [
+						159,
+						163
+					]
+				},
+				{
+					"text": "tripleS",
+					"indices": [
+						176,
+						184
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						185,
+						191
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						192,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1588325337909248000,
+					"id_str": "1588325337909248001",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FgrdesHVQAECfNL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgrdesHVQAECfNL.jpg",
+					"url": "https://t.co/A6vTA81tH0",
+					"display_url": "pic.twitter.com/A6vTA81tH0",
+					"expanded_url": "https://twitter.com/Withmuu_twt/status/1588365427800842241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 209,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 369,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 630,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1588325337909248000,
+					"id_str": "1588325337909248001",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FgrdesHVQAECfNL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgrdesHVQAECfNL.jpg",
+					"url": "https://t.co/A6vTA81tH0",
+					"display_url": "pic.twitter.com/A6vTA81tH0",
+					"expanded_url": "https://twitter.com/Withmuu_twt/status/1588365427800842241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 209,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 369,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 630,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1588325337896693800,
+					"id_str": "1588325337896693760",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FgrdesEVsAAfMu2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgrdesEVsAAfMu2.jpg",
+					"url": "https://t.co/A6vTA81tH0",
+					"display_url": "pic.twitter.com/A6vTA81tH0",
+					"expanded_url": "https://twitter.com/Withmuu_twt/status/1588365427800842241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 743,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 247,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 436,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 435785308,
+			"id_str": "435785308",
+			"name": "𝘄𝗶𝘁𝗵𝗺𝘂𝘂 위드뮤",
+			"screen_name": "Withmuu_twt",
+			"location": "",
+			"description": "Official Twitter Account of withmuu\n(구)위드드라마",
+			"url": "https://t.co/yMoENHzmZg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yMoENHzmZg",
+							"expanded_url": "http://withmuu.com",
+							"display_url": "withmuu.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46621,
+			"friends_count": 3,
+			"listed_count": 130,
+			"created_at": "Tue Dec 13 12:54:24 +0000 2011",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509789668912820229/919tg9gv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509789668912820229/919tg9gv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/435785308/1648796893",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 108,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💿] tripleS: Acid Angel from Asia [ACCESS] 발매 기념 팬사인회 이벤트 안내\n\n➠응모 기간: 11/4(금) 12PM - 11/5(토) 11:59PM\n➠이벤트 진행 일시: 11/22(화) 7PM~\n\n트리플에스 사인회 응모가 시작되었습니다!\n이벤트 배너와 #위드뮤 에서 확인해주세요!\n\n#tripleS #트리플에스 #ACCESS https://t.co/A6vTA81tH0"
+	},
+	{
 		"created_at": "Fri Nov 04 02:40:10 +0000 2022",
 		"id": 1588336623015858200,
 		"id_str": "1588360425376256000",
