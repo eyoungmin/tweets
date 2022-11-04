@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 04 12:29:38 +0000 2022",
+		"id": 1588501313926709200,
+		"id_str": "1588508772024164352",
+		"full_text": "툭 걸치기만 해도 겨울 스타일링 완성! #소녀시대 #수영 #효민 #이진이 #이해리 PICK #롱코트 추천템\n\nhttps://t.co/Drm87Ldu3V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						22,
+						27
+					]
+				},
+				{
+					"text": "수영",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "효민",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "이진이",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "이해리",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "롱코트",
+					"indices": [
+						51,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Drm87Ldu3V",
+					"expanded_url": "https://www.allurekorea.com/?p=186830&ddw=127886&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=186830&ddw=…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38097,
+			"friends_count": 1,
+			"listed_count": 299,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1666074741",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "툭 걸치기만 해도 겨울 스타일링 완성! #소녀시대 #수영 #효민 #이진이 #이해리 PICK #롱코트 추천템\n\nhttps://t.co/Drm87Ldu3V"
+	},
+	{
 		"created_at": "Fri Nov 04 11:40:16 +0000 2022",
 		"id": 1588486776624410600,
 		"id_str": "1588496347937783810",
