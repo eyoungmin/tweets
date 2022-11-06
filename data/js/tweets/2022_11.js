@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 06 04:40:10 +0000 2022",
+		"id": 1589090375548825600,
+		"id_str": "1589115399395844096",
+		"full_text": "📣트리플에스: Acid Angel from Asia &lt; ACCESS &gt; 대면 팬사인회 이벤트가 오픈 되었습니다!\n\n🗓️11/7 (월) 11:59 PM 마감!\n📸Double Class Objekt Drop \n🎁당첨자 전원 싸인 폴라로이드 증정\n\n지금 바로 응모하세요!\n👉https://t.co/qHSBLB5c8A \n\n#트리플에스 #tripleS  #tripleS_Fansign with #MMTShop https://t.co/aU7v9iDtR8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "트리플에스",
+					"indices": [
+						182,
+						188
+					]
+				},
+				{
+					"text": "tripleS",
+					"indices": [
+						189,
+						197
+					]
+				},
+				{
+					"text": "tripleS_Fansign",
+					"indices": [
+						199,
+						215
+					]
+				},
+				{
+					"text": "MMTShop",
+					"indices": [
+						221,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qHSBLB5c8A",
+					"expanded_url": "https://mmt.fans/bFYT",
+					"display_url": "mmt.fans/bFYT",
+					"indices": [
+						156,
+						179
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589090349699547100,
+					"id_str": "1589090349699547137",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg2VQPHXwAEDs_2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg2VQPHXwAEDs_2.jpg",
+					"url": "https://t.co/aU7v9iDtR8",
+					"display_url": "pic.twitter.com/aU7v9iDtR8",
+					"expanded_url": "https://twitter.com/_mmtshop/status/1589090375548825600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589090349699547100,
+					"id_str": "1589090349699547137",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg2VQPHXwAEDs_2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg2VQPHXwAEDs_2.jpg",
+					"url": "https://t.co/aU7v9iDtR8",
+					"display_url": "pic.twitter.com/aU7v9iDtR8",
+					"expanded_url": "https://twitter.com/_mmtshop/status/1589090375548825600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589090360415993900,
+					"id_str": "1589090360415993858",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg2VQ3CXwAIRASG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg2VQ3CXwAIRASG.jpg",
+					"url": "https://t.co/aU7v9iDtR8",
+					"display_url": "pic.twitter.com/aU7v9iDtR8",
+					"expanded_url": "https://twitter.com/_mmtshop/status/1589090375548825600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589090371522515000,
+					"id_str": "1589090371522514946",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg2VRgaX0AI77NF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg2VRgaX0AI77NF.jpg",
+					"url": "https://t.co/aU7v9iDtR8",
+					"display_url": "pic.twitter.com/aU7v9iDtR8",
+					"expanded_url": "https://twitter.com/_mmtshop/status/1589090375548825600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://socialbu.com\" rel=\"nofollow\">socialbu.com</a>",
+		"in_reply_to_status_id": 1589090340962812000,
+		"in_reply_to_status_id_str": "1589090340962811909",
+		"in_reply_to_user_id": 1389021967567622100,
+		"in_reply_to_user_id_str": "1389021967567622145",
+		"in_reply_to_screen_name": "_mmtshop",
+		"user": {
+			"id": 1389021967567622100,
+			"id_str": "1389021967567622145",
+			"name": "MMT SHOP",
+			"screen_name": "_mmtshop",
+			"location": "Seoul, Korea",
+			"description": "🛍️ Shop for all your K-Pop Essentials!\n\n💫 MMT SHOP is commerce exclusive Twitter account owned by @_mymusictaste",
+			"url": "https://t.co/jRvgoFZu5F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jRvgoFZu5F",
+							"expanded_url": "http://mymusictaste.com/shop",
+							"display_url": "mymusictaste.com/shop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16015,
+			"friends_count": 69,
+			"listed_count": 65,
+			"created_at": "Mon May 03 01:00:26 +0000 2021",
+			"favourites_count": 110,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391581543118692354/8f8EA0uo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391581543118692354/8f8EA0uo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1389021967567622145/1620613939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 103,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📣트리플에스: Acid Angel from Asia &lt; ACCESS &gt; 대면 팬사인회 이벤트가 오픈 되었습니다!\n\n🗓️11/7 (월) 11:59 PM 마감!\n📸Double Class Objekt Drop \n🎁당첨자 전원 싸인 폴라로이드 증정\n\n지금 바로 응모하세요!\n👉https://t.co/qHSBLB5c8A \n\n#트리플에스 #tripleS  #tripleS_Fansign with #MMTShop https://t.co/aU7v9iDtR8"
+	},
+	{
 		"created_at": "Sun Nov 06 03:40:10 +0000 2022",
 		"id": 1589096625074753500,
 		"id_str": "1589100300396281862",
