@@ -1,6 +1,139 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 06 11:40:10 +0000 2022",
+		"id": 1589219863482228700,
+		"id_str": "1589221095286136833",
+		"full_text": "tripleS\nAcid Angel from Asia\n\n잠시 후, &lt;Simply K-Pop&gt; 에서 'Generation' 무대를 만나보실 수 있습니다🎧\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						107,
+						125
+					]
+				},
+				{
+					"text": "애시드엔젤프롬에이시아",
+					"indices": [
+						126,
+						138
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						139,
+						151
+					]
+				},
+				{
+					"text": "Generation",
+					"indices": [
+						152,
+						163
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						164,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40615,
+			"friends_count": 0,
+			"listed_count": 180,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 220,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "tripleS\nAcid Angel from Asia\n\n잠시 후, &lt;Simply K-Pop&gt; 에서 'Generation' 무대를 만나보실 수 있습니다🎧\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS"
+	},
+	{
 		"created_at": "Sun Nov 06 09:40:10 +0000 2022",
 		"id": 1589152348634779600,
 		"id_str": "1589190897069088768",
