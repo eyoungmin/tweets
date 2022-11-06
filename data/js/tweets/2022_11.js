@@ -1,6 +1,948 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 06 12:40:31 +0000 2022",
+		"id": 1589227995096821800,
+		"id_str": "1589236285104967682",
+		"full_text": "#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons #Behind https://t.co/sVsz1xjbO7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						4,
+						11
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						12,
+						17
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						18,
+						28
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						30,
+						40
+					]
+				},
+				{
+					"text": "Behind",
+					"indices": [
+						41,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589227922857988000,
+					"id_str": "1589227922857988096",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg4SYDEVEAA94Tm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg4SYDEVEAA94Tm.jpg",
+					"url": "https://t.co/sVsz1xjbO7",
+					"display_url": "pic.twitter.com/sVsz1xjbO7",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1589227995096821760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589227922857988000,
+					"id_str": "1589227922857988096",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg4SYDEVEAA94Tm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg4SYDEVEAA94Tm.jpg",
+					"url": "https://t.co/sVsz1xjbO7",
+					"display_url": "pic.twitter.com/sVsz1xjbO7",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1589227995096821760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589227957590974500,
+					"id_str": "1589227957590974465",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg4SaEdUYAETUJB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg4SaEdUYAETUJB.jpg",
+					"url": "https://t.co/sVsz1xjbO7",
+					"display_url": "pic.twitter.com/sVsz1xjbO7",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1589227995096821760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589227981402095600,
+					"id_str": "1589227981402095616",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg4SbdKVQAAdBgL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg4SbdKVQAAdBgL.jpg",
+					"url": "https://t.co/sVsz1xjbO7",
+					"display_url": "pic.twitter.com/sVsz1xjbO7",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1589227995096821760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589227990012989400,
+					"id_str": "1589227990012989441",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg4Sb9PVEAEnnrQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg4Sb9PVEAEnnrQ.jpg",
+					"url": "https://t.co/sVsz1xjbO7",
+					"display_url": "pic.twitter.com/sVsz1xjbO7",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1589227995096821760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 988,
+							"h": 1317,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1589227915925131300,
+		"in_reply_to_status_id_str": "1589227915925131264",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5696577,
+			"friends_count": 2,
+			"listed_count": 11363,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3003,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2387,
+		"favorite_count": 5543,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons #Behind https://t.co/sVsz1xjbO7"
+	},
+	{
+		"created_at": "Sun Nov 06 12:09:45 +0000 2022",
+		"id": 1589227915925131300,
+		"id_str": "1589228541215997952",
+		"full_text": "SEULGI '28 Reasons' Behind Photo #2\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons #Behind https://t.co/0SL1ojrQwf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						41,
+						48
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						55,
+						65
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						67,
+						77
+					]
+				},
+				{
+					"text": "Behind",
+					"indices": [
+						78,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589227733971673000,
+					"id_str": "1589227733971673094",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg4SNDaUoAYm0OW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg4SNDaUoAYm0OW.jpg",
+					"url": "https://t.co/0SL1ojrQwf",
+					"display_url": "pic.twitter.com/0SL1ojrQwf",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1589227915925131264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589227733971673000,
+					"id_str": "1589227733971673094",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg4SNDaUoAYm0OW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg4SNDaUoAYm0OW.jpg",
+					"url": "https://t.co/0SL1ojrQwf",
+					"display_url": "pic.twitter.com/0SL1ojrQwf",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1589227915925131264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589227833947144200,
+					"id_str": "1589227833947144192",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg4SS32VQAATJW8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg4SS32VQAATJW8.jpg",
+					"url": "https://t.co/0SL1ojrQwf",
+					"display_url": "pic.twitter.com/0SL1ojrQwf",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1589227915925131264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589227858718703600,
+					"id_str": "1589227858718703616",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg4SUUIVQAAhXeK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg4SUUIVQAAhXeK.jpg",
+					"url": "https://t.co/0SL1ojrQwf",
+					"display_url": "pic.twitter.com/0SL1ojrQwf",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1589227915925131264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589227880789131300,
+					"id_str": "1589227880789131264",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg4SVmWVQAAQYWL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg4SVmWVQAAQYWL.jpg",
+					"url": "https://t.co/0SL1ojrQwf",
+					"display_url": "pic.twitter.com/0SL1ojrQwf",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1589227915925131264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5696577,
+			"friends_count": 2,
+			"listed_count": 11363,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3003,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4952,
+		"favorite_count": 12821,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SEULGI '28 Reasons' Behind Photo #2\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons #Behind https://t.co/0SL1ojrQwf"
+	},
+	{
+		"created_at": "Sun Nov 06 12:05:14 +0000 2022",
+		"id": 1589226674927046700,
+		"id_str": "1589227405478006784",
+		"full_text": "#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons #Behind https://t.co/nFux8STA8Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						4,
+						11
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						12,
+						17
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						18,
+						28
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						30,
+						40
+					]
+				},
+				{
+					"text": "Behind",
+					"indices": [
+						41,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589226655318319000,
+					"id_str": "1589226655318319104",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg4RORHUoAAsB07.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg4RORHUoAAsB07.jpg",
+					"url": "https://t.co/nFux8STA8Z",
+					"display_url": "pic.twitter.com/nFux8STA8Z",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1589226674927046657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589226655318319000,
+					"id_str": "1589226655318319104",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg4RORHUoAAsB07.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg4RORHUoAAsB07.jpg",
+					"url": "https://t.co/nFux8STA8Z",
+					"display_url": "pic.twitter.com/nFux8STA8Z",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1589226674927046657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589226662872301600,
+					"id_str": "1589226662872301569",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg4ROtQVQAEcq9g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg4ROtQVQAEcq9g.jpg",
+					"url": "https://t.co/nFux8STA8Z",
+					"display_url": "pic.twitter.com/nFux8STA8Z",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1589226674927046657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589226668970762200,
+					"id_str": "1589226668970762241",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg4RPD-UYAE4g-I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg4RPD-UYAE4g-I.jpg",
+					"url": "https://t.co/nFux8STA8Z",
+					"display_url": "pic.twitter.com/nFux8STA8Z",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1589226674927046657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1589226652089086000,
+		"in_reply_to_status_id_str": "1589226652089085952",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5696577,
+			"friends_count": 2,
+			"listed_count": 11363,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3003,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2534,
+		"favorite_count": 6084,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons #Behind https://t.co/nFux8STA8Z"
+	},
+	{
 		"created_at": "Sun Nov 06 11:40:10 +0000 2022",
 		"id": 1589219863482228700,
 		"id_str": "1589221095286136833",
