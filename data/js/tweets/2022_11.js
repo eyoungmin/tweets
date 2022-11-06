@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 06 09:40:10 +0000 2022",
+		"id": 1589152348634779600,
+		"id_str": "1589190897069088768",
+		"full_text": "심플리는 이런 데뷔무대 1도 본 적 없어요\n심플리케이팝콘투어 싱가포르편에서만 볼 수 있는 완벽한 무대... tripleS AAA와기들 보고 심플리 광대 완전 시공간을 넘나드는 미확인비행물체 됐다.🛸🛸\n\n#tripleS_AAA #Generation\n#심플리케이팝 #SimplyCONTOUR https://t.co/DVZ3Vp0FUC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						113,
+						125
+					]
+				},
+				{
+					"text": "Generation",
+					"indices": [
+						126,
+						137
+					]
+				},
+				{
+					"text": "심플리케이팝",
+					"indices": [
+						138,
+						145
+					]
+				},
+				{
+					"text": "SimplyCONTOUR",
+					"indices": [
+						146,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589152342607556600,
+					"id_str": "1589152342607556609",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg3NossacAEP3pb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg3NossacAEP3pb.jpg",
+					"url": "https://t.co/DVZ3Vp0FUC",
+					"display_url": "pic.twitter.com/DVZ3Vp0FUC",
+					"expanded_url": "https://twitter.com/_Simplykpop/status/1589152348634779649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589152342607556600,
+					"id_str": "1589152342607556609",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg3NossacAEP3pb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg3NossacAEP3pb.jpg",
+					"url": "https://t.co/DVZ3Vp0FUC",
+					"display_url": "pic.twitter.com/DVZ3Vp0FUC",
+					"expanded_url": "https://twitter.com/_Simplykpop/status/1589152348634779649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589152342800486400,
+					"id_str": "1589152342800486400",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg3NotaaUAAD0S2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg3NotaaUAAD0S2.jpg",
+					"url": "https://t.co/DVZ3Vp0FUC",
+					"display_url": "pic.twitter.com/DVZ3Vp0FUC",
+					"expanded_url": "https://twitter.com/_Simplykpop/status/1589152348634779649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 505587119,
+			"id_str": "505587119",
+			"name": "SIMPLY K-POP",
+			"screen_name": "_Simplykpop",
+			"location": "",
+			"description": "∎아리랑 월드채널: 금요일 PM 1시 ∎아리랑 한국채널: 금요일 PM 1시 ∎World Arirang Channel: FRI 1PM KST ∎Korea Arirang Channel: FRI 1PM KST",
+			"url": "https://t.co/vf8sF8eEny",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vf8sF8eEny",
+							"expanded_url": "https://www.youtube.com/arirangworld",
+							"display_url": "youtube.com/arirangworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 383776,
+			"friends_count": 2,
+			"listed_count": 1145,
+			"created_at": "Mon Feb 27 07:32:00 +0000 2012",
+			"favourites_count": 1648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1382552195963314181/z3_5pDdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1382552195963314181/z3_5pDdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/505587119/1646979411",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 275,
+		"favorite_count": 657,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "심플리는 이런 데뷔무대 1도 본 적 없어요\n심플리케이팝콘투어 싱가포르편에서만 볼 수 있는 완벽한 무대... tripleS AAA와기들 보고 심플리 광대 완전 시공간을 넘나드는 미확인비행물체 됐다.🛸🛸\n\n#tripleS_AAA #Generation\n#심플리케이팝 #SimplyCONTOUR https://t.co/DVZ3Vp0FUC"
+	},
+	{
 		"created_at": "Sun Nov 06 07:40:10 +0000 2022",
 		"id": 1589145706383945700,
 		"id_str": "1589160698071973888",
