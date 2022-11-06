@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 06 15:40:10 +0000 2022",
+		"id": 1589271389487345700,
+		"id_str": "1589281494475755521",
+		"full_text": "tripleS AAA를 소개합니다 | Acid Angel from Asia.SSS\n\nhttps://t.co/SkFP94oXDT\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS https://t.co/KkgCLsrUW8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						72,
+						80
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						88,
+						106
+					]
+				},
+				{
+					"text": "애시드엔젤프롬에이시아",
+					"indices": [
+						107,
+						119
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						120,
+						132
+					]
+				},
+				{
+					"text": "Generation",
+					"indices": [
+						133,
+						144
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						145,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SkFP94oXDT",
+					"expanded_url": "https://youtu.be/Am4YnnrNtXs",
+					"display_url": "youtu.be/Am4YnnrNtXs",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589257879600525300,
+					"id_str": "1589257879600525313",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg4tnwoUcAEpACX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg4tnwoUcAEpACX.jpg",
+					"url": "https://t.co/KkgCLsrUW8",
+					"display_url": "pic.twitter.com/KkgCLsrUW8",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1589271389487345665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589257879600525300,
+					"id_str": "1589257879600525313",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg4tnwoUcAEpACX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg4tnwoUcAEpACX.jpg",
+					"url": "https://t.co/KkgCLsrUW8",
+					"display_url": "pic.twitter.com/KkgCLsrUW8",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1589271389487345665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40786,
+			"friends_count": 0,
+			"listed_count": 185,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 791,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 163,
+		"favorite_count": 545,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "tripleS AAA를 소개합니다 | Acid Angel from Asia.SSS\n\nhttps://t.co/SkFP94oXDT\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS https://t.co/KkgCLsrUW8"
+	},
+	{
 		"created_at": "Sun Nov 06 15:05:17 +0000 2022",
 		"id": 1589272016582217700,
 		"id_str": "1589272715134832640",
