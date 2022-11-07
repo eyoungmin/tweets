@@ -1,6 +1,727 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 07 09:40:31 +0000 2022",
+		"id": 1589544186919125000,
+		"id_str": "1589553373195427840",
+		"full_text": "♥제주삼다수 X 아이유 \n11월 달력 大공개!♥\n\n제주의 감귤처럼 싱그러운 아이유의 미소가\n제주삼다수와 만나 더욱 눈부신 11월 달력!\n\nhttps://t.co/jYR01wrAbw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jYR01wrAbw",
+					"expanded_url": "https://www.instagram.com/p/Ckp1MorBkqX/",
+					"display_url": "instagram.com/p/Ckp1MorBkqX/",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1539310,
+			"friends_count": 0,
+			"listed_count": 2390,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1426,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 486,
+		"favorite_count": 2264,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "♥제주삼다수 X 아이유 \n11월 달력 大공개!♥\n\n제주의 감귤처럼 싱그러운 아이유의 미소가\n제주삼다수와 만나 더욱 눈부신 11월 달력!\n\nhttps://t.co/jYR01wrAbw"
+	},
+	{
+		"created_at": "Mon Nov 07 09:40:24 +0000 2022",
+		"id": 1589543458829897700,
+		"id_str": "1589553343332061185",
+		"full_text": "#BLACKPINK [BORN PINK] OFFLINE FAN SIGNING EVENT\n\n▶️ https://t.co/vVMVEqf8UD\n\n#블랙핑크 #2ndAlbum #BORNPINK\n#OFFLINE_FANSIGNING_EVENT #BLINK #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						94,
+						103
+					]
+				},
+				{
+					"text": "OFFLINE_FANSIGNING_EVENT",
+					"indices": [
+						104,
+						129
+					]
+				},
+				{
+					"text": "BLINK",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						137,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vVMVEqf8UD",
+					"expanded_url": "https://youtu.be/pGQzt0VEP14",
+					"display_url": "youtu.be/pGQzt0VEP14",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9009870,
+			"friends_count": 35,
+			"listed_count": 9897,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12558,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 684,
+		"favorite_count": 2772,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK [BORN PINK] OFFLINE FAN SIGNING EVENT\n\n▶️ https://t.co/vVMVEqf8UD\n\n#블랙핑크 #2ndAlbum #BORNPINK\n#OFFLINE_FANSIGNING_EVENT #BLINK #YG"
+	},
+	{
+		"created_at": "Mon Nov 07 09:40:09 +0000 2022",
+		"id": 1589543182659981300,
+		"id_str": "1589553283756171266",
+		"full_text": "BLACKPINK [BORN PINK] OFFLINE FAN SIGNING EVENT\n\n#BLACKPINK #블랙핑크 #2ndAlbum #BORNPINK\n#OFFLINE_FANSIGNING_EVENT #BLINK #YG https://t.co/uRUNCJVgnF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						49,
+						59
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						66,
+						75
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						76,
+						85
+					]
+				},
+				{
+					"text": "OFFLINE_FANSIGNING_EVENT",
+					"indices": [
+						86,
+						111
+					]
+				},
+				{
+					"text": "BLINK",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						119,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589540468907724800,
+					"id_str": "1589540468907724802",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg8u-2aaAAIAi5Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg8u-2aaAAIAi5Y.jpg",
+					"url": "https://t.co/uRUNCJVgnF",
+					"display_url": "pic.twitter.com/uRUNCJVgnF",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1589543182659981312/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589540468907724800,
+					"id_str": "1589540468907724802",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg8u-2aaAAIAi5Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg8u-2aaAAIAi5Y.jpg",
+					"url": "https://t.co/uRUNCJVgnF",
+					"display_url": "pic.twitter.com/uRUNCJVgnF",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1589543182659981312/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 141608,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1589540468907724802/pl/46e72Ppwuc000Gsj.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1589540468907724802/vid/480x270/MTn6YqRugVOxCr3_.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1589540468907724802/vid/640x360/QvPD9CkQgB28KqMq.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1589540468907724802/vid/1280x720/oBjkJgosSHKVYlq8.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7944507,
+			"friends_count": 0,
+			"listed_count": 7862,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 806,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4004,
+		"favorite_count": 10979,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLACKPINK [BORN PINK] OFFLINE FAN SIGNING EVENT\n\n#BLACKPINK #블랙핑크 #2ndAlbum #BORNPINK\n#OFFLINE_FANSIGNING_EVENT #BLINK #YG https://t.co/uRUNCJVgnF"
+	},
+	{
+		"created_at": "Mon Nov 07 09:29:39 +0000 2022",
+		"id": 1589543189764968400,
+		"id_str": "1589550638953791488",
+		"full_text": "#화사 #전소연 #티파니 #현아 까지 선택한 주얼리 네일 시안은? 진주부터 그라데이션까지 네일 디자인 시안 모음.zip\n#여자아이들 @G_I_DLE #마마무 @RBW_MAMAMOO #소녀시대 @GirlsGeneration \nhttps://t.co/T23UM9GiQq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "화사",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "전소연",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "현아",
+					"indices": [
+						14,
+						17
+					]
+				},
+				{
+					"text": "여자아이들",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						101,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "G_I_DLE",
+					"name": "(G)I-DLE·(여자)아이들",
+					"id": 967000437797761000,
+					"id_str": "967000437797761024",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"screen_name": "RBW_MAMAMOO",
+					"name": "마마무(MAMAMOO)",
+					"id": 2295631308,
+					"id_str": "2295631308",
+					"indices": [
+						88,
+						100
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						107,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/T23UM9GiQq",
+					"expanded_url": "https://www.allurekorea.com/?p=173952&ddw=128251&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=173952&ddw=…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38090,
+			"friends_count": 1,
+			"listed_count": 299,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1666074741",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#화사 #전소연 #티파니 #현아 까지 선택한 주얼리 네일 시안은? 진주부터 그라데이션까지 네일 디자인 시안 모음.zip\n#여자아이들 @G_I_DLE #마마무 @RBW_MAMAMOO #소녀시대 @GirlsGeneration \nhttps://t.co/T23UM9GiQq"
+	},
+	{
 		"created_at": "Mon Nov 07 07:40:34 +0000 2022",
 		"id": 1589521438742319000,
 		"id_str": "1589523186705735680",
