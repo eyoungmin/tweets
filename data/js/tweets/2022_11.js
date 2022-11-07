@@ -1,6 +1,462 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 07 04:40:18 +0000 2022",
+		"id": 1589476477577605000,
+		"id_str": "1589477822535553024",
+		"full_text": "트리플에스가 원더케이 내돌의 온도차에! | tripleS | GAP CRUSH [1theK Preview]\n\nhttps://t.co/jFosRLtDhb\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						102,
+						120
+					]
+				},
+				{
+					"text": "애시드엔젤프롬에이시아",
+					"indices": [
+						121,
+						133
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						134,
+						146
+					]
+				},
+				{
+					"text": "Generation",
+					"indices": [
+						147,
+						158
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						159,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jFosRLtDhb",
+					"expanded_url": "https://youtube.com/shorts/IX8kSIzwzhQ?feature=share",
+					"display_url": "youtube.com/shorts/IX8kSIz…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41038,
+			"friends_count": 0,
+			"listed_count": 185,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 793,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 72,
+		"favorite_count": 149,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트리플에스가 원더케이 내돌의 온도차에! | tripleS | GAP CRUSH [1theK Preview]\n\nhttps://t.co/jFosRLtDhb\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS"
+	},
+	{
+		"created_at": "Mon Nov 07 04:40:16 +0000 2022",
+		"id": 1589468103750357000,
+		"id_str": "1589477813559623680",
+		"full_text": "[#여진 / #YeoJin] 🖤견생네컷🤍\n\n#이달의소녀 #LOONA https://t.co/t7BSduvo2T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						31,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589468097190146000,
+					"id_str": "1589468097190146049",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg7s0CLVsAEJd2o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg7s0CLVsAEJd2o.jpg",
+					"url": "https://t.co/t7BSduvo2T",
+					"display_url": "pic.twitter.com/t7BSduvo2T",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1589468103750356993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589468097190146000,
+					"id_str": "1589468097190146049",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg7s0CLVsAEJd2o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg7s0CLVsAEJd2o.jpg",
+					"url": "https://t.co/t7BSduvo2T",
+					"display_url": "pic.twitter.com/t7BSduvo2T",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1589468103750356993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589468097190035500,
+					"id_str": "1589468097190035456",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg7s0CLUAAA6FLx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg7s0CLUAAA6FLx.jpg",
+					"url": "https://t.co/t7BSduvo2T",
+					"display_url": "pic.twitter.com/t7BSduvo2T",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1589468103750356993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 789,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1346,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 447,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589468097181687800,
+					"id_str": "1589468097181687808",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg7s0CJUoAAZhVI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg7s0CJUoAAZhVI.jpg",
+					"url": "https://t.co/t7BSduvo2T",
+					"display_url": "pic.twitter.com/t7BSduvo2T",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1589468103750356993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 612,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1842,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1079,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589468097202700300,
+					"id_str": "1589468097202700288",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg7s0COVQAAQKs-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg7s0COVQAAQKs-.jpg",
+					"url": "https://t.co/t7BSduvo2T",
+					"display_url": "pic.twitter.com/t7BSduvo2T",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1589468103750356993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1842,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 612,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 986762,
+			"friends_count": 3,
+			"listed_count": 8987,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2506,
+		"favorite_count": 7958,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#여진 / #YeoJin] 🖤견생네컷🤍\n\n#이달의소녀 #LOONA https://t.co/t7BSduvo2T"
+	},
+	{
 		"created_at": "Mon Nov 07 03:49:47 +0000 2022",
 		"id": 1589460886800183300,
 		"id_str": "1589465107842506752",
