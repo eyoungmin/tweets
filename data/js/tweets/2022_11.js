@@ -1,6 +1,785 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 07 12:57:42 +0000 2022",
+		"id": 1589593532255592400,
+		"id_str": "1589602995880177666",
+		"full_text": "“정수정 미담 투척합니다”라며 한 식당에서 크리스탈을 만난 이야기가 화제다.\n#에프엑스 #크리스탈 #정수정 #FX #KRYSTAL #JungSooJung #ChrystalSooJung #KPOP #ACTOR\nhttps://t.co/Iz1HzEaeJd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에프엑스",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "크리스탈",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "정수정",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "FX",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "KRYSTAL",
+					"indices": [
+						64,
+						72
+					]
+				},
+				{
+					"text": "JungSooJung",
+					"indices": [
+						73,
+						85
+					]
+				},
+				{
+					"text": "ChrystalSooJung",
+					"indices": [
+						86,
+						102
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "ACTOR",
+					"indices": [
+						109,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Iz1HzEaeJd",
+					"expanded_url": "https://www.gqkorea.co.kr/2022/11/07/%EC%B5%9C%EC%95%A0-%EC%97%B0%EC%98%88%EC%9D%B8%EC%9D%B4-%EB%B0%A5%EA%B0%92%EC%9D%84-%EA%B3%84%EC%82%B0%ED%95%B4-%EC%A3%BC%EA%B3%A0-%EA%B0%84%EB%8B%A4%EB%A9%B4-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88/?ddw=128345&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "gqkorea.co.kr/2022/11/07/%EC…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262470,
+			"id_str": "78262470",
+			"name": "GQ KOREA",
+			"screen_name": "GQKOREA",
+			"location": "Seoul, Korea",
+			"description": "Be a Good Man, Don't be Quiet.",
+			"url": "https://t.co/pJOMTcQb22",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pJOMTcQb22",
+							"expanded_url": "http://www.gqkorea.co.kr",
+							"display_url": "gqkorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143921,
+			"friends_count": 0,
+			"listed_count": 219,
+			"created_at": "Tue Sep 29 09:20:13 +0000 2009",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262470/1666589234",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“정수정 미담 투척합니다”라며 한 식당에서 크리스탈을 만난 이야기가 화제다.\n#에프엑스 #크리스탈 #정수정 #FX #KRYSTAL #JungSooJung #ChrystalSooJung #KPOP #ACTOR\nhttps://t.co/Iz1HzEaeJd"
+	},
+	{
+		"created_at": "Mon Nov 07 12:49:53 +0000 2022",
+		"id": 1589595019165728800,
+		"id_str": "1589601027866521601",
+		"full_text": "꽃가루를 날리며 봄을 맞이했던 레드벨벳이 이번에는 겨울을 따뜻하게 데울 예정이다.\n#레드벨벳 #RedVelvet #TheReVeFestival2022 #Birthday #KPOP \nhttps://t.co/MefSUPZPTa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						52,
+						62
+					]
+				},
+				{
+					"text": "TheReVeFestival2022",
+					"indices": [
+						63,
+						83
+					]
+				},
+				{
+					"text": "Birthday",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						94,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MefSUPZPTa",
+					"expanded_url": "https://www.gqkorea.co.kr/2022/11/07/%EB%A0%88%EB%93%9C%EB%B2%A8%EB%B2%B3-%EB%B2%84%EC%8A%A4%EB%8D%B0%EC%9D%B4%EB%A1%9C-%EA%B2%A8%EC%9A%B8%EB%A7%9E%EC%9D%B4/?ddw=128348&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "gqkorea.co.kr/2022/11/07/%EB…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262470,
+			"id_str": "78262470",
+			"name": "GQ KOREA",
+			"screen_name": "GQKOREA",
+			"location": "Seoul, Korea",
+			"description": "Be a Good Man, Don't be Quiet.",
+			"url": "https://t.co/pJOMTcQb22",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pJOMTcQb22",
+							"expanded_url": "http://www.gqkorea.co.kr",
+							"display_url": "gqkorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143921,
+			"friends_count": 0,
+			"listed_count": 219,
+			"created_at": "Tue Sep 29 09:20:13 +0000 2009",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262470/1666589234",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 117,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "꽃가루를 날리며 봄을 맞이했던 레드벨벳이 이번에는 겨울을 따뜻하게 데울 예정이다.\n#레드벨벳 #RedVelvet #TheReVeFestival2022 #Birthday #KPOP \nhttps://t.co/MefSUPZPTa"
+	},
+	{
+		"created_at": "Mon Nov 07 12:40:27 +0000 2022",
+		"id": 1589588632889065500,
+		"id_str": "1589598655618637826",
+		"full_text": "#BLACKPINK WORLD TOUR [BORN PINK] HOUSTON HIGHLIGHT CLIP \n\n#블랙핑크 #BORNPINK #BLACKPINK_WORLDTOUR #BLACKPINK_BORNPINK #HOUSTON  #HIGHLIGHT #YG https://t.co/8HHJRW8GEK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						65,
+						74
+					]
+				},
+				{
+					"text": "BLACKPINK_WORLDTOUR",
+					"indices": [
+						75,
+						95
+					]
+				},
+				{
+					"text": "BLACKPINK_BORNPINK",
+					"indices": [
+						96,
+						115
+					]
+				},
+				{
+					"text": "HOUSTON",
+					"indices": [
+						116,
+						124
+					]
+				},
+				{
+					"text": "HIGHLIGHT",
+					"indices": [
+						126,
+						136
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						137,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589520013202886700,
+					"id_str": "1589520013202886657",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg8cM_HUUAE-QAe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg8cM_HUUAE-QAe.jpg",
+					"url": "https://t.co/8HHJRW8GEK",
+					"display_url": "pic.twitter.com/8HHJRW8GEK",
+					"expanded_url": "https://twitter.com/ygent_official/status/1589588632889065472/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1020,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 385,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589520013202886700,
+					"id_str": "1589520013202886657",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg8cM_HUUAE-QAe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg8cM_HUUAE-QAe.jpg",
+					"url": "https://t.co/8HHJRW8GEK",
+					"display_url": "pic.twitter.com/8HHJRW8GEK",
+					"expanded_url": "https://twitter.com/ygent_official/status/1589588632889065472/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 1020,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 385,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 37637,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1589520013202886657/pl/FNLl1EfRmTOiF9jb.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1589520013202886657/vid/480x852/ChDqkxhdRuGHegxY.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1589520013202886657/vid/320x568/aL9m27nYlvshr7Iv.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1589520013202886657/vid/720x1280/bR6CBkTsiA4RP9NJ.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "BLACKPINK WORLD TOUR [BORN PINK] HOUSTON HIGHLIGHT CLIP",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtube.com/shorts/Y0uG9BR4PBE"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9010206,
+			"friends_count": 35,
+			"listed_count": 9906,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1354,
+		"favorite_count": 5529,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK WORLD TOUR [BORN PINK] HOUSTON HIGHLIGHT CLIP \n\n#블랙핑크 #BORNPINK #BLACKPINK_WORLDTOUR #BLACKPINK_BORNPINK #HOUSTON  #HIGHLIGHT #YG https://t.co/8HHJRW8GEK"
+	},
+	{
+		"created_at": "Mon Nov 07 12:40:18 +0000 2022",
+		"id": 1589588482812420000,
+		"id_str": "1589598617349885952",
+		"full_text": "2022.11.09\n\nS9 teaser drop\n\n#tripleS #트리플에스 #トリプルS https://t.co/FqtGffblHP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						28,
+						36
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						44,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589443018339123200,
+					"id_str": "1589443018339123200",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg7WAQLUAAA7_8Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg7WAQLUAAA7_8Z.jpg",
+					"url": "https://t.co/FqtGffblHP",
+					"display_url": "pic.twitter.com/FqtGffblHP",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1589588482812420096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589443018339123200,
+					"id_str": "1589443018339123200",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg7WAQLUAAA7_8Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg7WAQLUAAA7_8Z.jpg",
+					"url": "https://t.co/FqtGffblHP",
+					"display_url": "pic.twitter.com/FqtGffblHP",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1589588482812420096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41750,
+			"friends_count": 0,
+			"listed_count": 190,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 719,
+		"favorite_count": 1987,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2022.11.09\n\nS9 teaser drop\n\n#tripleS #트리플에스 #トリプルS https://t.co/FqtGffblHP"
+	},
+	{
 		"created_at": "Mon Nov 07 11:45:37 +0000 2022",
 		"id": 1589573386056843300,
 		"id_str": "1589584855498739713",
