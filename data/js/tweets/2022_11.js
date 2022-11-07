@@ -1,6 +1,150 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 07 10:40:17 +0000 2022",
+		"id": 1589566033769422800,
+		"id_str": "1589568413818671106",
+		"full_text": "🗣️당신은 심각한 트리플에스 중독입니다 🗣️흥, 웃기는 소리. 랄라라라라 x2 ♪  | tripleS _ Generation | 내돌의 온도차 | GAP CRUSH\n\nhttps://t.co/8WOYEnRvpk\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						134,
+						152
+					]
+				},
+				{
+					"text": "애시드엔젤프롬에이시아",
+					"indices": [
+						153,
+						165
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						166,
+						178
+					]
+				},
+				{
+					"text": "Generation",
+					"indices": [
+						179,
+						190
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						191,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8WOYEnRvpk",
+					"expanded_url": "https://youtu.be/V0s3owUYJic",
+					"display_url": "youtu.be/V0s3owUYJic",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41437,
+			"friends_count": 0,
+			"listed_count": 184,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 189,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🗣️당신은 심각한 트리플에스 중독입니다 🗣️흥, 웃기는 소리. 랄라라라라 x2 ♪  | tripleS _ Generation | 내돌의 온도차 | GAP CRUSH\n\nhttps://t.co/8WOYEnRvpk\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS"
+	},
+	{
 		"created_at": "Mon Nov 07 09:40:31 +0000 2022",
 		"id": 1589544186919125000,
 		"id_str": "1589553373195427840",
