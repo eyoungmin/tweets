@@ -1,6 +1,625 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 07 03:49:47 +0000 2022",
+		"id": 1589460886800183300,
+		"id_str": "1589465107842506752",
+		"full_text": "‘꽃가루 신드롬’ 이후 8개월만, 레드벨벳이 28일 컴백한다.\n#레드벨벳 #RedVelvet #Birthday \nhttps://t.co/MlGPssQvDW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						41,
+						51
+					]
+				},
+				{
+					"text": "Birthday",
+					"indices": [
+						52,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MlGPssQvDW",
+					"expanded_url": "https://www.wkorea.com/2022/11/07/%eb%a0%88%eb%93%9c%eb%b2%a8%eb%b2%b3-28%ec%9d%bc-%ec%bb%b4%eb%b0%b1-%ed%99%95%ec%a0%95/?ddw=128264&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2022/11/07/%eb…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5xzw0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5xzw0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312295,
+			"friends_count": 0,
+			"listed_count": 846,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14229,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1666243978",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 283,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘꽃가루 신드롬’ 이후 8개월만, 레드벨벳이 28일 컴백한다.\n#레드벨벳 #RedVelvet #Birthday \nhttps://t.co/MlGPssQvDW"
+	},
+	{
+		"created_at": "Mon Nov 07 03:42:05 +0000 2022",
+		"id": 1589463008056840200,
+		"id_str": "1589463172234170368",
+		"full_text": "블랙핑크 로제부터 박찬욱 감독까지, LA에서 열린 #LACMA 아트 필름 갈라 행사에 한국 셀럽들이 대거 참석했다. \nhttps://t.co/DQcl0OmlQL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LACMA",
+					"indices": [
+						28,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DQcl0OmlQL",
+					"expanded_url": "https://www.wkorea.com/2022/11/07/%ed%95%9c%ea%b5%ad-%ec%85%80%eb%9f%bd%eb%93%a4-%eb%8c%80%ea%b1%b0-%ec%b0%b8%ec%84%9d%ed%95%9c-lacma-%ec%95%84%ed%8a%b8-%ed%95%84%eb%a6%84-%ea%b0%88%eb%9d%bc/?ddw=128266&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2022/11/07/%ed…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5xzw0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5xzw0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312295,
+			"friends_count": 0,
+			"listed_count": 846,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14229,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1666243978",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 155,
+		"favorite_count": 249,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블랙핑크 로제부터 박찬욱 감독까지, LA에서 열린 #LACMA 아트 필름 갈라 행사에 한국 셀럽들이 대거 참석했다. \nhttps://t.co/DQcl0OmlQL"
+	},
+	{
+		"created_at": "Mon Nov 07 03:40:21 +0000 2022",
+		"id": 1589452589304643600,
+		"id_str": "1589462734931988480",
+		"full_text": "전송을 재개합니다  Gonna Continue SIGNAL\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/OkMZM73RNa\n\n#tripleS #트리플에스 #トリプルS https://t.co/7gj01Qz09m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						89,
+						97
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						105,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OkMZM73RNa",
+					"expanded_url": "https://youtu.be/T0Kd1TcfIas",
+					"display_url": "youtu.be/T0Kd1TcfIas",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589441308170428400,
+					"id_str": "1589441308170428417",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1589441308170428417/pu/img/yKUlPMAPwyrR4vOU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1589441308170428417/pu/img/yKUlPMAPwyrR4vOU.jpg",
+					"url": "https://t.co/7gj01Qz09m",
+					"display_url": "pic.twitter.com/7gj01Qz09m",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1589452589304643584/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589441308170428400,
+					"id_str": "1589441308170428417",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1589441308170428417/pu/img/yKUlPMAPwyrR4vOU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1589441308170428417/pu/img/yKUlPMAPwyrR4vOU.jpg",
+					"url": "https://t.co/7gj01Qz09m",
+					"display_url": "pic.twitter.com/7gj01Qz09m",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1589452589304643584/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 45141,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1589441308170428417/pu/vid/480x270/R43j7qS4vLUT_jPQ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1589441308170428417/pu/pl/Z_P__1oQB_EbQEA4.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1589441308170428417/pu/vid/1280x720/our_TpFR94CKDdFc.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1589441308170428417/pu/vid/640x360/aCWimAGpr1AZb8MD.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41014,
+			"friends_count": 0,
+			"listed_count": 184,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 355,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "전송을 재개합니다  Gonna Continue SIGNAL\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/OkMZM73RNa\n\n#tripleS #트리플에스 #トリプルS https://t.co/7gj01Qz09m"
+	},
+	{
+		"created_at": "Mon Nov 07 03:40:19 +0000 2022",
+		"id": 1589452580924670000,
+		"id_str": "1589462725977055232",
+		"full_text": "[📢]\n\n誕生日を迎えた #GISELLE から、aespa OFFICIAL MAIL MAGAZINE MEMBERSのみなさんにセルフィ＆メッセージが届きました🎂🎉\nメルマガサイト内『BLOG』よりご覧ください🌙\nhttps://t.co/BvN8a2TkF4\n\n#aespa #æspa #에스파 #エスパ #HappyGISELLEDay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GISELLE",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "HappyGISELLEDay",
+					"indices": [
+						158,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BvN8a2TkF4",
+					"expanded_url": "http://aespa.smtown-official.jp/blog/",
+					"display_url": "aespa.smtown-official.jp/blog/",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 222183,
+			"friends_count": 1,
+			"listed_count": 682,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 563,
+		"favorite_count": 2124,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[📢]\n\n誕生日を迎えた #GISELLE から、aespa OFFICIAL MAIL MAGAZINE MEMBERSのみなさんにセルフィ＆メッセージが届きました🎂🎉\nメルマガサイト内『BLOG』よりご覧ください🌙\nhttps://t.co/BvN8a2TkF4\n\n#aespa #æspa #에스파 #エスパ #HappyGISELLEDay"
+	},
+	{
 		"created_at": "Mon Nov 07 02:40:21 +0000 2022",
 		"id": 1589447112634560500,
 		"id_str": "1589447635622051842",
