@@ -1,6 +1,398 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 07 05:43:32 +0000 2022",
+		"id": 1589489389943804000,
+		"id_str": "1589493735879938048",
+		"full_text": "유라의 두 번째 단독 공연\n'이 옷에 구멍은 시간을 아우르는 공'의\n일정 및 티켓 판매 안내드립니다.\n\n밴드 ‘만동’과 함께 하는\n유라의 '이 옷에 구멍은 시간을 아우르는 공' 많은 관심 부탁드립니다.\n\n자세한 사항은 아래 링크를 참고해주세요.\nhttps://t.co/292XQVLmJt https://t.co/i2VJEaFVxf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/292XQVLmJt",
+					"expanded_url": "https://bit.ly/3UqLnVW",
+					"display_url": "bit.ly/3UqLnVW",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589489163921133600,
+					"id_str": "1589489163921133568",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg7_-R3aEAAn0Zn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg7_-R3aEAAn0Zn.jpg",
+					"url": "https://t.co/i2VJEaFVxf",
+					"display_url": "pic.twitter.com/i2VJEaFVxf",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1589489389943803904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1018,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589489163921133600,
+					"id_str": "1589489163921133568",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg7_-R3aEAAn0Zn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg7_-R3aEAAn0Zn.jpg",
+					"url": "https://t.co/i2VJEaFVxf",
+					"display_url": "pic.twitter.com/i2VJEaFVxf",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1589489389943803904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1018,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/허회경",
+			"url": "https://t.co/EWOG41NDnZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41NDnZ",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 935,
+			"friends_count": 8,
+			"listed_count": 19,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 85,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1653271322",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유라의 두 번째 단독 공연\n'이 옷에 구멍은 시간을 아우르는 공'의\n일정 및 티켓 판매 안내드립니다.\n\n밴드 ‘만동’과 함께 하는\n유라의 '이 옷에 구멍은 시간을 아우르는 공' 많은 관심 부탁드립니다.\n\n자세한 사항은 아래 링크를 참고해주세요.\nhttps://t.co/292XQVLmJt https://t.co/i2VJEaFVxf"
+	},
+	{
+		"created_at": "Mon Nov 07 05:40:10 +0000 2022",
+		"id": 1589482812805369900,
+		"id_str": "1589492886743171072",
+		"full_text": "[공지] 2023 신세경 Season's Greetings 예약 판매 안내\n\n💛 예약 판매일 : 2022.11.09 (수) PM 2 (KST) ~ 2022.11.20 (일) PM 11:59 (KST)\n🤍 정식 발매일 : 2022.12.20 (화) / 순차 배송 시작\n\n📌 made EDAM에서 단독 판매 진행\n📌 https://t.co/Gfrf90RO5o\n\n#신세경 #ShinSaeKyeong \n#시즌그리팅 https://t.co/ClvatY99xH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신세경",
+					"indices": [
+						200,
+						204
+					]
+				},
+				{
+					"text": "ShinSaeKyeong",
+					"indices": [
+						205,
+						219
+					]
+				},
+				{
+					"text": "시즌그리팅",
+					"indices": [
+						221,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gfrf90RO5o",
+					"expanded_url": "http://www.madeedam.com/",
+					"display_url": "madeedam.com",
+					"indices": [
+						175,
+						198
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589479031665492000,
+					"id_str": "1589479031665491968",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg72wgRagAABeFK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg72wgRagAABeFK.jpg",
+					"url": "https://t.co/ClvatY99xH",
+					"display_url": "pic.twitter.com/ClvatY99xH",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1589482812805369858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589479031665492000,
+					"id_str": "1589479031665491968",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg72wgRagAABeFK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg72wgRagAABeFK.jpg",
+					"url": "https://t.co/ClvatY99xH",
+					"display_url": "pic.twitter.com/ClvatY99xH",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1589482812805369858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/bKrpEfAnwn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bKrpEfAnwn",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5409,
+			"friends_count": 0,
+			"listed_count": 14,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1642648706",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 127,
+		"favorite_count": 354,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공지] 2023 신세경 Season's Greetings 예약 판매 안내\n\n💛 예약 판매일 : 2022.11.09 (수) PM 2 (KST) ~ 2022.11.20 (일) PM 11:59 (KST)\n🤍 정식 발매일 : 2022.12.20 (화) / 순차 배송 시작\n\n📌 made EDAM에서 단독 판매 진행\n📌 https://t.co/Gfrf90RO5o\n\n#신세경 #ShinSaeKyeong \n#시즌그리팅 https://t.co/ClvatY99xH"
+	},
+	{
 		"created_at": "Mon Nov 07 04:40:18 +0000 2022",
 		"id": 1589476477577605000,
 		"id_str": "1589477822535553024",
