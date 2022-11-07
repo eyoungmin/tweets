@@ -1,6 +1,893 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 07 11:45:37 +0000 2022",
+		"id": 1589573386056843300,
+		"id_str": "1589584855498739713",
+		"full_text": "[직캠 플리] '11월 둘째주' 생일 아이돌 직캠 모음♥ \n\n📎https://t.co/oUCG4lb4s1\n\n#직캠플리 #TWICE #ATEEZ #BAE173 #LE_SSERAFIM #CHOIYOOJUNG #Kep1er #LOONA https://t.co/3UjcBkHq6g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "직캠플리",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "TWICE",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "ATEEZ",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "BAE173",
+					"indices": [
+						80,
+						87
+					]
+				},
+				{
+					"text": "LE_SSERAFIM",
+					"indices": [
+						88,
+						100
+					]
+				},
+				{
+					"text": "CHOIYOOJUNG",
+					"indices": [
+						101,
+						113
+					]
+				},
+				{
+					"text": "Kep1er",
+					"indices": [
+						114,
+						121
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						122,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oUCG4lb4s1",
+					"expanded_url": "https://youtu.be/BKvk4knLcXg",
+					"display_url": "youtu.be/BKvk4knLcXg",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589518343546884000,
+					"id_str": "1589518343546884096",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg8agwcUUAAT7Ky.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg8agwcUUAAT7Ky.jpg",
+					"url": "https://t.co/3UjcBkHq6g",
+					"display_url": "pic.twitter.com/3UjcBkHq6g",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1589573386056843264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589518343546884000,
+					"id_str": "1589518343546884096",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg8agwcUUAAT7Ky.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg8agwcUUAAT7Ky.jpg",
+					"url": "https://t.co/3UjcBkHq6g",
+					"display_url": "pic.twitter.com/3UjcBkHq6g",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1589573386056843264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨ 🎶 24/7 K-POP LIVE STREAMING 💕 POPPIN' WEDNESDAY 📌 SHOW CHAMPION, 6PM KST 📌 WEEKLY IDOL, 7:30PM KST",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 137153,
+			"friends_count": 339,
+			"listed_count": 412,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1667183689",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[직캠 플리] '11월 둘째주' 생일 아이돌 직캠 모음♥ \n\n📎https://t.co/oUCG4lb4s1\n\n#직캠플리 #TWICE #ATEEZ #BAE173 #LE_SSERAFIM #CHOIYOOJUNG #Kep1er #LOONA https://t.co/3UjcBkHq6g"
+	},
+	{
+		"created_at": "Mon Nov 07 11:40:21 +0000 2022",
+		"id": 1589582847991754800,
+		"id_str": "1589583530836762624",
+		"full_text": "Capital Jingle Bell Ball // Saturday 10 December, The O2 Arena, London // @CapitalOfficial #CapitalJBB https://t.co/tsTiftDvo1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CapitalJBB",
+					"indices": [
+						91,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CapitalOfficial",
+					"name": "Capital",
+					"id": 20431187,
+					"id_str": "20431187",
+					"indices": [
+						74,
+						90
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589582843121963000,
+					"id_str": "1589582843121963008",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg9VLIFXEAAXAif.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg9VLIFXEAAXAif.jpg",
+					"url": "https://t.co/tsTiftDvo1",
+					"display_url": "pic.twitter.com/tsTiftDvo1",
+					"expanded_url": "https://twitter.com/coldplay/status/1589582847991754755/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589582843121963000,
+					"id_str": "1589582843121963008",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg9VLIFXEAAXAif.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg9VLIFXEAAXAif.jpg",
+					"url": "https://t.co/tsTiftDvo1",
+					"display_url": "pic.twitter.com/tsTiftDvo1",
+					"expanded_url": "https://twitter.com/coldplay/status/1589582847991754755/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Buenos Aires, Argentina",
+			"description": "The official Twitter of the band Coldplay. Latest album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022/23.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23754467,
+			"friends_count": 779,
+			"listed_count": 42302,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1679,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 125,
+		"favorite_count": 1194,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Capital Jingle Bell Ball // Saturday 10 December, The O2 Arena, London // @CapitalOfficial #CapitalJBB https://t.co/tsTiftDvo1"
+	},
+	{
+		"created_at": "Mon Nov 07 11:40:19 +0000 2022",
+		"id": 1589576370505805800,
+		"id_str": "1589583521907183617",
+		"full_text": "웬디의 영스트리트\n지금 시작합니다\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/A7AWhGGXtH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						20,
+						23
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						53,
+						62
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						74,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589576340486750200,
+					"id_str": "1589576340486750208",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg9PQn4UAAApDHa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg9PQn4UAAApDHa.jpg",
+					"url": "https://t.co/A7AWhGGXtH",
+					"display_url": "pic.twitter.com/A7AWhGGXtH",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1589576370505805824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589576340486750200,
+					"id_str": "1589576340486750208",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg9PQn4UAAApDHa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg9PQn4UAAApDHa.jpg",
+					"url": "https://t.co/A7AWhGGXtH",
+					"display_url": "pic.twitter.com/A7AWhGGXtH",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1589576370505805824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5703999,
+			"friends_count": 2,
+			"listed_count": 11392,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2343,
+		"favorite_count": 8121,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "웬디의 영스트리트\n지금 시작합니다\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/A7AWhGGXtH"
+	},
+	{
+		"created_at": "Mon Nov 07 11:40:14 +0000 2022",
+		"id": 1589573395771191300,
+		"id_str": "1589583500419780612",
+		"full_text": "Generation MV 10M view celebration! 🎉\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS https://t.co/K6Q7UdpbYC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						39,
+						47
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						55,
+						73
+					]
+				},
+				{
+					"text": "애시드엔젤프롬에이시아",
+					"indices": [
+						74,
+						86
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						87,
+						99
+					]
+				},
+				{
+					"text": "Generation",
+					"indices": [
+						100,
+						111
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						112,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589567456863191000,
+					"id_str": "1589567456863191040",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg9HLhzaAAAJrp7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg9HLhzaAAAJrp7.jpg",
+					"url": "https://t.co/K6Q7UdpbYC",
+					"display_url": "pic.twitter.com/K6Q7UdpbYC",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1589573395771191298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589567456863191000,
+					"id_str": "1589567456863191040",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg9HLhzaAAAJrp7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg9HLhzaAAAJrp7.jpg",
+					"url": "https://t.co/K6Q7UdpbYC",
+					"display_url": "pic.twitter.com/K6Q7UdpbYC",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1589573395771191298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1589573388259168300,
+		"in_reply_to_status_id_str": "1589573388259168256",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41563,
+			"friends_count": 0,
+			"listed_count": 188,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 269,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Generation MV 10M view celebration! 🎉\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS https://t.co/K6Q7UdpbYC"
+	},
+	{
 		"created_at": "Mon Nov 07 10:40:17 +0000 2022",
 		"id": 1589566033769422800,
 		"id_str": "1589568413818671106",
