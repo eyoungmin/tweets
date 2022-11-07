@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 07 15:40:25 +0000 2022",
+		"id": 1589634025982812200,
+		"id_str": "1589643943825883137",
+		"full_text": "'Generation' MV 리액션(KRE ver.) | Acid Angel from Asia.SSS\n\nhttps://t.co/8eEXZVu3Fp\n\n#tripleS #트리플에스 #トリプルS #KRystalEyes \n#AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS https://t.co/JpCNSO7g36",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "KRystalEyes",
+					"indices": [
+						106,
+						118
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						120,
+						138
+					]
+				},
+				{
+					"text": "애시드엔젤프롬에이시아",
+					"indices": [
+						139,
+						151
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						152,
+						164
+					]
+				},
+				{
+					"text": "Generation",
+					"indices": [
+						165,
+						176
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						177,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8eEXZVu3Fp",
+					"expanded_url": "https://youtu.be/pwZ4BcAxuwU",
+					"display_url": "youtu.be/pwZ4BcAxuwU",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589618810021384200,
+					"id_str": "1589618810021384194",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg914rOakAIhw3S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg914rOakAIhw3S.jpg",
+					"url": "https://t.co/JpCNSO7g36",
+					"display_url": "pic.twitter.com/JpCNSO7g36",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1589634025982812160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589618810021384200,
+					"id_str": "1589618810021384194",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg914rOakAIhw3S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg914rOakAIhw3S.jpg",
+					"url": "https://t.co/JpCNSO7g36",
+					"display_url": "pic.twitter.com/JpCNSO7g36",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1589634025982812160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42355,
+			"friends_count": 0,
+			"listed_count": 189,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 127,
+		"favorite_count": 426,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Generation' MV 리액션(KRE ver.) | Acid Angel from Asia.SSS\n\nhttps://t.co/8eEXZVu3Fp\n\n#tripleS #트리플에스 #トリプルS #KRystalEyes \n#AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS https://t.co/JpCNSO7g36"
+	},
+	{
+		"created_at": "Mon Nov 07 15:40:18 +0000 2022",
+		"id": 1589633805958385700,
+		"id_str": "1589643918047682561",
+		"full_text": "BoA 보아 The 3rd Mini Album 〖Forgive Me〗\n\n➫ 2022.11.22 6PM KST\n\n#BoA #보아 \n#Forgive_Me https://t.co/9j0p3cQU4R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "Forgive_Me",
+					"indices": [
+						72,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589633716980109300,
+					"id_str": "1589633716980109314",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg-DcX-VUAINpx0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg-DcX-VUAINpx0.jpg",
+					"url": "https://t.co/9j0p3cQU4R",
+					"display_url": "pic.twitter.com/9j0p3cQU4R",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1589633805958385664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589633716980109300,
+					"id_str": "1589633716980109314",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg-DcX-VUAINpx0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg-DcX-VUAINpx0.jpg",
+					"url": "https://t.co/9j0p3cQU4R",
+					"display_url": "pic.twitter.com/9j0p3cQU4R",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1589633805958385664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "BoA 보아 The 3rd Mini Album 〖Forgive Me〗",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77272,
+			"friends_count": 1,
+			"listed_count": 328,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589633807509966849/j1BfG4jn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589633807509966849/j1BfG4jn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1667833209",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2563,
+		"favorite_count": 6314,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BoA 보아 The 3rd Mini Album 〖Forgive Me〗\n\n➫ 2022.11.22 6PM KST\n\n#BoA #보아 \n#Forgive_Me https://t.co/9j0p3cQU4R"
+	},
+	{
 		"created_at": "Mon Nov 07 13:40:24 +0000 2022",
 		"id": 1589604963009069000,
 		"id_str": "1589613743733985281",
