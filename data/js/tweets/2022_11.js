@@ -1,6 +1,434 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 07 13:40:24 +0000 2022",
+		"id": 1589604963009069000,
+		"id_str": "1589613743733985281",
+		"full_text": "🎤 Modhaus is bringing Kpop to web3! Together we're giving away NFT photocard of the girl group @triplescosmos! All participants will receive a card worth $3 and have a chance to win an exclusive Ancient8 x tripleS NFT - Don't miss out!\n\n🎁 Details: https://t.co/3n3E9w4nwe https://t.co/emnzCkI1VI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "triplescosmos",
+					"name": "tripleS official",
+					"id": 1509037477369024500,
+					"id_str": "1509037477369024517",
+					"indices": [
+						95,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3n3E9w4nwe",
+					"expanded_url": "https://gleam.io/Qvn84/-ancient8-x-triples-partnership-celebration-giveaway-",
+					"display_url": "gleam.io/Qvn84/-ancient…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589604013217284000,
+					"id_str": "1589604013217284099",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg9obY1aAAMTkdM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg9obY1aAAMTkdM.jpg",
+					"url": "https://t.co/emnzCkI1VI",
+					"display_url": "pic.twitter.com/emnzCkI1VI",
+					"expanded_url": "https://twitter.com/Ancient8_gg/status/1589604963009069056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589604013217284000,
+					"id_str": "1589604013217284099",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg9obY1aAAMTkdM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg9obY1aAAMTkdM.jpg",
+					"url": "https://t.co/emnzCkI1VI",
+					"display_url": "pic.twitter.com/emnzCkI1VI",
+					"expanded_url": "https://twitter.com/Ancient8_gg/status/1589604963009069056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1432711429707161600,
+			"id_str": "1432711429707161602",
+			"name": "Ancient8",
+			"screen_name": "Ancient8_gg",
+			"location": "",
+			"description": "https://t.co/L6Hl4ELjTT develops Web3 Gaming infrastructure, focusing on community and marketing.\n\nLaunch: @Ancient8_Dojo | Play: @A8_Esports | Immerse: Coming 👀",
+			"url": "https://t.co/RpoqXOrU62",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RpoqXOrU62",
+							"expanded_url": "https://link3.to/ancient8",
+							"display_url": "link3.to/ancient8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Hl4ELjTT",
+							"expanded_url": "http://Ancient8.gg",
+							"display_url": "Ancient8.gg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 105868,
+			"friends_count": 148,
+			"listed_count": 238,
+			"created_at": "Tue Aug 31 14:27:19 +0000 2021",
+			"favourites_count": 1381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562000459950395392/ePJieaEd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562000459950395392/ePJieaEd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1432711429707161602/1649135104",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 171,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎤 Modhaus is bringing Kpop to web3! Together we're giving away NFT photocard of the girl group @triplescosmos! All participants will receive a card worth $3 and have a chance to win an exclusive Ancient8 x tripleS NFT - Don't miss out!\n\n🎁 Details: https://t.co/3n3E9w4nwe https://t.co/emnzCkI1VI"
+	},
+	{
+		"created_at": "Mon Nov 07 13:40:17 +0000 2022",
+		"id": 1589603826637619200,
+		"id_str": "1589613713807507461",
+		"full_text": "트리플에스(tripleS AAA) 'Generation' (The First Stage ver.)\n\nhttps://t.co/sSt3ho9167\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS https://t.co/TX6f57Q4o8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						97,
+						115
+					]
+				},
+				{
+					"text": "애시드엔젤프롬에이시아",
+					"indices": [
+						116,
+						128
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						129,
+						141
+					]
+				},
+				{
+					"text": "Generation",
+					"indices": [
+						142,
+						153
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						154,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sSt3ho9167",
+					"expanded_url": "https://youtu.be/k-4cvy18XlA",
+					"display_url": "youtu.be/k-4cvy18XlA",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589547248765259800,
+					"id_str": "1589547248765259776",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg80zQxaUAA35KE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg80zQxaUAA35KE.jpg",
+					"url": "https://t.co/TX6f57Q4o8",
+					"display_url": "pic.twitter.com/TX6f57Q4o8",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1589603826637619200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589547248765259800,
+					"id_str": "1589547248765259776",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg80zQxaUAA35KE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fg80zQxaUAA35KE.jpg",
+					"url": "https://t.co/TX6f57Q4o8",
+					"display_url": "pic.twitter.com/TX6f57Q4o8",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1589603826637619200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41957,
+			"friends_count": 0,
+			"listed_count": 188,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 182,
+		"favorite_count": 520,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트리플에스(tripleS AAA) 'Generation' (The First Stage ver.)\n\nhttps://t.co/sSt3ho9167\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#Generation #ACCESS https://t.co/TX6f57Q4o8"
+	},
+	{
 		"created_at": "Mon Nov 07 12:57:42 +0000 2022",
 		"id": 1589593532255592400,
 		"id_str": "1589602995880177666",
