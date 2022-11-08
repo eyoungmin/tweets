@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 08 10:40:10 +0000 2022",
+		"id": 1589908932088459300,
+		"id_str": "1589930772713992192",
+		"full_text": "#VogueDigitalCover #NewHYEIN \nNew Beginnings!\n&lt;보그 코리아&gt; 디지털 커버의 첫 번째 주인공. 루이 비통 2023 크루즈 컬렉션을 입은 뉴진스 혜인의 첫 단독 화보 \n\n▶https://t.co/kbRhMSzj83 https://t.co/ofqOwaijQq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VogueDigitalCover",
+					"indices": [
+						0,
+						18
+					]
+				},
+				{
+					"text": "NewHYEIN",
+					"indices": [
+						19,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kbRhMSzj83",
+					"expanded_url": "http://vogue.co.kr/?ddw=128295",
+					"display_url": "vogue.co.kr/?ddw=128295",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589908601094934500,
+					"id_str": "1589908601094934530",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1589908601094934530/pu/img/vy3BkH07kQ2WQE9d.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1589908601094934530/pu/img/vy3BkH07kQ2WQE9d.jpg",
+					"url": "https://t.co/ofqOwaijQq",
+					"display_url": "pic.twitter.com/ofqOwaijQq",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1589908932088459265/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589908601094934500,
+					"id_str": "1589908601094934530",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1589908601094934530/pu/img/vy3BkH07kQ2WQE9d.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1589908601094934530/pu/img/vy3BkH07kQ2WQE9d.jpg",
+					"url": "https://t.co/ofqOwaijQq",
+					"display_url": "pic.twitter.com/ofqOwaijQq",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1589908932088459265/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 9100,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1589908601094934530/pu/vid/480x600/bo2NHRSIab3GksqX.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1589908601094934530/pu/pl/sEdvVqBAyteFzDsF.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1589908601094934530/pu/vid/720x900/Gkg1D6Szjnj-7YxS.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1589908601094934530/pu/vid/320x400/3sstcStU01u0SJ6_.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159102271,
+			"id_str": "159102271",
+			"name": "VOGUE KOREA",
+			"screen_name": "VogueKorea",
+			"location": "",
+			"description": "Vogue Korea official twitter",
+			"url": "https://t.co/cObX4QhDqc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cObX4QhDqc",
+							"expanded_url": "https://www.vogue.co.kr/",
+							"display_url": "vogue.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197327,
+			"friends_count": 0,
+			"listed_count": 433,
+			"created_at": "Thu Jun 24 13:11:05 +0000 2010",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15031,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159102271/1665741675",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5EF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2326,
+		"favorite_count": 5870,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#VogueDigitalCover #NewHYEIN \nNew Beginnings!\n&lt;보그 코리아&gt; 디지털 커버의 첫 번째 주인공. 루이 비통 2023 크루즈 컬렉션을 입은 뉴진스 혜인의 첫 단독 화보 \n\n▶https://t.co/kbRhMSzj83 https://t.co/ofqOwaijQq"
+	},
+	{
 		"created_at": "Tue Nov 08 09:50:06 +0000 2022",
 		"id": 1589907255260246000,
 		"id_str": "1589918171913367553",
