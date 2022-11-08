@@ -1,6 +1,446 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 08 02:29:46 +0000 2022",
+		"id": 1589803764390957000,
+		"id_str": "1589807360498860032",
+		"full_text": "준비됐지? \n#더트래블로그 #소녀시대 #효연 #써니 와 #카타르 로 떠나자!!! https://t.co/celpj9YD4t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "더트래블로그",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						15,
+						20
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						21,
+						24
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "카타르",
+					"indices": [
+						31,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/celpj9YD4t",
+					"expanded_url": "https://twitter.com/SBSPLUSNOW/status/1589803403445534720",
+					"display_url": "twitter.com/SBSPLUSNOW/sta…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113842072,
+			"id_str": "113842072",
+			"name": "THE K-POP",
+			"screen_name": "THEKPOP",
+			"location": "Seoul, Republic of Korea",
+			"description": "We provide 'SBS medianet' original K-POP shows. https://t.co/PDbViga9rh",
+			"url": "https://t.co/wjzrJCiimY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wjzrJCiimY",
+							"expanded_url": "https://sbsm.sbs.co.kr/",
+							"display_url": "sbsm.sbs.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PDbViga9rh",
+							"expanded_url": "http://youtube.com/c/THEKPOP",
+							"display_url": "youtube.com/c/THEKPOP",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 815384,
+			"friends_count": 1028,
+			"listed_count": 1438,
+			"created_at": "Sat Feb 13 06:30:47 +0000 2010",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224570939972575232/KSiGcUtU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224570939972575232/KSiGcUtU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113842072/1666694923",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1589803403445534700,
+		"quoted_status_id_str": "1589803403445534720",
+		"quoted_status_permalink": {
+			"url": "https://t.co/celpj9YD4t",
+			"expanded": "https://twitter.com/SBSPLUSNOW/status/1589803403445534720",
+			"display": "twitter.com/SBSPLUSNOW/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 08 02:14:03 +0000 2022",
+			"id": 1589803403445534700,
+			"id_str": "1589803403445534720",
+			"full_text": "#더트래블로그 #소녀시대 #효연 #써니 가 #카타르 로 떠났습니다!!!\n#궁전 같은 호텔에서 #호캉스 부터 뜨거운 태양 아래 광할한 #사막 까지!!!\n효연과 써니의 흥과 웃음이 넘치는 #카타르여생\n#더_트래블로그 SBS F!L 11월 13일(일) 밤 9시 / SBS M 같은 날 밤 10시\n#QATAR #TheTravelog https://t.co/nTnC1iK5CX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				181
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "더트래블로그",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"text": "소녀시대",
+						"indices": [
+							8,
+							13
+						]
+					},
+					{
+						"text": "효연",
+						"indices": [
+							14,
+							17
+						]
+					},
+					{
+						"text": "써니",
+						"indices": [
+							18,
+							21
+						]
+					},
+					{
+						"text": "카타르",
+						"indices": [
+							24,
+							28
+						]
+					},
+					{
+						"text": "궁전",
+						"indices": [
+							40,
+							43
+						]
+					},
+					{
+						"text": "호캉스",
+						"indices": [
+							52,
+							56
+						]
+					},
+					{
+						"text": "사막",
+						"indices": [
+							74,
+							77
+						]
+					},
+					{
+						"text": "카타르여생",
+						"indices": [
+							103,
+							109
+						]
+					},
+					{
+						"text": "더_트래블로그",
+						"indices": [
+							110,
+							118
+						]
+					},
+					{
+						"text": "QATAR",
+						"indices": [
+							162,
+							168
+						]
+					},
+					{
+						"text": "TheTravelog",
+						"indices": [
+							169,
+							181
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1589800681753301000,
+						"id_str": "1589800681753300992",
+						"indices": [
+							182,
+							205
+						],
+						"media_url": "http://pbs.twimg.com/media/FhAduqTVUAAUAkW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FhAduqTVUAAUAkW.jpg",
+						"url": "https://t.co/nTnC1iK5CX",
+						"display_url": "pic.twitter.com/nTnC1iK5CX",
+						"expanded_url": "https://twitter.com/SBSPLUSNOW/status/1589803403445534720/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1589800681753301000,
+						"id_str": "1589800681753300992",
+						"indices": [
+							182,
+							205
+						],
+						"media_url": "http://pbs.twimg.com/media/FhAduqTVUAAUAkW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FhAduqTVUAAUAkW.jpg",
+						"url": "https://t.co/nTnC1iK5CX",
+						"display_url": "pic.twitter.com/nTnC1iK5CX",
+						"expanded_url": "https://twitter.com/SBSPLUSNOW/status/1589803403445534720/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 47530,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1589800681753300992/vid/1280x720/1e4qecrzVVdjmXlI.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1589800681753300992/pl/hRw8nayVASpldokg.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1589800681753300992/vid/640x360/vWRksZvHJS1qN3FL.mp4?tag=14"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1589800681753300992/vid/480x270/euMVwV9rWmbMLEQ5.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": " #더트래블로그 #소녀시대 #효연 #써니 가 #카타르 로 떠났습니다!!!",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 237587820,
+				"id_str": "237587820",
+				"name": "SBS FIL",
+				"screen_name": "SBSPLUSNOW",
+				"location": "",
+				"description": "SBS FIL 감성톡톡!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12275,
+				"friends_count": 3557,
+				"listed_count": 136,
+				"created_at": "Thu Jan 13 04:50:45 +0000 2011",
+				"favourites_count": 176,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5061,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1173465420948365312/Je7LJdfq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173465420948365312/Je7LJdfq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/237587820/1665042337",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 114,
+			"favorite_count": 133,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 4,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "준비됐지? \n#더트래블로그 #소녀시대 #효연 #써니 와 #카타르 로 떠나자!!! https://t.co/celpj9YD4t"
+	},
+	{
 		"created_at": "Tue Nov 08 00:40:10 +0000 2022",
 		"id": 1589768322412748800,
 		"id_str": "1589779777635901440",
@@ -39,7 +479,7 @@ Grailbird.data.tweets_2022_11 =
 			"name": "Oh Wonder",
 			"screen_name": "OhWonderMusic",
 			"location": "London",
-			"description": "Our new album \"22 Make\" is out now! ❤️‍🔥",
+			"description": "Our new album \"22 Make\" is out now! ❤️🔥",
 			"url": "https://t.co/aWDekOEjgr",
 			"entities": {
 				"url": {
