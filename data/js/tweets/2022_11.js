@@ -1,6 +1,1537 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 08 03:40:41 +0000 2022",
+		"id": 1589820787619688400,
+		"id_str": "1589825207615000578",
+		"full_text": "법카로 배달 시켜 먹음  Ordered Delivery Food With the Company Card\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/pMs7Qu60a4\n\n#tripleS #트리플에스 #トリプルS https://t.co/e0YBwvgFuU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						114,
+						122
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						130,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pMs7Qu60a4",
+					"expanded_url": "https://youtu.be/TbcUBiHluwM",
+					"display_url": "youtu.be/TbcUBiHluwM",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589820650470137900,
+					"id_str": "1589820650470137858",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FhAuXvhagAAboAO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhAuXvhagAAboAO.jpg",
+					"url": "https://t.co/e0YBwvgFuU",
+					"display_url": "pic.twitter.com/e0YBwvgFuU",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1589820787619688448/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589820650470137900,
+					"id_str": "1589820650470137858",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FhAuXvhagAAboAO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhAuXvhagAAboAO.jpg",
+					"url": "https://t.co/e0YBwvgFuU",
+					"display_url": "pic.twitter.com/e0YBwvgFuU",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1589820787619688448/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 43605,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1589820650470137858/pu/pl/gacrt03EBCstYcAS.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1589820650470137858/pu/vid/640x360/Wkk8DevUNcm9D-vA.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1589820650470137858/pu/vid/1280x720/XTEOLDCQxNtIaJDA.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1589820650470137858/pu/vid/480x270/ojIwtBD1UgUizKVx.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42099,
+			"friends_count": 0,
+			"listed_count": 197,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1666882876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 189,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "법카로 배달 시켜 먹음  Ordered Delivery Food With the Company Card\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/pMs7Qu60a4\n\n#tripleS #트리플에스 #トリプルS https://t.co/e0YBwvgFuU"
+	},
+	{
+		"created_at": "Tue Nov 08 03:40:32 +0000 2022",
+		"id": 1589818884043206700,
+		"id_str": "1589825169203281926",
+		"full_text": "Thank you Buenos Aires Night 9 🇦🇷 https://t.co/K2B0yNlImh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589817324290429000,
+					"id_str": "1589817324290428930",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1589817324290428930/pu/img/DcTmuHJ6JkMjewB3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1589817324290428930/pu/img/DcTmuHJ6JkMjewB3.jpg",
+					"url": "https://t.co/K2B0yNlImh",
+					"display_url": "pic.twitter.com/K2B0yNlImh",
+					"expanded_url": "https://twitter.com/coldplay/status/1589818884043206656/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589817324290429000,
+					"id_str": "1589817324290428930",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1589817324290428930/pu/img/DcTmuHJ6JkMjewB3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1589817324290428930/pu/img/DcTmuHJ6JkMjewB3.jpg",
+					"url": "https://t.co/K2B0yNlImh",
+					"display_url": "pic.twitter.com/K2B0yNlImh",
+					"expanded_url": "https://twitter.com/coldplay/status/1589818884043206656/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 11316,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1589817324290428930/pu/vid/320x568/cmBBEKMzCe9RO7BU.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1589817324290428930/pu/pl/EEwcKQ3TJ4Hs4jBB.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1589817324290428930/pu/vid/720x1280/eydCz50ZqEtXtOSu.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1589817324290428930/pu/vid/480x852/JCWHj6QlaXlTm4Z3.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Buenos Aires, Argentina",
+			"description": "The official Twitter of the band Coldplay. Latest album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022/23.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23752786,
+			"friends_count": 780,
+			"listed_count": 42317,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1679,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 836,
+		"favorite_count": 7833,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you Buenos Aires Night 9 🇦🇷 https://t.co/K2B0yNlImh"
+	},
+	{
+		"created_at": "Tue Nov 08 03:40:29 +0000 2022",
+		"id": 1589815022905352200,
+		"id_str": "1589825155974340608",
+		"full_text": "[#EVENT]\n#tripleS(#트리플에스) : Acid Angel from Asia [ACCESS] 발매기념 VIDEO CALL &amp; OFF-LINE FAN SIGN EVENT \n\n응모 기간\n11.08(화) 12:00 ~ 11.09(수) 23:59 (KST)\n\n진행 일시 \n11.12(토) 19:30 / 21:30 (KST)\n\n▶URL\nKOR https://t.co/tXLaJ64ZXq\nGLOBAL https://t.co/JlEqu166IS https://t.co/4NuS4HpNm8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EVENT",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "tripleS",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						18,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tXLaJ64ZXq",
+					"expanded_url": "https://bit.ly/3zO3LQO",
+					"display_url": "bit.ly/3zO3LQO",
+					"indices": [
+						197,
+						220
+					]
+				},
+				{
+					"url": "https://t.co/JlEqu166IS",
+					"expanded_url": "https://bit.ly/3UwlHaB",
+					"display_url": "bit.ly/3UwlHaB",
+					"indices": [
+						228,
+						251
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589798637407981600,
+					"id_str": "1589798637407981568",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FhAZcAcaUAAvvUW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhAZcAcaUAAvvUW.jpg",
+					"url": "https://t.co/4NuS4HpNm8",
+					"display_url": "pic.twitter.com/4NuS4HpNm8",
+					"expanded_url": "https://twitter.com/dearmymuse_foru/status/1589815022905352192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1403,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 822,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589798637407981600,
+					"id_str": "1589798637407981568",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FhAZcAcaUAAvvUW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhAZcAcaUAAvvUW.jpg",
+					"url": "https://t.co/4NuS4HpNm8",
+					"display_url": "pic.twitter.com/4NuS4HpNm8",
+					"expanded_url": "https://twitter.com/dearmymuse_foru/status/1589815022905352192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1403,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 822,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589798637387014100,
+					"id_str": "1589798637387014145",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FhAZcAXaYAEMGPQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhAZcAXaYAEMGPQ.jpg",
+					"url": "https://t.co/4NuS4HpNm8",
+					"display_url": "pic.twitter.com/4NuS4HpNm8",
+					"expanded_url": "https://twitter.com/dearmymuse_foru/status/1589815022905352192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 822,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1403,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589798637407998000,
+					"id_str": "1589798637407997952",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FhAZcAcakAAtpdh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhAZcAcakAAtpdh.jpg",
+					"url": "https://t.co/4NuS4HpNm8",
+					"display_url": "pic.twitter.com/4NuS4HpNm8",
+					"expanded_url": "https://twitter.com/dearmymuse_foru/status/1589815022905352192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1403,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 822,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1333633313391530000,
+			"id_str": "1333633313391529987",
+			"name": "DEAR MY MUSE 디어마이뮤즈",
+			"screen_name": "dearmymuse_foru",
+			"location": "",
+			"description": "DEAR MY MUSE Official twitter",
+			"url": "https://t.co/SyDJLIQfzn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SyDJLIQfzn",
+							"expanded_url": "http://dearmymuse.com",
+							"display_url": "dearmymuse.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6362,
+			"friends_count": 52,
+			"listed_count": 44,
+			"created_at": "Tue Dec 01 04:46:56 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402173486110416900/lqNdWHTZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402173486110416900/lqNdWHTZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1333633313391529987/1623139187",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#EVENT]\n#tripleS(#트리플에스) : Acid Angel from Asia [ACCESS] 발매기념 VIDEO CALL &amp; OFF-LINE FAN SIGN EVENT \n\n응모 기간\n11.08(화) 12:00 ~ 11.09(수) 23:59 (KST)\n\n진행 일시 \n11.12(토) 19:30 / 21:30 (KST)\n\n▶URL\nKOR https://t.co/tXLaJ64ZXq\nGLOBAL https://t.co/JlEqu166IS https://t.co/4NuS4HpNm8"
+	},
+	{
+		"created_at": "Tue Nov 08 03:40:10 +0000 2022",
+		"id": 1589810775161712600,
+		"id_str": "1589825074772811777",
+		"full_text": "‘No.1 아티스트’의 귀환! 보아, 세 번째 미니앨범 ‘Forgive Me’ 11월 22일 발매!\n오늘부터 예약판매 시작!\n\nReturn of the ‘No.1 Artist’!  BoA to release her 3rd mini album 'Forgive Me' on November 22! Pre-order starts today! \n\nhttps://t.co/3bfCyq6BWX\n\n#BoA #보아 \n#Forgive_Me",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						215,
+						219
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						220,
+						223
+					]
+				},
+				{
+					"text": "Forgive_Me",
+					"indices": [
+						225,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3bfCyq6BWX",
+					"expanded_url": "https://bit.ly/3tc9MTM",
+					"display_url": "bit.ly/3tc9MTM",
+					"indices": [
+						190,
+						213
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "BoA 보아 The 3rd Mini Album 〖Forgive Me〗",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77707,
+			"friends_count": 1,
+			"listed_count": 317,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589633807509966849/j1BfG4jn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589633807509966849/j1BfG4jn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1667833209",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 265,
+		"favorite_count": 486,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘No.1 아티스트’의 귀환! 보아, 세 번째 미니앨범 ‘Forgive Me’ 11월 22일 발매!\n오늘부터 예약판매 시작!\n\nReturn of the ‘No.1 Artist’!  BoA to release her 3rd mini album 'Forgive Me' on November 22! Pre-order starts today! \n\nhttps://t.co/3bfCyq6BWX\n\n#BoA #보아 \n#Forgive_Me"
+	},
+	{
+		"created_at": "Tue Nov 08 03:29:46 +0000 2022",
+		"id": 1589815280716644400,
+		"id_str": "1589822459846721536",
+		"full_text": "&lt;#공조2_인터내셔날&gt; 공조러들의 공감 200% 과몰입 앨범.jpg\n함께한 관객분들 모두 사랑입니다~!! #가을이었다...🍁🍂✨\n\n웃음과 케미 제대로 터지는 공조2 N차 고고!\n▶https://t.co/kbTEEq3B3V\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #절찬상영중 https://t.co/rz2P4UP5nx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						4,
+						14
+					]
+				},
+				{
+					"text": "가을이었다",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "절찬상영중",
+					"indices": [
+						169,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kbTEEq3B3V",
+					"expanded_url": "https://linktr.ee/cjenmmovie",
+					"display_url": "linktr.ee/cjenmmovie",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589814753383575600,
+					"id_str": "1589814753383575554",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FhAoGFIacAIkXcq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhAoGFIacAIkXcq.jpg",
+					"url": "https://t.co/rz2P4UP5nx",
+					"display_url": "pic.twitter.com/rz2P4UP5nx",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1589815280716644352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589814753383575600,
+					"id_str": "1589814753383575554",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FhAoGFIacAIkXcq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhAoGFIacAIkXcq.jpg",
+					"url": "https://t.co/rz2P4UP5nx",
+					"display_url": "pic.twitter.com/rz2P4UP5nx",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1589815280716644352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1essF3t7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1essF3t7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331431,
+			"friends_count": 10597,
+			"listed_count": 262,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1666740044",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 119,
+		"favorite_count": 216,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;#공조2_인터내셔날&gt; 공조러들의 공감 200% 과몰입 앨범.jpg\n함께한 관객분들 모두 사랑입니다~!! #가을이었다...🍁🍂✨\n\n웃음과 케미 제대로 터지는 공조2 N차 고고!\n▶https://t.co/kbTEEq3B3V\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #절찬상영중 https://t.co/rz2P4UP5nx"
+	},
+	{
+		"created_at": "Tue Nov 08 03:29:39 +0000 2022",
+		"id": 1589807419894292500,
+		"id_str": "1589822429693616129",
+		"full_text": "매력적이고 사랑스러운 강희의 첫 스틸 공개💌\n\n탈덕 방지 로맨틱 코미디 &lt;#팬레터를보내주세요&gt;💝\n11월 18일 (금) 밤 9시 50분 첫 방송✍️\n\n#최수영 #윤박 #팬레터 #팬레터를보내주세요\n#MBC금토드라마 #MBC4부작 #MBC https://t.co/vQMcIqM4AP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팬레터를보내주세요",
+					"indices": [
+						44,
+						54
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "윤박",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "팬레터",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "팬레터를보내주세요",
+					"indices": [
+						103,
+						113
+					]
+				},
+				{
+					"text": "MBC금토드라마",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"text": "MBC4부작",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "MBC",
+					"indices": [
+						132,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589785623560609800,
+					"id_str": "1589785623560609792",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FhANmgFaYAA_Wxy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhANmgFaYAA_Wxy.jpg",
+					"url": "https://t.co/vQMcIqM4AP",
+					"display_url": "pic.twitter.com/vQMcIqM4AP",
+					"expanded_url": "https://twitter.com/withMBC/status/1589807419894292480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589785623560609800,
+					"id_str": "1589785623560609792",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FhANmgFaYAA_Wxy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhANmgFaYAA_Wxy.jpg",
+					"url": "https://t.co/vQMcIqM4AP",
+					"display_url": "pic.twitter.com/vQMcIqM4AP",
+					"expanded_url": "https://twitter.com/withMBC/status/1589807419894292480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1589785623573188600,
+					"id_str": "1589785623573188609",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FhANmgIaUAE1ISJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhANmgIaUAE1ISJ.jpg",
+					"url": "https://t.co/vQMcIqM4AP",
+					"display_url": "pic.twitter.com/vQMcIqM4AP",
+					"expanded_url": "https://twitter.com/withMBC/status/1589807419894292480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1002351,
+			"friends_count": 9782,
+			"listed_count": 4182,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 49250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1663728081",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 79,
+		"favorite_count": 119,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "매력적이고 사랑스러운 강희의 첫 스틸 공개💌\n\n탈덕 방지 로맨틱 코미디 &lt;#팬레터를보내주세요&gt;💝\n11월 18일 (금) 밤 9시 50분 첫 방송✍️\n\n#최수영 #윤박 #팬레터 #팬레터를보내주세요\n#MBC금토드라마 #MBC4부작 #MBC https://t.co/vQMcIqM4AP"
+	},
+	{
+		"created_at": "Tue Nov 08 03:05:45 +0000 2022",
+		"id": 1589814660441993200,
+		"id_str": "1589816415678189568",
+		"full_text": "#레드벨벳 #RedVelvet '#The_ReVe_Festival_2022 - #Birthday'\n\n💿🛒 \n\n[Cake Ver.] \n\nsmtown&amp;store➫ https://t.co/owbaWmN5PY\nYES24➫ https://t.co/P9mO865O1s\nAladin➫ https://t.co/hxRfgRgihB\nHottracks➫ https://t.co/TGF0J16VzW\nInterpark➫ https://t.co/vZy0JsBbbh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "The_ReVe_Festival_2022",
+					"indices": [
+						18,
+						41
+					]
+				},
+				{
+					"text": "Birthday",
+					"indices": [
+						44,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/owbaWmN5PY",
+					"expanded_url": "https://url.kr/wgzvk8",
+					"display_url": "url.kr/wgzvk8",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/P9mO865O1s",
+					"expanded_url": "https://url.kr/sxmyaq",
+					"display_url": "url.kr/sxmyaq",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/hxRfgRgihB",
+					"expanded_url": "http://aladin.kr/p/azJF8",
+					"display_url": "aladin.kr/p/azJF8",
+					"indices": [
+						156,
+						179
+					]
+				},
+				{
+					"url": "https://t.co/TGF0J16VzW",
+					"expanded_url": "https://url.kr/4cn7kg",
+					"display_url": "url.kr/4cn7kg",
+					"indices": [
+						191,
+						214
+					]
+				},
+				{
+					"url": "https://t.co/vZy0JsBbbh",
+					"expanded_url": "https://url.kr/fq7e6x",
+					"display_url": "url.kr/fq7e6x",
+					"indices": [
+						226,
+						249
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1589814658583908400,
+		"in_reply_to_status_id_str": "1589814658583908357",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5705201,
+			"friends_count": 2,
+			"listed_count": 11415,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1377,
+		"favorite_count": 3143,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#레드벨벳 #RedVelvet '#The_ReVe_Festival_2022 - #Birthday'\n\n💿🛒 \n\n[Cake Ver.] \n\nsmtown&amp;store➫ https://t.co/owbaWmN5PY\nYES24➫ https://t.co/P9mO865O1s\nAladin➫ https://t.co/hxRfgRgihB\nHottracks➫ https://t.co/TGF0J16VzW\nInterpark➫ https://t.co/vZy0JsBbbh"
+	},
+	{
 		"created_at": "Tue Nov 08 02:29:46 +0000 2022",
 		"id": 1589803764390957000,
 		"id_str": "1589807360498860032",
