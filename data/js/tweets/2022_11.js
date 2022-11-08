@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 08 08:40:10 +0000 2022",
+		"id": 1589897955229986800,
+		"id_str": "1589900573159063553",
+		"full_text": "MERRY SPOOKY X-MAS !!\n🖤🖤🖤🖤🖤❤️🖤🖤🖤🖤🖤\n2022. 12. 9 (금) 8PM\n2022. 12. 10 (토) 6PM\n2022. 12. 11 (일) 5PM\n\n올림픽공원 sK핸드볼경기장\n\n(속닥) (✨같은 제목의 \n스페셜 앨범이 공연 전에 \n발매된다는 소문이 있던데...✨)\n\n#자우림_콘서트\n#자우림_겨울스페셜앨범 \n#MERRY_SPOOKY_XMAS https://t.co/q540vpYfuc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림_콘서트",
+					"indices": [
+						164,
+						172
+					]
+				},
+				{
+					"text": "자우림_겨울스페셜앨범",
+					"indices": [
+						173,
+						185
+					]
+				},
+				{
+					"text": "MERRY_SPOOKY_XMAS",
+					"indices": [
+						187,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589897947973505000,
+					"id_str": "1589897947973505024",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FhBzwpIVUAAlxQc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhBzwpIVUAAlxQc.jpg",
+					"url": "https://t.co/q540vpYfuc",
+					"display_url": "pic.twitter.com/q540vpYfuc",
+					"expanded_url": "https://twitter.com/love_yuna/status/1589897955229986816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1796,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589897947973505000,
+					"id_str": "1589897947973505024",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FhBzwpIVUAAlxQc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhBzwpIVUAAlxQc.jpg",
+					"url": "https://t.co/q540vpYfuc",
+					"display_url": "pic.twitter.com/q540vpYfuc",
+					"expanded_url": "https://twitter.com/love_yuna/status/1589897955229986816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1796,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275577,
+			"friends_count": 597,
+			"listed_count": 2738,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 459,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1587350693115199488/WeM4899U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587350693115199488/WeM4899U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1667288883",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 106,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MERRY SPOOKY X-MAS !!\n🖤🖤🖤🖤🖤❤️🖤🖤🖤🖤🖤\n2022. 12. 9 (금) 8PM\n2022. 12. 10 (토) 6PM\n2022. 12. 11 (일) 5PM\n\n올림픽공원 sK핸드볼경기장\n\n(속닥) (✨같은 제목의 \n스페셜 앨범이 공연 전에 \n발매된다는 소문이 있던데...✨)\n\n#자우림_콘서트\n#자우림_겨울스페셜앨범 \n#MERRY_SPOOKY_XMAS https://t.co/q540vpYfuc"
+	},
+	{
 		"created_at": "Tue Nov 08 07:40:14 +0000 2022",
 		"id": 1589875604790608000,
 		"id_str": "1589885492480602112",
