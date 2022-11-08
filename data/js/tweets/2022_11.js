@@ -1,10 +1,224 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 08 15:05:52 +0000 2022",
+		"id": 1589997341272342500,
+		"id_str": "1589997637087858690",
+		"full_text": "SMCU : Red Velvet\nThe Story of ReVe – 01\n\nhttps://t.co/WWQ31afMkk\n\n#RedVelvet #SMCU #ReVe\n#The_Story_of_ReVe https://t.co/aq0E5LbhiB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						67,
+						77
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "ReVe",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "The_Story_of_ReVe",
+					"indices": [
+						90,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WWQ31afMkk",
+					"expanded_url": "https://url.kr/3xjbg9",
+					"display_url": "url.kr/3xjbg9",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589997329725038600,
+					"id_str": "1589997329725038593",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FhDOJbAUoAEVjA9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhDOJbAUoAEVjA9.jpg",
+					"url": "https://t.co/aq0E5LbhiB",
+					"display_url": "pic.twitter.com/aq0E5LbhiB",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1589997341272342528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589997329725038600,
+					"id_str": "1589997329725038593",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FhDOJbAUoAEVjA9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhDOJbAUoAEVjA9.jpg",
+					"url": "https://t.co/aq0E5LbhiB",
+					"display_url": "pic.twitter.com/aq0E5LbhiB",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1589997341272342528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5706470,
+			"friends_count": 2,
+			"listed_count": 11414,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11808,
+		"favorite_count": 18588,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SMCU : Red Velvet\nThe Story of ReVe – 01\n\nhttps://t.co/WWQ31afMkk\n\n#RedVelvet #SMCU #ReVe\n#The_Story_of_ReVe https://t.co/aq0E5LbhiB"
+	},
+	{
 		"created_at": "Tue Nov 08 14:05:45 +0000 2022",
 		"id": 1589971036732522500,
 		"id_str": "1589982509818818562",
-		"full_text": "🖤 부산 공연 !! 🖤\n\n자우림 부산 갑니다아아!!!!!\n2022. 12. 30 (금) 7:30PM\n2022. 12. 31 (토) 6PM 에\nKBS부산홀에서 자우림과 \n2022년의 마지막을 \n🕺🏃‍♂️달려 봅시다아아!!!!\n\n(속닥) (서울 공연과 프로그램이 \n다를 거라는 소문이 있던데.....✨💜)\n\n#자우림_부산콘서트\n#MERRY_SPOOKY_JAURIM https://t.co/uB7LMlLqGS",
+		"full_text": "🖤 부산 공연 !! 🖤\n\n자우림 부산 갑니다아아!!!!!\n2022. 12. 30 (금) 7:30PM\n2022. 12. 31 (토) 6PM 에\nKBS부산홀에서 자우림과 \n2022년의 마지막을 \n🕺🏃♂️달려 봅시다아아!!!!\n\n(속닥) (서울 공연과 프로그램이 \n다를 거라는 소문이 있던데.....✨💜)\n\n#자우림_부산콘서트\n#MERRY_SPOOKY_JAURIM https://t.co/uB7LMlLqGS",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -188,7 +402,7 @@ Grailbird.data.tweets_2022_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "🖤 부산 공연 !! 🖤\n\n자우림 부산 갑니다아아!!!!!\n2022. 12. 30 (금) 7:30PM\n2022. 12. 31 (토) 6PM 에\nKBS부산홀에서 자우림과 \n2022년의 마지막을 \n🕺🏃‍♂️달려 봅시다아아!!!!\n\n(속닥) (서울 공연과 프로그램이 \n다를 거라는 소문이 있던데.....✨💜)\n\n#자우림_부산콘서트\n#MERRY_SPOOKY_JAURIM https://t.co/uB7LMlLqGS"
+		"text": "🖤 부산 공연 !! 🖤\n\n자우림 부산 갑니다아아!!!!!\n2022. 12. 30 (금) 7:30PM\n2022. 12. 31 (토) 6PM 에\nKBS부산홀에서 자우림과 \n2022년의 마지막을 \n🕺🏃♂️달려 봅시다아아!!!!\n\n(속닥) (서울 공연과 프로그램이 \n다를 거라는 소문이 있던데.....✨💜)\n\n#자우림_부산콘서트\n#MERRY_SPOOKY_JAURIM https://t.co/uB7LMlLqGS"
 	},
 	{
 		"created_at": "Tue Nov 08 10:40:10 +0000 2022",
