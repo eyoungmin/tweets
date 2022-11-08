@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 08 14:05:45 +0000 2022",
+		"id": 1589971036732522500,
+		"id_str": "1589982509818818562",
+		"full_text": "🖤 부산 공연 !! 🖤\n\n자우림 부산 갑니다아아!!!!!\n2022. 12. 30 (금) 7:30PM\n2022. 12. 31 (토) 6PM 에\nKBS부산홀에서 자우림과 \n2022년의 마지막을 \n🕺🏃‍♂️달려 봅시다아아!!!!\n\n(속닥) (서울 공연과 프로그램이 \n다를 거라는 소문이 있던데.....✨💜)\n\n#자우림_부산콘서트\n#MERRY_SPOOKY_JAURIM https://t.co/uB7LMlLqGS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림_부산콘서트",
+					"indices": [
+						170,
+						180
+					]
+				},
+				{
+					"text": "MERRY_SPOOKY_JAURIM",
+					"indices": [
+						181,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589971028863656000,
+					"id_str": "1589971028863655936",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FhC2OgqUoAAIzDH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhC2OgqUoAAIzDH.jpg",
+					"url": "https://t.co/uB7LMlLqGS",
+					"display_url": "pic.twitter.com/uB7LMlLqGS",
+					"expanded_url": "https://twitter.com/love_yuna/status/1589971036732522497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1640,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589971028863656000,
+					"id_str": "1589971028863655936",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FhC2OgqUoAAIzDH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhC2OgqUoAAIzDH.jpg",
+					"url": "https://t.co/uB7LMlLqGS",
+					"display_url": "pic.twitter.com/uB7LMlLqGS",
+					"expanded_url": "https://twitter.com/love_yuna/status/1589971036732522497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1640,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1589897955229986800,
+		"in_reply_to_status_id_str": "1589897955229986816",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275577,
+			"friends_count": 597,
+			"listed_count": 2737,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1587350693115199488/WeM4899U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587350693115199488/WeM4899U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1667288883",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 92,
+		"favorite_count": 76,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🖤 부산 공연 !! 🖤\n\n자우림 부산 갑니다아아!!!!!\n2022. 12. 30 (금) 7:30PM\n2022. 12. 31 (토) 6PM 에\nKBS부산홀에서 자우림과 \n2022년의 마지막을 \n🕺🏃‍♂️달려 봅시다아아!!!!\n\n(속닥) (서울 공연과 프로그램이 \n다를 거라는 소문이 있던데.....✨💜)\n\n#자우림_부산콘서트\n#MERRY_SPOOKY_JAURIM https://t.co/uB7LMlLqGS"
+	},
+	{
 		"created_at": "Tue Nov 08 10:40:10 +0000 2022",
 		"id": 1589908932088459300,
 		"id_str": "1589930772713992192",
