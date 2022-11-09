@@ -1,6 +1,407 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Wed Nov 09 09:44:00 +0000 2022",
+		"id": 1590275505332314000,
+		"id_str": "1590279027972980737",
+		"full_text": "[유라X만동]\nNew EP Album\n&lt;이런 분위기는 기회다 (The Vibe is a Chance)&gt;\n\nTrack List\n1. 지느러미 The Fin\n2. 시간을 아우르는 공 Vacancy Hugs Time\n3. 축 Sag\n4. 샐리 넌 과감해질 필요가 있어 Sally, Go Wild!\n5. 돛이 있다면야 If There's a Sail\n6. 요술 수프 Sorcery Soup\n\n22.11.21 12PM https://t.co/x8xZWY6Fkc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1590242858350837800,
+					"id_str": "1590242858350837761",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/FhGtdEaagAEs9Ml.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhGtdEaagAEs9Ml.jpg",
+					"url": "https://t.co/x8xZWY6Fkc",
+					"display_url": "pic.twitter.com/x8xZWY6Fkc",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1590275505332314112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 529,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 934,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1590242858350837800,
+					"id_str": "1590242858350837761",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/FhGtdEaagAEs9Ml.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhGtdEaagAEs9Ml.jpg",
+					"url": "https://t.co/x8xZWY6Fkc",
+					"display_url": "pic.twitter.com/x8xZWY6Fkc",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1590275505332314112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 529,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 934,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/허회경",
+			"url": "https://t.co/EWOG41NDnZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41NDnZ",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 935,
+			"friends_count": 8,
+			"listed_count": 19,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 85,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1060,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1653271322",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유라X만동]\nNew EP Album\n&lt;이런 분위기는 기회다 (The Vibe is a Chance)&gt;\n\nTrack List\n1. 지느러미 The Fin\n2. 시간을 아우르는 공 Vacancy Hugs Time\n3. 축 Sag\n4. 샐리 넌 과감해질 필요가 있어 Sally, Go Wild!\n5. 돛이 있다면야 If There's a Sail\n6. 요술 수프 Sorcery Soup\n\n22.11.21 12PM https://t.co/x8xZWY6Fkc"
+	},
+	{
+		"created_at": "Wed Nov 09 09:06:01 +0000 2022",
+		"id": 1590255890263060500,
+		"id_str": "1590269465635135489",
+		"full_text": "2023 SM ARTIST SEASON’S GREETINGS #RedVelvet\n\n[구성 안내]\n1. PACKAGE\n2. DESK CALENDAR  \n3. HARD COVER DIARY\n4. POSTCARD SET\n5. FOLDED POSTER SET\n6. STICKER SET ( PHOTO &amp; HANDWRITING )\n\n#SEASONSGREETINGS https://t.co/giLx7buGkb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"text": "SEASONSGREETINGS",
+					"indices": [
+						185,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1590255541536051200,
+					"id_str": "1590255541536051202",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FhG4_U9aUAIhF8e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhG4_U9aUAIhF8e.jpg",
+					"url": "https://t.co/giLx7buGkb",
+					"display_url": "pic.twitter.com/giLx7buGkb",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1590255890263060481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 310,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 935,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 548,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1590255541536051200,
+					"id_str": "1590255541536051202",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FhG4_U9aUAIhF8e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhG4_U9aUAIhF8e.jpg",
+					"url": "https://t.co/giLx7buGkb",
+					"display_url": "pic.twitter.com/giLx7buGkb",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1590255890263060481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 310,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 935,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 548,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1590255541536063500,
+					"id_str": "1590255541536063488",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FhG4_U9agAAkKX9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhG4_U9agAAkKX9.jpg",
+					"url": "https://t.co/giLx7buGkb",
+					"display_url": "pic.twitter.com/giLx7buGkb",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1590255890263060481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 629,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 209,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 369,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5708864,
+			"friends_count": 2,
+			"listed_count": 11430,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3754,
+		"favorite_count": 9196,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2023 SM ARTIST SEASON’S GREETINGS #RedVelvet\n\n[구성 안내]\n1. PACKAGE\n2. DESK CALENDAR  \n3. HARD COVER DIARY\n4. POSTCARD SET\n5. FOLDED POSTER SET\n6. STICKER SET ( PHOTO &amp; HANDWRITING )\n\n#SEASONSGREETINGS https://t.co/giLx7buGkb"
+	},
+	{
 		"created_at": "Wed Nov 09 07:56:05 +0000 2022",
 		"id": 1590237754658414600,
 		"id_str": "1590251868084588544",
