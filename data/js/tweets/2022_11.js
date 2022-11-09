@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Wed Nov 09 00:49:38 +0000 2022",
+		"id": 1590132063713120300,
+		"id_str": "1590144547446628352",
+		"full_text": "Voting is now open for Favorite K-Pop Artist at the @AMAs! You can vote daily on @discord at https://t.co/14nlm962vs. Don’t miss the #AMAs on Sunday, November 20 at 8/7c on @ABCNetwork 📺\n🔗  https://t.co/14nlm962vs https://t.co/d5itppMPCG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AMAs",
+					"indices": [
+						133,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AMAs",
+					"name": "American Music Awards",
+					"id": 52536879,
+					"id_str": "52536879",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"screen_name": "discord",
+					"name": "Discord",
+					"id": 3065618342,
+					"id_str": "3065618342",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"screen_name": "ABCNetwork",
+					"name": "ABC",
+					"id": 631478663,
+					"id_str": "631478663",
+					"indices": [
+						173,
+						184
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/14nlm962vs",
+					"expanded_url": "http://discord.gg/AMAs",
+					"display_url": "discord.gg/AMAs",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/14nlm962vs",
+					"expanded_url": "http://discord.gg/AMAs",
+					"display_url": "discord.gg/AMAs",
+					"indices": [
+						190,
+						213
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589920178644873200,
+					"id_str": "1589920178644873216",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1589920178644873216/img/rekdhJNRH0H7GP6L.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1589920178644873216/img/rekdhJNRH0H7GP6L.jpg",
+					"url": "https://t.co/d5itppMPCG",
+					"display_url": "pic.twitter.com/d5itppMPCG",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1590132063713120256/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589920178644873200,
+					"id_str": "1589920178644873216",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1589920178644873216/img/rekdhJNRH0H7GP6L.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1589920178644873216/img/rekdhJNRH0H7GP6L.jpg",
+					"url": "https://t.co/d5itppMPCG",
+					"display_url": "pic.twitter.com/d5itppMPCG",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1590132063713120256/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 12887,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1589920178644873216/vid/720x720/kj-6jSHR3eeMg4o-.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1589920178644873216/pl/Xuhlcx1Xvu83MA0p.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1589920178644873216/vid/320x320/sFiPKhnV6j6YZZCl.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1589920178644873216/vid/540x540/S3WGiaNt9lMGtarF.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7957168,
+			"friends_count": 0,
+			"listed_count": 7901,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3946,
+		"favorite_count": 9735,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Voting is now open for Favorite K-Pop Artist at the @AMAs! You can vote daily on @discord at https://t.co/14nlm962vs. Don’t miss the #AMAs on Sunday, November 20 at 8/7c on @ABCNetwork 📺\n🔗  https://t.co/14nlm962vs https://t.co/d5itppMPCG"
+	},
+	{
 		"created_at": "Tue Nov 08 16:05:52 +0000 2022",
 		"id": 1590011221075714000,
 		"id_str": "1590012739954479104",
