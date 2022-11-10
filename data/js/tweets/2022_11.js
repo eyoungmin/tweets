@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 10 15:06:19 +0000 2022",
+		"id": 1590722316933423000,
+		"id_str": "1590722527516446720",
+		"full_text": "SMCU : Red Velvet\nThe Story of ReVe – 16\n\nhttps://t.co/I4NemaY0Es\n\n#RedVelvet #SMCU #ReVe\n#The_Story_of_ReVe https://t.co/fjodk6f3pA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						67,
+						77
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "ReVe",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "The_Story_of_ReVe",
+					"indices": [
+						90,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I4NemaY0Es",
+					"expanded_url": "https://bit.ly/3A6bppT",
+					"display_url": "bit.ly/3A6bppT",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1590722302114926600,
+					"id_str": "1590722302114926597",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FhNhgXnaEAU_Nwb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhNhgXnaEAU_Nwb.jpg",
+					"url": "https://t.co/fjodk6f3pA",
+					"display_url": "pic.twitter.com/fjodk6f3pA",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1590722316933423106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1025,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1590722302114926600,
+					"id_str": "1590722302114926597",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FhNhgXnaEAU_Nwb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhNhgXnaEAU_Nwb.jpg",
+					"url": "https://t.co/fjodk6f3pA",
+					"display_url": "pic.twitter.com/fjodk6f3pA",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1590722316933423106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1025,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5711115,
+			"friends_count": 2,
+			"listed_count": 11442,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6052,
+		"favorite_count": 9626,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SMCU : Red Velvet\nThe Story of ReVe – 16\n\nhttps://t.co/I4NemaY0Es\n\n#RedVelvet #SMCU #ReVe\n#The_Story_of_ReVe https://t.co/fjodk6f3pA"
+	},
+	{
 		"created_at": "Thu Nov 10 15:00:26 +0000 2022",
 		"id": 1590720949233410000,
 		"id_str": "1590721048739139584",
