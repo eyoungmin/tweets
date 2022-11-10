@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 10 09:03:06 +0000 2022",
+		"id": 1590630524221296600,
+		"id_str": "1590631122307670016",
+		"full_text": "2023 신세경 Season's Greetings Preview\n2023년에도 신세경과 함께\n다채로운 한 해 만들어 보아요💛\n\n🐰 https://t.co/wpmhO7kjit\n\n#신세경 #ShinSaeKyeong\n#시즌그리팅 #Seasons_Greetings https://t.co/4JnP60DDtq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신세경",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "ShinSaeKyeong",
+					"indices": [
+						103,
+						117
+					]
+				},
+				{
+					"text": "시즌그리팅",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "Seasons_Greetings",
+					"indices": [
+						125,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wpmhO7kjit",
+					"expanded_url": "https://youtu.be/qkSD8KmsUR0",
+					"display_url": "youtu.be/qkSD8KmsUR0",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1590624544552722400,
+					"id_str": "1590624544552722434",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FhMImIUVIAImqma.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhMImIUVIAImqma.jpg",
+					"url": "https://t.co/4JnP60DDtq",
+					"display_url": "pic.twitter.com/4JnP60DDtq",
+					"expanded_url": "https://twitter.com/edam_ent/status/1590630524221296642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1590624544552722400,
+					"id_str": "1590624544552722434",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FhMImIUVIAImqma.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhMImIUVIAImqma.jpg",
+					"url": "https://t.co/4JnP60DDtq",
+					"display_url": "pic.twitter.com/4JnP60DDtq",
+					"expanded_url": "https://twitter.com/edam_ent/status/1590630524221296642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76700,
+			"friends_count": 3,
+			"listed_count": 264,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 112,
+		"favorite_count": 369,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2023 신세경 Season's Greetings Preview\n2023년에도 신세경과 함께\n다채로운 한 해 만들어 보아요💛\n\n🐰 https://t.co/wpmhO7kjit\n\n#신세경 #ShinSaeKyeong\n#시즌그리팅 #Seasons_Greetings https://t.co/4JnP60DDtq"
+	},
+	{
 		"created_at": "Thu Nov 10 08:06:15 +0000 2022",
 		"id": 1590608904131870700,
 		"id_str": "1590616815821983744",
