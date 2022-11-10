@@ -1,6 +1,174 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 10 12:56:20 +0000 2022",
+		"id": 1590675648304988200,
+		"id_str": "1590689818077380608",
+		"full_text": "#소녀시대 #써니 와 #효연 이 선택한 5성급 호텔은 어디? 발리에서 하와이까지 셀럽 픽 여름 호텔 추천.\n#가희 #유리 @GirlsGeneration #엄지원 #이다해 \nhttps://t.co/rMZ9KidLaj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						12,
+						15
+					]
+				},
+				{
+					"text": "가희",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "엄지원",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "이다해",
+					"indices": [
+						90,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						68,
+						84
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rMZ9KidLaj",
+					"expanded_url": "https://www.allurekorea.com/?p=187037&ddw=128439&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=187037&ddw=…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38091,
+			"friends_count": 1,
+			"listed_count": 299,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 400,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1666074741",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#소녀시대 #써니 와 #효연 이 선택한 5성급 호텔은 어디? 발리에서 하와이까지 셀럽 픽 여름 호텔 추천.\n#가희 #유리 @GirlsGeneration #엄지원 #이다해 \nhttps://t.co/rMZ9KidLaj"
+	},
+	{
 		"created_at": "Thu Nov 10 11:06:16 +0000 2022",
 		"id": 1590661779579097000,
 		"id_str": "1590662116456833024",
