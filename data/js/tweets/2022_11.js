@@ -1,6 +1,870 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 11 13:00:39 +0000 2022",
+		"id": 1591041296852222000,
+		"id_str": "1591053289428115462",
+		"full_text": "[#여진 / #YeoJin] 잊지 못할 추억을 만들어줘서 고마워요 빼빼로처럼 우리 인연도 길게 갔으면 좋겠어요 생일 축하해줘서 너무 고마워요 오빛 사랑합니다🧡\n\n#이달의소녀 #LOONA https://t.co/cyPcgU8TO0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						97,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1591041183882481700,
+					"id_str": "1591041183882481665",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FhSDhuxVEAEHOwO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhSDhuxVEAEHOwO.jpg",
+					"url": "https://t.co/cyPcgU8TO0",
+					"display_url": "pic.twitter.com/cyPcgU8TO0",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1591041296852221952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1591041183882481700,
+					"id_str": "1591041183882481665",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FhSDhuxVEAEHOwO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhSDhuxVEAEHOwO.jpg",
+					"url": "https://t.co/cyPcgU8TO0",
+					"display_url": "pic.twitter.com/cyPcgU8TO0",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1591041296852221952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1591041183899189200,
+					"id_str": "1591041183899189249",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FhSDhu1UAAENluF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhSDhu1UAAENluF.jpg",
+					"url": "https://t.co/cyPcgU8TO0",
+					"display_url": "pic.twitter.com/cyPcgU8TO0",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1591041296852221952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1591041183920189400,
+					"id_str": "1591041183920189446",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FhSDhu6UcAYKIFm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhSDhu6UcAYKIFm.jpg",
+					"url": "https://t.co/cyPcgU8TO0",
+					"display_url": "pic.twitter.com/cyPcgU8TO0",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1591041296852221952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1591041183664394200,
+					"id_str": "1591041183664394242",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FhSDht9VUAIO1Ib.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhSDht9VUAIO1Ib.jpg",
+					"url": "https://t.co/cyPcgU8TO0",
+					"display_url": "pic.twitter.com/cyPcgU8TO0",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1591041296852221952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1591041177780125700,
+		"in_reply_to_status_id_str": "1591041177780125696",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 986986,
+			"friends_count": 3,
+			"listed_count": 9025,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 487,
+		"favorite_count": 2168,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#여진 / #YeoJin] 잊지 못할 추억을 만들어줘서 고마워요 빼빼로처럼 우리 인연도 길게 갔으면 좋겠어요 생일 축하해줘서 너무 고마워요 오빛 사랑합니다🧡\n\n#이달의소녀 #LOONA https://t.co/cyPcgU8TO0"
+	},
+	{
+		"created_at": "Fri Nov 11 13:00:39 +0000 2022",
+		"id": 1591041357195640800,
+		"id_str": "1591053289428111364",
+		"full_text": "[#여진 / #YeoJin] 잊지 못할 추억을 만들어줘서 고마워요 빼빼로처럼 우리 인연도 길게 갔으면 좋겠어요 생일 축하해줘서 너무 고마워요 오빛 사랑합니다🧡\n\n#이달의소녀 #LOONA https://t.co/nETc0iXDqy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						97,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1591041313528418300,
+					"id_str": "1591041313528418304",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FhSDpRvVEAAJ2yv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhSDpRvVEAAJ2yv.jpg",
+					"url": "https://t.co/nETc0iXDqy",
+					"display_url": "pic.twitter.com/nETc0iXDqy",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1591041357195640834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1591041313528418300,
+					"id_str": "1591041313528418304",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FhSDpRvVEAAJ2yv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhSDpRvVEAAJ2yv.jpg",
+					"url": "https://t.co/nETc0iXDqy",
+					"display_url": "pic.twitter.com/nETc0iXDqy",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1591041357195640834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1591041313503223800,
+					"id_str": "1591041313503223810",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FhSDpRpUoAIv57R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhSDpRpUoAIv57R.jpg",
+					"url": "https://t.co/nETc0iXDqy",
+					"display_url": "pic.twitter.com/nETc0iXDqy",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1591041357195640834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1591041296852222000,
+		"in_reply_to_status_id_str": "1591041296852221952",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 986986,
+			"friends_count": 3,
+			"listed_count": 9025,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 451,
+		"favorite_count": 1938,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#여진 / #YeoJin] 잊지 못할 추억을 만들어줘서 고마워요 빼빼로처럼 우리 인연도 길게 갔으면 좋겠어요 생일 축하해줘서 너무 고마워요 오빛 사랑합니다🧡\n\n#이달의소녀 #LOONA https://t.co/nETc0iXDqy"
+	},
+	{
+		"created_at": "Fri Nov 11 13:00:39 +0000 2022",
+		"id": 1591041177780125700,
+		"id_str": "1591053289407193089",
+		"full_text": "[#여진 / #YeoJin] 잊지 못할 추억을 만들어줘서 고마워요 빼빼로처럼 우리 인연도 길게 갔으면 좋겠어요 생일 축하해줘서 너무 고마워요 오빛 사랑합니다🧡\n\n#이달의소녀 #LOONA https://t.co/Z5hS57MljY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						97,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1591040906466992000,
+					"id_str": "1591040906466992128",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FhSDRlUUoAA3r0M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhSDRlUUoAA3r0M.jpg",
+					"url": "https://t.co/Z5hS57MljY",
+					"display_url": "pic.twitter.com/Z5hS57MljY",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1591041177780125696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1591040906466992000,
+					"id_str": "1591040906466992128",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FhSDRlUUoAA3r0M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhSDRlUUoAA3r0M.jpg",
+					"url": "https://t.co/Z5hS57MljY",
+					"display_url": "pic.twitter.com/Z5hS57MljY",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1591041177780125696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1591040906446020600,
+					"id_str": "1591040906446020609",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FhSDRlPUoAEsVfN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhSDRlPUoAEsVfN.jpg",
+					"url": "https://t.co/Z5hS57MljY",
+					"display_url": "pic.twitter.com/Z5hS57MljY",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1591041177780125696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1591040906425036800,
+					"id_str": "1591040906425036800",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FhSDRlKUcAAUEDx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhSDRlKUcAAUEDx.jpg",
+					"url": "https://t.co/Z5hS57MljY",
+					"display_url": "pic.twitter.com/Z5hS57MljY",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1591041177780125696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1591040906429284400,
+					"id_str": "1591040906429284353",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FhSDRlLVQAESxem.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhSDRlLVQAESxem.jpg",
+					"url": "https://t.co/Z5hS57MljY",
+					"display_url": "pic.twitter.com/Z5hS57MljY",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1591041177780125696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 986986,
+			"friends_count": 3,
+			"listed_count": 9025,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1428,
+		"favorite_count": 4994,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#여진 / #YeoJin] 잊지 못할 추억을 만들어줘서 고마워요 빼빼로처럼 우리 인연도 길게 갔으면 좋겠어요 생일 축하해줘서 너무 고마워요 오빛 사랑합니다🧡\n\n#이달의소녀 #LOONA https://t.co/Z5hS57MljY"
+	},
+	{
 		"created_at": "Fri Nov 11 12:00:38 +0000 2022",
 		"id": 1591027559348961300,
 		"id_str": "1591038188813832194",
