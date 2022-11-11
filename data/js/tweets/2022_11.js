@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 11 12:00:38 +0000 2022",
+		"id": 1591027559348961300,
+		"id_str": "1591038188813832194",
+		"full_text": "- 중복 참여는 가능하지만, 중복 당첨은 제외됩니다.\n- 당첨 시 국내 배송만 가능한 점 양해 바랍니다.\n- 본 이벤트의 당첨자 발표는 트위터를 통하여 안내드립니다.\n- 추후 변경 사항이 있을 시 트위터를 통하여 안내드립니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1591027557830660000,
+		"in_reply_to_status_id_str": "1591027557830660096",
+		"in_reply_to_user_id": 773078392660856800,
+		"in_reply_to_user_id_str": "773078392660856832",
+		"in_reply_to_screen_name": "loonaStaff",
+		"user": {
+			"id": 773078392660856800,
+			"id_str": "773078392660856832",
+			"name": "이달의 소녀 Staff",
+			"screen_name": "loonaStaff",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33162,
+			"friends_count": 1,
+			"listed_count": 560,
+			"created_at": "Tue Sep 06 08:40:26 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/773078392660856832/1655716440",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- 중복 참여는 가능하지만, 중복 당첨은 제외됩니다.\n- 당첨 시 국내 배송만 가능한 점 양해 바랍니다.\n- 본 이벤트의 당첨자 발표는 트위터를 통하여 안내드립니다.\n- 추후 변경 사항이 있을 시 트위터를 통하여 안내드립니다."
+	},
+	{
+		"created_at": "Fri Nov 11 12:00:38 +0000 2022",
+		"id": 1591027557830660000,
+		"id_str": "1591038188784451584",
+		"full_text": "🎁🐸]\n\n#도전_루비를_웃겨라 해시태그와 함께 \n여진이를 웃길 수 있는 사진 및 동영상을 트윗 해 주세요!\n추첨을 통해 50명의 오빛들에게\n여진이가 직접 구매한 빼빼로와 폴라로이드를 드립니다🐻🧡\n\n📍~2022년 11월 17일 (목) 11:59PM (KST)\n\n#이달의소녀 #LOONA \n#여진 #YeoJin",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "도전_루비를_웃겨라",
+					"indices": [
+						5,
+						16
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						164,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 773078392660856800,
+			"id_str": "773078392660856832",
+			"name": "이달의 소녀 Staff",
+			"screen_name": "loonaStaff",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33162,
+			"friends_count": 1,
+			"listed_count": 560,
+			"created_at": "Tue Sep 06 08:40:26 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/773078392660856832/1655716440",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 212,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "🎁🐸]\n\n#도전_루비를_웃겨라 해시태그와 함께 \n여진이를 웃길 수 있는 사진 및 동영상을 트윗 해 주세요!\n추첨을 통해 50명의 오빛들에게\n여진이가 직접 구매한 빼빼로와 폴라로이드를 드립니다🐻🧡\n\n📍~2022년 11월 17일 (목) 11:59PM (KST)\n\n#이달의소녀 #LOONA \n#여진 #YeoJin"
+	},
+	{
 		"created_at": "Fri Nov 11 10:22:49 +0000 2022",
 		"id": 1591005311019671600,
 		"id_str": "1591013572020039680",
