@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 11 09:43:04 +0000 2022",
+		"id": 1590992734348669000,
+		"id_str": "1591003566231023617",
+		"full_text": "유난히 뜨거운 #팬츠부츠 #레그워머 #발토시 유행! #제니 #나연 #리비아누네스 등 셀럽들이 보여준 팬츠 부츠 스타일링. \n@ygofficialblink @JYPETWICE #BLACKPINK #TWICE #블핑 #트와이스 #Libyanudes\nhttps://t.co/F4V2DuEHWX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팬츠부츠",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "레그워머",
+					"indices": [
+						14,
+						19
+					]
+				},
+				{
+					"text": "발토시",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "나연",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "리비아누네스",
+					"indices": [
+						37,
+						44
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"text": "TWICE",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "블핑",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "Libyanudes",
+					"indices": [
+						125,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						69,
+						85
+					]
+				},
+				{
+					"screen_name": "JYPETWICE",
+					"name": "TWICE",
+					"id": 3129056526,
+					"id_str": "3129056526",
+					"indices": [
+						86,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/F4V2DuEHWX",
+					"expanded_url": "https://www.allurekorea.com/2022/10/15/%ec%98%ac%ed%95%b4-%eb%b6%80%ec%b8%a0%eb%8a%94-%ed%8c%ac%ec%b8%a0-%eb%b6%80%ec%b8%a0/?ddw=126674&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2022/10/15/%ec…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38097,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1666074741",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유난히 뜨거운 #팬츠부츠 #레그워머 #발토시 유행! #제니 #나연 #리비아누네스 등 셀럽들이 보여준 팬츠 부츠 스타일링. \n@ygofficialblink @JYPETWICE #BLACKPINK #TWICE #블핑 #트와이스 #Libyanudes\nhttps://t.co/F4V2DuEHWX"
+	},
+	{
 		"created_at": "Fri Nov 11 07:44:24 +0000 2022",
 		"id": 1590962736313536500,
 		"id_str": "1590973704275562496",
