@@ -1,10 +1,321 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sat Nov 12 16:06:45 +0000 2022",
+		"id": 1591451837949182000,
+		"id_str": "1591462513366818816",
+		"full_text": "#오늘의_자우림\n\n믹싱 종료!!!!\n이번 믹싱은 폭풍 일정 속에\n진행되어 애로사항이 많았습니다만\n#자우림_겨울스페셜앨범 \n(이라고 적고 #자우림_잔혹동화 라고 읽는) 은\n엄청난 녀석이 될 것이오!!!!\n\n#자우림_겨울스페셜앨범\n#자우림콘서트 #서울 #부산 #광주\n#MERRY_SPOOKY_XMAS https://t.co/9CmpuEqOYs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오늘의_자우림",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "자우림_겨울스페셜앨범",
+					"indices": [
+						54,
+						66
+					]
+				},
+				{
+					"text": "자우림_잔혹동화",
+					"indices": [
+						76,
+						85
+					]
+				},
+				{
+					"text": "자우림_겨울스페셜앨범",
+					"indices": [
+						114,
+						126
+					]
+				},
+				{
+					"text": "자우림콘서트",
+					"indices": [
+						127,
+						134
+					]
+				},
+				{
+					"text": "서울",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "부산",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "광주",
+					"indices": [
+						143,
+						146
+					]
+				},
+				{
+					"text": "MERRY_SPOOKY_XMAS",
+					"indices": [
+						147,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1591451831606968300,
+					"id_str": "1591451831606968321",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FhX5AkwUAAEpXcn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhX5AkwUAAEpXcn.jpg",
+					"url": "https://t.co/9CmpuEqOYs",
+					"display_url": "pic.twitter.com/9CmpuEqOYs",
+					"expanded_url": "https://twitter.com/love_yuna/status/1591451837949181953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1591451831606968300,
+					"id_str": "1591451831606968321",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FhX5AkwUAAEpXcn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhX5AkwUAAEpXcn.jpg",
+					"url": "https://t.co/9CmpuEqOYs",
+					"display_url": "pic.twitter.com/9CmpuEqOYs",
+					"expanded_url": "https://twitter.com/love_yuna/status/1591451837949181953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1591451831598661600,
+					"id_str": "1591451831598661632",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FhX5AkuVQAAC2T3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhX5AkuVQAAC2T3.jpg",
+					"url": "https://t.co/9CmpuEqOYs",
+					"display_url": "pic.twitter.com/9CmpuEqOYs",
+					"expanded_url": "https://twitter.com/love_yuna/status/1591451837949181953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1591451831602802700,
+					"id_str": "1591451831602802688",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FhX5AkvUcAAWuRt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhX5AkvUcAAWuRt.jpg",
+					"url": "https://t.co/9CmpuEqOYs",
+					"display_url": "pic.twitter.com/9CmpuEqOYs",
+					"expanded_url": "https://twitter.com/love_yuna/status/1591451837949181953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1591439733582069800,
+		"in_reply_to_status_id_str": "1591439733582069761",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275898,
+			"friends_count": 597,
+			"listed_count": 2737,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1587350693115199488/WeM4899U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587350693115199488/WeM4899U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1667288883",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오늘의_자우림\n\n믹싱 종료!!!!\n이번 믹싱은 폭풍 일정 속에\n진행되어 애로사항이 많았습니다만\n#자우림_겨울스페셜앨범 \n(이라고 적고 #자우림_잔혹동화 라고 읽는) 은\n엄청난 녀석이 될 것이오!!!!\n\n#자우림_겨울스페셜앨범\n#자우림콘서트 #서울 #부산 #광주\n#MERRY_SPOOKY_XMAS https://t.co/9CmpuEqOYs"
+	},
+	{
 		"created_at": "Sat Nov 12 15:06:45 +0000 2022",
 		"id": 1591439733582069800,
 		"id_str": "1591447411796283392",
-		"full_text": "으아아아아 믹싱 종료!!!! \n종료다 종료!!!!!👯‍♀️👯‍♀️👯‍♀️👯‍♀️\n🕺🕺🕺🕺🕺🕺🕺🕺🕺🕺\n☂️☂️☂️☂️☂️☂️☂️☂️☂️☂️\n(아직 마스터링 남았음)\n\n#자우림_겨울스페셜앨범\n#MERRY_SPOOKY_XMAS",
+		"full_text": "으아아아아 믹싱 종료!!!! \n종료다 종료!!!!!👯♀️👯♀️👯♀️👯♀️\n🕺🕺🕺🕺🕺🕺🕺🕺🕺🕺\n☂️☂️☂️☂️☂️☂️☂️☂️☂️☂️\n(아직 마스터링 남았음)\n\n#자우림_겨울스페셜앨범\n#MERRY_SPOOKY_XMAS",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -109,7 +420,7 @@ Grailbird.data.tweets_2022_11 =
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
-		"text": "으아아아아 믹싱 종료!!!! \n종료다 종료!!!!!👯‍♀️👯‍♀️👯‍♀️👯‍♀️\n🕺🕺🕺🕺🕺🕺🕺🕺🕺🕺\n☂️☂️☂️☂️☂️☂️☂️☂️☂️☂️\n(아직 마스터링 남았음)\n\n#자우림_겨울스페셜앨범\n#MERRY_SPOOKY_XMAS"
+		"text": "으아아아아 믹싱 종료!!!! \n종료다 종료!!!!!👯♀️👯♀️👯♀️👯♀️\n🕺🕺🕺🕺🕺🕺🕺🕺🕺🕺\n☂️☂️☂️☂️☂️☂️☂️☂️☂️☂️\n(아직 마스터링 남았음)\n\n#자우림_겨울스페셜앨범\n#MERRY_SPOOKY_XMAS"
 	},
 	{
 		"created_at": "Sat Nov 12 15:01:27 +0000 2022",
