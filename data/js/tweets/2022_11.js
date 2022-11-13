@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 13 10:23:20 +0000 2022",
+		"id": 1591724549963362300,
+		"id_str": "1591738474486341632",
+		"full_text": "[#🌳] 서현 2023 SEASON’S GREETINGS &lt;THE SEOHYUN&gt; Teaser Video\n▶ https://t.co/Ygw7X1biPg\n\n𝟐𝟎𝟐𝟐.𝟏𝟏.𝟏𝟔(𝐖𝐞𝐝) 𝟓𝐏𝐌(𝐊𝐒𝐓) 𝐂𝐨𝐦𝐢𝐧𝐠 𝐬𝐨𝐨𝐧!\n\n#서현 #2023시즌그리팅 #THE_SEOHYUN #SEOHYUN #2023SEASONSGREETINGS #NAMOOACTORS https://t.co/pv5xAS5tYH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "2023시즌그리팅",
+					"indices": [
+						135,
+						145
+					]
+				},
+				{
+					"text": "THE_SEOHYUN",
+					"indices": [
+						146,
+						158
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						159,
+						167
+					]
+				},
+				{
+					"text": "2023SEASONSGREETINGS",
+					"indices": [
+						168,
+						189
+					]
+				},
+				{
+					"text": "NAMOOACTORS",
+					"indices": [
+						190,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ygw7X1biPg",
+					"expanded_url": "https://youtu.be/_e6-VGWd5uY",
+					"display_url": "youtu.be/_e6-VGWd5uY",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1591653400957309000,
+					"id_str": "1591653400957308930",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FhawVdGaUAIAxo4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhawVdGaUAIAxo4.jpg",
+					"url": "https://t.co/pv5xAS5tYH",
+					"display_url": "pic.twitter.com/pv5xAS5tYH",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1591724549963362304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1591653400957309000,
+					"id_str": "1591653400957308930",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FhawVdGaUAIAxo4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhawVdGaUAIAxo4.jpg",
+					"url": "https://t.co/pv5xAS5tYH",
+					"display_url": "pic.twitter.com/pv5xAS5tYH",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1591724549963362304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67284,
+			"friends_count": 14,
+			"listed_count": 282,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 620,
+		"favorite_count": 874,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#🌳] 서현 2023 SEASON’S GREETINGS &lt;THE SEOHYUN&gt; Teaser Video\n▶ https://t.co/Ygw7X1biPg\n\n𝟐𝟎𝟐𝟐.𝟏𝟏.𝟏𝟔(𝐖𝐞𝐝) 𝟓𝐏𝐌(𝐊𝐒𝐓) 𝐂𝐨𝐦𝐢𝐧𝐠 𝐬𝐨𝐨𝐧!\n\n#서현 #2023시즌그리팅 #THE_SEOHYUN #SEOHYUN #2023SEASONSGREETINGS #NAMOOACTORS https://t.co/pv5xAS5tYH"
+	},
+	{
 		"created_at": "Sun Nov 13 09:43:27 +0000 2022",
 		"id": 1591717512017694700,
 		"id_str": "1591728438351495169",
