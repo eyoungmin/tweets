@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 13 09:43:27 +0000 2022",
+		"id": 1591717512017694700,
+		"id_str": "1591728438351495169",
+		"full_text": "톤 파괴자들 다 모여! 금발VS흑발 어떤 컬러가 잘 어울려? \n#윈터 #에스파 @asepa_official #제니 #블랙핑크 @ygofficialblink #유나 #ITZY @ITZYofficial #수영 #소녀시대 @GirlsGeneration #나연 #트와이스 @JYPETWICE \nhttps://t.co/P7NPW14XEU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윈터",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "유나",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "ITZY",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "수영",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "나연",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						142,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "asepa_official",
+					"name": "aespa 🍥",
+					"id": 1344638801902092300,
+					"id_str": "1344638801902092290",
+					"indices": [
+						44,
+						59
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						70,
+						86
+					]
+				},
+				{
+					"screen_name": "ITZYofficial",
+					"name": "ITZY",
+					"id": 1062578718214770700,
+					"id_str": "1062578718214770688",
+					"indices": [
+						97,
+						110
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						121,
+						137
+					]
+				},
+				{
+					"screen_name": "JYPETWICE",
+					"name": "TWICE",
+					"id": 3129056526,
+					"id_str": "3129056526",
+					"indices": [
+						148,
+						158
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P7NPW14XEU",
+					"expanded_url": "https://www.allurekorea.com/2022/08/08/%ec%85%80%eb%9f%bd%eb%93%a4%ec%9d%98-%ed%9d%91%eb%b0%9cvs%ea%b8%88%eb%b0%9c-%eb%85%bc%ec%9f%81/?ddw=122594&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2022/08/08/%ec…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38090,
+			"friends_count": 1,
+			"listed_count": 299,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1666074741",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "톤 파괴자들 다 모여! 금발VS흑발 어떤 컬러가 잘 어울려? \n#윈터 #에스파 @asepa_official #제니 #블랙핑크 @ygofficialblink #유나 #ITZY @ITZYofficial #수영 #소녀시대 @GirlsGeneration #나연 #트와이스 @JYPETWICE \nhttps://t.co/P7NPW14XEU"
+	},
+	{
 		"created_at": "Sun Nov 13 06:50:34 +0000 2022",
 		"id": 1591672731632009200,
 		"id_str": "1591684931519795202",
