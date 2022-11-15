@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 15 04:49:53 +0000 2022",
+		"id": 1592364468780306400,
+		"id_str": "1592379335213662208",
+		"full_text": "자우림 단독 콘서트\n[ 𝕄𝔼ℝℝ𝕐 𝕊ℙ𝕆𝕆𝕂𝕐 𝕁𝔸𝕌ℝ𝕀𝕄 ] 광주\n\n▌일시\n𝟤𝟢𝟤𝟥. 𝟣. 𝟩 (토) 𝟨𝖯𝖬\n@ 김대중컨벤션센터 다목적홀\n\n▌예매 오픈\n𝟮𝟬𝟮𝟮. 𝟭𝟭. 𝟭𝟱 (화) 𝟱𝗣𝗠\n@ 인터파크 티켓\n\n🔗 https://t.co/H6GAWDpAna\n\n#자우림 #단독콘서트\n#MERRY_SPOOKY_JAURIM https://t.co/Us0g3a6rtL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "MERRY_SPOOKY_JAURIM",
+					"indices": [
+						157,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H6GAWDpAna",
+					"expanded_url": "https://url.kr/pj86cm",
+					"display_url": "url.kr/pj86cm",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1592364461934854100,
+					"id_str": "1592364461934854145",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/Fhk3CpqVQAENQHm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fhk3CpqVQAENQHm.jpg",
+					"url": "https://t.co/Us0g3a6rtL",
+					"display_url": "pic.twitter.com/Us0g3a6rtL",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1592364468780306432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1640,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1592364461934854100,
+					"id_str": "1592364461934854145",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/Fhk3CpqVQAENQHm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fhk3CpqVQAENQHm.jpg",
+					"url": "https://t.co/Us0g3a6rtL",
+					"display_url": "pic.twitter.com/Us0g3a6rtL",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1592364468780306432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1640,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "▼ 𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌 ㅣ𝖬𝖣 온라인 판매",
+			"url": "https://t.co/uKDsnIJttC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uKDsnIJttC",
+							"expanded_url": "https://bit.ly/3BkgXhN",
+							"display_url": "bit.ly/3BkgXhN",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4448,
+			"friends_count": 5,
+			"listed_count": 30,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1546734155525869568/z7QclmtR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1546734155525869568/z7QclmtR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1657605145",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자우림 단독 콘서트\n[ 𝕄𝔼ℝℝ𝕐 𝕊ℙ𝕆𝕆𝕂𝕐 𝕁𝔸𝕌ℝ𝕀𝕄 ] 광주\n\n▌일시\n𝟤𝟢𝟤𝟥. 𝟣. 𝟩 (토) 𝟨𝖯𝖬\n@ 김대중컨벤션센터 다목적홀\n\n▌예매 오픈\n𝟮𝟬𝟮𝟮. 𝟭𝟭. 𝟭𝟱 (화) 𝟱𝗣𝗠\n@ 인터파크 티켓\n\n🔗 https://t.co/H6GAWDpAna\n\n#자우림 #단독콘서트\n#MERRY_SPOOKY_JAURIM https://t.co/Us0g3a6rtL"
+	},
+	{
 		"created_at": "Tue Nov 15 03:49:52 +0000 2022",
 		"id": 1592353307284373500,
 		"id_str": "1592364234301530112",
