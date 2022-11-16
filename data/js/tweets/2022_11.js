@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Wed Nov 16 02:50:03 +0000 2022",
+		"id": 1592699433950785500,
+		"id_str": "1592711567090495488",
+		"full_text": "𝙅𝗔𝗨𝗥𝗜𝗠 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗔𝗹𝗯𝘂𝗺\n【 𝗠𝗘𝗥𝗥𝗬 𝗦𝗣𝗢𝗢𝗞𝗬 𝗫-𝗠𝗔𝗦 】\n: 세 명의 왕 이야기\n  𝑇ℎ𝑒 𝑇𝑎𝑙𝑒 𝑜𝑓 𝑡ℎ𝑒 𝑇ℎ𝑟𝑒𝑒 𝐾𝑖𝑛𝑔𝑠\n\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟭 𝗧𝗵𝘂 𝟲𝗽𝗺\n𝗖𝗼𝗺𝗶𝗻𝗴 𝗦𝗼𝗼𝗻\n\n#자우림 #스페셜앨범\n#MERRY_SPOOKY_XMAS https://t.co/BHixjqj11M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "스페셜앨범",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "MERRY_SPOOKY_XMAS",
+					"indices": [
+						133,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1592699426178416600,
+					"id_str": "1592699426178416640",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FhpnsItVQAA2uN_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhpnsItVQAA2uN_.jpg",
+					"url": "https://t.co/BHixjqj11M",
+					"display_url": "pic.twitter.com/BHixjqj11M",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1592699433950785536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1592699426178416600,
+					"id_str": "1592699426178416640",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FhpnsItVQAA2uN_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhpnsItVQAA2uN_.jpg",
+					"url": "https://t.co/BHixjqj11M",
+					"display_url": "pic.twitter.com/BHixjqj11M",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1592699433950785536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "▼ 𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌 ㅣ𝖬𝖣 온라인 판매",
+			"url": "https://t.co/uKDsnIJttC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uKDsnIJttC",
+							"expanded_url": "https://bit.ly/3BkgXhN",
+							"display_url": "bit.ly/3BkgXhN",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4467,
+			"friends_count": 5,
+			"listed_count": 30,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1546734155525869568/z7QclmtR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1546734155525869568/z7QclmtR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1657605145",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 108,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "𝙅𝗔𝗨𝗥𝗜𝗠 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗔𝗹𝗯𝘂𝗺\n【 𝗠𝗘𝗥𝗥𝗬 𝗦𝗣𝗢𝗢𝗞𝗬 𝗫-𝗠𝗔𝗦 】\n: 세 명의 왕 이야기\n  𝑇ℎ𝑒 𝑇𝑎𝑙𝑒 𝑜𝑓 𝑡ℎ𝑒 𝑇ℎ𝑟𝑒𝑒 𝐾𝑖𝑛𝑔𝑠\n\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟭 𝗧𝗵𝘂 𝟲𝗽𝗺\n𝗖𝗼𝗺𝗶𝗻𝗴 𝗦𝗼𝗼𝗻\n\n#자우림 #스페셜앨범\n#MERRY_SPOOKY_XMAS https://t.co/BHixjqj11M"
+	},
+	{
 		"created_at": "Tue Nov 15 15:07:24 +0000 2022",
 		"id": 1592533288492871700,
 		"id_str": "1592534738371125249",
