@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 17 05:07:47 +0000 2022",
+		"id": 1593096497260003300,
+		"id_str": "1593108616361365505",
+		"full_text": "[ 𝕄𝔼ℝℝ𝕐 𝕊ℙ𝕆𝕆𝕂𝕐 𝕁𝔸𝕌ℝ𝕀𝕄 ] \n\n#자우림부산콘서트 @ 𝖪𝖡𝖲부산홀\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟥𝟢 (금) 𝟩:𝟥𝟢𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟥𝟣 (토) 𝟨𝖯𝖬\n\n#자우림광주콘서트 @ 김대중컨벤션센터\n𝟤𝟢𝟤𝟥. 𝟣. 𝟩 (토) 𝟨𝖯𝖬\n\n #JaurimConcert \n#MERRY_SPOOKY_XMAS\n#MERRY_SPOOKY_JAURIM https://t.co/591GgzFzx3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림부산콘서트",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"text": "자우림광주콘서트",
+					"indices": [
+						91,
+						100
+					]
+				},
+				{
+					"text": "JaurimConcert",
+					"indices": [
+						133,
+						147
+					]
+				},
+				{
+					"text": "MERRY_SPOOKY_XMAS",
+					"indices": [
+						149,
+						167
+					]
+				},
+				{
+					"text": "MERRY_SPOOKY_JAURIM",
+					"indices": [
+						168,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1593096490007679000,
+					"id_str": "1593096490007678977",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FhvQ0SvUUAE2ELJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhvQ0SvUUAE2ELJ.jpg",
+					"url": "https://t.co/591GgzFzx3",
+					"display_url": "pic.twitter.com/591GgzFzx3",
+					"expanded_url": "https://twitter.com/love_yuna/status/1593096497260003333/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1191,
+							"h": 1485,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1593096490007679000,
+					"id_str": "1593096490007678977",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FhvQ0SvUUAE2ELJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhvQ0SvUUAE2ELJ.jpg",
+					"url": "https://t.co/591GgzFzx3",
+					"display_url": "pic.twitter.com/591GgzFzx3",
+					"expanded_url": "https://twitter.com/love_yuna/status/1593096497260003333/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1191,
+							"h": 1485,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1593096486858129400,
+		"in_reply_to_status_id_str": "1593096486858129409",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275885,
+			"friends_count": 597,
+			"listed_count": 2736,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 465,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1587350693115199488/WeM4899U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587350693115199488/WeM4899U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1667288883",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ 𝕄𝔼ℝℝ𝕐 𝕊ℙ𝕆𝕆𝕂𝕐 𝕁𝔸𝕌ℝ𝕀𝕄 ] \n\n#자우림부산콘서트 @ 𝖪𝖡𝖲부산홀\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟥𝟢 (금) 𝟩:𝟥𝟢𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟥𝟣 (토) 𝟨𝖯𝖬\n\n#자우림광주콘서트 @ 김대중컨벤션센터\n𝟤𝟢𝟤𝟥. 𝟣. 𝟩 (토) 𝟨𝖯𝖬\n\n #JaurimConcert \n#MERRY_SPOOKY_XMAS\n#MERRY_SPOOKY_JAURIM https://t.co/591GgzFzx3"
+	},
+	{
 		"created_at": "Thu Nov 17 03:50:17 +0000 2022",
 		"id": 1593077548405395500,
 		"id_str": "1593089112025620482",
