@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 17 06:52:01 +0000 2022",
+		"id": 1593129693980786700,
+		"id_str": "1593134850327789570",
+		"full_text": "토즈의 장인정신과 아티스틱한 실루엣, 아티스트 왕현민의 오브제. 그리고 2022 F/W 컬렉션을 입은 조이의 쿨한 조우. #마리끌레르 웹사이트에서 그와 함께한 화보를 만나보세요.\n#토즈 #조이 #Tods @RVsmtown @Tods\n👉https://t.co/bSy6L835rf https://t.co/2mFaIpz7d5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "마리끌레르",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "토즈",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "Tods",
+					"indices": [
+						108,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"screen_name": "Tods",
+					"name": "Tods",
+					"id": 1524667988535881700,
+					"id_str": "1524667988535881729",
+					"indices": [
+						124,
+						129
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bSy6L835rf",
+					"expanded_url": "https://www.marieclairekorea.com/celebrity/2022/11/addicted-to-art/",
+					"display_url": "marieclairekorea.com/celebrity/2022…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1593129685118226400,
+					"id_str": "1593129685118226432",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FhvvAgKaEAARYim.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhvvAgKaEAARYim.jpg",
+					"url": "https://t.co/2mFaIpz7d5",
+					"display_url": "pic.twitter.com/2mFaIpz7d5",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1593129693980786688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1021,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1021,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1593129685118226400,
+					"id_str": "1593129685118226432",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FhvvAgKaEAARYim.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhvvAgKaEAARYim.jpg",
+					"url": "https://t.co/2mFaIpz7d5",
+					"display_url": "pic.twitter.com/2mFaIpz7d5",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1593129693980786688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1021,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1021,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107831,
+			"friends_count": 1,
+			"listed_count": 338,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1668412825",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "토즈의 장인정신과 아티스틱한 실루엣, 아티스트 왕현민의 오브제. 그리고 2022 F/W 컬렉션을 입은 조이의 쿨한 조우. #마리끌레르 웹사이트에서 그와 함께한 화보를 만나보세요.\n#토즈 #조이 #Tods @RVsmtown @Tods\n👉https://t.co/bSy6L835rf https://t.co/2mFaIpz7d5"
+	},
+	{
 		"created_at": "Thu Nov 17 05:07:47 +0000 2022",
 		"id": 1593096497260003300,
 		"id_str": "1593108616361365505",
