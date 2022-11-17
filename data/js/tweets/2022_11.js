@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 17 02:44:17 +0000 2022",
+		"id": 1593061364506841000,
+		"id_str": "1593072505681416192",
+		"full_text": "제니도 올라탄 이 트렌드 \n\n다른 누구도 아닌 제니가 선보인 트렌드잖아요? 시도하지 않을 이유가 없죠. \nhttps://t.co/TN4AqOqNJ4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TN4AqOqNJ4",
+					"expanded_url": "https://www.vogue.co.kr/2022/11/15/%ec%a0%9c%eb%8b%88%eb%8f%84-%ec%98%ac%eb%9d%bc%ed%83%84-%ec%9d%b4-%ed%8a%b8%eb%a0%8c%eb%93%9c/?ddw=129314&ds_ch=twitter&utm_source=twitter&utm_medium=SNS&fbclid=IwAR0SzLMc_kQKIVz7xGg3F6GkeXkDbnluDenEDHFlncmOd9MgDD7KynncYzQ",
+					"display_url": "vogue.co.kr/2022/11/15/%ec…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159102271,
+			"id_str": "159102271",
+			"name": "VOGUE KOREA",
+			"screen_name": "VogueKorea",
+			"location": "",
+			"description": "Vogue Korea official twitter",
+			"url": "https://t.co/cObX4QhDqc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cObX4QhDqc",
+							"expanded_url": "https://www.vogue.co.kr/",
+							"display_url": "vogue.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 198717,
+			"friends_count": 0,
+			"listed_count": 435,
+			"created_at": "Thu Jun 24 13:11:05 +0000 2010",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15058,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159102271/1668653398",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5EF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 149,
+		"favorite_count": 328,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제니도 올라탄 이 트렌드 \n\n다른 누구도 아닌 제니가 선보인 트렌드잖아요? 시도하지 않을 이유가 없죠. \nhttps://t.co/TN4AqOqNJ4"
+	},
+	{
 		"created_at": "Wed Nov 16 17:19:47 +0000 2022",
 		"id": 1592915907348615200,
 		"id_str": "1592930442671292416",
