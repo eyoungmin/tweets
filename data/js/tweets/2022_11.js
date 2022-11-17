@@ -1,6 +1,490 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 17 09:45:50 +0000 2022",
+		"id": 1593171348360401000,
+		"id_str": "1593178591092568066",
+		"full_text": "[유라x만동]\n이런 분위기는 기회다 (The Vibe is a Chance)\nTrack Preview.\n\n2. 시간을 아우르는 공 (Vacancy Hugs Time)\n\n2022.11.21 12PM (KST)\n\n#유라 #만동 #music #jazz #indie https://t.co/FNZHTfGBru",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유라",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "만동",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "jazz",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "indie",
+					"indices": [
+						138,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1593171309420171300,
+					"id_str": "1593171309420171265",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1593171309420171265/pu/img/MoEiGZVolyx1T_bt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1593171309420171265/pu/img/MoEiGZVolyx1T_bt.jpg",
+					"url": "https://t.co/FNZHTfGBru",
+					"display_url": "pic.twitter.com/FNZHTfGBru",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1593171348360400896/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1593171309420171300,
+					"id_str": "1593171309420171265",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1593171309420171265/pu/img/MoEiGZVolyx1T_bt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1593171309420171265/pu/img/MoEiGZVolyx1T_bt.jpg",
+					"url": "https://t.co/FNZHTfGBru",
+					"display_url": "pic.twitter.com/FNZHTfGBru",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1593171348360400896/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 26760,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1593171309420171265/pu/vid/320x320/_0hfmsCEyWMaDG3N.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1593171309420171265/pu/vid/540x540/wgMqQe-P34-MyLp8.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1593171309420171265/pu/vid/720x720/MOT3lzviBX3qcyMp.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1593171309420171265/pu/pl/ruF71kEBA-OdAJmX.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/허회경",
+			"url": "https://t.co/EWOG41NDnZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41NDnZ",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 939,
+			"friends_count": 8,
+			"listed_count": 20,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 85,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1653271322",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유라x만동]\n이런 분위기는 기회다 (The Vibe is a Chance)\nTrack Preview.\n\n2. 시간을 아우르는 공 (Vacancy Hugs Time)\n\n2022.11.21 12PM (KST)\n\n#유라 #만동 #music #jazz #indie https://t.co/FNZHTfGBru"
+	},
+	{
+		"created_at": "Thu Nov 17 09:45:49 +0000 2022",
+		"id": 1593171257973178400,
+		"id_str": "1593178587531644928",
+		"full_text": "[유라x만동]\n이런 분위기는 기회다 (The Vibe is a Chance)\nTrack Preview.\n\n1. 지느러미 (The Fin)\n\n2022.11.21 12PM (KST)\n\n#유라 #만동 #music #jazz #indie https://t.co/qMC8Zmk0N7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유라",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "만동",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "jazz",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "indie",
+					"indices": [
+						122,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1593171217577480200,
+					"id_str": "1593171217577480194",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1593171217577480194/pu/img/JTmmVi0nuN5H5YMj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1593171217577480194/pu/img/JTmmVi0nuN5H5YMj.jpg",
+					"url": "https://t.co/qMC8Zmk0N7",
+					"display_url": "pic.twitter.com/qMC8Zmk0N7",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1593171257973178368/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1593171217577480200,
+					"id_str": "1593171217577480194",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1593171217577480194/pu/img/JTmmVi0nuN5H5YMj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1593171217577480194/pu/img/JTmmVi0nuN5H5YMj.jpg",
+					"url": "https://t.co/qMC8Zmk0N7",
+					"display_url": "pic.twitter.com/qMC8Zmk0N7",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1593171257973178368/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 31000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1593171217577480194/pu/vid/540x540/IxEO9o0SggRrS1HL.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1593171217577480194/pu/pl/GmUl-zoBlYnKJ4HE.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1593171217577480194/pu/vid/320x320/Z6XIAAlRHR1XVx3h.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1593171217577480194/pu/vid/720x720/zmNTknym6iQHlHEX.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/허회경",
+			"url": "https://t.co/EWOG41NDnZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41NDnZ",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 939,
+			"friends_count": 8,
+			"listed_count": 20,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 85,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1653271322",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유라x만동]\n이런 분위기는 기회다 (The Vibe is a Chance)\nTrack Preview.\n\n1. 지느러미 (The Fin)\n\n2022.11.21 12PM (KST)\n\n#유라 #만동 #music #jazz #indie https://t.co/qMC8Zmk0N7"
+	},
+	{
 		"created_at": "Thu Nov 17 06:52:01 +0000 2022",
 		"id": 1593129693980786700,
 		"id_str": "1593134850327789570",
