@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 18 04:14:29 +0000 2022",
+		"id": 1593452359652237300,
+		"id_str": "1593457592436563969",
+		"full_text": "권유리, ‘대한민국 우리술 대축제’ 4년 연속 앰버서더 위촉\n\nKWON YURI is appointed as an ambassador for the ‘Korean Sool Grand Festival’ for 4 years in a row!\n\n#권유리 #KWONYURI \n#소녀시대 #GirlsGeneration\n#대한민국우리술대축제 https://t.co/XEpbWoUU3s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권유리",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						140,
+						149
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						157,
+						173
+					]
+				},
+				{
+					"text": "대한민국우리술대축제",
+					"indices": [
+						174,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1593452340043866000,
+					"id_str": "1593452340043866114",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Fh0UdfbUYAIkvwe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fh0UdfbUYAIkvwe.jpg",
+					"url": "https://t.co/XEpbWoUU3s",
+					"display_url": "pic.twitter.com/XEpbWoUU3s",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1593452359652237312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1120,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 635,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1912,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1593452340043866000,
+					"id_str": "1593452340043866114",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Fh0UdfbUYAIkvwe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fh0UdfbUYAIkvwe.jpg",
+					"url": "https://t.co/XEpbWoUU3s",
+					"display_url": "pic.twitter.com/XEpbWoUU3s",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1593452359652237312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1120,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 635,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1912,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1593452340052316200,
+					"id_str": "1593452340052316162",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Fh0UdfdVUAIm5T-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fh0UdfdVUAIm5T-.jpg",
+					"url": "https://t.co/XEpbWoUU3s",
+					"display_url": "pic.twitter.com/XEpbWoUU3s",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1593452359652237312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1593452340014502000,
+					"id_str": "1593452340014501888",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Fh0UdfUUUAAl2wW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fh0UdfUUUAAl2wW.jpg",
+					"url": "https://t.co/XEpbWoUU3s",
+					"display_url": "pic.twitter.com/XEpbWoUU3s",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1593452359652237312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 409,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1232,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 722,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11287218,
+			"friends_count": 55,
+			"listed_count": 12738,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 238,
+		"favorite_count": 1023,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "권유리, ‘대한민국 우리술 대축제’ 4년 연속 앰버서더 위촉\n\nKWON YURI is appointed as an ambassador for the ‘Korean Sool Grand Festival’ for 4 years in a row!\n\n#권유리 #KWONYURI \n#소녀시대 #GirlsGeneration\n#대한민국우리술대축제 https://t.co/XEpbWoUU3s"
+	},
+	{
 		"created_at": "Fri Nov 18 03:50:30 +0000 2022",
 		"id": 1593438852219297800,
 		"id_str": "1593451555625181184",
