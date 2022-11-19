@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sat Nov 19 09:58:21 +0000 2022",
+		"id": 1593891987031470000,
+		"id_str": "1593906516620234752",
+		"full_text": "#짤터뷰 #Sooyoung #수영 #최수영\n수영의 '쪼'의 역사는 언제부터 시작된 걸까요? 소녀시대 활동부터 드라마 촬영장 비하인드까지. 수영이 자신의 새로운 짤을 둘러싼 의혹을 모두 해명합니다. 🧐 지금 확인하세요!\n🔗 https://t.co/OZutdadDkd\n#소녀시대 #snsd #girlsgeneration \n@GirlsGeneration https://t.co/YrYr0GbPTb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "짤터뷰",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "Sooyoung",
+					"indices": [
+						5,
+						14
+					]
+				},
+				{
+					"text": "수영",
+					"indices": [
+						15,
+						18
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						19,
+						23
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "snsd",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "girlsgeneration",
+					"indices": [
+						160,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						178,
+						194
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OZutdadDkd",
+					"expanded_url": "https://youtu.be/4yBdc7KiGVc",
+					"display_url": "youtu.be/4yBdc7KiGVc",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1593891621544001500,
+					"id_str": "1593891621544001536",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Fh6j_CiaAAACLkj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fh6j_CiaAAACLkj.jpg",
+					"url": "https://t.co/YrYr0GbPTb",
+					"display_url": "pic.twitter.com/YrYr0GbPTb",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1593891987031470080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1593891621544001500,
+					"id_str": "1593891621544001536",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Fh6j_CiaAAACLkj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fh6j_CiaAAACLkj.jpg",
+					"url": "https://t.co/YrYr0GbPTb",
+					"display_url": "pic.twitter.com/YrYr0GbPTb",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1593891987031470080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea 엘르",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 엘르 공식 트위터입니다.\nELLE Korea Official Twitter",
+			"url": "https://t.co/KhZaXi6014",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KhZaXi6014",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 152975,
+			"friends_count": 3354,
+			"listed_count": 490,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 1161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1518758286346309632/VO92Zslb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1518758286346309632/VO92Zslb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1668404968",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#짤터뷰 #Sooyoung #수영 #최수영\n수영의 '쪼'의 역사는 언제부터 시작된 걸까요? 소녀시대 활동부터 드라마 촬영장 비하인드까지. 수영이 자신의 새로운 짤을 둘러싼 의혹을 모두 해명합니다. 🧐 지금 확인하세요!\n🔗 https://t.co/OZutdadDkd\n#소녀시대 #snsd #girlsgeneration \n@GirlsGeneration https://t.co/YrYr0GbPTb"
+	},
+	{
 		"created_at": "Sat Nov 19 07:02:53 +0000 2022",
 		"id": 1593848803907731500,
 		"id_str": "1593862357523976192",
