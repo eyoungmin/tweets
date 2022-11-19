@@ -1,10 +1,301 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sat Nov 19 00:58:15 +0000 2022",
+		"id": 1593764282940141600,
+		"id_str": "1593770597443461121",
+		"full_text": "#짤터뷰 #Sooyoung #수영 #최수영 \n\n새 드라마 #팬레터를보내주세요 주인공 한강희로 돌아온 수영이 '엘르' 카메라 앞에 섰습니다.✨ 수영을 둘러싼 NEW 짤 비하인드! 오늘 오후 4시에 확인하세요!\n💖🔗 https://t.co/OZutdadDkd\n\n#소녀시대 #Sooyoung #snsd #girlsgeneration \n@GirlsGeneration https://t.co/DLbCLBEVlR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "짤터뷰",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "Sooyoung",
+					"indices": [
+						5,
+						14
+					]
+				},
+				{
+					"text": "수영",
+					"indices": [
+						15,
+						18
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						19,
+						23
+					]
+				},
+				{
+					"text": "팬레터를보내주세요",
+					"indices": [
+						32,
+						42
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "Sooyoung",
+					"indices": [
+						150,
+						159
+					]
+				},
+				{
+					"text": "snsd",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "girlsgeneration",
+					"indices": [
+						166,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						184,
+						200
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OZutdadDkd",
+					"expanded_url": "https://youtu.be/4yBdc7KiGVc",
+					"display_url": "youtu.be/4yBdc7KiGVc",
+					"indices": [
+						119,
+						142
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1593762044062630000,
+					"id_str": "1593762044062629889",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1593762044062629889/pu/img/7hHDtmB1f4A6eiMq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1593762044062629889/pu/img/7hHDtmB1f4A6eiMq.jpg",
+					"url": "https://t.co/DLbCLBEVlR",
+					"display_url": "pic.twitter.com/DLbCLBEVlR",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1593764282940141568/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1593762044062630000,
+					"id_str": "1593762044062629889",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1593762044062629889/pu/img/7hHDtmB1f4A6eiMq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1593762044062629889/pu/img/7hHDtmB1f4A6eiMq.jpg",
+					"url": "https://t.co/DLbCLBEVlR",
+					"display_url": "pic.twitter.com/DLbCLBEVlR",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1593764282940141568/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 52510,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1593762044062629889/pu/vid/480x270/fxIahXQUiNI3jYQh.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1593762044062629889/pu/pl/qgObsomF11C-9_lP.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1593762044062629889/pu/vid/1280x720/JKqD19Entytlxpdk.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1593762044062629889/pu/vid/640x360/JQHgdDS2DeTEzZdy.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea 엘르",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 엘르 공식 트위터입니다.\nELLE Korea Official Twitter",
+			"url": "https://t.co/KhZaXi6014",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KhZaXi6014",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 152968,
+			"friends_count": 3354,
+			"listed_count": 490,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 1160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15351,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1518758286346309632/VO92Zslb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1518758286346309632/VO92Zslb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1668404968",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#짤터뷰 #Sooyoung #수영 #최수영 \n\n새 드라마 #팬레터를보내주세요 주인공 한강희로 돌아온 수영이 '엘르' 카메라 앞에 섰습니다.✨ 수영을 둘러싼 NEW 짤 비하인드! 오늘 오후 4시에 확인하세요!\n💖🔗 https://t.co/OZutdadDkd\n\n#소녀시대 #Sooyoung #snsd #girlsgeneration \n@GirlsGeneration https://t.co/DLbCLBEVlR"
+	},
+	{
 		"created_at": "Fri Nov 18 15:02:44 +0000 2022",
 		"id": 1593620051659264000,
 		"id_str": "1593620727839662080",
-		"full_text": "#1119_HBD_GoWon\n#Happy_GoWon_Day\n\n이달의 소녀의 콩주🧚‍♀️\n고원이의 생일을 축하합니다💞\n\n#이달의소녀 #LOONA \n#고원 #GoWon https://t.co/Dl56m2dKdq",
+		"full_text": "#1119_HBD_GoWon\n#Happy_GoWon_Day\n\n이달의 소녀의 콩주🧚♀️\n고원이의 생일을 축하합니다💞\n\n#이달의소녀 #LOONA \n#고원 #GoWon https://t.co/Dl56m2dKdq",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -216,7 +507,7 @@ Grailbird.data.tweets_2022_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#1119_HBD_GoWon\n#Happy_GoWon_Day\n\n이달의 소녀의 콩주🧚‍♀️\n고원이의 생일을 축하합니다💞\n\n#이달의소녀 #LOONA \n#고원 #GoWon https://t.co/Dl56m2dKdq"
+		"text": "#1119_HBD_GoWon\n#Happy_GoWon_Day\n\n이달의 소녀의 콩주🧚♀️\n고원이의 생일을 축하합니다💞\n\n#이달의소녀 #LOONA \n#고원 #GoWon https://t.co/Dl56m2dKdq"
 	},
 	{
 		"created_at": "Fri Nov 18 14:07:59 +0000 2022",
