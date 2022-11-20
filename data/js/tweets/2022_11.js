@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 20 03:50:56 +0000 2022",
+		"id": 1594163624226029600,
+		"id_str": "1594176441943396353",
+		"full_text": "𝙅𝗔𝗨𝗥𝗜𝗠 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗔𝗹𝗯𝘂𝗺\n【 𝗠𝗘𝗥𝗥𝗬 𝗦𝗣𝗢𝗢𝗞𝗬 𝗫-𝗠𝗔𝗦 】\n: 세 명의 왕 이야기\n  𝑇ℎ𝑒 𝑇𝑎𝑙𝑒 𝑜𝑓 𝑡ℎ𝑒 𝑇ℎ𝑟𝑒𝑒 𝐾𝑖𝑛𝑔𝑠\n\n▪예약 판매 오픈\n- 𝟭𝟭월 𝟮𝟭일 (월) 오후 𝟭𝟮시\n\n▪예약 판매 사이트\n- 인터파크, 예스24, 알라딘, 핫트랙스, 신나라, 애플뮤직 https://t.co/bRZXSnMWlm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1593205647767613400,
+					"id_str": "1593205647767613443",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/Fhw0GHFVsAMFvdK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fhw0GHFVsAMFvdK.jpg",
+					"url": "https://t.co/bRZXSnMWlm",
+					"display_url": "pic.twitter.com/bRZXSnMWlm",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1594163624226029568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1593205647767613400,
+					"id_str": "1593205647767613443",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/Fhw0GHFVsAMFvdK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fhw0GHFVsAMFvdK.jpg",
+					"url": "https://t.co/bRZXSnMWlm",
+					"display_url": "pic.twitter.com/bRZXSnMWlm",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1594163624226029568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1593205692139073500,
+					"id_str": "1593205692139073539",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/Fhw0IsYUcAMcbCi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fhw0IsYUcAMcbCi.jpg",
+					"url": "https://t.co/bRZXSnMWlm",
+					"display_url": "pic.twitter.com/bRZXSnMWlm",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1594163624226029568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1593205710535303200,
+					"id_str": "1593205710535303169",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/Fhw0Jw6UoAEN8n_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fhw0Jw6UoAEN8n_.jpg",
+					"url": "https://t.co/bRZXSnMWlm",
+					"display_url": "pic.twitter.com/bRZXSnMWlm",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1594163624226029568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "▼ 𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌 ㅣ𝖬𝖣 온라인 판매",
+			"url": "https://t.co/uKDsnIJttC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uKDsnIJttC",
+							"expanded_url": "https://bit.ly/3BkgXhN",
+							"display_url": "bit.ly/3BkgXhN",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4508,
+			"friends_count": 5,
+			"listed_count": 30,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1546734155525869568/z7QclmtR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1546734155525869568/z7QclmtR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1657605145",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𝙅𝗔𝗨𝗥𝗜𝗠 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗔𝗹𝗯𝘂𝗺\n【 𝗠𝗘𝗥𝗥𝗬 𝗦𝗣𝗢𝗢𝗞𝗬 𝗫-𝗠𝗔𝗦 】\n: 세 명의 왕 이야기\n  𝑇ℎ𝑒 𝑇𝑎𝑙𝑒 𝑜𝑓 𝑡ℎ𝑒 𝑇ℎ𝑟𝑒𝑒 𝐾𝑖𝑛𝑔𝑠\n\n▪예약 판매 오픈\n- 𝟭𝟭월 𝟮𝟭일 (월) 오후 𝟭𝟮시\n\n▪예약 판매 사이트\n- 인터파크, 예스24, 알라딘, 핫트랙스, 신나라, 애플뮤직 https://t.co/bRZXSnMWlm"
+	},
+	{
 		"created_at": "Sat Nov 19 15:08:18 +0000 2022",
 		"id": 1593981097716879400,
 		"id_str": "1593984518691569666",
