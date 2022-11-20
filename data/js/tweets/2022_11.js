@@ -1,6 +1,187 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 20 09:45:10 +0000 2022",
+		"id": 1594254226057724000,
+		"id_str": "1594265585390473221",
+		"full_text": "까치처럼 삐죽삐죽한 뒷머리로 무심한 듯 시크하게!\n#제니 #블랙핑크 @ygofficialblink #해린 #뉴진스 @NewJeans_ADOR  #로제 #수지 @Suzy\nhttps://t.co/9bqbqPs9Me",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제니",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						32,
+						37
+					]
+				},
+				{
+					"text": "해린",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "수지",
+					"indices": [
+						84,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						38,
+						54
+					]
+				},
+				{
+					"screen_name": "NewJeans_ADOR",
+					"name": "NewJeans",
+					"id": 1476476838180696000,
+					"id_str": "1476476838180696073",
+					"indices": [
+						64,
+						78
+					]
+				},
+				{
+					"screen_name": "Suzy",
+					"name": "숮이",
+					"id": 152966047,
+					"id_str": "152966047",
+					"indices": [
+						88,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9bqbqPs9Me",
+					"expanded_url": "https://www.allurekorea.com/2022/09/05/%ec%85%80%eb%9f%bd%eb%93%a4%ec%9d%98-%ea%b9%8c%ec%b9%98-%eb%a8%b8%eb%a6%ac-%ec%8a%a4%ed%83%80%ec%9d%bc%eb%a7%81/?ddw=122461&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2022/09/05/%ec…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38152,
+			"friends_count": 1,
+			"listed_count": 300,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1668746717",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "까치처럼 삐죽삐죽한 뒷머리로 무심한 듯 시크하게!\n#제니 #블랙핑크 @ygofficialblink #해린 #뉴진스 @NewJeans_ADOR  #로제 #수지 @Suzy\nhttps://t.co/9bqbqPs9Me"
+	},
+	{
 		"created_at": "Sun Nov 20 06:08:29 +0000 2022",
 		"id": 1594198846632251400,
 		"id_str": "1594211054543810561",
