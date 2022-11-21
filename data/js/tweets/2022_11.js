@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 21 14:58:51 +0000 2022",
+		"id": 1594692104969539600,
+		"id_str": "1594706916634021888",
+		"full_text": "#소녀시대 #유리 의 사촌 동생이었어? 비주얼부터 끼까지 남다른 연예인 친 가족 5! @GirlsGeneration #트라이비 #송선 #최성민 @YENA_OFFICIAL #최예나 @official_LCY #채연 @ITZYofficial #있지 #채령 @offclASTRO  #아스트로 #문빈 #빌리 #문수아 #공명 #NCT #도영\nhttps://t.co/Roxkzv11Uf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "트라이비",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "송선",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "최성민",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "최예나",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "채연",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "있지",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "채령",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "아스트로",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "문빈",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "빌리",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "문수아",
+					"indices": [
+						167,
+						171
+					]
+				},
+				{
+					"text": "공명",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "도영",
+					"indices": [
+						181,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						48,
+						64
+					]
+				},
+				{
+					"screen_name": "YENA_OFFICIAL",
+					"name": "최예나",
+					"id": 1394936522017689600,
+					"id_str": "1394936522017689600",
+					"indices": [
+						80,
+						94
+					]
+				},
+				{
+					"screen_name": "official_LCY",
+					"name": "이채연(LEE CHAE YEON) Official",
+					"id": 1427552954500878300,
+					"id_str": "1427552954500878338",
+					"indices": [
+						100,
+						113
+					]
+				},
+				{
+					"screen_name": "ITZYofficial",
+					"name": "ITZY",
+					"id": 1062578718214770700,
+					"id_str": "1062578718214770688",
+					"indices": [
+						118,
+						131
+					]
+				},
+				{
+					"screen_name": "offclASTRO",
+					"name": "ASTRO 아스트로",
+					"id": 3314485566,
+					"id_str": "3314485566",
+					"indices": [
+						140,
+						151
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Roxkzv11Uf",
+					"expanded_url": "https://www.allurekorea.com/2022/08/10/%ed%98%84%ec%9e%ac-%ea%b0%99%ec%9d%b4-%ed%99%9c%eb%8f%99-%ec%a4%91%ec%9d%b8-%ec%95%84%ec%9d%b4%eb%8f%8c-%ec%b9%9c%ea%b0%80%ec%a1%b1/?ddw=123075&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2022/08/10/%ed…",
+					"indices": [
+						185,
+						208
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38149,
+			"friends_count": 1,
+			"listed_count": 300,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1668746717",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#소녀시대 #유리 의 사촌 동생이었어? 비주얼부터 끼까지 남다른 연예인 친 가족 5! @GirlsGeneration #트라이비 #송선 #최성민 @YENA_OFFICIAL #최예나 @official_LCY #채연 @ITZYofficial #있지 #채령 @offclASTRO  #아스트로 #문빈 #빌리 #문수아 #공명 #NCT #도영\nhttps://t.co/Roxkzv11Uf"
+	},
+	{
 		"created_at": "Mon Nov 21 12:08:42 +0000 2022",
 		"id": 1594652508915642400,
 		"id_str": "1594664094765764608",
