@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 22 03:08:51 +0000 2022",
+		"id": 1594880567312404500,
+		"id_str": "1594890626536853504",
+		"full_text": "Red Velvet's new mini-album 'Birthday' contains a wide range of musical colors! B-side tracks include thrilling ‘ZOOM’ and warm and affectionate ‘Celebrate’! \n\nhttps://t.co/gfMQ0BIpGE\n\n#The_ReVe_Festival_2022\n#Birthday #벌스데이\n#레드벨벳 #RedVelvet https://t.co/gFOUJcRovf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "The_ReVe_Festival_2022",
+					"indices": [
+						185,
+						208
+					]
+				},
+				{
+					"text": "Birthday",
+					"indices": [
+						209,
+						218
+					]
+				},
+				{
+					"text": "벌스데이",
+					"indices": [
+						219,
+						224
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						225,
+						230
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						231,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gfMQ0BIpGE",
+					"expanded_url": "http://bit.ly/3gwt8QF",
+					"display_url": "bit.ly/3gwt8QF",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1594880554570113000,
+					"id_str": "1594880554570113024",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FiInahJUYAASd8R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiInahJUYAASd8R.jpg",
+					"url": "https://t.co/gFOUJcRovf",
+					"display_url": "pic.twitter.com/gFOUJcRovf",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1594880567312404480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1594880554570113000,
+					"id_str": "1594880554570113024",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FiInahJUYAASd8R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiInahJUYAASd8R.jpg",
+					"url": "https://t.co/gFOUJcRovf",
+					"display_url": "pic.twitter.com/gFOUJcRovf",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1594880567312404480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1594880559863320600,
+					"id_str": "1594880559863320576",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FiIna03UUAAQgZW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiIna03UUAAQgZW.jpg",
+					"url": "https://t.co/gFOUJcRovf",
+					"display_url": "pic.twitter.com/gFOUJcRovf",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1594880567312404480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1594880564128948200,
+					"id_str": "1594880564128948224",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FiInbEwUoAASc3e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiInbEwUoAASc3e.jpg",
+					"url": "https://t.co/gFOUJcRovf",
+					"display_url": "pic.twitter.com/gFOUJcRovf",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1594880567312404480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1350,
+							"h": 2025,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1594880548953915400,
+		"in_reply_to_status_id_str": "1594880548953915393",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5746840,
+			"friends_count": 2,
+			"listed_count": 11521,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2006,
+		"favorite_count": 6293,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet's new mini-album 'Birthday' contains a wide range of musical colors! B-side tracks include thrilling ‘ZOOM’ and warm and affectionate ‘Celebrate’! \n\nhttps://t.co/gfMQ0BIpGE\n\n#The_ReVe_Festival_2022\n#Birthday #벌스데이\n#레드벨벳 #RedVelvet https://t.co/gFOUJcRovf"
+	},
+	{
 		"created_at": "Tue Nov 22 00:52:46 +0000 2022",
 		"id": 1594844658538283000,
 		"id_str": "1594856378379616256",
