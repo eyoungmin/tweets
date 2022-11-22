@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 22 06:52:50 +0000 2022",
+		"id": 1594933818443853800,
+		"id_str": "1594946994295873538",
+		"full_text": "Newark, you guys did it! Both of these nights were certainly a blast!!🔥Hope to see you all again!😉\n\n#BLACKPINK #블랙핑크 #BORNPINK #BLACKPINK_WORLDTOUR #BLACKPINK_BORNPINK #NEWARK #YG https://t.co/n9jmJn2387",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						100,
+						110
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						117,
+						126
+					]
+				},
+				{
+					"text": "BLACKPINK_WORLDTOUR",
+					"indices": [
+						127,
+						147
+					]
+				},
+				{
+					"text": "BLACKPINK_BORNPINK",
+					"indices": [
+						148,
+						167
+					]
+				},
+				{
+					"text": "NEWARK",
+					"indices": [
+						168,
+						175
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						176,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1594933676852514800,
+					"id_str": "1594933676852514821",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FiJXupEaEAUx__E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiJXupEaEAUx__E.jpg",
+					"url": "https://t.co/n9jmJn2387",
+					"display_url": "pic.twitter.com/n9jmJn2387",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1594933818443853824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1594933676852514800,
+					"id_str": "1594933676852514821",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FiJXupEaEAUx__E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiJXupEaEAUx__E.jpg",
+					"url": "https://t.co/n9jmJn2387",
+					"display_url": "pic.twitter.com/n9jmJn2387",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1594933818443853824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1594933685178224600,
+					"id_str": "1594933685178224640",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FiJXvIFaUAAihEW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiJXvIFaUAAihEW.jpg",
+					"url": "https://t.co/n9jmJn2387",
+					"display_url": "pic.twitter.com/n9jmJn2387",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1594933818443853824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8041125,
+			"friends_count": 0,
+			"listed_count": 7942,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6053,
+		"favorite_count": 19110,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Newark, you guys did it! Both of these nights were certainly a blast!!🔥Hope to see you all again!😉\n\n#BLACKPINK #블랙핑크 #BORNPINK #BLACKPINK_WORLDTOUR #BLACKPINK_BORNPINK #NEWARK #YG https://t.co/n9jmJn2387"
+	},
+	{
 		"created_at": "Tue Nov 22 03:08:51 +0000 2022",
 		"id": 1594880567312404500,
 		"id_str": "1594890626536853504",
