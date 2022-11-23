@@ -1,6 +1,1087 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Wed Nov 23 06:09:12 +0000 2022",
+		"id": 1595291182279536600,
+		"id_str": "1595298399095468032",
+		"full_text": "[ 𝕄𝔼ℝℝ𝕐 𝕊ℙ𝕆𝕆𝕂𝕐 𝕏-𝕄𝔸𝕊 ] \n#자우림서울콘서트 \n@올림픽공원핸드볼경기장\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟫 ( 금) 𝟪𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟢 (토) 𝟨𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟣 (일) 𝟧𝖯𝖬\n\n#자우림 #紫雨林 #Jaurim\n#자우림콘서트 \n#JaurimConcert \n#MERRY_SPOOKY_XMAS\n#MERRY_SPOOKY_JAURIM https://t.co/amKf68U41Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림서울콘서트",
+					"indices": [
+						24,
+						33
+					]
+				},
+				{
+					"text": "자우림",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "紫雨林",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "Jaurim",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "자우림콘서트",
+					"indices": [
+						130,
+						137
+					]
+				},
+				{
+					"text": "JaurimConcert",
+					"indices": [
+						139,
+						153
+					]
+				},
+				{
+					"text": "MERRY_SPOOKY_XMAS",
+					"indices": [
+						155,
+						173
+					]
+				},
+				{
+					"text": "MERRY_SPOOKY_JAURIM",
+					"indices": [
+						174,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1595291177321832400,
+					"id_str": "1595291177321832449",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FiOc36GVIAEMA43.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiOc36GVIAEMA43.jpg",
+					"url": "https://t.co/amKf68U41Z",
+					"display_url": "pic.twitter.com/amKf68U41Z",
+					"expanded_url": "https://twitter.com/love_yuna/status/1595291182279536641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1191,
+							"h": 1485,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1595291177321832400,
+					"id_str": "1595291177321832449",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FiOc36GVIAEMA43.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiOc36GVIAEMA43.jpg",
+					"url": "https://t.co/amKf68U41Z",
+					"display_url": "pic.twitter.com/amKf68U41Z",
+					"expanded_url": "https://twitter.com/love_yuna/status/1595291182279536641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1191,
+							"h": 1485,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1594638041561600000,
+		"in_reply_to_status_id_str": "1594638041561600003",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275954,
+			"friends_count": 600,
+			"listed_count": 2733,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 480,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1587350693115199488/WeM4899U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587350693115199488/WeM4899U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1667288883",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ 𝕄𝔼ℝℝ𝕐 𝕊ℙ𝕆𝕆𝕂𝕐 𝕏-𝕄𝔸𝕊 ] \n#자우림서울콘서트 \n@올림픽공원핸드볼경기장\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟫 ( 금) 𝟪𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟢 (토) 𝟨𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟣 (일) 𝟧𝖯𝖬\n\n#자우림 #紫雨林 #Jaurim\n#자우림콘서트 \n#JaurimConcert \n#MERRY_SPOOKY_XMAS\n#MERRY_SPOOKY_JAURIM https://t.co/amKf68U41Z"
+	},
+	{
+		"created_at": "Wed Nov 23 06:09:11 +0000 2022",
+		"id": 1595291189988626400,
+		"id_str": "1595298397115670528",
+		"full_text": "[ 𝕄𝔼ℝℝ𝕐 𝕊ℙ𝕆𝕆𝕂𝕐 𝕁𝔸𝕌ℝ𝕀𝕄 ] \n\n#자우림부산콘서트 @𝖪𝖡𝖲부산홀\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟥𝟢 (금) 𝟩:𝟥𝟢𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟥𝟣 (토) 𝟨𝖯𝖬\n\n#자우림광주콘서트 @김대중컨벤션센터\n𝟤𝟢𝟤𝟥. 𝟣. 𝟩 (토) 𝟨𝖯𝖬\n\n#자우림 #紫雨林 #Jaurim\n#자우림콘서트 \n#JaurimConcert https://t.co/TLxG8QPPyV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림부산콘서트",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"text": "자우림광주콘서트",
+					"indices": [
+						90,
+						99
+					]
+				},
+				{
+					"text": "자우림",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "紫雨林",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "Jaurim",
+					"indices": [
+						140,
+						147
+					]
+				},
+				{
+					"text": "자우림콘서트",
+					"indices": [
+						148,
+						155
+					]
+				},
+				{
+					"text": "JaurimConcert",
+					"indices": [
+						157,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1595291184867352600,
+					"id_str": "1595291184867352576",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FiOc4WNUoAANJcd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiOc4WNUoAANJcd.jpg",
+					"url": "https://t.co/TLxG8QPPyV",
+					"display_url": "pic.twitter.com/TLxG8QPPyV",
+					"expanded_url": "https://twitter.com/love_yuna/status/1595291189988626432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1640,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1595291184867352600,
+					"id_str": "1595291184867352576",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FiOc4WNUoAANJcd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiOc4WNUoAANJcd.jpg",
+					"url": "https://t.co/TLxG8QPPyV",
+					"display_url": "pic.twitter.com/TLxG8QPPyV",
+					"expanded_url": "https://twitter.com/love_yuna/status/1595291189988626432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1640,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1595291184884129800,
+					"id_str": "1595291184884129793",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FiOc4WRUoAEq6IC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiOc4WRUoAEq6IC.jpg",
+					"url": "https://t.co/TLxG8QPPyV",
+					"display_url": "pic.twitter.com/TLxG8QPPyV",
+					"expanded_url": "https://twitter.com/love_yuna/status/1595291189988626432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1640,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1595291182279536600,
+		"in_reply_to_status_id_str": "1595291182279536641",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275954,
+			"friends_count": 600,
+			"listed_count": 2733,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 480,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1587350693115199488/WeM4899U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587350693115199488/WeM4899U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1667288883",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ 𝕄𝔼ℝℝ𝕐 𝕊ℙ𝕆𝕆𝕂𝕐 𝕁𝔸𝕌ℝ𝕀𝕄 ] \n\n#자우림부산콘서트 @𝖪𝖡𝖲부산홀\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟥𝟢 (금) 𝟩:𝟥𝟢𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟥𝟣 (토) 𝟨𝖯𝖬\n\n#자우림광주콘서트 @김대중컨벤션센터\n𝟤𝟢𝟤𝟥. 𝟣. 𝟩 (토) 𝟨𝖯𝖬\n\n#자우림 #紫雨林 #Jaurim\n#자우림콘서트 \n#JaurimConcert https://t.co/TLxG8QPPyV"
+	},
+	{
+		"created_at": "Wed Nov 23 06:03:52 +0000 2022",
+		"id": 1595288276486697000,
+		"id_str": "1595297060172857345",
+		"full_text": "[#여진 / #YeoJin] 가을가을\n\n#이달의소녀 #LOONA https://t.co/DVG1SLGaWN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						22,
+						28
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						29,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1595288270505533400,
+					"id_str": "1595288270505533441",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/FiOaOtXUYAE6OIN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiOaOtXUYAE6OIN.jpg",
+					"url": "https://t.co/DVG1SLGaWN",
+					"display_url": "pic.twitter.com/DVG1SLGaWN",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1595288276486696960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1595288270505533400,
+					"id_str": "1595288270505533441",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/FiOaOtXUYAE6OIN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiOaOtXUYAE6OIN.jpg",
+					"url": "https://t.co/DVG1SLGaWN",
+					"display_url": "pic.twitter.com/DVG1SLGaWN",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1595288276486696960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1595288270505549800,
+					"id_str": "1595288270505549824",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/FiOaOtXUoAAtDxL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiOaOtXUoAAtDxL.jpg",
+					"url": "https://t.co/DVG1SLGaWN",
+					"display_url": "pic.twitter.com/DVG1SLGaWN",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1595288276486696960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1595288270673281000,
+					"id_str": "1595288270673281025",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/FiOaOt_UAAEKAOt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiOaOt_UAAEKAOt.jpg",
+					"url": "https://t.co/DVG1SLGaWN",
+					"display_url": "pic.twitter.com/DVG1SLGaWN",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1595288276486696960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1595288268098396200,
+		"in_reply_to_status_id_str": "1595288268098396161",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 987401,
+			"friends_count": 3,
+			"listed_count": 9029,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 514,
+		"favorite_count": 2390,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#여진 / #YeoJin] 가을가을\n\n#이달의소녀 #LOONA https://t.co/DVG1SLGaWN"
+	},
+	{
+		"created_at": "Wed Nov 23 06:03:52 +0000 2022",
+		"id": 1595287929349607400,
+		"id_str": "1595297059342454784",
+		"full_text": "[#여진 / #YeoJin] 가을가을\n\n#이달의소녀 #LOONA https://t.co/XWLY6hke5Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						22,
+						28
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						29,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1595287919928873000,
+					"id_str": "1595287919928872960",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/FiOZ6TXVEAAOuv-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiOZ6TXVEAAOuv-.jpg",
+					"url": "https://t.co/XWLY6hke5Z",
+					"display_url": "pic.twitter.com/XWLY6hke5Z",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1595287929349607424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1595287919928873000,
+					"id_str": "1595287919928872960",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/FiOZ6TXVEAAOuv-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiOZ6TXVEAAOuv-.jpg",
+					"url": "https://t.co/XWLY6hke5Z",
+					"display_url": "pic.twitter.com/XWLY6hke5Z",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1595287929349607424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1595287919949803500,
+					"id_str": "1595287919949803521",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/FiOZ6TcUcAEc0Q9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiOZ6TcUcAEc0Q9.jpg",
+					"url": "https://t.co/XWLY6hke5Z",
+					"display_url": "pic.twitter.com/XWLY6hke5Z",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1595287929349607424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1595287919912054800,
+					"id_str": "1595287919912054784",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/FiOZ6TTUcAAjkFM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiOZ6TTUcAAjkFM.jpg",
+					"url": "https://t.co/XWLY6hke5Z",
+					"display_url": "pic.twitter.com/XWLY6hke5Z",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1595287929349607424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1595287919928877000,
+					"id_str": "1595287919928877056",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/FiOZ6TXVIAAi7X6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiOZ6TXVIAAi7X6.jpg",
+					"url": "https://t.co/XWLY6hke5Z",
+					"display_url": "pic.twitter.com/XWLY6hke5Z",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1595287929349607424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 987401,
+			"friends_count": 3,
+			"listed_count": 9029,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1493,
+		"favorite_count": 5847,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#여진 / #YeoJin] 가을가을\n\n#이달의소녀 #LOONA https://t.co/XWLY6hke5Z"
+	},
+	{
 		"created_at": "Wed Nov 23 04:15:44 +0000 2022",
 		"id": 1595260079804383200,
 		"id_str": "1595269844386992130",
