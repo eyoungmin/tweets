@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Wed Nov 23 01:59:09 +0000 2022",
+		"id": 1595223967463194600,
+		"id_str": "1595235472514523136",
+		"full_text": "OH 케플러의 완전체 화보 OH \n\n치명적이고도 사랑스러운 모습을 담아낸\n아홉 소녀들의 반전 매력 ❤️‍🔥\n\n✔️“소녀시대 선배님처럼 오래 인정받는 가수가 되고 싶어요”\n✔️걸스 히어로로 변신한 케플러의 화보와 인터뷰\n ▶️https://t.co/o4XqElCtUr\n\n#Kep1er #케플러 #Kep1ian https://t.co/RPeDfQdT7v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Kep1er",
+					"indices": [
+						150,
+						157
+					]
+				},
+				{
+					"text": "케플러",
+					"indices": [
+						158,
+						162
+					]
+				},
+				{
+					"text": "Kep1ian",
+					"indices": [
+						163,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o4XqElCtUr",
+					"expanded_url": "https://bit.ly/3EU2mLn",
+					"display_url": "bit.ly/3EU2mLn",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1595223933615120400,
+					"id_str": "1595223933615120384",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FiNftzxUoAA0ad8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiNftzxUoAA0ad8.jpg",
+					"url": "https://t.co/RPeDfQdT7v",
+					"display_url": "pic.twitter.com/RPeDfQdT7v",
+					"expanded_url": "https://twitter.com/cosmokorea/status/1595223967463194624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 950,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 950,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 530,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1595223933615120400,
+					"id_str": "1595223933615120384",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FiNftzxUoAA0ad8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiNftzxUoAA0ad8.jpg",
+					"url": "https://t.co/RPeDfQdT7v",
+					"display_url": "pic.twitter.com/RPeDfQdT7v",
+					"expanded_url": "https://twitter.com/cosmokorea/status/1595223967463194624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 950,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 950,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 530,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1595223933590024200,
+					"id_str": "1595223933590024192",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FiNftzrVsAAqEWI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiNftzrVsAAqEWI.jpg",
+					"url": "https://t.co/RPeDfQdT7v",
+					"display_url": "pic.twitter.com/RPeDfQdT7v",
+					"expanded_url": "https://twitter.com/cosmokorea/status/1595223967463194624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 740,
+							"h": 950,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 530,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 950,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89065,
+			"friends_count": 4,
+			"listed_count": 419,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 646,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14089,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "OH 케플러의 완전체 화보 OH \n\n치명적이고도 사랑스러운 모습을 담아낸\n아홉 소녀들의 반전 매력 ❤️‍🔥\n\n✔️“소녀시대 선배님처럼 오래 인정받는 가수가 되고 싶어요”\n✔️걸스 히어로로 변신한 케플러의 화보와 인터뷰\n ▶️https://t.co/o4XqElCtUr\n\n#Kep1er #케플러 #Kep1ian https://t.co/RPeDfQdT7v"
+	},
+	{
 		"created_at": "Tue Nov 22 15:08:58 +0000 2022",
 		"id": 1595069607819231200,
 		"id_str": "1595071847594237952",
