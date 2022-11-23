@@ -1,10 +1,195 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Wed Nov 23 03:51:34 +0000 2022",
+		"id": 1595250786316873700,
+		"id_str": "1595263761660620800",
+		"full_text": "자우림 단독 콘서트\n[ 𝕄𝔼ℝℝ𝕐 𝕊ℙ𝕆𝕆𝕂𝕐 𝕏-𝕄𝔸𝕊 ] 서울\n\n▌일시\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟫 (금) 𝟪𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟢 (토) 𝟨𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟣 (일) 𝟧𝖯𝖬\n@ 올림픽공원 𝖲𝖪핸드볼경기장\n\n📍𝗺𝗼𝗿𝗲 𝗶𝗻𝗳𝗼\nhttps://t.co/oBSo4uYyxW https://t.co/fBeK6Nak72",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oBSo4uYyxW",
+					"expanded_url": "https://url.kr/bju1y8",
+					"display_url": "url.kr/bju1y8",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1593102798400344000,
+					"id_str": "1593102798400344064",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FhvWjfVVUAA3jaH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhvWjfVVUAA3jaH.jpg",
+					"url": "https://t.co/fBeK6Nak72",
+					"display_url": "pic.twitter.com/fBeK6Nak72",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1595250786316873728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1191,
+							"h": 1485,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1593102798400344000,
+					"id_str": "1593102798400344064",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FhvWjfVVUAA3jaH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhvWjfVVUAA3jaH.jpg",
+					"url": "https://t.co/fBeK6Nak72",
+					"display_url": "pic.twitter.com/fBeK6Nak72",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1595250786316873728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1191,
+							"h": 1485,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "▼ 𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌 ㅣ𝖬𝖣 온라인 판매",
+			"url": "https://t.co/uKDsnIJttC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uKDsnIJttC",
+							"expanded_url": "https://bit.ly/3BkgXhN",
+							"display_url": "bit.ly/3BkgXhN",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4505,
+			"friends_count": 5,
+			"listed_count": 30,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1546734155525869568/z7QclmtR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1546734155525869568/z7QclmtR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1657605145",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자우림 단독 콘서트\n[ 𝕄𝔼ℝℝ𝕐 𝕊ℙ𝕆𝕆𝕂𝕐 𝕏-𝕄𝔸𝕊 ] 서울\n\n▌일시\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟫 (금) 𝟪𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟢 (토) 𝟨𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟣 (일) 𝟧𝖯𝖬\n@ 올림픽공원 𝖲𝖪핸드볼경기장\n\n📍𝗺𝗼𝗿𝗲 𝗶𝗻𝗳𝗼\nhttps://t.co/oBSo4uYyxW https://t.co/fBeK6Nak72"
+	},
+	{
 		"created_at": "Wed Nov 23 01:59:09 +0000 2022",
 		"id": 1595223967463194600,
 		"id_str": "1595235472514523136",
-		"full_text": "OH 케플러의 완전체 화보 OH \n\n치명적이고도 사랑스러운 모습을 담아낸\n아홉 소녀들의 반전 매력 ❤️‍🔥\n\n✔️“소녀시대 선배님처럼 오래 인정받는 가수가 되고 싶어요”\n✔️걸스 히어로로 변신한 케플러의 화보와 인터뷰\n ▶️https://t.co/o4XqElCtUr\n\n#Kep1er #케플러 #Kep1ian https://t.co/RPeDfQdT7v",
+		"full_text": "OH 케플러의 완전체 화보 OH \n\n치명적이고도 사랑스러운 모습을 담아낸\n아홉 소녀들의 반전 매력 ❤️🔥\n\n✔️“소녀시대 선배님처럼 오래 인정받는 가수가 되고 싶어요”\n✔️걸스 히어로로 변신한 케플러의 화보와 인터뷰\n ▶️https://t.co/o4XqElCtUr\n\n#Kep1er #케플러 #Kep1ian https://t.co/RPeDfQdT7v",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -241,7 +426,7 @@ Grailbird.data.tweets_2022_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "OH 케플러의 완전체 화보 OH \n\n치명적이고도 사랑스러운 모습을 담아낸\n아홉 소녀들의 반전 매력 ❤️‍🔥\n\n✔️“소녀시대 선배님처럼 오래 인정받는 가수가 되고 싶어요”\n✔️걸스 히어로로 변신한 케플러의 화보와 인터뷰\n ▶️https://t.co/o4XqElCtUr\n\n#Kep1er #케플러 #Kep1ian https://t.co/RPeDfQdT7v"
+		"text": "OH 케플러의 완전체 화보 OH \n\n치명적이고도 사랑스러운 모습을 담아낸\n아홉 소녀들의 반전 매력 ❤️🔥\n\n✔️“소녀시대 선배님처럼 오래 인정받는 가수가 되고 싶어요”\n✔️걸스 히어로로 변신한 케플러의 화보와 인터뷰\n ▶️https://t.co/o4XqElCtUr\n\n#Kep1er #케플러 #Kep1ian https://t.co/RPeDfQdT7v"
 	},
 	{
 		"created_at": "Tue Nov 22 15:08:58 +0000 2022",
