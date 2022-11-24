@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 24 07:09:25 +0000 2022",
+		"id": 1595671560261496800,
+		"id_str": "1595675943825129473",
+		"full_text": "𝙅𝗔𝗨𝗥𝗜𝗠 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗔𝗹𝗯𝘂𝗺\n【 𝗠𝗘𝗥𝗥𝗬 𝗦𝗣𝗢𝗢𝗞𝗬 𝗫-𝗠𝗔𝗦 】\n\n세 명의 왕 이야기\n𝑇ℎ𝑒 𝑇𝑎𝑙𝑒 𝑜𝑓 𝑡ℎ𝑒 𝑇ℎ𝑟𝑒𝑒 𝐾𝑖𝑛𝑔𝑠\n\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟭 𝗧𝗵𝘂 𝟲𝗽𝗺 𝗥𝗲𝗹𝗲𝗮𝘀𝗲\n\n#자우림 #Jaurim #紫雨林\n#자우림_겨울스페셜앨범\n#MERRY_SPOOKY_XMAS https://t.co/Aipbdtsrd1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "Jaurim",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"text": "紫雨林",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "자우림_겨울스페셜앨범",
+					"indices": [
+						132,
+						144
+					]
+				},
+				{
+					"text": "MERRY_SPOOKY_XMAS",
+					"indices": [
+						145,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1595671552313331700,
+					"id_str": "1595671552313331712",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FiT20pXVEAAZ-rH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiT20pXVEAAZ-rH.jpg",
+					"url": "https://t.co/Aipbdtsrd1",
+					"display_url": "pic.twitter.com/Aipbdtsrd1",
+					"expanded_url": "https://twitter.com/love_yuna/status/1595671560261496832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 805,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1595671552313331700,
+					"id_str": "1595671552313331712",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FiT20pXVEAAZ-rH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiT20pXVEAAZ-rH.jpg",
+					"url": "https://t.co/Aipbdtsrd1",
+					"display_url": "pic.twitter.com/Aipbdtsrd1",
+					"expanded_url": "https://twitter.com/love_yuna/status/1595671560261496832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 805,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275915,
+			"friends_count": 600,
+			"listed_count": 2732,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 480,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1587350693115199488/WeM4899U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587350693115199488/WeM4899U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1667288883",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 79,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "𝙅𝗔𝗨𝗥𝗜𝗠 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗔𝗹𝗯𝘂𝗺\n【 𝗠𝗘𝗥𝗥𝗬 𝗦𝗣𝗢𝗢𝗞𝗬 𝗫-𝗠𝗔𝗦 】\n\n세 명의 왕 이야기\n𝑇ℎ𝑒 𝑇𝑎𝑙𝑒 𝑜𝑓 𝑡ℎ𝑒 𝑇ℎ𝑟𝑒𝑒 𝐾𝑖𝑛𝑔𝑠\n\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟭 𝗧𝗵𝘂 𝟲𝗽𝗺 𝗥𝗲𝗹𝗲𝗮𝘀𝗲\n\n#자우림 #Jaurim #紫雨林\n#자우림_겨울스페셜앨범\n#MERRY_SPOOKY_XMAS https://t.co/Aipbdtsrd1"
+	},
+	{
 		"created_at": "Thu Nov 24 06:10:33 +0000 2022",
 		"id": 1595659124414763000,
 		"id_str": "1595661127467139072",
