@@ -1,6 +1,780 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 24 03:51:55 +0000 2022",
+		"id": 1595613179236667400,
+		"id_str": "1595626241750536192",
+		"full_text": "𝙅𝗔𝗨𝗥𝗜𝗠 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗔𝗹𝗯𝘂𝗺\n【 𝗠𝗘𝗥𝗥𝗬 𝗦𝗣𝗢𝗢𝗞𝗬 𝗫-𝗠𝗔𝗦 】\n: 세 명의 왕 이야기\n  𝑇ℎ𝑒 𝑇𝑎𝑙𝑒 𝑜𝑓 𝑡ℎ𝑒 𝑇ℎ𝑟𝑒𝑒 𝐾𝑖𝑛𝑔𝑠\n\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟭 𝗧𝗵𝘂 𝟲𝗽𝗺 𝗥𝗲𝗹𝗲𝗮𝘀𝗲\n\n#자우림 #스페셜앨범\n#MERRY_SPOOKY_XMAS https://t.co/g9CQvvKLa2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "스페셜앨범",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "MERRY_SPOOKY_XMAS",
+					"indices": [
+						129,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1595348950545932300,
+					"id_str": "1595348950545932288",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FiPRawIVIAA2JdL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiPRawIVIAA2JdL.jpg",
+					"url": "https://t.co/g9CQvvKLa2",
+					"display_url": "pic.twitter.com/g9CQvvKLa2",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1595613179236667398/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 806,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 457,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1595348950545932300,
+					"id_str": "1595348950545932288",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FiPRawIVIAA2JdL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiPRawIVIAA2JdL.jpg",
+					"url": "https://t.co/g9CQvvKLa2",
+					"display_url": "pic.twitter.com/g9CQvvKLa2",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1595613179236667398/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 806,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 457,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "▼ 𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌 ㅣ𝖬𝖣 온라인 판매",
+			"url": "https://t.co/uKDsnIJttC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uKDsnIJttC",
+							"expanded_url": "https://bit.ly/3BkgXhN",
+							"display_url": "bit.ly/3BkgXhN",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4508,
+			"friends_count": 5,
+			"listed_count": 30,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1546734155525869568/z7QclmtR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1546734155525869568/z7QclmtR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1657605145",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "𝙅𝗔𝗨𝗥𝗜𝗠 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗔𝗹𝗯𝘂𝗺\n【 𝗠𝗘𝗥𝗥𝗬 𝗦𝗣𝗢𝗢𝗞𝗬 𝗫-𝗠𝗔𝗦 】\n: 세 명의 왕 이야기\n  𝑇ℎ𝑒 𝑇𝑎𝑙𝑒 𝑜𝑓 𝑡ℎ𝑒 𝑇ℎ𝑟𝑒𝑒 𝐾𝑖𝑛𝑔𝑠\n\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟭 𝗧𝗵𝘂 𝟲𝗽𝗺 𝗥𝗲𝗹𝗲𝗮𝘀𝗲\n\n#자우림 #스페셜앨범\n#MERRY_SPOOKY_XMAS https://t.co/g9CQvvKLa2"
+	},
+	{
+		"created_at": "Thu Nov 24 03:47:20 +0000 2022",
+		"id": 1595610562242961400,
+		"id_str": "1595625086257545216",
+		"full_text": "[유라x만동]\n스포티파이의 Jazzy Korea 플레이리스트에\n유라, 만동이 함께한 '이런 분위기는 기회다 (The Vibe is a Chance)' 곡들이 수록되며\n유라와 만동이 플레이리스트 커버에 노출되었습니다✨\n\n@SpotifyKR @SpotifyKpop \n\n#유라 #만동 #Spotify #music #Jazz https://t.co/AAYdWn5eoU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유라",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "만동",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						156,
+						164
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "Jazz",
+					"indices": [
+						172,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						122,
+						132
+					]
+				},
+				{
+					"screen_name": "SpotifyKpop",
+					"name": "Spotify ❤️ K-Pop",
+					"id": 978459450871697400,
+					"id_str": "978459450871697408",
+					"indices": [
+						133,
+						145
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1595609294170644500,
+					"id_str": "1595609294170644480",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FiS-MvtaYAA_obf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiS-MvtaYAA_obf.jpg",
+					"url": "https://t.co/AAYdWn5eoU",
+					"display_url": "pic.twitter.com/AAYdWn5eoU",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1595610562242961408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1595609294170644500,
+					"id_str": "1595609294170644480",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FiS-MvtaYAA_obf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiS-MvtaYAA_obf.jpg",
+					"url": "https://t.co/AAYdWn5eoU",
+					"display_url": "pic.twitter.com/AAYdWn5eoU",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1595610562242961408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/허회경",
+			"url": "https://t.co/EWOG41NDnZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41NDnZ",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 939,
+			"friends_count": 8,
+			"listed_count": 19,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 84,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1653271322",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유라x만동]\n스포티파이의 Jazzy Korea 플레이리스트에\n유라, 만동이 함께한 '이런 분위기는 기회다 (The Vibe is a Chance)' 곡들이 수록되며\n유라와 만동이 플레이리스트 커버에 노출되었습니다✨\n\n@SpotifyKR @SpotifyKpop \n\n#유라 #만동 #Spotify #music #Jazz https://t.co/AAYdWn5eoU"
+	},
+	{
+		"created_at": "Thu Nov 24 03:25:50 +0000 2022",
+		"id": 1595611837265236000,
+		"id_str": "1595619676976840705",
+		"full_text": "[#NOTICE] 서현 2023 SEASON’S GREETINGS &lt;THE SEOHYUN&gt; Pre-Order (Clean ver.)\n\n~ 𝟐𝟎𝟐𝟐.𝟏𝟏.𝟑𝟎(𝐖𝐞𝐝) 𝟏𝟏:𝟓𝟗𝐏𝐌 (𝐊𝐒𝐓)\n▶ https://t.co/7OZXy5JFKv\n\n#서현 #2023시즌그리팅 #THE_SEOHYUN #SEOHYUN #2023SEASONSGREETINGS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NOTICE",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "2023시즌그리팅",
+					"indices": [
+						144,
+						154
+					]
+				},
+				{
+					"text": "THE_SEOHYUN",
+					"indices": [
+						155,
+						167
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						168,
+						176
+					]
+				},
+				{
+					"text": "2023SEASONSGREETINGS",
+					"indices": [
+						177,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7OZXy5JFKv",
+					"expanded_url": "https://bit.ly/3hCE8w8",
+					"display_url": "bit.ly/3hCE8w8",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67841,
+			"friends_count": 15,
+			"listed_count": 288,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16600,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 133,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#NOTICE] 서현 2023 SEASON’S GREETINGS &lt;THE SEOHYUN&gt; Pre-Order (Clean ver.)\n\n~ 𝟐𝟎𝟐𝟐.𝟏𝟏.𝟑𝟎(𝐖𝐞𝐝) 𝟏𝟏:𝟓𝟗𝐏𝐌 (𝐊𝐒𝐓)\n▶ https://t.co/7OZXy5JFKv\n\n#서현 #2023시즌그리팅 #THE_SEOHYUN #SEOHYUN #2023SEASONSGREETINGS"
+	},
+	{
+		"created_at": "Thu Nov 24 03:21:40 +0000 2022",
+		"id": 1595618238553260000,
+		"id_str": "1595618626656034817",
+		"full_text": "Dec. 31. 사비나앤드론즈 연말 공연 | 기화 氣化 Vaporization\n\n🫧Ticket Open | Nov. 30. 8PM\n\nOfficial Ticket Only | @club_onair \n(Limited Seat)\n\n문의 : 사비뮤직 @saviimusic_ \n         클럽온에어 @club_onair https://t.co/ysuBaMfjRB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CLUB_ONAIR",
+					"name": "Club onair",
+					"id": 352936135,
+					"id_str": "352936135",
+					"indices": [
+						97,
+						108
+					]
+				},
+				{
+					"screen_name": "CLUB_ONAIR",
+					"name": "Club onair",
+					"id": 352936135,
+					"id_str": "352936135",
+					"indices": [
+						165,
+						176
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1595618230424305700,
+					"id_str": "1595618230424305664",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FiTGU52UAAAczSq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiTGU52UAAAczSq.jpg",
+					"url": "https://t.co/ysuBaMfjRB",
+					"display_url": "pic.twitter.com/ysuBaMfjRB",
+					"expanded_url": "https://twitter.com/savina0128/status/1595618238553260032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 822,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 822,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1595618230424305700,
+					"id_str": "1595618230424305664",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FiTGU52UAAAczSq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiTGU52UAAAczSq.jpg",
+					"url": "https://t.co/ysuBaMfjRB",
+					"display_url": "pic.twitter.com/ysuBaMfjRB",
+					"expanded_url": "https://twitter.com/savina0128/status/1595618238553260032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 822,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 822,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나 SAVINA",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "사비나앤드론즈 SAVINA & DRONES Musician",
+			"url": "https://t.co/HUiR4zmWAI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HUiR4zmWAI",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1280,
+			"friends_count": 244,
+			"listed_count": 33,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Dec. 31. 사비나앤드론즈 연말 공연 | 기화 氣化 Vaporization\n\n🫧Ticket Open | Nov. 30. 8PM\n\nOfficial Ticket Only | @club_onair \n(Limited Seat)\n\n문의 : 사비뮤직 @saviimusic_ \n         클럽온에어 @club_onair https://t.co/ysuBaMfjRB"
+	},
+	{
 		"created_at": "Wed Nov 23 15:09:11 +0000 2022",
 		"id": 1595432329228718000,
 		"id_str": "1595434292540162049",
