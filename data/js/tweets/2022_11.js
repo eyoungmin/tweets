@@ -1,6 +1,170 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 24 14:46:07 +0000 2022",
+		"id": 1595779280532709400,
+		"id_str": "1595790872812978179",
+		"full_text": "인간 디올 #지수 부터 #오마이걸 #유아 까지 데일리 룩에서 빠지지 않는 바로 이 아이템! \n@ygofficialblink #블랙핑크 @WM_OHMYGIRL #차정원 \nhttps://t.co/4nq8bPqkwI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지수",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "유아",
+					"indices": [
+						19,
+						22
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "차정원",
+					"indices": [
+						88,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						52,
+						68
+					]
+				},
+				{
+					"screen_name": "WM_OHMYGIRL",
+					"name": "오마이걸 (OH MY GIRL)",
+					"id": 3115548145,
+					"id_str": "3115548145",
+					"indices": [
+						75,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4nq8bPqkwI",
+					"expanded_url": "https://www.allurekorea.com/?p=152841&ddw=130004&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=152841&ddw=…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38174,
+			"friends_count": 1,
+			"listed_count": 302,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1668746717",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인간 디올 #지수 부터 #오마이걸 #유아 까지 데일리 룩에서 빠지지 않는 바로 이 아이템! \n@ygofficialblink #블랙핑크 @WM_OHMYGIRL #차정원 \nhttps://t.co/4nq8bPqkwI"
+	},
+	{
 		"created_at": "Thu Nov 24 10:04:09 +0000 2022",
 		"id": 1595707534962458600,
 		"id_str": "1595719913577975808",
