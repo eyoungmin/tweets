@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 25 03:52:11 +0000 2022",
+		"id": 1595975563990245400,
+		"id_str": "1595988695726686208",
+		"full_text": "자우림 단독 콘서트\n[ 𝕄𝔼ℝℝ𝕐 𝕊ℙ𝕆𝕆𝕂𝕐 𝕏-𝕄𝔸𝕊 ] 서울\n\n▌일시\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟫 (금) 𝟪𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟢 (토) 𝟨𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟣 (일) 𝟧𝖯𝖬\n@ 올림픽공원 𝖲𝖪핸드볼경기장\n\n📍𝗺𝗼𝗿𝗲 𝗶𝗻𝗳𝗼\nhttps://t.co/oBSo4vg9Ww https://t.co/H3S18NPPfd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oBSo4vg9Ww",
+					"expanded_url": "https://url.kr/bju1y8",
+					"display_url": "url.kr/bju1y8",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1593102926070702000,
+					"id_str": "1593102926070702080",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FhvWq68UYAADTmX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhvWq68UYAADTmX.jpg",
+					"url": "https://t.co/H3S18NPPfd",
+					"display_url": "pic.twitter.com/H3S18NPPfd",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1595975563990245376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1191,
+							"h": 1485,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1593102926070702000,
+					"id_str": "1593102926070702080",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FhvWq68UYAADTmX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhvWq68UYAADTmX.jpg",
+					"url": "https://t.co/H3S18NPPfd",
+					"display_url": "pic.twitter.com/H3S18NPPfd",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1595975563990245376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1191,
+							"h": 1485,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "▼ 𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌 ㅣ𝖬𝖣 온라인 판매",
+			"url": "https://t.co/uKDsnIJttC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uKDsnIJttC",
+							"expanded_url": "https://bit.ly/3BkgXhN",
+							"display_url": "bit.ly/3BkgXhN",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4515,
+			"friends_count": 5,
+			"listed_count": 30,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1546734155525869568/z7QclmtR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1546734155525869568/z7QclmtR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1657605145",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자우림 단독 콘서트\n[ 𝕄𝔼ℝℝ𝕐 𝕊ℙ𝕆𝕆𝕂𝕐 𝕏-𝕄𝔸𝕊 ] 서울\n\n▌일시\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟫 (금) 𝟪𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟢 (토) 𝟨𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟣 (일) 𝟧𝖯𝖬\n@ 올림픽공원 𝖲𝖪핸드볼경기장\n\n📍𝗺𝗼𝗿𝗲 𝗶𝗻𝗳𝗼\nhttps://t.co/oBSo4vg9Ww https://t.co/H3S18NPPfd"
+	},
+	{
+		"created_at": "Fri Nov 25 03:46:14 +0000 2022",
+		"id": 1595982612145000400,
+		"id_str": "1595987195826819072",
+		"full_text": "요즘엔 빅리본이 대세🎀\n\n#빅리본 #빅리본스타일링 #수지 #모모 #로제 #오연서 #황승언 \n\nhttps://t.co/RqicjnkO7l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "빅리본",
+					"indices": [
+						14,
+						18
+					]
+				},
+				{
+					"text": "빅리본스타일링",
+					"indices": [
+						19,
+						27
+					]
+				},
+				{
+					"text": "수지",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "모모",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						36,
+						39
+					]
+				},
+				{
+					"text": "오연서",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "황승언",
+					"indices": [
+						45,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RqicjnkO7l",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/72520?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/72520?…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89092,
+			"friends_count": 4,
+			"listed_count": 420,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "요즘엔 빅리본이 대세🎀\n\n#빅리본 #빅리본스타일링 #수지 #모모 #로제 #오연서 #황승언 \n\nhttps://t.co/RqicjnkO7l"
+	},
+	{
 		"created_at": "Thu Nov 24 15:16:08 +0000 2022",
 		"id": 1595794382770573300,
 		"id_str": "1595798429250162688",
