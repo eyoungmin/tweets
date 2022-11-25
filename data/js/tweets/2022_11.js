@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 25 06:53:42 +0000 2022",
+		"id": 1596022829396693000,
+		"id_str": "1596034374562029569",
+		"full_text": "Can’t believe our North American tour has already come to an end.\nThis last month was truly a series of amazement.\nThanks to our LA BLINKs for making it extra special to the very last and we hope to see everyone again in a near future! Love you all!🖤💖 https://t.co/ll2EC2zVa9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1596022767966883800,
+					"id_str": "1596022767966883840",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FiY2QFoaEAAc1h2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiY2QFoaEAAc1h2.jpg",
+					"url": "https://t.co/ll2EC2zVa9",
+					"display_url": "pic.twitter.com/ll2EC2zVa9",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1596022829396692992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1596022767966883800,
+					"id_str": "1596022767966883840",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FiY2QFoaEAAc1h2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiY2QFoaEAAc1h2.jpg",
+					"url": "https://t.co/ll2EC2zVa9",
+					"display_url": "pic.twitter.com/ll2EC2zVa9",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1596022829396692992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1596022767971074000,
+					"id_str": "1596022767971074048",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FiY2QFpaAAAekoc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiY2QFpaAAAekoc.jpg",
+					"url": "https://t.co/ll2EC2zVa9",
+					"display_url": "pic.twitter.com/ll2EC2zVa9",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1596022829396692992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8053005,
+			"friends_count": 0,
+			"listed_count": 7945,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5707,
+		"favorite_count": 18146,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Can’t believe our North American tour has already come to an end.\nThis last month was truly a series of amazement.\nThanks to our LA BLINKs for making it extra special to the very last and we hope to see everyone again in a near future! Love you all!🖤💖 https://t.co/ll2EC2zVa9"
+	},
+	{
 		"created_at": "Fri Nov 25 04:09:35 +0000 2022",
 		"id": 1595988899578663000,
 		"id_str": "1595993072210309120",
