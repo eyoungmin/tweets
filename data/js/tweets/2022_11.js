@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 25 04:09:35 +0000 2022",
+		"id": 1595988899578663000,
+		"id_str": "1595993072210309120",
+		"full_text": "‘컴백 D-3’ 레드벨벳 새 미니앨범 ‘Birthday’가 기대되는 이유\n‘믿고 듣는’ 레드벨벳X클래식+’콘셉트 퀸’의 키치&amp;발랄 변신!\n\nhttps://t.co/swWhIUXzsP\n\n#The_ReVe_Festival_2022\n#Birthday #벌스데이\n#레드벨벳 #RedVelvet https://t.co/ldDr46qwVB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "The_ReVe_Festival_2022",
+					"indices": [
+						107,
+						130
+					]
+				},
+				{
+					"text": "Birthday",
+					"indices": [
+						131,
+						140
+					]
+				},
+				{
+					"text": "벌스데이",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						153,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/swWhIUXzsP",
+					"expanded_url": "http://bit.ly/3VmpQyg",
+					"display_url": "bit.ly/3VmpQyg",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1595988896868798500,
+					"id_str": "1595988896868798464",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FiYXch9VEAA75Sd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiYXch9VEAA75Sd.jpg",
+					"url": "https://t.co/ldDr46qwVB",
+					"display_url": "pic.twitter.com/ldDr46qwVB",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1595988899578662912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1153,
+							"h": 1635,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1595988896868798500,
+					"id_str": "1595988896868798464",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FiYXch9VEAA75Sd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiYXch9VEAA75Sd.jpg",
+					"url": "https://t.co/ldDr46qwVB",
+					"display_url": "pic.twitter.com/ldDr46qwVB",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1595988899578662912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1153,
+							"h": 1635,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5754097,
+			"friends_count": 2,
+			"listed_count": 11517,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3075,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2703,
+		"favorite_count": 8683,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘컴백 D-3’ 레드벨벳 새 미니앨범 ‘Birthday’가 기대되는 이유\n‘믿고 듣는’ 레드벨벳X클래식+’콘셉트 퀸’의 키치&amp;발랄 변신!\n\nhttps://t.co/swWhIUXzsP\n\n#The_ReVe_Festival_2022\n#Birthday #벌스데이\n#레드벨벳 #RedVelvet https://t.co/ldDr46qwVB"
+	},
+	{
 		"created_at": "Fri Nov 25 03:52:11 +0000 2022",
 		"id": 1595975563990245400,
 		"id_str": "1595988695726686208",
