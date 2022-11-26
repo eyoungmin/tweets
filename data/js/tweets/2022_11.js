@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sat Nov 26 13:46:31 +0000 2022",
+		"id": 1596498615920648200,
+		"id_str": "1596500650510073856",
+		"full_text": "포르쉐가 오직 한 사람만을 위한 콘셉트카를 만들어주는 프로그램에 '제니'가 선정됐다!\n#블랙핑크 #제니 #포르쉐 #BLACKPINK #JENNIE #PORSCHE #KPOP\nhttps://t.co/MKRTMk9T4M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "포르쉐",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						63,
+						73
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"text": "PORSCHE",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						91,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MKRTMk9T4M",
+					"expanded_url": "https://www.gqkorea.co.kr/2022/11/25/%EC%A0%84-%EC%84%B8%EA%B3%84-%ED%95%98%EB%82%98%EB%BF%90%EC%9D%B8-%EC%A0%9C%EB%8B%88%EA%B0%80-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%9C-%ED%8F%AC%EB%A5%B4%EC%89%90/?ddw=130398&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "gqkorea.co.kr/2022/11/25/%EC…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262470,
+			"id_str": "78262470",
+			"name": "GQ KOREA",
+			"screen_name": "GQKOREA",
+			"location": "Seoul, Korea",
+			"description": "Be a Good Man, Don't be Quiet.",
+			"url": "https://t.co/pJOMTcQb22",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pJOMTcQb22",
+							"expanded_url": "http://www.gqkorea.co.kr",
+							"display_url": "gqkorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 144033,
+			"friends_count": 0,
+			"listed_count": 219,
+			"created_at": "Tue Sep 29 09:20:13 +0000 2009",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262470/1666589234",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "포르쉐가 오직 한 사람만을 위한 콘셉트카를 만들어주는 프로그램에 '제니'가 선정됐다!\n#블랙핑크 #제니 #포르쉐 #BLACKPINK #JENNIE #PORSCHE #KPOP\nhttps://t.co/MKRTMk9T4M"
+	},
+	{
 		"created_at": "Sat Nov 26 03:53:57 +0000 2022",
 		"id": 1596337953227382800,
 		"id_str": "1596351528108818434",
