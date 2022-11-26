@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sat Nov 26 03:53:57 +0000 2022",
+		"id": 1596337953227382800,
+		"id_str": "1596351528108818434",
+		"full_text": "SHOP BLACKPINK’S [BORN PINK] PORTRAIT HOODIES IN THE U.S. STORE\n\n⁍ Receive free standard U.S. shipping on all orders over $50 from now until 11/28\n⁍ Buy from the U.S. store now: https://t.co/k8UDDjbr2J https://t.co/ZW2xfDgATZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k8UDDjbr2J",
+					"expanded_url": "https://shop.blackpinkmusic.com/",
+					"display_url": "shop.blackpinkmusic.com",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1596134715500941300,
+					"id_str": "1596134715500941312",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1596134715500941312/pu/img/pAio2ftH-bGvZIeu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1596134715500941312/pu/img/pAio2ftH-bGvZIeu.jpg",
+					"url": "https://t.co/ZW2xfDgATZ",
+					"display_url": "pic.twitter.com/ZW2xfDgATZ",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1596337953227382787/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1596134715500941300,
+					"id_str": "1596134715500941312",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1596134715500941312/pu/img/pAio2ftH-bGvZIeu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1596134715500941312/pu/img/pAio2ftH-bGvZIeu.jpg",
+					"url": "https://t.co/ZW2xfDgATZ",
+					"display_url": "pic.twitter.com/ZW2xfDgATZ",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1596337953227382787/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 13700,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1596134715500941312/pu/vid/540x540/cdN3aYioXGnBSIc8.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1596134715500941312/pu/vid/720x720/4QiHmSQVFpkf2nb0.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1596134715500941312/pu/pl/EDgya7J7Bbua-bYV.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1596134715500941312/pu/vid/320x320/5B4g9E-r5QQS7Hvp.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8056757,
+			"friends_count": 0,
+			"listed_count": 7957,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2124,
+		"favorite_count": 8981,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SHOP BLACKPINK’S [BORN PINK] PORTRAIT HOODIES IN THE U.S. STORE\n\n⁍ Receive free standard U.S. shipping on all orders over $50 from now until 11/28\n⁍ Buy from the U.S. store now: https://t.co/k8UDDjbr2J https://t.co/ZW2xfDgATZ"
+	},
+	{
 		"created_at": "Fri Nov 25 12:53:46 +0000 2022",
 		"id": 1596111456868749300,
 		"id_str": "1596124990356672513",
