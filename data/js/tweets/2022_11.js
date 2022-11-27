@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 27 03:52:36 +0000 2022",
+		"id": 1596700336839807000,
+		"id_str": "1596713576898568193",
+		"full_text": "자우림 단독 콘서트\n[ 𝕄𝔼ℝℝ𝕐 𝕊ℙ𝕆𝕆𝕂𝕐 𝕏-𝕄𝔸𝕊 ] 서울\n\n▌일시\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟫 (금) 𝟪𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟢 (토) 𝟨𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟣 (일) 𝟧𝖯𝖬\n@ 올림픽공원 𝖲𝖪핸드볼경기장\n\n📍𝗺𝗼𝗿𝗲 𝗶𝗻𝗳𝗼\nhttps://t.co/oBSo4uYyxW https://t.co/vNfYqXqh5v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oBSo4uYyxW",
+					"expanded_url": "https://url.kr/bju1y8",
+					"display_url": "url.kr/bju1y8",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1593103052482830300,
+					"id_str": "1593103052482830338",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FhvWyR3UYAI76tt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhvWyR3UYAI76tt.jpg",
+					"url": "https://t.co/vNfYqXqh5v",
+					"display_url": "pic.twitter.com/vNfYqXqh5v",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1596700336839806976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1191,
+							"h": 1485,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1593103052482830300,
+					"id_str": "1593103052482830338",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FhvWyR3UYAI76tt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhvWyR3UYAI76tt.jpg",
+					"url": "https://t.co/vNfYqXqh5v",
+					"display_url": "pic.twitter.com/vNfYqXqh5v",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1596700336839806976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1191,
+							"h": 1485,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "▼ 𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌 ㅣ𝖬𝖣 온라인 판매",
+			"url": "https://t.co/uKDsnIJttC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uKDsnIJttC",
+							"expanded_url": "https://bit.ly/3BkgXhN",
+							"display_url": "bit.ly/3BkgXhN",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4517,
+			"friends_count": 5,
+			"listed_count": 30,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1546734155525869568/z7QclmtR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1546734155525869568/z7QclmtR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1657605145",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자우림 단독 콘서트\n[ 𝕄𝔼ℝℝ𝕐 𝕊ℙ𝕆𝕆𝕂𝕐 𝕏-𝕄𝔸𝕊 ] 서울\n\n▌일시\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟫 (금) 𝟪𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟢 (토) 𝟨𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟣 (일) 𝟧𝖯𝖬\n@ 올림픽공원 𝖲𝖪핸드볼경기장\n\n📍𝗺𝗼𝗿𝗲 𝗶𝗻𝗳𝗼\nhttps://t.co/oBSo4uYyxW https://t.co/vNfYqXqh5v"
+	},
+	{
 		"created_at": "Sat Nov 26 13:46:31 +0000 2022",
 		"id": 1596498615920648200,
 		"id_str": "1596500650510073856",
