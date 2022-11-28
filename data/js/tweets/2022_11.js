@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 28 04:10:14 +0000 2022",
+		"id": 1597065660768477200,
+		"id_str": "1597080399632429056",
+		"full_text": "‘컴백’ 레드벨벳 새 미니앨범 ‘Birthday’ 선주문량 71만장 돌파! 자체 최고 수치 기록!\n오늘 오후 5시 카운트다운 생방송-&gt;6시 음원+MV 공개!\n\nhttps://t.co/3mwOrAtRBO\n\n#The_ReVe_Festival_2022\n#Birthday #벌스데이\n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "The_ReVe_Festival_2022",
+					"indices": [
+						117,
+						140
+					]
+				},
+				{
+					"text": "Birthday",
+					"indices": [
+						141,
+						150
+					]
+				},
+				{
+					"text": "벌스데이",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						163,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3mwOrAtRBO",
+					"expanded_url": "http://bit.ly/3VvlgxD",
+					"display_url": "bit.ly/3VvlgxD",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5759900,
+			"friends_count": 2,
+			"listed_count": 11528,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2671,
+		"favorite_count": 7041,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘컴백’ 레드벨벳 새 미니앨범 ‘Birthday’ 선주문량 71만장 돌파! 자체 최고 수치 기록!\n오늘 오후 5시 카운트다운 생방송-&gt;6시 음원+MV 공개!\n\nhttps://t.co/3mwOrAtRBO\n\n#The_ReVe_Festival_2022\n#Birthday #벌스데이\n#레드벨벳 #RedVelvet"
+	},
+	{
 		"created_at": "Mon Nov 28 03:26:44 +0000 2022",
 		"id": 1597058999622701000,
 		"id_str": "1597069455237881856",
