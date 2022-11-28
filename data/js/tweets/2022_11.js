@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 28 09:47:01 +0000 2022",
+		"id": 1597153324167405600,
+		"id_str": "1597165155455901696",
+		"full_text": "#제니 처럼 꾸안꾸 어때? 오버사이즈 맨투맨에 미니백으로 사랑스럽게! \n#블랙핑크 #기은세 #이청아 #BEKAH #Silva \n\nhttps://t.co/nmFJtJ9cCG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제니",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"text": "기은세",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "이청아",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "BEKAH",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "Silva",
+					"indices": [
+						63,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nmFJtJ9cCG",
+					"expanded_url": "https://www.allurekorea.com/2022/11/09/%ec%a7%91-%ec%95%9e%ec%97%90-%ec%9e%a0%ea%b9%90-%eb%82%98%ec%98%a8-%eb%93%af-%ec%85%80%eb%9f%bd%eb%93%a4%ec%9d%98-%ec%9b%90%eb%a7%88%ec%9d%bc-%ec%9b%a8%ec%96%b4%eb%a3%a9/?ddw=128494&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2022/11/09/%ec…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38192,
+			"friends_count": 1,
+			"listed_count": 302,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 463,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1668746717",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#제니 처럼 꾸안꾸 어때? 오버사이즈 맨투맨에 미니백으로 사랑스럽게! \n#블랙핑크 #기은세 #이청아 #BEKAH #Silva \n\nhttps://t.co/nmFJtJ9cCG"
+	},
+	{
 		"created_at": "Mon Nov 28 08:10:16 +0000 2022",
 		"id": 1597130672325501000,
 		"id_str": "1597140808053846016",
