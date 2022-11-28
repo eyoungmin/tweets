@@ -1,6 +1,447 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 28 03:26:44 +0000 2022",
+		"id": 1597058999622701000,
+		"id_str": "1597069455237881856",
+		"full_text": "[#NEWS] 아크웰(ACWELL), 신제품 ‘아큐리얼-나인 컨트롤 엑스 겔’ 런칭 기념 프로모션 진행\n▶ https://t.co/rQXhHHGuOB\n\n#서현 #아크웰 #SEOHYUN #Acwell https://t.co/xut4b1rSqI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "아크웰",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						94,
+						102
+					]
+				},
+				{
+					"text": "Acwell",
+					"indices": [
+						103,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rQXhHHGuOB",
+					"expanded_url": "http://bit.ly/3ihmGO2",
+					"display_url": "bit.ly/3ihmGO2",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1597058975719379000,
+					"id_str": "1597058975719378946",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FinkrUUaUAIQApA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FinkrUUaUAIQApA.jpg",
+					"url": "https://t.co/xut4b1rSqI",
+					"display_url": "pic.twitter.com/xut4b1rSqI",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1597058999622701056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1597058975719379000,
+					"id_str": "1597058975719378946",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FinkrUUaUAIQApA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FinkrUUaUAIQApA.jpg",
+					"url": "https://t.co/xut4b1rSqI",
+					"display_url": "pic.twitter.com/xut4b1rSqI",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1597058999622701056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67875,
+			"friends_count": 15,
+			"listed_count": 287,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 193,
+		"favorite_count": 320,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 아크웰(ACWELL), 신제품 ‘아큐리얼-나인 컨트롤 엑스 겔’ 런칭 기념 프로모션 진행\n▶ https://t.co/rQXhHHGuOB\n\n#서현 #아크웰 #SEOHYUN #Acwell https://t.co/xut4b1rSqI"
+	},
+	{
+		"created_at": "Mon Nov 28 03:10:13 +0000 2022",
+		"id": 1597062976787431400,
+		"id_str": "1597065296556138497",
+		"full_text": "레드벨벳 Red Velvet 'The ReVe Festival 2022 - Birthday' Album Detail - SMini Ver. (스마트앨범)\n\n#The_ReVe_Festival_2022\n#Birthday #벌스데이\n#레드벨벳 #RedVelvet\n\nhttps://t.co/7mg2oXABZk https://t.co/ai6Tg7q9Nt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "The_ReVe_Festival_2022",
+					"indices": [
+						87,
+						110
+					]
+				},
+				{
+					"text": "Birthday",
+					"indices": [
+						111,
+						120
+					]
+				},
+				{
+					"text": "벌스데이",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						133,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7mg2oXABZk",
+					"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+					"display_url": "RedVelvet.lnk.to/Birthday",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1597024622121099300,
+					"id_str": "1597024622121099265",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FinFbrMUoAEmxFm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FinFbrMUoAEmxFm.jpg",
+					"url": "https://t.co/ai6Tg7q9Nt",
+					"display_url": "pic.twitter.com/ai6Tg7q9Nt",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1597062976787431425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1597024622121099300,
+					"id_str": "1597024622121099265",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FinFbrMUoAEmxFm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FinFbrMUoAEmxFm.jpg",
+					"url": "https://t.co/ai6Tg7q9Nt",
+					"display_url": "pic.twitter.com/ai6Tg7q9Nt",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1597062976787431425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5759724,
+			"friends_count": 2,
+			"listed_count": 11532,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7555,
+		"favorite_count": 15824,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳 Red Velvet 'The ReVe Festival 2022 - Birthday' Album Detail - SMini Ver. (스마트앨범)\n\n#The_ReVe_Festival_2022\n#Birthday #벌스데이\n#레드벨벳 #RedVelvet\n\nhttps://t.co/7mg2oXABZk https://t.co/ai6Tg7q9Nt"
+	},
+	{
 		"created_at": "Sun Nov 27 09:46:43 +0000 2022",
 		"id": 1596790939875389400,
 		"id_str": "1596802692508049409",
