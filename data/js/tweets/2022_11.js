@@ -1,6 +1,705 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 28 08:10:16 +0000 2022",
+		"id": 1597130672325501000,
+		"id_str": "1597140808053846016",
+		"full_text": "Red Velvet 레드벨벳 ‘The ReVe Festival 2022 – Birthday’ Countdown Live\n\n🎉 2022.11.28 5PM (KST)\n\n➫ https://t.co/zBnAz3NQfK\n➫ https://t.co/LXxpMBdAPa\n\n#The_ReVe_Festival_2022\n#Birthday #벌스데이\n#레드벨벳 #RedVelvet https://t.co/We1Om4x1es",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "The_ReVe_Festival_2022",
+					"indices": [
+						145,
+						168
+					]
+				},
+				{
+					"text": "Birthday",
+					"indices": [
+						169,
+						178
+					]
+				},
+				{
+					"text": "벌스데이",
+					"indices": [
+						179,
+						184
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						185,
+						190
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						191,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zBnAz3NQfK",
+					"expanded_url": "https://youtu.be/0AxjuRXFTKs",
+					"display_url": "youtu.be/0AxjuRXFTKs",
+					"indices": [
+						94,
+						117
+					]
+				},
+				{
+					"url": "https://t.co/LXxpMBdAPa",
+					"expanded_url": "https://www.tiktok.com/@redvelvet_smtown",
+					"display_url": "tiktok.com/@redvelvet_smt…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1595350150075285500,
+					"id_str": "1595350150075285506",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FiPSgkuagAI3_Ce.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiPSgkuagAI3_Ce.jpg",
+					"url": "https://t.co/We1Om4x1es",
+					"display_url": "pic.twitter.com/We1Om4x1es",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1597130672325500932/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1595350150075285500,
+					"id_str": "1595350150075285506",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FiPSgkuagAI3_Ce.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiPSgkuagAI3_Ce.jpg",
+					"url": "https://t.co/We1Om4x1es",
+					"display_url": "pic.twitter.com/We1Om4x1es",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1597130672325500932/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5760656,
+			"friends_count": 2,
+			"listed_count": 11534,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3081,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5809,
+		"favorite_count": 11998,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet 레드벨벳 ‘The ReVe Festival 2022 – Birthday’ Countdown Live\n\n🎉 2022.11.28 5PM (KST)\n\n➫ https://t.co/zBnAz3NQfK\n➫ https://t.co/LXxpMBdAPa\n\n#The_ReVe_Festival_2022\n#Birthday #벌스데이\n#레드벨벳 #RedVelvet https://t.co/We1Om4x1es"
+	},
+	{
+		"created_at": "Mon Nov 28 08:07:10 +0000 2022",
+		"id": 1597138254330880000,
+		"id_str": "1597140027938459648",
+		"full_text": "https://t.co/VhYIvuJ1vx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1597096999081283600,
+					"id_str": "1597096999081283585",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FioHQkYVEAEvGdN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FioHQkYVEAEvGdN.jpg",
+					"url": "https://t.co/VhYIvuJ1vx",
+					"display_url": "pic.twitter.com/VhYIvuJ1vx",
+					"expanded_url": "https://twitter.com/edam_ent/status/1597138254330880000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1597096999081283600,
+					"id_str": "1597096999081283585",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FioHQkYVEAEvGdN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FioHQkYVEAEvGdN.jpg",
+					"url": "https://t.co/VhYIvuJ1vx",
+					"display_url": "pic.twitter.com/VhYIvuJ1vx",
+					"expanded_url": "https://twitter.com/edam_ent/status/1597138254330880000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1597097028672139300,
+					"id_str": "1597097028672139265",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FioHSSnVsAEy0cd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FioHSSnVsAEy0cd.jpg",
+					"url": "https://t.co/VhYIvuJ1vx",
+					"display_url": "pic.twitter.com/VhYIvuJ1vx",
+					"expanded_url": "https://twitter.com/edam_ent/status/1597138254330880000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1597138242255540200,
+		"in_reply_to_status_id_str": "1597138242255540226",
+		"in_reply_to_user_id": 1214016219889553400,
+		"in_reply_to_user_id_str": "1214016219889553409",
+		"in_reply_to_screen_name": "edam_ent",
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77523,
+			"friends_count": 3,
+			"listed_count": 266,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 246,
+		"favorite_count": 1193,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/VhYIvuJ1vx"
+	},
+	{
+		"created_at": "Mon Nov 28 08:07:10 +0000 2022",
+		"id": 1597138242255540200,
+		"id_str": "1597140026462126080",
+		"full_text": "UAENA 5th &lt;5소리&gt; MD\n예약 판매 안내\n\n유애나 5기를 위해🎁\n아이유가 직접 그린 &lt;5소리&gt;🦡\nEDAM 공식 온라인 쇼핑몰에서\n만나보아요👋\n\n📍 오픈 : 2022.11.29(화) 2PM (KST)\n📍 https://t.co/0mD3GGMwDL\n\n#아이유 #IU\n#5소리 #유애나 https://t.co/NqcPiIIZnE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "5소리",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "유애나",
+					"indices": [
+						169,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0mD3GGMwDL",
+					"expanded_url": "http://madeedam.com/",
+					"display_url": "madeedam.com",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1597096894206877700,
+					"id_str": "1597096894206877696",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FioHKdsUoAAvZPy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FioHKdsUoAAvZPy.jpg",
+					"url": "https://t.co/NqcPiIIZnE",
+					"display_url": "pic.twitter.com/NqcPiIIZnE",
+					"expanded_url": "https://twitter.com/edam_ent/status/1597138242255540226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1597096894206877700,
+					"id_str": "1597096894206877696",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FioHKdsUoAAvZPy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FioHKdsUoAAvZPy.jpg",
+					"url": "https://t.co/NqcPiIIZnE",
+					"display_url": "pic.twitter.com/NqcPiIIZnE",
+					"expanded_url": "https://twitter.com/edam_ent/status/1597138242255540226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1597096941166334000,
+					"id_str": "1597096941166333953",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FioHNMoVEAErMG3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FioHNMoVEAErMG3.jpg",
+					"url": "https://t.co/NqcPiIIZnE",
+					"display_url": "pic.twitter.com/NqcPiIIZnE",
+					"expanded_url": "https://twitter.com/edam_ent/status/1597138242255540226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1597096964646047700,
+					"id_str": "1597096964646047744",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FioHOkGVEAAJknz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FioHOkGVEAAJknz.jpg",
+					"url": "https://t.co/NqcPiIIZnE",
+					"display_url": "pic.twitter.com/NqcPiIIZnE",
+					"expanded_url": "https://twitter.com/edam_ent/status/1597138242255540226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77523,
+			"friends_count": 3,
+			"listed_count": 266,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1024,
+		"favorite_count": 2204,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "UAENA 5th &lt;5소리&gt; MD\n예약 판매 안내\n\n유애나 5기를 위해🎁\n아이유가 직접 그린 &lt;5소리&gt;🦡\nEDAM 공식 온라인 쇼핑몰에서\n만나보아요👋\n\n📍 오픈 : 2022.11.29(화) 2PM (KST)\n📍 https://t.co/0mD3GGMwDL\n\n#아이유 #IU\n#5소리 #유애나 https://t.co/NqcPiIIZnE"
+	},
+	{
 		"created_at": "Mon Nov 28 07:16:58 +0000 2022",
 		"id": 1597127249236750300,
 		"id_str": "1597127395634335747",
