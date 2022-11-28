@@ -1,6 +1,401 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 28 10:10:17 +0000 2022",
+		"id": 1597166066631069700,
+		"id_str": "1597171010469445633",
+		"full_text": "Red Velvet 'The ReVe Festival 2022 - Birthday' is out now! \n\nGet your Digital Booklet &amp; check out Red Velvet's exclusive hand-written Q&amp;A, only available on iTunes! \n\n➫ https://t.co/Eh1qwI9Ikj\n\n#The_ReVe_Festival_2022 \n#Birthday #벌스데이 \n#레드벨벳 #RedVelvet https://t.co/xqnejsrjEv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "The_ReVe_Festival_2022",
+					"indices": [
+						202,
+						225
+					]
+				},
+				{
+					"text": "Birthday",
+					"indices": [
+						227,
+						236
+					]
+				},
+				{
+					"text": "벌스데이",
+					"indices": [
+						237,
+						242
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						244,
+						249
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						250,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Eh1qwI9Ikj",
+					"expanded_url": "https://RedVelvet.lnk.to/Birthday/iTunes",
+					"display_url": "RedVelvet.lnk.to/Birthday/iTunes",
+					"indices": [
+						177,
+						200
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1597165778029097000,
+					"id_str": "1597165778029096960",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1597165778029096960/pu/img/6tXWzc4hFRawgsrZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1597165778029096960/pu/img/6tXWzc4hFRawgsrZ.jpg",
+					"url": "https://t.co/xqnejsrjEv",
+					"display_url": "pic.twitter.com/xqnejsrjEv",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1597166066631069697/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 743,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1744,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1597165778029097000,
+					"id_str": "1597165778029096960",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1597165778029096960/pu/img/6tXWzc4hFRawgsrZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1597165778029096960/pu/img/6tXWzc4hFRawgsrZ.jpg",
+					"url": "https://t.co/xqnejsrjEv",
+					"display_url": "pic.twitter.com/xqnejsrjEv",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1597166066631069697/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 743,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1744,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							218,
+							135
+						],
+						"duration_millis": 23423,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1597165778029096960/pu/vid/1162x720/qLoPQAscSYSsDAGO.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1597165778029096960/pu/pl/J0Txrq-kyrHtEra7.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1597165778029096960/pu/vid/436x270/5sS_QzR61F0pNBQW.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1597165778029096960/pu/vid/580x360/k0l9YnsxKFHYGWOI.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5760809,
+			"friends_count": 2,
+			"listed_count": 11544,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3231,
+		"favorite_count": 8283,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet 'The ReVe Festival 2022 - Birthday' is out now! \n\nGet your Digital Booklet &amp; check out Red Velvet's exclusive hand-written Q&amp;A, only available on iTunes! \n\n➫ https://t.co/Eh1qwI9Ikj\n\n#The_ReVe_Festival_2022 \n#Birthday #벌스데이 \n#레드벨벳 #RedVelvet https://t.co/xqnejsrjEv"
+	},
+	{
+		"created_at": "Mon Nov 28 10:10:17 +0000 2022",
+		"id": 1597164874697560000,
+		"id_str": "1597171010305871873",
+		"full_text": "계속되는 음악 축제! 레드벨벳 'Birthday' 파티에 놀러 올래?\n\nhttps://t.co/coj5EMBhA7\n\n#The_ReVe_Festival_2022\n#Birthday #벌스데이\n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "The_ReVe_Festival_2022",
+					"indices": [
+						65,
+						88
+					]
+				},
+				{
+					"text": "Birthday",
+					"indices": [
+						89,
+						98
+					]
+				},
+				{
+					"text": "벌스데이",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						111,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/coj5EMBhA7",
+					"expanded_url": "https://naver.me/xw9DcwZC",
+					"display_url": "naver.me/xw9DcwZC",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5760809,
+			"friends_count": 2,
+			"listed_count": 11544,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2120,
+		"favorite_count": 5493,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "계속되는 음악 축제! 레드벨벳 'Birthday' 파티에 놀러 올래?\n\nhttps://t.co/coj5EMBhA7\n\n#The_ReVe_Festival_2022\n#Birthday #벌스데이\n#레드벨벳 #RedVelvet"
+	},
+	{
 		"created_at": "Mon Nov 28 09:47:01 +0000 2022",
 		"id": 1597153324167405600,
 		"id_str": "1597165155455901696",
