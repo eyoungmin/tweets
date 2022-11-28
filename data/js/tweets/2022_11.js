@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 28 07:16:58 +0000 2022",
+		"id": 1597127249236750300,
+		"id_str": "1597127395634335747",
+		"full_text": "동방신기 유노윤호 X 레드벨벳 🎂 레드벨벳 'The ReVe Festival 2022 - Birthday’ 오늘 6시 발매!   \n\nTVXQ! U-Know X Red Velvet 🎂 Red Velvet to release ‘#The_ReVe_Festival_2022 - Birthday' today at 6PM KST!\n\n#Birthday #벌스데이 \n#레드벨벳 #RedVelvet\n#TVXQ! #UKnow #동방신기 #유노윤호 https://t.co/WkdDGv5rW5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "The_ReVe_Festival_2022",
+					"indices": [
+						125,
+						148
+					]
+				},
+				{
+					"text": "Birthday",
+					"indices": [
+						180,
+						189
+					]
+				},
+				{
+					"text": "벌스데이",
+					"indices": [
+						190,
+						195
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						197,
+						202
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						203,
+						213
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						214,
+						219
+					]
+				},
+				{
+					"text": "UKnow",
+					"indices": [
+						221,
+						227
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						228,
+						233
+					]
+				},
+				{
+					"text": "유노윤호",
+					"indices": [
+						234,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1597127241808298000,
+					"id_str": "1597127241808297985",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/Fioiw7UVQAED-2e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fioiw7UVQAED-2e.jpg",
+					"url": "https://t.co/WkdDGv5rW5",
+					"display_url": "pic.twitter.com/WkdDGv5rW5",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1597127249236750336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1666,
+							"h": 1110,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1597127241808298000,
+					"id_str": "1597127241808297985",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/Fioiw7UVQAED-2e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fioiw7UVQAED-2e.jpg",
+					"url": "https://t.co/WkdDGv5rW5",
+					"display_url": "pic.twitter.com/WkdDGv5rW5",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1597127249236750336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1666,
+							"h": 1110,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11297007,
+			"friends_count": 55,
+			"listed_count": 12745,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2914,
+		"favorite_count": 5956,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "동방신기 유노윤호 X 레드벨벳 🎂 레드벨벳 'The ReVe Festival 2022 - Birthday’ 오늘 6시 발매!   \n\nTVXQ! U-Know X Red Velvet 🎂 Red Velvet to release ‘#The_ReVe_Festival_2022 - Birthday' today at 6PM KST!\n\n#Birthday #벌스데이 \n#레드벨벳 #RedVelvet\n#TVXQ! #UKnow #동방신기 #유노윤호 https://t.co/WkdDGv5rW5"
+	},
+	{
 		"created_at": "Mon Nov 28 05:07:08 +0000 2022",
 		"id": 1597093112543076400,
 		"id_str": "1597094720928243712",
