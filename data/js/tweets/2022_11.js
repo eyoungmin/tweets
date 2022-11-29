@@ -1,6 +1,632 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 29 09:53:04 +0000 2022",
+		"id": 1597515718399967200,
+		"id_str": "1597529067330318337",
+		"full_text": "𝗔𝗹𝗯𝘂𝗺 𝗧𝗲𝗮𝘀𝗲𝗿 #𝟭\n【 𝗠𝗘𝗥𝗥𝗬 𝗦𝗣𝗢𝗢𝗞𝗬 𝗫-𝗠𝗔𝗦 】\n\n🎁 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗔𝗹𝗯𝘂𝗺\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟭 𝗧𝗵𝘂 𝟲𝗽𝗺 𝗥𝗘𝗟𝗘𝗔𝗦𝗘\n\n🎁 𝗖𝗼𝗻𝗰𝗲𝗿𝘁\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟵-𝟭𝟭 / 𝗦𝗲𝗼𝘂𝗹\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟯𝟬-𝟯𝟭 / 𝗕𝘂𝘀𝗮𝗻\n𝟮𝟬𝟮𝟯. 𝟭. 𝟳 / 𝗚𝘄𝗮𝗻𝗴𝗷𝘂 https://t.co/dmFicJm1lx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1597483993074569200,
+					"id_str": "1597483993074569217",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1597483993074569217/pu/img/Pm8aP-jyiSQKOH3g.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1597483993074569217/pu/img/Pm8aP-jyiSQKOH3g.jpg",
+					"url": "https://t.co/dmFicJm1lx",
+					"display_url": "pic.twitter.com/dmFicJm1lx",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1597515718399967234/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1597483993074569200,
+					"id_str": "1597483993074569217",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1597483993074569217/pu/img/Pm8aP-jyiSQKOH3g.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1597483993074569217/pu/img/Pm8aP-jyiSQKOH3g.jpg",
+					"url": "https://t.co/dmFicJm1lx",
+					"display_url": "pic.twitter.com/dmFicJm1lx",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1597515718399967234/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 16083,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1597483993074569217/pu/vid/480x270/_0CENGlpzrVGCydl.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1597483993074569217/pu/pl/nL8hWaANkptNNQzm.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1597483993074569217/pu/vid/640x360/56i6Di_PJiGQQpD_.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1597483993074569217/pu/vid/1280x720/F0TIovzJWR7gQB1s.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "▼ 𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌 ㅣ𝖬𝖣 온라인 판매",
+			"url": "https://t.co/uKDsnIJttC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uKDsnIJttC",
+							"expanded_url": "https://bit.ly/3BkgXhN",
+							"display_url": "bit.ly/3BkgXhN",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4523,
+			"friends_count": 5,
+			"listed_count": 30,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1546734155525869568/z7QclmtR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1546734155525869568/z7QclmtR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1657605145",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "𝗔𝗹𝗯𝘂𝗺 𝗧𝗲𝗮𝘀𝗲𝗿 #𝟭\n【 𝗠𝗘𝗥𝗥𝗬 𝗦𝗣𝗢𝗢𝗞𝗬 𝗫-𝗠𝗔𝗦 】\n\n🎁 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗔𝗹𝗯𝘂𝗺\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟭 𝗧𝗵𝘂 𝟲𝗽𝗺 𝗥𝗘𝗟𝗘𝗔𝗦𝗘\n\n🎁 𝗖𝗼𝗻𝗰𝗲𝗿𝘁\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟵-𝟭𝟭 / 𝗦𝗲𝗼𝘂𝗹\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟯𝟬-𝟯𝟭 / 𝗕𝘂𝘀𝗮𝗻\n𝟮𝟬𝟮𝟯. 𝟭. 𝟳 / 𝗚𝘄𝗮𝗻𝗴𝗷𝘂 https://t.co/dmFicJm1lx"
+	},
+	{
+		"created_at": "Tue Nov 29 09:22:58 +0000 2022",
+		"id": 1597517911446679600,
+		"id_str": "1597521489216950274",
+		"full_text": "카라 ‘MOVE AGAIN’ Released!!\n💕 https://t.co/4fROSFkV0L https://t.co/osjG69Anv9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4fROSFkV0L",
+					"expanded_url": "https://www.instagram.com/p/CligtspuCDj/?igshid=YTY2NzY3YTc=",
+					"display_url": "instagram.com/p/CligtspuCDj/…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1597517904634781700,
+					"id_str": "1597517904634781697",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/FiuGEfwVIAEP2vN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiuGEfwVIAEP2vN.jpg",
+					"url": "https://t.co/osjG69Anv9",
+					"display_url": "pic.twitter.com/osjG69Anv9",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1597517911446679552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1597517904634781700,
+					"id_str": "1597517904634781697",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/FiuGEfwVIAEP2vN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiuGEfwVIAEP2vN.jpg",
+					"url": "https://t.co/osjG69Anv9",
+					"display_url": "pic.twitter.com/osjG69Anv9",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1597517911446679552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/RrGBgJa7Lc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RrGBgJa7Lc",
+							"expanded_url": "https://www.monotreemusic.com",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7406,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "카라 ‘MOVE AGAIN’ Released!!\n💕 https://t.co/4fROSFkV0L https://t.co/osjG69Anv9"
+	},
+	{
+		"created_at": "Tue Nov 29 09:10:38 +0000 2022",
+		"id": 1597516431322935300,
+		"id_str": "1597518386627366912",
+		"full_text": "🎁 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗔𝗹𝗯𝘂𝗺\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟭 𝗧𝗵𝘂 𝟲𝗽𝗺 𝗥𝗘𝗟𝗘𝗔𝗦𝗘\n\n🎁 𝗖𝗼𝗻𝗰𝗲𝗿𝘁\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟵-𝟭𝟭 / 𝗦𝗲𝗼𝘂𝗹\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟯𝟬-𝟯𝟭 / 𝗕𝘂𝘀𝗮𝗻\n𝟮𝟬𝟮𝟯. 𝟭. 𝟳 / 𝗚𝘄𝗮𝗻𝗴𝗷𝘂\n\n#자우림 #Jaurim #紫雨林\n#MERRY_SPOOKY_XMAS https://t.co/GYccp3PGSY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "Jaurim",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"text": "紫雨林",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "MERRY_SPOOKY_XMAS",
+					"indices": [
+						142,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1597516383109013500,
+					"id_str": "1597516383109013504",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1597516383109013504/pu/img/SuU8IG1awHHTA0az.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1597516383109013504/pu/img/SuU8IG1awHHTA0az.jpg",
+					"url": "https://t.co/GYccp3PGSY",
+					"display_url": "pic.twitter.com/GYccp3PGSY",
+					"expanded_url": "https://twitter.com/love_yuna/status/1597516431322935297/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1597516383109013500,
+					"id_str": "1597516383109013504",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1597516383109013504/pu/img/SuU8IG1awHHTA0az.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1597516383109013504/pu/img/SuU8IG1awHHTA0az.jpg",
+					"url": "https://t.co/GYccp3PGSY",
+					"display_url": "pic.twitter.com/GYccp3PGSY",
+					"expanded_url": "https://twitter.com/love_yuna/status/1597516431322935297/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 16125,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1597516383109013504/pu/pl/NUvcE5SLl7yGru_I.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1597516383109013504/pu/vid/1280x720/M2oJzgXJvkKvL483.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1597516383109013504/pu/vid/640x360/VAKiq4b4jc5vnNzt.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1597516383109013504/pu/vid/480x270/Bp5CgQ7qsSm_N6cS.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275642,
+			"friends_count": 603,
+			"listed_count": 2728,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 480,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1587350693115199488/WeM4899U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587350693115199488/WeM4899U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1667288883",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 179,
+		"favorite_count": 115,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎁 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗔𝗹𝗯𝘂𝗺\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟭 𝗧𝗵𝘂 𝟲𝗽𝗺 𝗥𝗘𝗟𝗘𝗔𝗦𝗘\n\n🎁 𝗖𝗼𝗻𝗰𝗲𝗿𝘁\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟵-𝟭𝟭 / 𝗦𝗲𝗼𝘂𝗹\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟯𝟬-𝟯𝟭 / 𝗕𝘂𝘀𝗮𝗻\n𝟮𝟬𝟮𝟯. 𝟭. 𝟳 / 𝗚𝘄𝗮𝗻𝗴𝗷𝘂\n\n#자우림 #Jaurim #紫雨林\n#MERRY_SPOOKY_XMAS https://t.co/GYccp3PGSY"
+	},
+	{
 		"created_at": "Tue Nov 29 06:53:03 +0000 2022",
 		"id": 1597475819815043000,
 		"id_str": "1597483761934794753",
