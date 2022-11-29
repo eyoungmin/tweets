@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 29 13:22:59 +0000 2022",
+		"id": 1597578947122069500,
+		"id_str": "1597581893481820161",
+		"full_text": "@yazpleaze Thanks a lot :)) we are so sad we were only able to play five songs out of the 12 songs we prepared. we are waiting for our chance to go back to Indonesia to give the fans what they deserve. We will go back to play a full set, we love you guys ❤️ ty coming to see us in conditions",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			291
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yazpleaze",
+					"name": "🦔",
+					"id": 1009841573700366300,
+					"id_str": "1009841573700366336",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1597455682441478100,
+		"in_reply_to_status_id_str": "1597455682441478144",
+		"in_reply_to_user_id": 1009841573700366300,
+		"in_reply_to_user_id_str": "1009841573700366336",
+		"in_reply_to_screen_name": "yazpleaze",
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/6Dss1BKxuA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6Dss1BKxuA",
+							"expanded_url": "https://m.ticket.melon.com/public/index.html#performance.index?prodId=206862",
+							"display_url": "m.ticket.melon.com/public/index.h…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5273,
+			"friends_count": 482,
+			"listed_count": 0,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 230,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1625820897",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@yazpleaze Thanks a lot :)) we are so sad we were only able to play five songs out of the 12 songs we prepared. we are waiting for our chance to go back to Indonesia to give the fans what they deserve. We will go back to play a full set, we love you guys ❤️ ty coming to see us in conditions"
+	},
+	{
 		"created_at": "Tue Nov 29 12:10:29 +0000 2022",
 		"id": 1597550505999622100,
 		"id_str": "1597563647928123392",
