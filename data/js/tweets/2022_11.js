@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 29 04:10:27 +0000 2022",
+		"id": 1597438468019613700,
+		"id_str": "1597442841428402176",
+		"full_text": "레드벨벳 파워! 새 미니앨범 ‘Birthday’ 아이튠즈 톱 앨범 차트 44개 지역 1위!\n국내 음원+음반 차트 1위!\n\nhttps://t.co/DRuq0vqiUp\n\n#The_ReVe_Festival_2022 \n#Birthday #벌스데이 \n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "The_ReVe_Festival_2022",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"text": "Birthday",
+					"indices": [
+						118,
+						127
+					]
+				},
+				{
+					"text": "벌스데이",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						141,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DRuq0vqiUp",
+					"expanded_url": "http://bit.ly/3ELAWGn",
+					"display_url": "bit.ly/3ELAWGn",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5762853,
+			"friends_count": 2,
+			"listed_count": 11533,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3099,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1470,
+		"favorite_count": 4403,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳 파워! 새 미니앨범 ‘Birthday’ 아이튠즈 톱 앨범 차트 44개 지역 1위!\n국내 음원+음반 차트 1위!\n\nhttps://t.co/DRuq0vqiUp\n\n#The_ReVe_Festival_2022 \n#Birthday #벌스데이 \n#레드벨벳 #RedVelvet"
+	},
+	{
 		"created_at": "Tue Nov 29 03:53:01 +0000 2022",
 		"id": 1597425116165578800,
 		"id_str": "1597438456476467201",
