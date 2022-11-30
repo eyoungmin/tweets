@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Wed Nov 30 09:53:18 +0000 2022",
+		"id": 1597878104986263600,
+		"id_str": "1597891512502657024",
+		"full_text": "𝗔𝗹𝗯𝘂𝗺 𝗧𝗲𝗮𝘀𝗲𝗿 #𝟮\n【 𝗠𝗘𝗥𝗥𝗬 𝗦𝗣𝗢𝗢𝗞𝗬 𝗫-𝗠𝗔𝗦 】\n\n🎁 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗔𝗹𝗯𝘂𝗺\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟭 𝗧𝗵𝘂 𝟲𝗽𝗺 𝗥𝗘𝗟𝗘𝗔𝗦𝗘\n\n🎁 𝗖𝗼𝗻𝗰𝗲𝗿𝘁\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟵-𝟭𝟭 / 𝗦𝗲𝗼𝘂𝗹\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟯𝟬-𝟯𝟭 / 𝗕𝘂𝘀𝗮𝗻\n𝟮𝟬𝟮𝟯. 𝟭. 𝟳 / 𝗚𝘄𝗮𝗻𝗴𝗷𝘂 https://t.co/dcp3yZJ3cN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1597792264905859000,
+					"id_str": "1597792264905859072",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1597792264905859072/pu/img/plzlbeXiDXFwmKX8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1597792264905859072/pu/img/plzlbeXiDXFwmKX8.jpg",
+					"url": "https://t.co/dcp3yZJ3cN",
+					"display_url": "pic.twitter.com/dcp3yZJ3cN",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1597878104986263552/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 633,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1597792264905859000,
+					"id_str": "1597792264905859072",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1597792264905859072/pu/img/plzlbeXiDXFwmKX8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1597792264905859072/pu/img/plzlbeXiDXFwmKX8.jpg",
+					"url": "https://t.co/dcp3yZJ3cN",
+					"display_url": "pic.twitter.com/dcp3yZJ3cN",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1597878104986263552/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 633,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							683,
+							360
+						],
+						"duration_millis": 23210,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1597792264905859072/pu/pl/5ptJz7vC3drWFN1y.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1597792264905859072/pu/vid/1366x720/eSgFt4q2A0zrEmtl.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1597792264905859072/pu/vid/682x360/IS_GnMsw_wBYl5ky.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1597792264905859072/pu/vid/512x270/DihXL40awglqGCZF.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "▼ 𝙅𝗔𝗨𝗥𝗜𝗠 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗔𝗹𝗯𝘂𝗺 【 𝗠𝗘𝗥𝗥𝗬 𝗦𝗣𝗢𝗢𝗞𝗬 𝗫-𝗠𝗔𝗦 】 예약 판매 오픈",
+			"url": "https://t.co/ALtoOX8MmM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ALtoOX8MmM",
+							"expanded_url": "http://inpk.kr/sexB",
+							"display_url": "inpk.kr/sexB",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4535,
+			"friends_count": 5,
+			"listed_count": 30,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1669787144",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "𝗔𝗹𝗯𝘂𝗺 𝗧𝗲𝗮𝘀𝗲𝗿 #𝟮\n【 𝗠𝗘𝗥𝗥𝗬 𝗦𝗣𝗢𝗢𝗞𝗬 𝗫-𝗠𝗔𝗦 】\n\n🎁 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗔𝗹𝗯𝘂𝗺\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟭 𝗧𝗵𝘂 𝟲𝗽𝗺 𝗥𝗘𝗟𝗘𝗔𝗦𝗘\n\n🎁 𝗖𝗼𝗻𝗰𝗲𝗿𝘁\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟵-𝟭𝟭 / 𝗦𝗲𝗼𝘂𝗹\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟯𝟬-𝟯𝟭 / 𝗕𝘂𝘀𝗮𝗻\n𝟮𝟬𝟮𝟯. 𝟭. 𝟳 / 𝗚𝘄𝗮𝗻𝗴𝗷𝘂 https://t.co/dcp3yZJ3cN"
+	},
+	{
 		"created_at": "Wed Nov 30 06:10:38 +0000 2022",
 		"id": 1597822589841600500,
 		"id_str": "1597835476609552384",
