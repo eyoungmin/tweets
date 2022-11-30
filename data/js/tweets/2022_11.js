@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Wed Nov 30 06:10:38 +0000 2022",
+		"id": 1597822589841600500,
+		"id_str": "1597835476609552384",
+		"full_text": "Hear our song #Birthday on the @AppleMusic Chart Show with @BrookeReese\n\nCheck it out: https://t.co/r3alsLoJBa\n\n2022.11.30 6AM PT | 11PM KST\n2022.11.30 3PM PT | 12.01 8AM KST (Encore)\n\n#The_ReVe_Festival_2022  \n#Birthday #벌스데이  \n#레드벨벳 #RedVelvet https://t.co/ImBrAIoiKm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Birthday",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"text": "The_ReVe_Festival_2022",
+					"indices": [
+						185,
+						208
+					]
+				},
+				{
+					"text": "Birthday",
+					"indices": [
+						211,
+						220
+					]
+				},
+				{
+					"text": "벌스데이",
+					"indices": [
+						221,
+						226
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						229,
+						234
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						235,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						31,
+						42
+					]
+				},
+				{
+					"screen_name": "BrookeReese",
+					"name": "Brooke Reese",
+					"id": 201547358,
+					"id_str": "201547358",
+					"indices": [
+						59,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/r3alsLoJBa",
+					"expanded_url": "http://apple.co/Chart",
+					"display_url": "apple.co/Chart",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1597822586766753800,
+					"id_str": "1597822586766753794",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/FiybLVJUAAI3bNy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiybLVJUAAI3bNy.jpg",
+					"url": "https://t.co/ImBrAIoiKm",
+					"display_url": "pic.twitter.com/ImBrAIoiKm",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1597822589841600512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1597822586766753800,
+					"id_str": "1597822586766753794",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/FiybLVJUAAI3bNy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiybLVJUAAI3bNy.jpg",
+					"url": "https://t.co/ImBrAIoiKm",
+					"display_url": "pic.twitter.com/ImBrAIoiKm",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1597822589841600512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5764546,
+			"friends_count": 2,
+			"listed_count": 11531,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1737,
+		"favorite_count": 5700,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hear our song #Birthday on the @AppleMusic Chart Show with @BrookeReese\n\nCheck it out: https://t.co/r3alsLoJBa\n\n2022.11.30 6AM PT | 11PM KST\n2022.11.30 3PM PT | 12.01 8AM KST (Encore)\n\n#The_ReVe_Festival_2022  \n#Birthday #벌스데이  \n#레드벨벳 #RedVelvet https://t.co/ImBrAIoiKm"
+	},
+	{
 		"created_at": "Wed Nov 30 05:55:33 +0000 2022",
 		"id": 1597817702088933400,
 		"id_str": "1597831679262924800",
