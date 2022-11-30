@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Wed Nov 30 12:47:32 +0000 2022",
+		"id": 1597923409618419700,
+		"id_str": "1597935358418702336",
+		"full_text": "혹시 바지나 치마를 깜빡한 건 아니죠...? 온라인을 뜨겁게 달군 #켄달 의 하의 실종 패션! #KendallJenner\n@ygofficialblink #블랙핑크 #제니 #지수 @JYPETWICE #트와이스 #나연 @NewJeans_ADOR  #뉴진스 #민지 @konnect_YUJU #유주 \nhttps://t.co/n9v9uKgUYY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "켄달",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "KendallJenner",
+					"indices": [
+						53,
+						67
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "나연",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "민지",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "유주",
+					"indices": [
+						159,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						68,
+						84
+					]
+				},
+				{
+					"screen_name": "JYPETWICE",
+					"name": "TWICE",
+					"id": 3129056526,
+					"id_str": "3129056526",
+					"indices": [
+						99,
+						109
+					]
+				},
+				{
+					"screen_name": "NewJeans_ADOR",
+					"name": "NewJeans",
+					"id": 1476476838180696000,
+					"id_str": "1476476838180696073",
+					"indices": [
+						120,
+						134
+					]
+				},
+				{
+					"screen_name": "konnect_YUJU",
+					"name": "유주 YUJU",
+					"id": 1414427396988575700,
+					"id_str": "1414427396988575745",
+					"indices": [
+						145,
+						158
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n9v9uKgUYY",
+					"expanded_url": "https://www.allurekorea.com/?p=189373&ddw=130742&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=189373&ddw=…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38185,
+			"friends_count": 1,
+			"listed_count": 302,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 470,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1668746717",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "혹시 바지나 치마를 깜빡한 건 아니죠...? 온라인을 뜨겁게 달군 #켄달 의 하의 실종 패션! #KendallJenner\n@ygofficialblink #블랙핑크 #제니 #지수 @JYPETWICE #트와이스 #나연 @NewJeans_ADOR  #뉴진스 #민지 @konnect_YUJU #유주 \nhttps://t.co/n9v9uKgUYY"
+	},
+	{
 		"created_at": "Wed Nov 30 11:10:43 +0000 2022",
 		"id": 1597908412838600700,
 		"id_str": "1597910992976871424",
