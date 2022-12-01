@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Thu Dec 01 11:10:53 +0000 2022",
+		"id": 1598270762896720000,
+		"id_str": "1598273424077377536",
+		"full_text": "Red Velvet 레드벨벳 'Birthday' MV Reaction l RV Collection\n\nhttps://t.co/x9bav7a0pH\n\n#Birthday #벌스데이 \n#MV_Reaction\n#레드벨벳 #RedVelvet https://t.co/ekv9mxP3km",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Birthday",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"text": "벌스데이",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "MV_Reaction",
+					"indices": [
+						98,
+						110
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						117,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x9bav7a0pH",
+					"expanded_url": "https://youtu.be/8faIkoJ8kXU",
+					"display_url": "youtu.be/8faIkoJ8kXU",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1598270754310660000,
+					"id_str": "1598270754310660096",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/Fi4yyHWVIAAf62B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fi4yyHWVIAAf62B.jpg",
+					"url": "https://t.co/ekv9mxP3km",
+					"display_url": "pic.twitter.com/ekv9mxP3km",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1598270762896719875/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1598270754310660000,
+					"id_str": "1598270754310660096",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/Fi4yyHWVIAAf62B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fi4yyHWVIAAf62B.jpg",
+					"url": "https://t.co/ekv9mxP3km",
+					"display_url": "pic.twitter.com/ekv9mxP3km",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1598270762896719875/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5766702,
+			"friends_count": 2,
+			"listed_count": 11539,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4817,
+		"favorite_count": 9393,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet 레드벨벳 'Birthday' MV Reaction l RV Collection\n\nhttps://t.co/x9bav7a0pH\n\n#Birthday #벌스데이 \n#MV_Reaction\n#레드벨벳 #RedVelvet https://t.co/ekv9mxP3km"
+	},
+	{
 		"created_at": "Thu Dec 01 10:11:04 +0000 2022",
 		"id": 1598246509249982500,
 		"id_str": "1598258369831219200",
