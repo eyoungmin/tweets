@@ -1,6 +1,661 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Fri Dec 02 07:55:43 +0000 2022",
+		"id": 1598586479823184000,
+		"id_str": "1598586695162568705",
+		"full_text": "한 해 동안 #블랙핑크 의 음악을 들어주신 모든 분들께 감사드립니다💗 다가오는 2023년에도 #스포티파이 와 함께 저희 음악 계속 즐겨주세요!\n\n🎶\nhttps://t.co/rhtNIkv8wv\n\n#BLACKPINK @Spotify @SpotifyKR #SpotifyWrapped #2022SpotifyWrapped",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "스포티파이",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"text": "SpotifyWrapped",
+					"indices": [
+						139,
+						154
+					]
+				},
+				{
+					"text": "2022SpotifyWrapped",
+					"indices": [
+						155,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						119,
+						127
+					]
+				},
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						128,
+						138
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rhtNIkv8wv",
+					"expanded_url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF?si=t_0WMD3pRQ2x3pxoPoGyNQ",
+					"display_url": "open.spotify.com/artist/41MozSo…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1598586092885663700,
+		"in_reply_to_status_id_str": "1598586092885663745",
+		"in_reply_to_user_id": 1273850774380884000,
+		"in_reply_to_user_id_str": "1273850774380883975",
+		"in_reply_to_screen_name": "BLACKPINK",
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8084410,
+			"friends_count": 0,
+			"listed_count": 7959,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 140,
+		"favorite_count": 531,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한 해 동안 #블랙핑크 의 음악을 들어주신 모든 분들께 감사드립니다💗 다가오는 2023년에도 #스포티파이 와 함께 저희 음악 계속 즐겨주세요!\n\n🎶\nhttps://t.co/rhtNIkv8wv\n\n#BLACKPINK @Spotify @SpotifyKR #SpotifyWrapped #2022SpotifyWrapped"
+	},
+	{
+		"created_at": "Fri Dec 02 07:55:42 +0000 2022",
+		"id": 1598586092885663700,
+		"id_str": "1598586693942067201",
+		"full_text": "A big shout-out to everyone who listened to our music this year! So grateful for #BLINKs that made 2022 such a magical year. Keep on streaming #BLACKPINK on @Spofity🖤Love you guys💗\n\n🎧https://t.co/rhtNIkcZin\n\n#블랙핑크 #스포티파이 #SpotifyWrapped #2022ArtistWrapped @SpotifyKR https://t.co/l8141gWDbv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLINKs",
+					"indices": [
+						81,
+						88
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						143,
+						153
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						208,
+						213
+					]
+				},
+				{
+					"text": "스포티파이",
+					"indices": [
+						214,
+						220
+					]
+				},
+				{
+					"text": "SpotifyWrapped",
+					"indices": [
+						221,
+						236
+					]
+				},
+				{
+					"text": "2022ArtistWrapped",
+					"indices": [
+						237,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "spofity",
+					"name": "fus",
+					"id": 212212056,
+					"id_str": "212212056",
+					"indices": [
+						157,
+						165
+					]
+				},
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						256,
+						266
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rhtNIkcZin",
+					"expanded_url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF?si=t_0WMD3pRQ2x3pxoPoGyNQ",
+					"display_url": "open.spotify.com/artist/41MozSo…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1598586003450515500,
+					"id_str": "1598586003450515458",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/Fi9RgB6UUAI9XCn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fi9RgB6UUAI9XCn.jpg",
+					"url": "https://t.co/l8141gWDbv",
+					"display_url": "pic.twitter.com/l8141gWDbv",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1598586092885663745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1598586003450515500,
+					"id_str": "1598586003450515458",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/Fi9RgB6UUAI9XCn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fi9RgB6UUAI9XCn.jpg",
+					"url": "https://t.co/l8141gWDbv",
+					"display_url": "pic.twitter.com/l8141gWDbv",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1598586092885663745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8084410,
+			"friends_count": 0,
+			"listed_count": 7959,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1921,
+		"favorite_count": 4917,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A big shout-out to everyone who listened to our music this year! So grateful for #BLINKs that made 2022 such a magical year. Keep on streaming #BLACKPINK on @Spofity🖤Love you guys💗\n\n🎧https://t.co/rhtNIkcZin\n\n#블랙핑크 #스포티파이 #SpotifyWrapped #2022ArtistWrapped @SpotifyKR https://t.co/l8141gWDbv"
+	},
+	{
+		"created_at": "Fri Dec 02 07:55:42 +0000 2022",
+		"id": 1598585866775302100,
+		"id_str": "1598586693908500481",
+		"full_text": "한 해 동안 #블랙핑크 의 음악을 들어주신 모든 분들께 감사드립니다💗 다가오는 2023년에도 #스포티파이 와 함께 저희 음악 계속 즐겨주세요!\n\n🎶\nhttps://t.co/R7gvLo5LY2\n\n#BLACKPINK @Spotify @SpotifyKR #SpotifyWrapped #2022SpotifyWrapped https://t.co/pHo2rute2p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "스포티파이",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"text": "SpotifyWrapped",
+					"indices": [
+						139,
+						154
+					]
+				},
+				{
+					"text": "2022SpotifyWrapped",
+					"indices": [
+						155,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						119,
+						127
+					]
+				},
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						128,
+						138
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/R7gvLo5LY2",
+					"expanded_url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF?si=t_0WMD3pRQ2x3pxoPoGyNQ",
+					"display_url": "open.spotify.com/artist/41MozSo…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1598585853227708400,
+					"id_str": "1598585853227708416",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/Fi9RXSSaMAAnnF5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fi9RXSSaMAAnnF5.jpg",
+					"url": "https://t.co/pHo2rute2p",
+					"display_url": "pic.twitter.com/pHo2rute2p",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1598585866775302144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1598585853227708400,
+					"id_str": "1598585853227708416",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/Fi9RXSSaMAAnnF5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fi9RXSSaMAAnnF5.jpg",
+					"url": "https://t.co/pHo2rute2p",
+					"display_url": "pic.twitter.com/pHo2rute2p",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1598585866775302144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1598585862186741800,
+		"in_reply_to_status_id_str": "1598585862186741760",
+		"in_reply_to_user_id": 878204370403250200,
+		"in_reply_to_user_id_str": "878204370403250176",
+		"in_reply_to_screen_name": "ygofficialblink",
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8736730,
+			"friends_count": 9,
+			"listed_count": 9396,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 384,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한 해 동안 #블랙핑크 의 음악을 들어주신 모든 분들께 감사드립니다💗 다가오는 2023년에도 #스포티파이 와 함께 저희 음악 계속 즐겨주세요!\n\n🎶\nhttps://t.co/R7gvLo5LY2\n\n#BLACKPINK @Spotify @SpotifyKR #SpotifyWrapped #2022SpotifyWrapped https://t.co/pHo2rute2p"
+	},
+	{
 		"created_at": "Thu Dec 01 11:10:53 +0000 2022",
 		"id": 1598270762896720000,
 		"id_str": "1598273424077377536",
