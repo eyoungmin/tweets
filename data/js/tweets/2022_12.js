@@ -1,6 +1,611 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Fri Dec 02 09:55:45 +0000 2022",
+		"id": 1598610702536962000,
+		"id_str": "1598616903911546880",
+		"full_text": "BLINKs, thank you for lighting up the O2 Arena in pink with us!💖\nWe'll be back on Sunday 2 July 2023 for London's @bsthydepark in our first ever festival headline show!💫\nTickets on sale now. See you there loves!🖤\nhttps://t.co/RiFp7w1Wao https://t.co/1pBJbQ8iS0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BSTHydePark",
+					"name": "BST Hyde Park",
+					"id": 1098785772,
+					"id_str": "1098785772",
+					"indices": [
+						114,
+						126
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RiFp7w1Wao",
+					"expanded_url": "http://bit.ly/blackpinkbst",
+					"display_url": "bit.ly/blackpinkbst",
+					"indices": [
+						213,
+						236
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1598609576927977500,
+					"id_str": "1598609576927977473",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/Fi9m8L9UYAENI3a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fi9m8L9UYAENI3a.jpg",
+					"url": "https://t.co/1pBJbQ8iS0",
+					"display_url": "pic.twitter.com/1pBJbQ8iS0",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1598610702536962049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1598609576927977500,
+					"id_str": "1598609576927977473",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/Fi9m8L9UYAENI3a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fi9m8L9UYAENI3a.jpg",
+					"url": "https://t.co/1pBJbQ8iS0",
+					"display_url": "pic.twitter.com/1pBJbQ8iS0",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1598610702536962049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8084857,
+			"friends_count": 0,
+			"listed_count": 7959,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3203,
+		"favorite_count": 9476,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLINKs, thank you for lighting up the O2 Arena in pink with us!💖\nWe'll be back on Sunday 2 July 2023 for London's @bsthydepark in our first ever festival headline show!💫\nTickets on sale now. See you there loves!🖤\nhttps://t.co/RiFp7w1Wao https://t.co/1pBJbQ8iS0"
+	},
+	{
+		"created_at": "Fri Dec 02 09:55:45 +0000 2022",
+		"id": 1598603988605075500,
+		"id_str": "1598616902523179008",
+		"full_text": "#BLACKPINK ‘B.P.M.’ Roll #1\n\n🎬https://t.co/Y9eq2M7jTf\n\n#블랙핑크 #BPM #BORN_PINK_MEMORIES #Roll_1 #BORNPINK #YOUTUBE #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "BPM",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "BORN_PINK_MEMORIES",
+					"indices": [
+						66,
+						85
+					]
+				},
+				{
+					"text": "Roll_1",
+					"indices": [
+						86,
+						93
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						94,
+						103
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						104,
+						112
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						113,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y9eq2M7jTf",
+					"expanded_url": "https://youtu.be/hZ_1c0hW_ZI",
+					"display_url": "youtu.be/hZ_1c0hW_ZI",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8084857,
+			"friends_count": 0,
+			"listed_count": 7959,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5698,
+		"favorite_count": 11211,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘B.P.M.’ Roll #1\n\n🎬https://t.co/Y9eq2M7jTf\n\n#블랙핑크 #BPM #BORN_PINK_MEMORIES #Roll_1 #BORNPINK #YOUTUBE #YG"
+	},
+	{
+		"created_at": "Fri Dec 02 09:53:47 +0000 2022",
+		"id": 1598602886392336400,
+		"id_str": "1598616410967506944",
+		"full_text": "𝙅𝗔𝗨𝗥𝗜𝗠 𝗙𝗶𝗿𝗲𝗽𝗹𝗮𝗰𝗲 𝗣𝗹𝗮𝘆𝗹𝗶𝘀𝘁\n【 𝗠𝗘𝗥𝗥𝗬 𝗦𝗣𝗢𝗢𝗞𝗬 𝗫-𝗠𝗔𝗦 】 1시간 연속 듣기\n\n🎁 https://t.co/6wEAGakXTt\n\n#자우림 #스페셜앨범 #불멍플레이리스트\n#MERRY_SPOOKY_XMAS https://t.co/5If20GOZNY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "스페셜앨범",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "불멍플레이리스트",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"text": "MERRY_SPOOKY_XMAS",
+					"indices": [
+						109,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6wEAGakXTt",
+					"expanded_url": "https://url.kr/qk9y2h",
+					"display_url": "url.kr/qk9y2h",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1598578416718319600,
+					"id_str": "1598578416718319618",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1598578416718319618/pu/img/iuOtq2HgpMP4uI3o.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1598578416718319618/pu/img/iuOtq2HgpMP4uI3o.jpg",
+					"url": "https://t.co/5If20GOZNY",
+					"display_url": "pic.twitter.com/5If20GOZNY",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1598602886392336384/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1598578416718319600,
+					"id_str": "1598578416718319618",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1598578416718319618/pu/img/iuOtq2HgpMP4uI3o.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1598578416718319618/pu/img/iuOtq2HgpMP4uI3o.jpg",
+					"url": "https://t.co/5If20GOZNY",
+					"display_url": "pic.twitter.com/5If20GOZNY",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1598602886392336384/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60240,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1598578416718319618/pu/vid/640x360/_TOZ8JIT-OcxFFFo.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1598578416718319618/pu/vid/1280x720/wnBp0fctbiKg31_R.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1598578416718319618/pu/vid/480x270/7ZEvkrjj_2kf2Fzj.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1598578416718319618/pu/pl/wuaoNJC1yBIfzCYw.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "▼ 𝙅𝗔𝗨𝗥𝗜𝗠 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗔𝗹𝗯𝘂𝗺 【 𝗠𝗘𝗥𝗥𝗬 𝗦𝗣𝗢𝗢𝗞𝗬 𝗫-𝗠𝗔𝗦 】 예약 판매 오픈",
+			"url": "https://t.co/ALtoOX8MmM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ALtoOX8MmM",
+							"expanded_url": "http://inpk.kr/sexB",
+							"display_url": "inpk.kr/sexB",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4613,
+			"friends_count": 5,
+			"listed_count": 30,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1669787144",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𝙅𝗔𝗨𝗥𝗜𝗠 𝗙𝗶𝗿𝗲𝗽𝗹𝗮𝗰𝗲 𝗣𝗹𝗮𝘆𝗹𝗶𝘀𝘁\n【 𝗠𝗘𝗥𝗥𝗬 𝗦𝗣𝗢𝗢𝗞𝗬 𝗫-𝗠𝗔𝗦 】 1시간 연속 듣기\n\n🎁 https://t.co/6wEAGakXTt\n\n#자우림 #스페셜앨범 #불멍플레이리스트\n#MERRY_SPOOKY_XMAS https://t.co/5If20GOZNY"
+	},
+	{
 		"created_at": "Fri Dec 02 08:55:44 +0000 2022",
 		"id": 1598592424867410000,
 		"id_str": "1598601802064138241",
