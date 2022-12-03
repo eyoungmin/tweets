@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sat Dec 03 09:56:19 +0000 2022",
+		"id": 1598965270042886100,
+		"id_str": "1598979436384202752",
+		"full_text": "청량미 가득한 #뉴진스 처럼 생머리로 변신해보자!\n@G_I_DLE #여자아이들 #민니 @RVsmtown #레드벨벳 #조이 @asepa_official #에스파 #닝닝 #카리나 @JYPETWICE #트와이스 #사나 @IVEstarship #아이브 #장원영 #민지\nhttps://t.co/BKSWFEflZz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뉴진스",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "여자아이들",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"text": "민니",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "닝닝",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "사나",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "아이브",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "장원영",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "민지",
+					"indices": [
+						142,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "G_I_DLE",
+					"name": "(G)I-DLE·(여자)아이들",
+					"id": 967000437797761000,
+					"id_str": "967000437797761024",
+					"indices": [
+						28,
+						36
+					]
+				},
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						48,
+						57
+					]
+				},
+				{
+					"screen_name": "asepa_official",
+					"name": "aespa 🍥",
+					"id": 1344638801902092300,
+					"id_str": "1344638801902092290",
+					"indices": [
+						68,
+						83
+					]
+				},
+				{
+					"screen_name": "JYPETWICE",
+					"name": "TWICE",
+					"id": 3129056526,
+					"id_str": "3129056526",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"screen_name": "IVEstarship",
+					"name": "IVE OFFICIAL",
+					"id": 1402182579265048600,
+					"id_str": "1402182579265048598",
+					"indices": [
+						119,
+						131
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BKSWFEflZz",
+					"expanded_url": "https://www.allurekorea.com/2022/10/26/%ec%b0%b0%eb%9e%91%ec%b0%b0%eb%9e%91-%ec%83%9d%eb%a8%b8%eb%a6%ac%ec%9d%98-%eb%b9%84%ea%b2%b0%ed%85%9c-5/?ddw=127163&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2022/10/26/%ec…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38195,
+			"friends_count": 1,
+			"listed_count": 302,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1668746717",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "청량미 가득한 #뉴진스 처럼 생머리로 변신해보자!\n@G_I_DLE #여자아이들 #민니 @RVsmtown #레드벨벳 #조이 @asepa_official #에스파 #닝닝 #카리나 @JYPETWICE #트와이스 #사나 @IVEstarship #아이브 #장원영 #민지\nhttps://t.co/BKSWFEflZz"
+	},
+	{
+		"created_at": "Sat Dec 03 09:11:21 +0000 2022",
+		"id": 1598953192641159200,
+		"id_str": "1598968118830804993",
+		"full_text": "[예능연구소] Red Velvet - Birthday(레드벨벳 - 벌스데이) FanCam | Show! MusicCore | MBC221203방송\n\nhttps://t.co/XLHBbXszRf\n\n#The_ReVe_Festival_2022\n#Birthday #벌스데이\n#레드벨벳 #RedVelvet\n#음악중심 #SowMusicCore",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "The_ReVe_Festival_2022",
+					"indices": [
+						108,
+						131
+					]
+				},
+				{
+					"text": "Birthday",
+					"indices": [
+						132,
+						141
+					]
+				},
+				{
+					"text": "벌스데이",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						154,
+						164
+					]
+				},
+				{
+					"text": "음악중심",
+					"indices": [
+						165,
+						170
+					]
+				},
+				{
+					"text": "SowMusicCore",
+					"indices": [
+						171,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XLHBbXszRf",
+					"expanded_url": "https://youtu.be/JzMm4hmFANI",
+					"display_url": "youtu.be/JzMm4hmFANI",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5769756,
+			"friends_count": 2,
+			"listed_count": 11538,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2041,
+		"favorite_count": 4647,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[예능연구소] Red Velvet - Birthday(레드벨벳 - 벌스데이) FanCam | Show! MusicCore | MBC221203방송\n\nhttps://t.co/XLHBbXszRf\n\n#The_ReVe_Festival_2022\n#Birthday #벌스데이\n#레드벨벳 #RedVelvet\n#음악중심 #SowMusicCore"
+	},
+	{
 		"created_at": "Sat Dec 03 08:11:31 +0000 2022",
 		"id": 1598938798691610600,
 		"id_str": "1598953059337371649",
