@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sun Dec 04 05:54:13 +0000 2022",
+		"id": 1599267439703126000,
+		"id_str": "1599280896309227521",
+		"full_text": "자우림 정규 𝟣𝟣집 【 영원한 사랑 】\n\n◼ 구성\n- 프리미엄 박스 패키지\n- 게이트폴드 커버\n- 포토&amp;리릭 포스터\n- 𝟣𝟤 𝗂𝗇𝖼𝗁 영국제조 컬러반\n\n#자우림 #11집 #LP\n#영원한사랑 https://t.co/Ik48j71Yc9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "11집",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "LP",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "영원한사랑",
+					"indices": [
+						103,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1599267146051506200,
+					"id_str": "1599267146051506177",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FjG8_v1aUAEqoOZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjG8_v1aUAEqoOZ.jpg",
+					"url": "https://t.co/Ik48j71Yc9",
+					"display_url": "pic.twitter.com/Ik48j71Yc9",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1599267439703126016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1599267146051506200,
+					"id_str": "1599267146051506177",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FjG8_v1aUAEqoOZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjG8_v1aUAEqoOZ.jpg",
+					"url": "https://t.co/Ik48j71Yc9",
+					"display_url": "pic.twitter.com/Ik48j71Yc9",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1599267439703126016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1599267146278011000,
+					"id_str": "1599267146278010884",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FjG8_wragAQiY0A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjG8_wragAQiY0A.jpg",
+					"url": "https://t.co/Ik48j71Yc9",
+					"display_url": "pic.twitter.com/Ik48j71Yc9",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1599267439703126016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1599267433780777000,
+		"in_reply_to_status_id_str": "1599267433780776961",
+		"in_reply_to_user_id": 923507155860299800,
+		"in_reply_to_user_id_str": "923507155860299776",
+		"in_reply_to_screen_name": "JaurimOfficial",
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "▼ 𝙅𝗔𝗨𝗥𝗜𝗠 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗔𝗹𝗯𝘂𝗺 【 𝗠𝗘𝗥𝗥𝗬 𝗦𝗣𝗢𝗢𝗞𝗬 𝗫-𝗠𝗔𝗦 】 예약 판매 오픈",
+			"url": "https://t.co/ALtoOX8MmM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ALtoOX8MmM",
+							"expanded_url": "http://inpk.kr/sexB",
+							"display_url": "inpk.kr/sexB",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4628,
+			"friends_count": 5,
+			"listed_count": 30,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 311,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1669787144",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자우림 정규 𝟣𝟣집 【 영원한 사랑 】\n\n◼ 구성\n- 프리미엄 박스 패키지\n- 게이트폴드 커버\n- 포토&amp;리릭 포스터\n- 𝟣𝟤 𝗂𝗇𝖼𝗁 영국제조 컬러반\n\n#자우림 #11집 #LP\n#영원한사랑 https://t.co/Ik48j71Yc9"
+	},
+	{
 		"created_at": "Sat Dec 03 10:11:22 +0000 2022",
 		"id": 1598974861040550000,
 		"id_str": "1598983221064048640",
