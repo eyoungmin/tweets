@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sun Dec 04 09:48:18 +0000 2022",
+		"id": 1599327654649397200,
+		"id_str": "1599339806823051264",
+		"full_text": "레더의 멋을 아는 셀럽들의 다채로운 스타일링! 패딩 속에 입어볼까?\n@ygofficialblin #블랙핑크 #지수 #현아 @_IUofficial #아이유 @G_I_DLE  #여자아이들 #미연 #헤이즈\nhttps://t.co/sw0zBDb1eM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "현아",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "여자아이들",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "미연",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "헤이즈",
+					"indices": [
+						107,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblin",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 1273140433749708800,
+					"id_str": "1273140433749708802",
+					"indices": [
+						38,
+						53
+					]
+				},
+				{
+					"screen_name": "_IUofficial",
+					"name": "아이유(IU) 공식 트위터",
+					"id": 1024486566096326700,
+					"id_str": "1024486566096326656",
+					"indices": [
+						68,
+						80
+					]
+				},
+				{
+					"screen_name": "G_I_DLE",
+					"name": "(G)I-DLE·(여자)아이들",
+					"id": 967000437797761000,
+					"id_str": "967000437797761024",
+					"indices": [
+						86,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sw0zBDb1eM",
+					"expanded_url": "https://www.allurekorea.com/2022/10/14/%ec%85%80%eb%9f%bd%eb%93%a4%ec%9d%98-%eb%a0%88%eb%8d%94-%ec%9e%90%ec%bc%93-%ed%99%9c%ec%9a%a9%eb%b2%95/?ddw=126170&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2022/10/14/%ec…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38192,
+			"friends_count": 1,
+			"listed_count": 302,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1668746717",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레더의 멋을 아는 셀럽들의 다채로운 스타일링! 패딩 속에 입어볼까?\n@ygofficialblin #블랙핑크 #지수 #현아 @_IUofficial #아이유 @G_I_DLE  #여자아이들 #미연 #헤이즈\nhttps://t.co/sw0zBDb1eM"
+	},
+	{
 		"created_at": "Sun Dec 04 05:54:13 +0000 2022",
 		"id": 1599267439703126000,
 		"id_str": "1599280896309227521",
