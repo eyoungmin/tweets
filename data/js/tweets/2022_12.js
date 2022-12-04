@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sun Dec 04 12:11:37 +0000 2022",
+		"id": 1599374907938590700,
+		"id_str": "1599375870463860736",
+		"full_text": "🎶When I move🎂\n더 자유롭게 빰빰빠라빰빠람빠라💃\n\nhttps://t.co/OXrMIodCBT\n\n#레드벨벳 #RedVelvet\n#카라 #KARA\n#Birthday #벌스데이\n#Birthday_challenge\n#GYURI #Nicole\n#IRENE #SEULGI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						64,
+						74
+					]
+				},
+				{
+					"text": "카라",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "KARA",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "Birthday",
+					"indices": [
+						85,
+						94
+					]
+				},
+				{
+					"text": "벌스데이",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "Birthday_challenge",
+					"indices": [
+						101,
+						120
+					]
+				},
+				{
+					"text": "GYURI",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "Nicole",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						143,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OXrMIodCBT",
+					"expanded_url": "https://vt.tiktok.com/ZS88rpY42/",
+					"display_url": "vt.tiktok.com/ZS88rpY42/",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5772601,
+			"friends_count": 2,
+			"listed_count": 11549,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3123,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3373,
+		"favorite_count": 6617,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎶When I move🎂\n더 자유롭게 빰빰빠라빰빠람빠라💃\n\nhttps://t.co/OXrMIodCBT\n\n#레드벨벳 #RedVelvet\n#카라 #KARA\n#Birthday #벌스데이\n#Birthday_challenge\n#GYURI #Nicole\n#IRENE #SEULGI"
+	},
+	{
 		"created_at": "Sun Dec 04 11:11:36 +0000 2022",
 		"id": 1599353216810242000,
 		"id_str": "1599360767706267648",
