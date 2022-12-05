@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Mon Dec 05 13:11:51 +0000 2022",
+		"id": 1599752154700710000,
+		"id_str": "1599753417139769344",
+		"full_text": "Red Velvet 레드벨벳 ‘The ReVe Festival 2022 - Birthday’ Jacket Behind I RV Collection\n\nhttps://t.co/55lciR0Cju\n\n#The_ReVe_Festival_2022\n#Birthday #벌스데이\n#레드벨벳 #RedVelvet\n#비하인드 #Behind \n#RV_Collection #레벨컬렉션 https://t.co/dNZKbcGYv4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "The_ReVe_Festival_2022",
+					"indices": [
+						108,
+						131
+					]
+				},
+				{
+					"text": "Birthday",
+					"indices": [
+						132,
+						141
+					]
+				},
+				{
+					"text": "벌스데이",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						154,
+						164
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						165,
+						170
+					]
+				},
+				{
+					"text": "Behind",
+					"indices": [
+						171,
+						178
+					]
+				},
+				{
+					"text": "RV_Collection",
+					"indices": [
+						180,
+						194
+					]
+				},
+				{
+					"text": "레벨컬렉션",
+					"indices": [
+						195,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/55lciR0Cju",
+					"expanded_url": "https://youtu.be/4IaPsx5hc5s",
+					"display_url": "youtu.be/4IaPsx5hc5s",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1599752148912197600,
+					"id_str": "1599752148912197632",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FjN2GoSUUAA9gcR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjN2GoSUUAA9gcR.jpg",
+					"url": "https://t.co/dNZKbcGYv4",
+					"display_url": "pic.twitter.com/dNZKbcGYv4",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1599752154700709890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1599752148912197600,
+					"id_str": "1599752148912197632",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FjN2GoSUUAA9gcR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjN2GoSUUAA9gcR.jpg",
+					"url": "https://t.co/dNZKbcGYv4",
+					"display_url": "pic.twitter.com/dNZKbcGYv4",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1599752154700709890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5774285,
+			"friends_count": 2,
+			"listed_count": 11547,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4346,
+		"favorite_count": 10059,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet 레드벨벳 ‘The ReVe Festival 2022 - Birthday’ Jacket Behind I RV Collection\n\nhttps://t.co/55lciR0Cju\n\n#The_ReVe_Festival_2022\n#Birthday #벌스데이\n#레드벨벳 #RedVelvet\n#비하인드 #Behind \n#RV_Collection #레벨컬렉션 https://t.co/dNZKbcGYv4"
+	},
+	{
 		"created_at": "Mon Dec 05 12:56:35 +0000 2022",
 		"id": 1599736126172180500,
 		"id_str": "1599749574570086400",
