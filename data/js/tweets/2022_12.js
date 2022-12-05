@@ -1,6 +1,706 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Mon Dec 05 12:56:35 +0000 2022",
+		"id": 1599736126172180500,
+		"id_str": "1599749574570086400",
+		"full_text": "BLACKPINK. AMERICAN EXPRESS PRESENTS \n@BSTHYDEPARK, LONDON, SUNDAY 2 JULY 2023\nTickets on sale now: https://t.co/RtNXRtHbpS\n\n#블랙핑크 #BSTHydePark #Headliner #London_festival #YG https://t.co/2D5w0kl963",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "BSTHydePark",
+					"indices": [
+						131,
+						143
+					]
+				},
+				{
+					"text": "Headliner",
+					"indices": [
+						144,
+						154
+					]
+				},
+				{
+					"text": "London_festival",
+					"indices": [
+						155,
+						171
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						172,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BSTHydePark",
+					"name": "BST Hyde Park",
+					"id": 1098785772,
+					"id_str": "1098785772",
+					"indices": [
+						38,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RtNXRtHbpS",
+					"expanded_url": "https://bit.ly/bstblackpink",
+					"display_url": "bit.ly/bstblackpink",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1599735973956718600,
+					"id_str": "1599735973956718592",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1599735973956718592/pu/img/6QrwzF2kY5_2py_B.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1599735973956718592/pu/img/6QrwzF2kY5_2py_B.jpg",
+					"url": "https://t.co/2D5w0kl963",
+					"display_url": "pic.twitter.com/2D5w0kl963",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1599736126172180482/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1599735973956718600,
+					"id_str": "1599735973956718592",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1599735973956718592/pu/img/6QrwzF2kY5_2py_B.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1599735973956718592/pu/img/6QrwzF2kY5_2py_B.jpg",
+					"url": "https://t.co/2D5w0kl963",
+					"display_url": "pic.twitter.com/2D5w0kl963",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1599736126172180482/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 14014,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1599735973956718592/pu/vid/320x568/1tS8PV1jimUGCUXU.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1599735973956718592/pu/pl/NT3jpnMt-f7mysDw.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1599735973956718592/pu/vid/480x852/WPRrGLQC9owr9xkr.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1599735973956718592/pu/vid/720x1280/KtD4qkCENfysathP.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8744180,
+			"friends_count": 9,
+			"listed_count": 9397,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2129,
+		"favorite_count": 6000,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLACKPINK. AMERICAN EXPRESS PRESENTS \n@BSTHYDEPARK, LONDON, SUNDAY 2 JULY 2023\nTickets on sale now: https://t.co/RtNXRtHbpS\n\n#블랙핑크 #BSTHydePark #Headliner #London_festival #YG https://t.co/2D5w0kl963"
+	},
+	{
+		"created_at": "Mon Dec 05 12:56:35 +0000 2022",
+		"id": 1599735487799128000,
+		"id_str": "1599749574553313282",
+		"full_text": "BLACKPINK WORLD TOUR [BORN PINK] LONDON HIGHLIGHT CLIP\n\n#BLACKPINK #블랙핑크 #BORNPINK #BLACKPINK_WORLDTOUR #BLACKPINK_BORNPINK #LONDON #HIGHLIGHT #YG https://t.co/h4fXwtLvtE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						56,
+						66
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						73,
+						82
+					]
+				},
+				{
+					"text": "BLACKPINK_WORLDTOUR",
+					"indices": [
+						83,
+						103
+					]
+				},
+				{
+					"text": "BLACKPINK_BORNPINK",
+					"indices": [
+						104,
+						123
+					]
+				},
+				{
+					"text": "LONDON",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "HIGHLIGHT",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						143,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1599735350691172400,
+					"id_str": "1599735350691172353",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1599735350691172353/pu/img/eEH_1dVwoL883Xl-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1599735350691172353/pu/img/eEH_1dVwoL883Xl-.jpg",
+					"url": "https://t.co/h4fXwtLvtE",
+					"display_url": "pic.twitter.com/h4fXwtLvtE",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1599735487799128066/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1599735350691172400,
+					"id_str": "1599735350691172353",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1599735350691172353/pu/img/eEH_1dVwoL883Xl-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1599735350691172353/pu/img/eEH_1dVwoL883Xl-.jpg",
+					"url": "https://t.co/h4fXwtLvtE",
+					"display_url": "pic.twitter.com/h4fXwtLvtE",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1599735487799128066/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 37726,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1599735350691172353/pu/vid/320x568/6PkGrMNX-F7_vsE1.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1599735350691172353/pu/vid/720x1280/pxKfBKePlUwIGXKz.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1599735350691172353/pu/pl/FyWyfRWhcigBDoVy.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1599735350691172353/pu/vid/480x852/68CIMSaOyd-s3jQ7.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8101891,
+			"friends_count": 0,
+			"listed_count": 7969,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4291,
+		"favorite_count": 13579,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLACKPINK WORLD TOUR [BORN PINK] LONDON HIGHLIGHT CLIP\n\n#BLACKPINK #블랙핑크 #BORNPINK #BLACKPINK_WORLDTOUR #BLACKPINK_BORNPINK #LONDON #HIGHLIGHT #YG https://t.co/h4fXwtLvtE"
+	},
+	{
+		"created_at": "Mon Dec 05 12:48:34 +0000 2022",
+		"id": 1599735340159287300,
+		"id_str": "1599747558493937665",
+		"full_text": "영하권 날씨 돌입! #웬디 부터 #현아 #선미 #제니 #김민주 까지 보온성 높인 셀럽 패션 참고하세요! \n@RVsmtown @official_sunmi_ @ygofficialblink \nhttps://t.co/gyt26wxghr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "현아",
+					"indices": [
+						18,
+						21
+					]
+				},
+				{
+					"text": "선미",
+					"indices": [
+						22,
+						25
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						26,
+						29
+					]
+				},
+				{
+					"text": "김민주",
+					"indices": [
+						30,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						59,
+						68
+					]
+				},
+				{
+					"screen_name": "official_sunmi_",
+					"name": "선미 SUNMI",
+					"id": 895202531978104800,
+					"id_str": "895202531978104832",
+					"indices": [
+						69,
+						85
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						86,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gyt26wxghr",
+					"expanded_url": "https://www.allurekorea.com/?p=189800&ddw=131072&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=189800&ddw=…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38186,
+			"friends_count": 1,
+			"listed_count": 302,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 484,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1668746717",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "영하권 날씨 돌입! #웬디 부터 #현아 #선미 #제니 #김민주 까지 보온성 높인 셀럽 패션 참고하세요! \n@RVsmtown @official_sunmi_ @ygofficialblink \nhttps://t.co/gyt26wxghr"
+	},
+	{
 		"created_at": "Mon Dec 05 10:48:56 +0000 2022",
 		"id": 1599715898742698000,
 		"id_str": "1599717451956072449",
