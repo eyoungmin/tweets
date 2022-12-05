@@ -1,6 +1,462 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Mon Dec 05 09:56:34 +0000 2022",
+		"id": 1599690071774752800,
+		"id_str": "1599704271640883201",
+		"full_text": "London, it was so great to finally see you all! We kicked off our European tour as a blast thanks to you guys!🤩 Will be back soon for Hyde Park so don’t go anywhere! xx https://t.co/qJlTycG8WZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1599688542388555800,
+					"id_str": "1599688542388555776",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FjM8QPhVEAAhv_3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjM8QPhVEAAhv_3.jpg",
+					"url": "https://t.co/qJlTycG8WZ",
+					"display_url": "pic.twitter.com/qJlTycG8WZ",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1599690071774752768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 736,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1256,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 417,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1599688542388555800,
+					"id_str": "1599688542388555776",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FjM8QPhVEAAhv_3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjM8QPhVEAAhv_3.jpg",
+					"url": "https://t.co/qJlTycG8WZ",
+					"display_url": "pic.twitter.com/qJlTycG8WZ",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1599690071774752768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 736,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1256,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 417,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1599688542392680400,
+					"id_str": "1599688542392680448",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FjM8QPiUAAAbjZf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjM8QPiUAAAbjZf.jpg",
+					"url": "https://t.co/qJlTycG8WZ",
+					"display_url": "pic.twitter.com/qJlTycG8WZ",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1599690071774752768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1325,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 776,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8101023,
+			"friends_count": 0,
+			"listed_count": 2,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6105,
+		"favorite_count": 19758,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "London, it was so great to finally see you all! We kicked off our European tour as a blast thanks to you guys!🤩 Will be back soon for Hyde Park so don’t go anywhere! xx https://t.co/qJlTycG8WZ"
+	},
+	{
+		"created_at": "Mon Dec 05 09:54:33 +0000 2022",
+		"id": 1599690039281131500,
+		"id_str": "1599703766294405121",
+		"full_text": "𝙅𝗔𝗨𝗥𝗜𝗠 【 𝗠𝗘𝗥𝗥𝗬 𝗦𝗣𝗢𝗢𝗞𝗬 𝗫-𝗠𝗔𝗦 】 𝗣𝗹𝗮𝘆𝗹𝗶𝘀𝘁\n\n자우림과 함께 듣는 플레이리스트를\n지금 자우림 공식 유튜브 채널에서 감상하실 수 있습니다!\n\n🎁 https://t.co/8KGDh1UUU3\n\n#자우림 #스페셜앨범 #공식플레이리스트\n#MERRY_SPOOKY_XMAS https://t.co/EYPhiZIizm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "스페셜앨범",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "공식플레이리스트",
+					"indices": [
+						131,
+						140
+					]
+				},
+				{
+					"text": "MERRY_SPOOKY_XMAS",
+					"indices": [
+						141,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8KGDh1UUU3",
+					"expanded_url": "https://youtu.be/VP6FhIOydus",
+					"display_url": "youtu.be/VP6FhIOydus",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1599681464861589500,
+					"id_str": "1599681464861589504",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1599681464861589504/pu/img/yxPNnEDVnJk1KVAs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1599681464861589504/pu/img/yxPNnEDVnJk1KVAs.jpg",
+					"url": "https://t.co/EYPhiZIizm",
+					"display_url": "pic.twitter.com/EYPhiZIizm",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1599690039281131521/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1599681464861589500,
+					"id_str": "1599681464861589504",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1599681464861589504/pu/img/yxPNnEDVnJk1KVAs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1599681464861589504/pu/img/yxPNnEDVnJk1KVAs.jpg",
+					"url": "https://t.co/EYPhiZIizm",
+					"display_url": "pic.twitter.com/EYPhiZIizm",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1599690039281131521/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60060,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1599681464861589504/pu/pl/0puihY2_LojqCUa-.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1599681464861589504/pu/vid/1280x720/WUk9AWK1CQ1G1I4h.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1599681464861589504/pu/vid/480x270/EhBgIp98qRYkToUZ.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1599681464861589504/pu/vid/640x360/ctGnTx1f13g7Qh_8.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "▼ 𝙅𝗔𝗨𝗥𝗜𝗠 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗔𝗹𝗯𝘂𝗺 【 𝗠𝗘𝗥𝗥𝗬 𝗦𝗣𝗢𝗢𝗞𝗬 𝗫-𝗠𝗔𝗦 】 예약 판매 오픈",
+			"url": "https://t.co/ALtoOX8MmM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ALtoOX8MmM",
+							"expanded_url": "http://inpk.kr/sexB",
+							"display_url": "inpk.kr/sexB",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4653,
+			"friends_count": 5,
+			"listed_count": 29,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1669787144",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𝙅𝗔𝗨𝗥𝗜𝗠 【 𝗠𝗘𝗥𝗥𝗬 𝗦𝗣𝗢𝗢𝗞𝗬 𝗫-𝗠𝗔𝗦 】 𝗣𝗹𝗮𝘆𝗹𝗶𝘀𝘁\n\n자우림과 함께 듣는 플레이리스트를\n지금 자우림 공식 유튜브 채널에서 감상하실 수 있습니다!\n\n🎁 https://t.co/8KGDh1UUU3\n\n#자우림 #스페셜앨범 #공식플레이리스트\n#MERRY_SPOOKY_XMAS https://t.co/EYPhiZIizm"
+	},
+	{
 		"created_at": "Mon Dec 05 08:48:32 +0000 2022",
 		"id": 1599683226079211500,
 		"id_str": "1599687151259508736",
