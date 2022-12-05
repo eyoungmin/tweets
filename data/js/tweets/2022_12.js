@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Mon Dec 05 08:48:32 +0000 2022",
+		"id": 1599683226079211500,
+		"id_str": "1599687151259508736",
+		"full_text": "요즘 여돌들이 빠진 파츠 메이크업!💖\n'페이스 주얼'💎\n\n#여돌 #파츠 #파츠메이크업 #페이스주얼 #지수 #제니 #블랙핑크 #유나 #있지 #선미 #고원 #이달소 #태연 #소시 \nhttps://t.co/JTiopMmpP8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여돌",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "파츠",
+					"indices": [
+						36,
+						39
+					]
+				},
+				{
+					"text": "파츠메이크업",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"text": "페이스주얼",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "유나",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "있지",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "선미",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "소시",
+					"indices": [
+						94,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JTiopMmpP8",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/73115?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/73115?…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89098,
+			"friends_count": 4,
+			"listed_count": 418,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 661,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "요즘 여돌들이 빠진 파츠 메이크업!💖\n'페이스 주얼'💎\n\n#여돌 #파츠 #파츠메이크업 #페이스주얼 #지수 #제니 #블랙핑크 #유나 #있지 #선미 #고원 #이달소 #태연 #소시 \nhttps://t.co/JTiopMmpP8"
+	},
+	{
 		"created_at": "Mon Dec 05 05:10:00 +0000 2022",
 		"id": 1599624573880000500,
 		"id_str": "1599632156220801024",
