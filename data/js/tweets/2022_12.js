@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Tue Dec 06 16:25:02 +0000 2022",
+		"id": 1600159970401538000,
+		"id_str": "1600164423234048010",
+		"full_text": "I'll Be Home For Christmas with @skinnylivinguk is now available on the 'Your Christmas Or Mine?' soundtrack 💛\nhttps://t.co/EckZ7vDwmw https://t.co/Pi1iPpNVAq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "skinnylivinguk",
+					"name": "Skinny Living",
+					"id": 551661874,
+					"id_str": "551661874",
+					"indices": [
+						32,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EckZ7vDwmw",
+					"expanded_url": "https://lnk.to/YourChristmasOrMine",
+					"display_url": "lnk.to/YourChristmasO…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1600159656839725000,
+					"id_str": "1600159656839725059",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1600159656839725059/pu/img/OHdDSaBAdgI_UgOS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1600159656839725059/pu/img/OHdDSaBAdgI_UgOS.jpg",
+					"url": "https://t.co/Pi1iPpNVAq",
+					"display_url": "pic.twitter.com/Pi1iPpNVAq",
+					"expanded_url": "https://twitter.com/birdy/status/1600159970401538049/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1600159656839725000,
+					"id_str": "1600159656839725059",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1600159656839725059/pu/img/OHdDSaBAdgI_UgOS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1600159656839725059/pu/img/OHdDSaBAdgI_UgOS.jpg",
+					"url": "https://t.co/Pi1iPpNVAq",
+					"display_url": "pic.twitter.com/Pi1iPpNVAq",
+					"expanded_url": "https://twitter.com/birdy/status/1600159970401538049/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 7333,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1600159656839725059/pu/vid/320x320/MwBiIt457t6TPVzl.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1600159656839725059/pu/vid/540x540/8mUbg_XcggxH2VhT.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1600159656839725059/pu/pl/nthMjAV1KFuEmknr.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1600159656839725059/pu/vid/720x720/fGM02v2S-oBI-R4X.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "State Lines with Hybrid Minds is out now ✨ tickets to my 2023 european tour are on sale",
+			"url": "https://t.co/ZKWv3eIilG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZKWv3eIilG",
+							"expanded_url": "https://linktr.ee/officialbirdy",
+							"display_url": "linktr.ee/officialbirdy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307607,
+			"friends_count": 175,
+			"listed_count": 1166,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 865,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1559470636900274176/uDiw2PLl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1559470636900274176/uDiw2PLl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1660641749",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'll Be Home For Christmas with @skinnylivinguk is now available on the 'Your Christmas Or Mine?' soundtrack 💛\nhttps://t.co/EckZ7vDwmw https://t.co/Pi1iPpNVAq"
+	},
+	{
 		"created_at": "Tue Dec 06 12:48:47 +0000 2022",
 		"id": 1600097726477357000,
 		"id_str": "1600110001187565568",
