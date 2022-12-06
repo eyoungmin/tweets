@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Tue Dec 06 10:48:46 +0000 2022",
+		"id": 1600078990148276200,
+		"id_str": "1600079797652140032",
+		"full_text": "미국 타임지 “블랙핑크는 현시대의 아이콘이자, 세계에서 가장 큰 여성 밴드다”\n#블랙핑크 #제니 #리사 #로제 #지수 #BLACKPINK #JENNIE #LISA #ROSÉ #JISOO #BORNPINK #PinkVenom #BLACKPINKWorldTour2022 #KPOP\nhttps://t.co/eaBssQu1ZT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						66,
+						76
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						77,
+						84
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						104,
+						113
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"text": "BLACKPINKWorldTour2022",
+					"indices": [
+						125,
+						148
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						149,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eaBssQu1ZT",
+					"expanded_url": "https://www.gqkorea.co.kr/2022/12/06/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC-%EB%AF%B8%EA%B5%AD-%ED%83%80%EC%9E%84%EC%A7%80-%EC%84%A0%EC%A0%95-%EC%98%AC%ED%95%B4%EC%9D%98-%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B4%EB%84%88/?ddw=131406&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "gqkorea.co.kr/2022/12/06/%EB…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262470,
+			"id_str": "78262470",
+			"name": "GQ KOREA",
+			"screen_name": "GQKOREA",
+			"location": "Seoul, Korea",
+			"description": "Be a Good Man, Don't be Quiet.",
+			"url": "https://t.co/pJOMTcQb22",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pJOMTcQb22",
+							"expanded_url": "http://www.gqkorea.co.kr",
+							"display_url": "gqkorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 144171,
+			"friends_count": 0,
+			"listed_count": 219,
+			"created_at": "Tue Sep 29 09:20:13 +0000 2009",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262470/1666589234",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미국 타임지 “블랙핑크는 현시대의 아이콘이자, 세계에서 가장 큰 여성 밴드다”\n#블랙핑크 #제니 #리사 #로제 #지수 #BLACKPINK #JENNIE #LISA #ROSÉ #JISOO #BORNPINK #PinkVenom #BLACKPINKWorldTour2022 #KPOP\nhttps://t.co/eaBssQu1ZT"
+	},
+	{
 		"created_at": "Tue Dec 06 09:48:47 +0000 2022",
 		"id": 1600052427931140000,
 		"id_str": "1600064700577853443",
