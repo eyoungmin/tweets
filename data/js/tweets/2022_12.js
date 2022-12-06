@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Tue Dec 06 04:56:44 +0000 2022",
+		"id": 1599976992317014000,
+		"id_str": "1599991204459913217",
+		"full_text": "BLACKPINK. AMERICAN EXPRESS PRESENTS \n@BSTHYDEPARK, LONDON, SUNDAY 2 JULY 2023\nTickets on sale now: https://t.co/eLweNrEbAC\n\n#BLACKPINK #블랙핑크 #BSTHydePark #Headliner #London_festival #20230702 #YG https://t.co/1zQDZgOzDq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						125,
+						135
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "BSTHydePark",
+					"indices": [
+						142,
+						154
+					]
+				},
+				{
+					"text": "Headliner",
+					"indices": [
+						155,
+						165
+					]
+				},
+				{
+					"text": "London_festival",
+					"indices": [
+						166,
+						182
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						193,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BSTHydePark",
+					"name": "BST Hyde Park",
+					"id": 1098785772,
+					"id_str": "1098785772",
+					"indices": [
+						38,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eLweNrEbAC",
+					"expanded_url": "https://bit.ly/bstblackpink",
+					"display_url": "bit.ly/bstblackpink",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1599976936318546000,
+					"id_str": "1599976936318545922",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1599976936318545922/pu/img/YBgG2Fto7aZpdRgh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1599976936318545922/pu/img/YBgG2Fto7aZpdRgh.jpg",
+					"url": "https://t.co/1zQDZgOzDq",
+					"display_url": "pic.twitter.com/1zQDZgOzDq",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1599976992317014016/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1599976936318546000,
+					"id_str": "1599976936318545922",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1599976936318545922/pu/img/YBgG2Fto7aZpdRgh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1599976936318545922/pu/img/YBgG2Fto7aZpdRgh.jpg",
+					"url": "https://t.co/1zQDZgOzDq",
+					"display_url": "pic.twitter.com/1zQDZgOzDq",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1599976992317014016/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 14055,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1599976936318545922/pu/vid/320x568/oOL7HPIEjaVbXkBm.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1599976936318545922/pu/vid/480x852/qe8d2UaRLfTKEH6S.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1599976936318545922/pu/pl/JlQgvM3BWGGXpQTE.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1599976936318545922/pu/vid/720x1280/Tod3iwPtKequD1jn.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8105162,
+			"friends_count": 0,
+			"listed_count": 7973,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3662,
+		"favorite_count": 11814,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLACKPINK. AMERICAN EXPRESS PRESENTS \n@BSTHYDEPARK, LONDON, SUNDAY 2 JULY 2023\nTickets on sale now: https://t.co/eLweNrEbAC\n\n#BLACKPINK #블랙핑크 #BSTHydePark #Headliner #London_festival #20230702 #YG https://t.co/1zQDZgOzDq"
+	},
+	{
 		"created_at": "Mon Dec 05 14:24:43 +0000 2022",
 		"id": 1599757782822969300,
 		"id_str": "1599771754846515201",
