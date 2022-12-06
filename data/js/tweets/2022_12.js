@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Tue Dec 06 12:48:47 +0000 2022",
+		"id": 1600097726477357000,
+		"id_str": "1600110001187565568",
+		"full_text": "#르세라핌 에서 #뉴진스 까지, 또렷한 시선을 위한 아이돌의 렌즈 메이크업.zip #사쿠라 @le_sserafim #해린 @NewJeans_ADOR @ygofficialblink #블랙핑크 #제니 @asepa_official #에스파 #닝닝 @NMIXX_official #엔믹스 #설윤 @ygent_official  @SMTOWNGLOBAL @jypnation\nhttps://t.co/dwHQrHzItZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "르세라핌",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "사쿠라",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "해린",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "닝닝",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "엔믹스",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "설윤",
+					"indices": [
+						156,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "le_sserafim",
+					"name": "LE SSERAFIM",
+					"id": 1476733619620450300,
+					"id_str": "1476733619620450304",
+					"indices": [
+						51,
+						63
+					]
+				},
+				{
+					"screen_name": "NewJeans_ADOR",
+					"name": "NewJeans",
+					"id": 1476476838180696000,
+					"id_str": "1476476838180696073",
+					"indices": [
+						68,
+						82
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						83,
+						99
+					]
+				},
+				{
+					"screen_name": "asepa_official",
+					"name": "aespa 🍥",
+					"id": 1344638801902092300,
+					"id_str": "1344638801902092290",
+					"indices": [
+						110,
+						125
+					]
+				},
+				{
+					"screen_name": "NMIXX_official",
+					"name": "NMIXX",
+					"id": 1392302226782052400,
+					"id_str": "1392302226782052355",
+					"indices": [
+						135,
+						150
+					]
+				},
+				{
+					"screen_name": "ygent_official",
+					"name": "YG FAMILY",
+					"id": 408177579,
+					"id_str": "408177579",
+					"indices": [
+						160,
+						175
+					]
+				},
+				{
+					"screen_name": "SMTOWNGLOBAL",
+					"name": "SMTOWN",
+					"id": 884378714,
+					"id_str": "884378714",
+					"indices": [
+						177,
+						190
+					]
+				},
+				{
+					"screen_name": "jypnation",
+					"name": "JYPnation",
+					"id": 212266188,
+					"id_str": "212266188",
+					"indices": [
+						191,
+						201
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dwHQrHzItZ",
+					"expanded_url": "https://www.allurekorea.com/?p=189976&ddw=131314&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=189976&ddw=…",
+					"indices": [
+						202,
+						225
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38196,
+			"friends_count": 1,
+			"listed_count": 302,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1668746717",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#르세라핌 에서 #뉴진스 까지, 또렷한 시선을 위한 아이돌의 렌즈 메이크업.zip #사쿠라 @le_sserafim #해린 @NewJeans_ADOR @ygofficialblink #블랙핑크 #제니 @asepa_official #에스파 #닝닝 @NMIXX_official #엔믹스 #설윤 @ygent_official  @SMTOWNGLOBAL @jypnation\nhttps://t.co/dwHQrHzItZ"
+	},
+	{
 		"created_at": "Tue Dec 06 11:12:05 +0000 2022",
 		"id": 1600085107372871700,
 		"id_str": "1600085667240824833",
