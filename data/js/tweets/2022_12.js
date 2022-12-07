@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 07 09:49:01 +0000 2022",
+		"id": 1600414812315402200,
+		"id_str": "1600427150221328385",
+		"full_text": "#뉴진스 #다니엘 처럼 화려한 빅 팬던트로 힙하게 입어보자.\n@NewJeans_ADOR #현아 @IVEstarship #아이브 #장원영 @ygofficialblink #블랙핑크 #로제 \nhttps://t.co/S2IKahgNuw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뉴진스",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "다니엘",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "현아",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "아이브",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "장원영",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						99,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewJeans_ADOR",
+					"name": "NewJeans",
+					"id": 1476476838180696000,
+					"id_str": "1476476838180696073",
+					"indices": [
+						34,
+						48
+					]
+				},
+				{
+					"screen_name": "IVEstarship",
+					"name": "IVE OFFICIAL",
+					"id": 1402182579265048600,
+					"id_str": "1402182579265048598",
+					"indices": [
+						53,
+						65
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						76,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/S2IKahgNuw",
+					"expanded_url": "https://www.allurekorea.com/2022/09/28/%eb%b9%85-%ed%8c%ac%eb%8d%98%ed%8a%b8%eb%a1%9c-%ec%86%90%ec%89%bd%ea%b2%8c-%ec%8a%a4%ed%83%80%ec%9d%bc%ec%97%85/?ddw=124290&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2022/09/28/%eb…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38194,
+			"friends_count": 1,
+			"listed_count": 303,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 493,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7918,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1668746717",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#뉴진스 #다니엘 처럼 화려한 빅 팬던트로 힙하게 입어보자.\n@NewJeans_ADOR #현아 @IVEstarship #아이브 #장원영 @ygofficialblink #블랙핑크 #로제 \nhttps://t.co/S2IKahgNuw"
+	},
+	{
 		"created_at": "Wed Dec 07 06:57:00 +0000 2022",
 		"id": 1600371711152910300,
 		"id_str": "1600383861191344129",
