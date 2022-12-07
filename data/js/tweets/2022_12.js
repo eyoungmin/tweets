@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 07 05:57:01 +0000 2022",
+		"id": 1600362982714011600,
+		"id_str": "1600368764100300800",
+		"full_text": "Spot #BLACKPINK in NYC!\nKeep an eye out for your #2022ArtistWrapped 🖤\n\nThank you @Spotify for the #SpotifyWrapped support 💗\n\n📸📍 W34th St. &amp; 7th Ave, NY\n\n🎶 https://t.co/pOXb4N3Jgz https://t.co/KMpTm6ZcQW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						5,
+						15
+					]
+				},
+				{
+					"text": "2022ArtistWrapped",
+					"indices": [
+						49,
+						67
+					]
+				},
+				{
+					"text": "SpotifyWrapped",
+					"indices": [
+						98,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						81,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pOXb4N3Jgz",
+					"expanded_url": "https://open.spotify.com/playlist/37i9dQZF1DX8kP0ioXjxIA?si=N1kbe50aR0aHfhOmW4qV5A",
+					"display_url": "open.spotify.com/playlist/37i9d…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1600362909674377200,
+					"id_str": "1600362909674377216",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1600362909674377216/pu/img/WrHhNCNfhj7vTjxR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1600362909674377216/pu/img/WrHhNCNfhj7vTjxR.jpg",
+					"url": "https://t.co/KMpTm6ZcQW",
+					"display_url": "pic.twitter.com/KMpTm6ZcQW",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1600362982714011650/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1600362909674377200,
+					"id_str": "1600362909674377216",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1600362909674377216/pu/img/WrHhNCNfhj7vTjxR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1600362909674377216/pu/img/WrHhNCNfhj7vTjxR.jpg",
+					"url": "https://t.co/KMpTm6ZcQW",
+					"display_url": "pic.twitter.com/KMpTm6ZcQW",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1600362982714011650/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 14723,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1600362909674377216/pu/vid/1280x720/dmW7GKOKZD2yBGrP.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1600362909674377216/pu/pl/NjAWD12Qsfo_sC3N.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1600362909674377216/pu/vid/480x270/YUfOsOgwMq3In3l7.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1600362909674377216/pu/vid/640x360/devQFXUv3rhjt-JL.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8109481,
+			"friends_count": 0,
+			"listed_count": 7970,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 840,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2107,
+		"favorite_count": 6752,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Spot #BLACKPINK in NYC!\nKeep an eye out for your #2022ArtistWrapped 🖤\n\nThank you @Spotify for the #SpotifyWrapped support 💗\n\n📸📍 W34th St. &amp; 7th Ave, NY\n\n🎶 https://t.co/pOXb4N3Jgz https://t.co/KMpTm6ZcQW"
+	},
+	{
 		"created_at": "Wed Dec 07 02:24:19 +0000 2022",
 		"id": 1600312539325554700,
 		"id_str": "1600315235507675136",
