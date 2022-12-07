@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 07 02:24:19 +0000 2022",
+		"id": 1600312539325554700,
+		"id_str": "1600315235507675136",
+		"full_text": "BoA 보아 '메리-크리 (Merry-Chri)' MV\n\nhttps://t.co/4kwdqZsXJE\n\n📺Original Release in 2004, Remastered in 2022.\n\n#SM_Remastering_Project #RemasterMV\n#리마스터링프로젝트\n#BoA #보아 #MerryChri #메리크리\n#SMTOWN https://t.co/r99M6hWS7c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SM_Remastering_Project",
+					"indices": [
+						105,
+						128
+					]
+				},
+				{
+					"text": "RemasterMV",
+					"indices": [
+						129,
+						140
+					]
+				},
+				{
+					"text": "리마스터링프로젝트",
+					"indices": [
+						141,
+						151
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "MerryChri",
+					"indices": [
+						161,
+						171
+					]
+				},
+				{
+					"text": "메리크리",
+					"indices": [
+						172,
+						177
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						178,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4kwdqZsXJE",
+					"expanded_url": "https://youtu.be/acgu_FCtpQw",
+					"display_url": "youtu.be/acgu_FCtpQw",
+					"indices": [
+						32,
+						55
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1600312532391993300,
+					"id_str": "1600312532391993344",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FjVzxPbUoAAWch7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjVzxPbUoAAWch7.jpg",
+					"url": "https://t.co/r99M6hWS7c",
+					"display_url": "pic.twitter.com/r99M6hWS7c",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1600312539325554689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1600312532391993300,
+					"id_str": "1600312532391993344",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FjVzxPbUoAAWch7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjVzxPbUoAAWch7.jpg",
+					"url": "https://t.co/r99M6hWS7c",
+					"display_url": "pic.twitter.com/r99M6hWS7c",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1600312539325554689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11308414,
+			"friends_count": 56,
+			"listed_count": 12781,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13339,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 380,
+		"favorite_count": 928,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "BoA 보아 '메리-크리 (Merry-Chri)' MV\n\nhttps://t.co/4kwdqZsXJE\n\n📺Original Release in 2004, Remastered in 2022.\n\n#SM_Remastering_Project #RemasterMV\n#리마스터링프로젝트\n#BoA #보아 #MerryChri #메리크리\n#SMTOWN https://t.co/r99M6hWS7c"
+	},
+	{
 		"created_at": "Tue Dec 06 18:25:04 +0000 2022",
 		"id": 1600187752586219500,
 		"id_str": "1600194630103883776",
