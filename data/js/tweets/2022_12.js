@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 07 15:25:22 +0000 2022",
+		"id": 1600498871968440300,
+		"id_str": "1600511792425246721",
+		"full_text": "2022 &lt;밤의 정원 앵콜 #콘서트&gt;\n#블루레이 Mix 작업을 시작했습니다 🙈💜\n저도 숨 참고 기다릴께요😤\n아무쪼록 잘 부탁드립니다!\n믹스엔지니어 최우재 대표님\n주병조 음향감독님\n사랑합니다💜 언제나 감사합니다🙏🥰\n.\n✅틱톡 채널 열었어요, gyu.official 로 찾아와주세요🕊\n.\n#심규선 https://t.co/b4QHBwXb9S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "콘서트",
+					"indices": [
+						18,
+						22
+					]
+				},
+				{
+					"text": "블루레이",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "심규선",
+					"indices": [
+						165,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1600498726174433300,
+					"id_str": "1600498726174433284",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1600498726174433284/pu/img/0ZkLnBRlNpwXOjIZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1600498726174433284/pu/img/0ZkLnBRlNpwXOjIZ.jpg",
+					"url": "https://t.co/b4QHBwXb9S",
+					"display_url": "pic.twitter.com/b4QHBwXb9S",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1600498871968440321/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1600498726174433300,
+					"id_str": "1600498726174433284",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1600498726174433284/pu/img/0ZkLnBRlNpwXOjIZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1600498726174433284/pu/img/0ZkLnBRlNpwXOjIZ.jpg",
+					"url": "https://t.co/b4QHBwXb9S",
+					"display_url": "pic.twitter.com/b4QHBwXb9S",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1600498871968440321/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 64054,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1600498726174433284/pu/pl/mEyqdcdhugOhvhPE.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1600498726174433284/pu/vid/320x568/4SfWNSd_hai4Waxh.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1600498726174433284/pu/vid/720x1280/agGI7W6qx5alUhtQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1600498726174433284/pu/vid/480x852/jlaXxA4mA5D7zZgn.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌌2022 단독 콘서트 '밤의 정원'",
+			"url": "https://t.co/q8FfaeWXfm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8FfaeWXfm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10980,
+			"friends_count": 0,
+			"listed_count": 161,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1661404317",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022 &lt;밤의 정원 앵콜 #콘서트&gt;\n#블루레이 Mix 작업을 시작했습니다 🙈💜\n저도 숨 참고 기다릴께요😤\n아무쪼록 잘 부탁드립니다!\n믹스엔지니어 최우재 대표님\n주병조 음향감독님\n사랑합니다💜 언제나 감사합니다🙏🥰\n.\n✅틱톡 채널 열었어요, gyu.official 로 찾아와주세요🕊\n.\n#심규선 https://t.co/b4QHBwXb9S"
+	},
+	{
 		"created_at": "Wed Dec 07 13:12:19 +0000 2022",
 		"id": 1600475335715598300,
 		"id_str": "1600478313259991040",
