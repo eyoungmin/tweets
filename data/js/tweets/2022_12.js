@@ -1,6 +1,964 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Thu Dec 08 12:57:19 +0000 2022",
+		"id": 1600825236450332700,
+		"id_str": "1600836923907444736",
+		"full_text": "#BLACKPINK WORLD TOUR [BORN PINK] BARCELONA HIGHLIGHT CLIP\n\n#블랙핑크 #BORNPINK #BLACKPINK_WORLDTOUR #BLACKPINK_BORNPINK #BARCELONA #HIGHLIGHT #YG https://t.co/tAHenRk08N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						66,
+						75
+					]
+				},
+				{
+					"text": "BLACKPINK_WORLDTOUR",
+					"indices": [
+						76,
+						96
+					]
+				},
+				{
+					"text": "BLACKPINK_BORNPINK",
+					"indices": [
+						97,
+						116
+					]
+				},
+				{
+					"text": "BARCELONA",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"text": "HIGHLIGHT",
+					"indices": [
+						128,
+						138
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						139,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1600825119059767300,
+					"id_str": "1600825119059767297",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1600825119059767297/pu/img/jDeBSQccTKSiyixX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1600825119059767297/pu/img/jDeBSQccTKSiyixX.jpg",
+					"url": "https://t.co/tAHenRk08N",
+					"display_url": "pic.twitter.com/tAHenRk08N",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1600825236450332672/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1600825119059767300,
+					"id_str": "1600825119059767297",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1600825119059767297/pu/img/jDeBSQccTKSiyixX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1600825119059767297/pu/img/jDeBSQccTKSiyixX.jpg",
+					"url": "https://t.co/tAHenRk08N",
+					"display_url": "pic.twitter.com/tAHenRk08N",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1600825236450332672/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 33496,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1600825119059767297/pu/vid/320x568/H5bfyEvGZRCro-hk.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1600825119059767297/pu/vid/480x852/lPEu_PE1uVb6eWV-.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1600825119059767297/pu/pl/oNs52dPeJaaw0TBE.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1600825119059767297/pu/vid/720x1280/Uk1Wbp4KzT5y8nv4.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8119053,
+			"friends_count": 0,
+			"listed_count": 7982,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5363,
+		"favorite_count": 18265,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK WORLD TOUR [BORN PINK] BARCELONA HIGHLIGHT CLIP\n\n#블랙핑크 #BORNPINK #BLACKPINK_WORLDTOUR #BLACKPINK_BORNPINK #BARCELONA #HIGHLIGHT #YG https://t.co/tAHenRk08N"
+	},
+	{
+		"created_at": "Thu Dec 08 12:25:36 +0000 2022",
+		"id": 1600826825458217000,
+		"id_str": "1600828940896985088",
+		"full_text": "🤍✨ [Artist] 마음에 울림을 주는 아티스트 ‘사비나앤드론즈’ | 카카오 뷰 https://t.co/kxGuvLvF5y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kxGuvLvF5y",
+					"expanded_url": "https://view.kakao.com/v/_xoMqNs/9AOVV9BEHb?ref=daum",
+					"display_url": "view.kakao.com/v/_xoMqNs/9AOV…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나 SAVINA",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "사비나앤드론즈 SAVINA & DRONES Musician",
+			"url": "https://t.co/HUiR4zmWAI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HUiR4zmWAI",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1279,
+			"friends_count": 244,
+			"listed_count": 33,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🤍✨ [Artist] 마음에 울림을 주는 아티스트 ‘사비나앤드론즈’ | 카카오 뷰 https://t.co/kxGuvLvF5y"
+	},
+	{
+		"created_at": "Thu Dec 08 11:55:17 +0000 2022",
+		"id": 1600807428089852000,
+		"id_str": "1600821312817012736",
+		"full_text": "❤️𝗗-𝟭❤️\n\n자우림 단독 콘서트\n[ 𝕄𝔼ℝℝ𝕐 𝕊ℙ𝕆𝕆𝕂𝕐 𝕏-𝕄𝔸𝕊 ] 서울\n\n▌장소\n올림픽공원 𝖲𝖪핸드볼경기장\n\n▌일시\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟫 (금) 𝟪𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟢 (토) 𝟨𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟣 (일) 𝟧𝖯𝖬\n\n#자우림 #단독콘서트\n#MERRY_SPOOKY_XMAS\n#MERRY_SPOOKY_JAURIM https://t.co/6H5KPjkgAn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "MERRY_SPOOKY_XMAS",
+					"indices": [
+						146,
+						164
+					]
+				},
+				{
+					"text": "MERRY_SPOOKY_JAURIM",
+					"indices": [
+						165,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1600807418698473500,
+					"id_str": "1600807418698473472",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Fjc13alVIAApc9j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fjc13alVIAApc9j.jpg",
+					"url": "https://t.co/6H5KPjkgAn",
+					"display_url": "pic.twitter.com/6H5KPjkgAn",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1600807428089851904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1600807418698473500,
+					"id_str": "1600807418698473472",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Fjc13alVIAApc9j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fjc13alVIAApc9j.jpg",
+					"url": "https://t.co/6H5KPjkgAn",
+					"display_url": "pic.twitter.com/6H5KPjkgAn",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1600807428089851904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1600807418690084900,
+					"id_str": "1600807418690084864",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Fjc13ajVIAAQwAf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fjc13ajVIAAQwAf.jpg",
+					"url": "https://t.co/6H5KPjkgAn",
+					"display_url": "pic.twitter.com/6H5KPjkgAn",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1600807428089851904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1600807418723635200,
+					"id_str": "1600807418723635200",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Fjc13arVEAA3Ow1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fjc13arVEAA3Ow1.jpg",
+					"url": "https://t.co/6H5KPjkgAn",
+					"display_url": "pic.twitter.com/6H5KPjkgAn",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1600807428089851904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "▼ 𝙅𝗔𝗨𝗥𝗜𝗠 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗔𝗹𝗯𝘂𝗺 【 𝗠𝗘𝗥𝗥𝗬 𝗦𝗣𝗢𝗢𝗞𝗬 𝗫-𝗠𝗔𝗦 】 예약 판매 오픈",
+			"url": "https://t.co/ALtoOX8MmM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ALtoOX8MmM",
+							"expanded_url": "http://inpk.kr/sexB",
+							"display_url": "inpk.kr/sexB",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4680,
+			"friends_count": 5,
+			"listed_count": 29,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 317,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1669787144",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤️𝗗-𝟭❤️\n\n자우림 단독 콘서트\n[ 𝕄𝔼ℝℝ𝕐 𝕊ℙ𝕆𝕆𝕂𝕐 𝕏-𝕄𝔸𝕊 ] 서울\n\n▌장소\n올림픽공원 𝖲𝖪핸드볼경기장\n\n▌일시\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟫 (금) 𝟪𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟢 (토) 𝟨𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟣 (일) 𝟧𝖯𝖬\n\n#자우림 #단독콘서트\n#MERRY_SPOOKY_XMAS\n#MERRY_SPOOKY_JAURIM https://t.co/6H5KPjkgAn"
+	},
+	{
+		"created_at": "Thu Dec 08 10:12:42 +0000 2022",
+		"id": 1600790228133781500,
+		"id_str": "1600795497102340096",
+		"full_text": "내일부터\n#MERRY_SPOOKY_XMAS\n공연장에서 \n여러분을 기다리고 있을 것이다!! \n핸드볼 경기장은\n무대-객석이 엄청 가까움!😆\n\n#자우림콘서트 \n@올림픽공원핸드볼경기장\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟫 ( 금) 𝟪𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟢 (토) 𝟨𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟣 (일) 𝟧𝖯𝖬\n\n #紫雨林 #Jaurim https://t.co/8jv37TlIJo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MERRY_SPOOKY_XMAS",
+					"indices": [
+						5,
+						23
+					]
+				},
+				{
+					"text": "자우림콘서트",
+					"indices": [
+						77,
+						84
+					]
+				},
+				{
+					"text": "紫雨林",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "Jaurim",
+					"indices": [
+						169,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1600790221515153400,
+					"id_str": "1600790221515153408",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FjcmOaFUYAAzzPT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjcmOaFUYAAzzPT.jpg",
+					"url": "https://t.co/8jv37TlIJo",
+					"display_url": "pic.twitter.com/8jv37TlIJo",
+					"expanded_url": "https://twitter.com/love_yuna/status/1600790228133781505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1600790221515153400,
+					"id_str": "1600790221515153408",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FjcmOaFUYAAzzPT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjcmOaFUYAAzzPT.jpg",
+					"url": "https://t.co/8jv37TlIJo",
+					"display_url": "pic.twitter.com/8jv37TlIJo",
+					"expanded_url": "https://twitter.com/love_yuna/status/1600790228133781505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1600790221477490700,
+					"id_str": "1600790221477490688",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FjcmOZ8VsAAIQBd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjcmOZ8VsAAIQBd.jpg",
+					"url": "https://t.co/8jv37TlIJo",
+					"display_url": "pic.twitter.com/8jv37TlIJo",
+					"expanded_url": "https://twitter.com/love_yuna/status/1600790228133781505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1600790221481685000,
+					"id_str": "1600790221481684997",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FjcmOZ9VsAUPlO_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjcmOZ9VsAUPlO_.jpg",
+					"url": "https://t.co/8jv37TlIJo",
+					"display_url": "pic.twitter.com/8jv37TlIJo",
+					"expanded_url": "https://twitter.com/love_yuna/status/1600790228133781505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1791,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 965,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1600790221490045000,
+					"id_str": "1600790221490044929",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FjcmOZ_VQAEfRVY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjcmOZ_VQAEfRVY.jpg",
+					"url": "https://t.co/8jv37TlIJo",
+					"display_url": "pic.twitter.com/8jv37TlIJo",
+					"expanded_url": "https://twitter.com/love_yuna/status/1600790228133781505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275835,
+			"friends_count": 607,
+			"listed_count": 2727,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1587350693115199488/WeM4899U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587350693115199488/WeM4899U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1667288883",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 122,
+		"favorite_count": 166,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내일부터\n#MERRY_SPOOKY_XMAS\n공연장에서 \n여러분을 기다리고 있을 것이다!! \n핸드볼 경기장은\n무대-객석이 엄청 가까움!😆\n\n#자우림콘서트 \n@올림픽공원핸드볼경기장\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟫 ( 금) 𝟪𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟢 (토) 𝟨𝖯𝖬\n𝟤𝟢𝟤𝟤. 𝟣𝟤. 𝟣𝟣 (일) 𝟧𝖯𝖬\n\n #紫雨林 #Jaurim https://t.co/8jv37TlIJo"
+	},
+	{
 		"created_at": "Thu Dec 08 09:57:17 +0000 2022",
 		"id": 1600777249019793400,
 		"id_str": "1600791618998521856",
