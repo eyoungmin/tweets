@@ -1,6 +1,481 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Thu Dec 08 00:55:12 +0000 2022",
+		"id": 1600641819775500300,
+		"id_str": "1600655196706594816",
+		"full_text": "▪️LP\n• 정규 11집 [영원한 사랑] : 55,000원\n• 정규 10집 [자우림] : 41,000원\n• 정규 9집 [Goodbye, gri",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1600641818152276000,
+		"in_reply_to_status_id_str": "1600641818152275969",
+		"in_reply_to_user_id": 923507155860299800,
+		"in_reply_to_user_id_str": "923507155860299776",
+		"in_reply_to_screen_name": "JaurimOfficial",
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "▼ 𝙅𝗔𝗨𝗥𝗜𝗠 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗔𝗹𝗯𝘂𝗺 【 𝗠𝗘𝗥𝗥𝗬 𝗦𝗣𝗢𝗢𝗞𝗬 𝗫-𝗠𝗔𝗦 】 예약 판매 오픈",
+			"url": "https://t.co/ALtoOX8MmM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ALtoOX8MmM",
+							"expanded_url": "http://inpk.kr/sexB",
+							"display_url": "inpk.kr/sexB",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4672,
+			"friends_count": 5,
+			"listed_count": 29,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1669787144",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "▪️LP\n• 정규 11집 [영원한 사랑] : 55,000원\n• 정규 10집 [자우림] : 41,000원\n• 정규 9집 [Goodbye, gri"
+	},
+	{
+		"created_at": "Thu Dec 08 00:55:11 +0000 2022",
+		"id": 1600641815342116900,
+		"id_str": "1600655193116246017",
+		"full_text": "❤️앨범 및 MD 판매 안내❤️\n\n▪️MD\n• MERRY SPOOKY X-MAS 후디(M/L/XL) : 69,000원\n• MERRY SPOOKY X-MAS 포토카드(10종) + 스티커(4종) : 20,000원\n• MERRY SPOOKY X-MAS 소형 포스터(5종) : 13,000원\n• HAPPY 25th JAURIM 티셔츠(M/L/XL) : 33,000원\n• 자우림 타월 슬로건 : 15,000원 https://t.co/DFQWyWIbDa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1600641806995071000,
+					"id_str": "1600641806995070976",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FjafPi6UoAANLKT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjafPi6UoAANLKT.jpg",
+					"url": "https://t.co/DFQWyWIbDa",
+					"display_url": "pic.twitter.com/DFQWyWIbDa",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1600641815342116865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1600641806995071000,
+					"id_str": "1600641806995070976",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FjafPi6UoAANLKT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjafPi6UoAANLKT.jpg",
+					"url": "https://t.co/DFQWyWIbDa",
+					"display_url": "pic.twitter.com/DFQWyWIbDa",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1600641815342116865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1600641807028609000,
+					"id_str": "1600641807028609024",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FjafPjCUYAAlan-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjafPjCUYAAlan-.jpg",
+					"url": "https://t.co/DFQWyWIbDa",
+					"display_url": "pic.twitter.com/DFQWyWIbDa",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1600641815342116865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1600641806995112000,
+					"id_str": "1600641806995111936",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FjafPi6VQAAkW8P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjafPi6VQAAkW8P.jpg",
+					"url": "https://t.co/DFQWyWIbDa",
+					"display_url": "pic.twitter.com/DFQWyWIbDa",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1600641815342116865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1600641807003488300,
+					"id_str": "1600641807003488256",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FjafPi8VEAASmaU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjafPi8VEAASmaU.jpg",
+					"url": "https://t.co/DFQWyWIbDa",
+					"display_url": "pic.twitter.com/DFQWyWIbDa",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1600641815342116865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "▼ 𝙅𝗔𝗨𝗥𝗜𝗠 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗔𝗹𝗯𝘂𝗺 【 𝗠𝗘𝗥𝗥𝗬 𝗦𝗣𝗢𝗢𝗞𝗬 𝗫-𝗠𝗔𝗦 】 예약 판매 오픈",
+			"url": "https://t.co/ALtoOX8MmM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ALtoOX8MmM",
+							"expanded_url": "http://inpk.kr/sexB",
+							"display_url": "inpk.kr/sexB",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4672,
+			"friends_count": 5,
+			"listed_count": 29,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1669787144",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤️앨범 및 MD 판매 안내❤️\n\n▪️MD\n• MERRY SPOOKY X-MAS 후디(M/L/XL) : 69,000원\n• MERRY SPOOKY X-MAS 포토카드(10종) + 스티커(4종) : 20,000원\n• MERRY SPOOKY X-MAS 소형 포스터(5종) : 13,000원\n• HAPPY 25th JAURIM 티셔츠(M/L/XL) : 33,000원\n• 자우림 타월 슬로건 : 15,000원 https://t.co/DFQWyWIbDa"
+	},
+	{
+		"created_at": "Thu Dec 08 00:55:11 +0000 2022",
+		"id": 1600641821084127200,
+		"id_str": "1600655192961130497",
+		"full_text": "* 운영 시간 : 공연 시작 3시간 전 ~ 공연 종료 후 30분까지\n* 카드 결제만 가능합니다.\n* 단순 변심으로 인한 교환 및 환불은 불가합니다.\n\n🎁 𝗖𝗼𝗻𝗰𝗲𝗿𝘁\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟵-𝟭𝟭 / 𝗦𝗲𝗼𝘂𝗹\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟯𝟬-𝟯𝟭 / 𝗕𝘂𝘀𝗮𝗻\n𝟮𝟬𝟮𝟯. 𝟭. 𝟳 / 𝗚𝘄𝗮𝗻𝗴𝗷𝘂",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1600641819775500300,
+		"in_reply_to_status_id_str": "1600641819775500290",
+		"in_reply_to_user_id": 923507155860299800,
+		"in_reply_to_user_id_str": "923507155860299776",
+		"in_reply_to_screen_name": "JaurimOfficial",
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "▼ 𝙅𝗔𝗨𝗥𝗜𝗠 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗔𝗹𝗯𝘂𝗺 【 𝗠𝗘𝗥𝗥𝗬 𝗦𝗣𝗢𝗢𝗞𝗬 𝗫-𝗠𝗔𝗦 】 예약 판매 오픈",
+			"url": "https://t.co/ALtoOX8MmM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ALtoOX8MmM",
+							"expanded_url": "http://inpk.kr/sexB",
+							"display_url": "inpk.kr/sexB",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4672,
+			"friends_count": 5,
+			"listed_count": 29,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1669787144",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "* 운영 시간 : 공연 시작 3시간 전 ~ 공연 종료 후 30분까지\n* 카드 결제만 가능합니다.\n* 단순 변심으로 인한 교환 및 환불은 불가합니다.\n\n🎁 𝗖𝗼𝗻𝗰𝗲𝗿𝘁\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟵-𝟭𝟭 / 𝗦𝗲𝗼𝘂𝗹\n𝟮𝟬𝟮𝟮. 𝟭𝟮. 𝟯𝟬-𝟯𝟭 / 𝗕𝘂𝘀𝗮𝗻\n𝟮𝟬𝟮𝟯. 𝟭. 𝟳 / 𝗚𝘄𝗮𝗻𝗴𝗷𝘂"
+	},
+	{
 		"created_at": "Wed Dec 07 15:25:22 +0000 2022",
 		"id": 1600498871968440300,
 		"id_str": "1600511792425246721",
