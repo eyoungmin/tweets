@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Fri Dec 09 15:13:17 +0000 2022",
+		"id": 1601232181338464300,
+		"id_str": "1601233528686985216",
+		"full_text": "2022 Winter SMTOWN : SMCU PALACE\n\nRed Velvet, aespa - 'Beautiful Christmas'\n\n➫ 2022.12.14 6PM (KST)\n\n#SMTOWN2023 #SMCU_PALACE \n#2022_WINTER_SMTOWN \n#SMTOWN #SMTOWN_LIVE #SMCU\n#BeautifulChristmas #RedVelvet #aespa \n#YERI\n\nhttps://t.co/HbZlx5tLZG https://t.co/ATyANpEWUK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN2023",
+					"indices": [
+						101,
+						112
+					]
+				},
+				{
+					"text": "SMCU_PALACE",
+					"indices": [
+						113,
+						125
+					]
+				},
+				{
+					"text": "2022_WINTER_SMTOWN",
+					"indices": [
+						127,
+						146
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						148,
+						155
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						156,
+						168
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						169,
+						174
+					]
+				},
+				{
+					"text": "BeautifulChristmas",
+					"indices": [
+						175,
+						194
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						195,
+						205
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						206,
+						212
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						214,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HbZlx5tLZG",
+					"expanded_url": "http://smtown.lnk.to/SMCU_PALACE",
+					"display_url": "smtown.lnk.to/SMCU_PALACE",
+					"indices": [
+						221,
+						244
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1601232175311224800,
+					"id_str": "1601232175311224834",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/Fji4LgRaAAIEIbc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fji4LgRaAAIEIbc.jpg",
+					"url": "https://t.co/ATyANpEWUK",
+					"display_url": "pic.twitter.com/ATyANpEWUK",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1601232181338464258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1601232175311224800,
+					"id_str": "1601232175311224834",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/Fji4LgRaAAIEIbc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fji4LgRaAAIEIbc.jpg",
+					"url": "https://t.co/ATyANpEWUK",
+					"display_url": "pic.twitter.com/ATyANpEWUK",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1601232181338464258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5780351,
+			"friends_count": 2,
+			"listed_count": 11566,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3148,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10687,
+		"favorite_count": 18956,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2022 Winter SMTOWN : SMCU PALACE\n\nRed Velvet, aespa - 'Beautiful Christmas'\n\n➫ 2022.12.14 6PM (KST)\n\n#SMTOWN2023 #SMCU_PALACE \n#2022_WINTER_SMTOWN \n#SMTOWN #SMTOWN_LIVE #SMCU\n#BeautifulChristmas #RedVelvet #aespa \n#YERI\n\nhttps://t.co/HbZlx5tLZG https://t.co/ATyANpEWUK"
+	},
+	{
 		"created_at": "Fri Dec 09 12:13:15 +0000 2022",
 		"id": 1601177813104873500,
 		"id_str": "1601188222431657986",
