@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sat Dec 10 09:49:44 +0000 2022",
+		"id": 1601501981096427500,
+		"id_str": "1601514493145624576",
+		"full_text": "겨울 아우터 안에 입기 좋은 원피스부터 스커트까지! 셀럽이 입은 체크 패턴 아이템 5.\n#미연 @G_I_DLE #여자아이들 @cubeunited #김나영 #효민 #김민주 #제니 @ygofficialblink #블랙핑크 @ygent_official \nhttps://t.co/H44F1NpeVp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미연",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "여자아이들",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "김나영",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "효민",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "김민주",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						116,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "G_I_DLE",
+					"name": "(G)I-DLE·(여자)아이들",
+					"id": 967000437797761000,
+					"id_str": "967000437797761024",
+					"indices": [
+						53,
+						61
+					]
+				},
+				{
+					"screen_name": "cubeunited",
+					"name": "CUBE ENTERTAINMENT",
+					"id": 346604946,
+					"id_str": "346604946",
+					"indices": [
+						69,
+						80
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						99,
+						115
+					]
+				},
+				{
+					"screen_name": "ygent_official",
+					"name": "YG FAMILY",
+					"id": 408177579,
+					"id_str": "408177579",
+					"indices": [
+						122,
+						137
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/H44F1NpeVp",
+					"expanded_url": "https://www.allurekorea.com/2022/08/31/%ea%b0%80%ec%9d%84-%eb%8a%90%eb%82%8c-%eb%82%ad%eb%82%ad%ed%95%9c-%ec%b2%b4%ed%81%ac-%ed%8c%a8%ed%84%b4-%ec%9e%85%ea%b8%b0/?ddw=125724&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2022/08/31/%ea…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38182,
+			"friends_count": 1,
+			"listed_count": 303,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1668746717",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "겨울 아우터 안에 입기 좋은 원피스부터 스커트까지! 셀럽이 입은 체크 패턴 아이템 5.\n#미연 @G_I_DLE #여자아이들 @cubeunited #김나영 #효민 #김민주 #제니 @ygofficialblink #블랙핑크 @ygent_official \nhttps://t.co/H44F1NpeVp"
+	},
+	{
 		"created_at": "Sat Dec 10 08:13:26 +0000 2022",
 		"id": 1601488536678830000,
 		"id_str": "1601490258603831296",
