@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sat Dec 10 07:25:07 +0000 2022",
+		"id": 1601468894421848000,
+		"id_str": "1601478099413061632",
+		"full_text": "레드벨벳X에스파 뭉쳤다!\nSMTOWN 겨울 앨범 타이틀곡 ‘Beautiful Christmas’ 14일 선공개!\n크리스마스 설렘 증폭!\n\nhttps://t.co/7ZwDmaYLXt\n\n#SMTOWN2023 #SMCU_PALACE \n#2022_WINTER_SMTOWN \n#SMTOWN #SMTOWN_LIVE #SMCU\n#BeautifulChristmas #RedVelvet #aespa https://t.co/rtJPPLrjqg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN2023",
+					"indices": [
+						102,
+						113
+					]
+				},
+				{
+					"text": "SMCU_PALACE",
+					"indices": [
+						114,
+						126
+					]
+				},
+				{
+					"text": "2022_WINTER_SMTOWN",
+					"indices": [
+						128,
+						147
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						149,
+						156
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						157,
+						169
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "BeautifulChristmas",
+					"indices": [
+						176,
+						195
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						196,
+						206
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						207,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7ZwDmaYLXt",
+					"expanded_url": "https://bit.ly/3hh2prQ",
+					"display_url": "bit.ly/3hh2prQ",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1601468878663532500,
+					"id_str": "1601468878663532544",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/FjmPdc-VQAA3ylF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjmPdc-VQAA3ylF.jpg",
+					"url": "https://t.co/rtJPPLrjqg",
+					"display_url": "pic.twitter.com/rtJPPLrjqg",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1601468894421848065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1601468878663532500,
+					"id_str": "1601468878663532544",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/FjmPdc-VQAA3ylF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjmPdc-VQAA3ylF.jpg",
+					"url": "https://t.co/rtJPPLrjqg",
+					"display_url": "pic.twitter.com/rtJPPLrjqg",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1601468894421848065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1601468878655090700,
+					"id_str": "1601468878655090688",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/FjmPdc8UcAAogdH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjmPdc8UcAAogdH.jpg",
+					"url": "https://t.co/rtJPPLrjqg",
+					"display_url": "pic.twitter.com/rtJPPLrjqg",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1601468894421848065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1012,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11315269,
+			"friends_count": 56,
+			"listed_count": 12823,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13368,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4358,
+		"favorite_count": 11827,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳X에스파 뭉쳤다!\nSMTOWN 겨울 앨범 타이틀곡 ‘Beautiful Christmas’ 14일 선공개!\n크리스마스 설렘 증폭!\n\nhttps://t.co/7ZwDmaYLXt\n\n#SMTOWN2023 #SMCU_PALACE \n#2022_WINTER_SMTOWN \n#SMTOWN #SMTOWN_LIVE #SMCU\n#BeautifulChristmas #RedVelvet #aespa https://t.co/rtJPPLrjqg"
+	},
+	{
 		"created_at": "Sat Dec 10 04:49:39 +0000 2022",
 		"id": 1601436020461146000,
 		"id_str": "1601438974391697408",
