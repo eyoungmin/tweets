@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sun Dec 11 13:13:42 +0000 2022",
+		"id": 1601924912003752000,
+		"id_str": "1601928211465588736",
+		"full_text": "Red Velvet 레드벨벳 ‘Birthday’ Dance Practice Behind I RV Collection\n\nhttps://t.co/4yK0xq0phd\n\n#The_ReVe_Festival_2022\n#Birthday #벌스데이\n#레드벨벳 #RedVelvet\n#비하인드 #Behind \n#RV_Collection #레벨컬렉션 https://t.co/ibDqv0mSKu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "The_ReVe_Festival_2022",
+					"indices": [
+						91,
+						114
+					]
+				},
+				{
+					"text": "Birthday",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "벌스데이",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						137,
+						147
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "Behind",
+					"indices": [
+						154,
+						161
+					]
+				},
+				{
+					"text": "RV_Collection",
+					"indices": [
+						163,
+						177
+					]
+				},
+				{
+					"text": "레벨컬렉션",
+					"indices": [
+						178,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4yK0xq0phd",
+					"expanded_url": "https://youtu.be/KrMm0fpcGcU",
+					"display_url": "youtu.be/KrMm0fpcGcU",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1601924903266943000,
+					"id_str": "1601924903266942977",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FjsuNlAUAAEwc37.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjsuNlAUAAEwc37.jpg",
+					"url": "https://t.co/ibDqv0mSKu",
+					"display_url": "pic.twitter.com/ibDqv0mSKu",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1601924912003751936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1601924903266943000,
+					"id_str": "1601924903266942977",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FjsuNlAUAAEwc37.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjsuNlAUAAEwc37.jpg",
+					"url": "https://t.co/ibDqv0mSKu",
+					"display_url": "pic.twitter.com/ibDqv0mSKu",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1601924912003751936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5787586,
+			"friends_count": 2,
+			"listed_count": 11566,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4225,
+		"favorite_count": 9296,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet 레드벨벳 ‘Birthday’ Dance Practice Behind I RV Collection\n\nhttps://t.co/4yK0xq0phd\n\n#The_ReVe_Festival_2022\n#Birthday #벌스데이\n#레드벨벳 #RedVelvet\n#비하인드 #Behind \n#RV_Collection #레벨컬렉션 https://t.co/ibDqv0mSKu"
+	},
+	{
 		"created_at": "Sun Dec 11 09:13:40 +0000 2022",
 		"id": 1601857157204705300,
 		"id_str": "1601867806206631943",
