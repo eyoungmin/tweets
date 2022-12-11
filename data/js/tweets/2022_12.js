@@ -1,6 +1,170 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sun Dec 11 03:49:55 +0000 2022",
+		"id": 1601777358910128000,
+		"id_str": "1601786329146134529",
+		"full_text": "요즘 트렌드를 빠르게 알아보는 방법은? 힙한 아이돌의 인스타에 접속해 데일리 룩을 살펴보는 것!\n#나연 #제니 #슬기 #현아 #TWICE #BLACKPINK #RedVelvet #HyunA \nhttps://t.co/eiTO1Xmcw0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나연",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "현아",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "TWICE",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						88,
+						98
+					]
+				},
+				{
+					"text": "HyunA",
+					"indices": [
+						99,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eiTO1Xmcw0",
+					"expanded_url": "https://www.wkorea.com/2022/11/01/%ec%98%b7-%ec%9e%98-%ec%9e%85%eb%8a%94-%ea%b7%b8%eb%85%80%eb%93%a4/?ddw=131876&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2022/11/01/%ec…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5xzw0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5xzw0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315945,
+			"friends_count": 0,
+			"listed_count": 856,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1669515424",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "요즘 트렌드를 빠르게 알아보는 방법은? 힙한 아이돌의 인스타에 접속해 데일리 룩을 살펴보는 것!\n#나연 #제니 #슬기 #현아 #TWICE #BLACKPINK #RedVelvet #HyunA \nhttps://t.co/eiTO1Xmcw0"
+	},
+	{
 		"created_at": "Sat Dec 10 15:13:30 +0000 2022",
 		"id": 1601594296159047700,
 		"id_str": "1601595969694375937",
