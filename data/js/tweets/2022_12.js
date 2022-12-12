@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Mon Dec 12 09:50:31 +0000 2022",
+		"id": 1602226753648197600,
+		"id_str": "1602239466722054144",
+		"full_text": "[📹] #C_HAind\n시끌벅적 리허설 가는 길(Feat. 그래도 웃자~) \n\n▶️ https://t.co/ykNl1EdaE6\n\n#청하 #CHUNGHA https://t.co/Bm9LWQvq75",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "C_HAind",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						76,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ykNl1EdaE6",
+					"expanded_url": "https://youtu.be/tQ9GEsU0sXg",
+					"display_url": "youtu.be/tQ9GEsU0sXg",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1602116865324904400,
+					"id_str": "1602116865324904449",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1602116865324904449/pu/img/3HvWtAOt7wpNsBn3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1602116865324904449/pu/img/3HvWtAOt7wpNsBn3.jpg",
+					"url": "https://t.co/Bm9LWQvq75",
+					"display_url": "pic.twitter.com/Bm9LWQvq75",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1602226753648197632/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1602116865324904400,
+					"id_str": "1602116865324904449",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1602116865324904449/pu/img/3HvWtAOt7wpNsBn3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1602116865324904449/pu/img/3HvWtAOt7wpNsBn3.jpg",
+					"url": "https://t.co/Bm9LWQvq75",
+					"display_url": "pic.twitter.com/Bm9LWQvq75",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1602226753648197632/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 49349,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1602116865324904449/pu/pl/luubG-zJwfas3sVv.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1602116865324904449/pu/vid/1280x720/AkyBxG6DASnX4ikS.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1602116865324904449/pu/vid/480x270/OLOOr0RbxuxQz4QU.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1602116865324904449/pu/vid/640x360/Bofa3fdnikYD28zk.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 355019,
+			"friends_count": 1,
+			"listed_count": 2217,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 111,
+		"favorite_count": 343,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📹] #C_HAind\n시끌벅적 리허설 가는 길(Feat. 그래도 웃자~) \n\n▶️ https://t.co/ykNl1EdaE6\n\n#청하 #CHUNGHA https://t.co/Bm9LWQvq75"
+	},
+	{
 		"created_at": "Mon Dec 12 06:58:20 +0000 2022",
 		"id": 1602181485410549800,
 		"id_str": "1602196132515311616",
