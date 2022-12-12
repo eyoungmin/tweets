@@ -1,10 +1,259 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Mon Dec 12 02:25:41 +0000 2022",
+		"id": 1602115064806244400,
+		"id_str": "1602127520379203584",
+		"full_text": "레드벨벳X에스파표 캐롤 ‘Beautiful Christmas’로 올 겨울 접수 예고! 러블리 산타걸로 변신한 MV 티저 13일 0시 공개! 특급 컬래버레이션 기대감 증폭!\n\nhttps://t.co/I5Z3cEh8Zv\n\n#SMTOWN2023 #SMCU_PALACE \n#2022_WINTER_SMTOWN #SMTOWN #SMTOWN_LIVE #SMCU\n#BeautifulChristmas #RedVelvet #aespa https://t.co/bbQ0Wa6lva",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN2023",
+					"indices": [
+						122,
+						133
+					]
+				},
+				{
+					"text": "SMCU_PALACE",
+					"indices": [
+						134,
+						146
+					]
+				},
+				{
+					"text": "2022_WINTER_SMTOWN",
+					"indices": [
+						148,
+						167
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						168,
+						175
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						176,
+						188
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						189,
+						194
+					]
+				},
+				{
+					"text": "BeautifulChristmas",
+					"indices": [
+						195,
+						214
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						215,
+						225
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						226,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I5Z3cEh8Zv",
+					"expanded_url": "https://bit.ly/3iTUy3X",
+					"display_url": "bit.ly/3iTUy3X",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1602115056866496500,
+					"id_str": "1602115056866496513",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FjvbJ-XVEAEMgeP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjvbJ-XVEAEMgeP.jpg",
+					"url": "https://t.co/bbQ0Wa6lva",
+					"display_url": "pic.twitter.com/bbQ0Wa6lva",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1602115064806244353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1602115056866496500,
+					"id_str": "1602115056866496513",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FjvbJ-XVEAEMgeP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjvbJ-XVEAEMgeP.jpg",
+					"url": "https://t.co/bbQ0Wa6lva",
+					"display_url": "pic.twitter.com/bbQ0Wa6lva",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1602115064806244353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11318981,
+			"friends_count": 56,
+			"listed_count": 12814,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13391,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1935,
+		"favorite_count": 5789,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳X에스파표 캐롤 ‘Beautiful Christmas’로 올 겨울 접수 예고! 러블리 산타걸로 변신한 MV 티저 13일 0시 공개! 특급 컬래버레이션 기대감 증폭!\n\nhttps://t.co/I5Z3cEh8Zv\n\n#SMTOWN2023 #SMCU_PALACE \n#2022_WINTER_SMTOWN #SMTOWN #SMTOWN_LIVE #SMCU\n#BeautifulChristmas #RedVelvet #aespa https://t.co/bbQ0Wa6lva"
+	},
+	{
 		"created_at": "Sun Dec 11 15:13:44 +0000 2022",
 		"id": 1601950997244674000,
 		"id_str": "1601958418956230656",
-		"full_text": "러비들과 함께한 2주간의 Birthday Party🎂\n덕분에 즐겁게 활동했어요~~\n늘 고마워요 러비들❤️‍🔥\n감기 조심하고 또 만나요😉 https://t.co/IxZVhSHUjv",
+		"full_text": "러비들과 함께한 2주간의 Birthday Party🎂\n덕분에 즐겁게 활동했어요~~\n늘 고마워요 러비들❤️🔥\n감기 조심하고 또 만나요😉 https://t.co/IxZVhSHUjv",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -245,7 +494,7 @@ Grailbird.data.tweets_2022_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "러비들과 함께한 2주간의 Birthday Party🎂\n덕분에 즐겁게 활동했어요~~\n늘 고마워요 러비들❤️‍🔥\n감기 조심하고 또 만나요😉 https://t.co/IxZVhSHUjv"
+		"text": "러비들과 함께한 2주간의 Birthday Party🎂\n덕분에 즐겁게 활동했어요~~\n늘 고마워요 러비들❤️🔥\n감기 조심하고 또 만나요😉 https://t.co/IxZVhSHUjv"
 	},
 	{
 		"created_at": "Sun Dec 11 15:13:43 +0000 2022",
