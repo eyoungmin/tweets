@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Mon Dec 12 15:25:48 +0000 2022",
+		"id": 1602317459427451000,
+		"id_str": "1602323844622012417",
+		"full_text": "Red Velvet X aespa 'Beautiful Christmas' MV Teaser\n\n2022 Winter SMTOWN : SMCU PALACE \n#RedVelvet, #aespa - 'Beautiful Christmas'\n\n➫ 2022.12.14 6PM (KST)\n\nhttps://t.co/DydXjCB4VC\n\n#SMTOWN2023 #SMCU_PALACE #2022_WINTER_SMTOWN #SMTOWN #SMTOWN_LIVE #SMCU #BeautifulChristmas https://t.co/maEQUeXtts",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "SMTOWN2023",
+					"indices": [
+						179,
+						190
+					]
+				},
+				{
+					"text": "SMCU_PALACE",
+					"indices": [
+						191,
+						203
+					]
+				},
+				{
+					"text": "2022_WINTER_SMTOWN",
+					"indices": [
+						204,
+						223
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						224,
+						231
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						232,
+						244
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						245,
+						250
+					]
+				},
+				{
+					"text": "BeautifulChristmas",
+					"indices": [
+						251,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DydXjCB4VC",
+					"expanded_url": "https://youtu.be/bHekFBpgbd0",
+					"display_url": "youtu.be/bHekFBpgbd0",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1602317372391506000,
+					"id_str": "1602317372391505920",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1602317372391505920/pu/img/7Xjtv98jRB1WLUdq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1602317372391505920/pu/img/7Xjtv98jRB1WLUdq.jpg",
+					"url": "https://t.co/maEQUeXtts",
+					"display_url": "pic.twitter.com/maEQUeXtts",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1602317459427450880/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1602317372391506000,
+					"id_str": "1602317372391505920",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1602317372391505920/pu/img/7Xjtv98jRB1WLUdq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1602317372391505920/pu/img/7Xjtv98jRB1WLUdq.jpg",
+					"url": "https://t.co/maEQUeXtts",
+					"display_url": "pic.twitter.com/maEQUeXtts",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1602317459427450880/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 24358,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1602317372391505920/pu/vid/1280x720/PEulzKUCbyFHdt1s.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1602317372391505920/pu/pl/kjmlmC6U4LGPXvlI.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1602317372391505920/pu/vid/480x270/e25hs1GSy_Pexn1u.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1602317372391505920/pu/vid/640x360/kdZTrq6CNXHWVCtI.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11320282,
+			"friends_count": 56,
+			"listed_count": 12814,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5749,
+		"favorite_count": 9752,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet X aespa 'Beautiful Christmas' MV Teaser\n\n2022 Winter SMTOWN : SMCU PALACE \n#RedVelvet, #aespa - 'Beautiful Christmas'\n\n➫ 2022.12.14 6PM (KST)\n\nhttps://t.co/DydXjCB4VC\n\n#SMTOWN2023 #SMCU_PALACE #2022_WINTER_SMTOWN #SMTOWN #SMTOWN_LIVE #SMCU #BeautifulChristmas https://t.co/maEQUeXtts"
+	},
+	{
 		"created_at": "Mon Dec 12 15:13:57 +0000 2022",
 		"id": 1602317356948070400,
 		"id_str": "1602320859468689409",
