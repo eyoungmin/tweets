@@ -1,6 +1,128 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Tue Dec 13 07:50:27 +0000 2022",
+		"id": 1602558210522562600,
+		"id_str": "1602571638884605952",
+		"full_text": "블랙핑크 지수, '햄식이' 크리스 헴스워스 등 크리스마스에 진심인 셀럽들이 연말을 즐기는 방식🎄\n#크리스마스 #Christmas \nhttps://t.co/FzVa265Y1r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "크리스마스",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "Christmas",
+					"indices": [
+						61,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FzVa265Y1r",
+					"expanded_url": "https://www.wkorea.com/2022/12/13/%ec%85%80%eb%9f%bd%eb%93%a4%ec%9d%b4-%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%eb%a5%bc-%ec%a6%90%ea%b8%b0%eb%8a%94-%eb%b0%a9%ec%8b%9d/?ddw=132063&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2022/12/13/%ec…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5xzw0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5xzw0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316001,
+			"friends_count": 0,
+			"listed_count": 856,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1669515424",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블랙핑크 지수, '햄식이' 크리스 헴스워스 등 크리스마스에 진심인 셀럽들이 연말을 즐기는 방식🎄\n#크리스마스 #Christmas \nhttps://t.co/FzVa265Y1r"
+	},
+	{
 		"created_at": "Tue Dec 13 03:10:33 +0000 2022",
 		"id": 1602498556857819100,
 		"id_str": "1602501199164383232",
