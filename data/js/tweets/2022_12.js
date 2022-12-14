@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 14 08:58:50 +0000 2022",
+		"id": 1602943454413475800,
+		"id_str": "1602951237074157568",
+		"full_text": "새로운 Apple Music Sing과 함께 #BLACKPINK 의 음악을 따라 불러보세요!\nSing along to our songs on 'Sing: K-Pop playlist' on @AppleMusic\n\n🎙🎶 https://t.co/s6dlS2jhNg https://t.co/58JHGpDmZ9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						25,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						105,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/s6dlS2jhNg",
+					"expanded_url": "http://apple.co/SingK-Pop",
+					"display_url": "apple.co/SingK-Pop",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1602943409395994600,
+					"id_str": "1602943409395994625",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1602943409395994625/pu/img/yNW7ZoPu0BLFh_MX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1602943409395994625/pu/img/yNW7ZoPu0BLFh_MX.jpg",
+					"url": "https://t.co/58JHGpDmZ9",
+					"display_url": "pic.twitter.com/58JHGpDmZ9",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1602943454413475842/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1602943409395994600,
+					"id_str": "1602943409395994625",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1602943409395994625/pu/img/yNW7ZoPu0BLFh_MX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1602943409395994625/pu/img/yNW7ZoPu0BLFh_MX.jpg",
+					"url": "https://t.co/58JHGpDmZ9",
+					"display_url": "pic.twitter.com/58JHGpDmZ9",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1602943454413475842/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15125,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1602943409395994625/pu/vid/320x320/s-FNL2Aeg3sEFEWs.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1602943409395994625/pu/vid/540x540/_gmvPOj4cpOC_84f.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1602943409395994625/pu/vid/720x720/Kd7fCRHMmYwI8lt2.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1602943409395994625/pu/pl/OKYKfAOwgx3Pmemi.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8146719,
+			"friends_count": 0,
+			"listed_count": 7995,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1558,
+		"favorite_count": 5676,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "새로운 Apple Music Sing과 함께 #BLACKPINK 의 음악을 따라 불러보세요!\nSing along to our songs on 'Sing: K-Pop playlist' on @AppleMusic\n\n🎙🎶 https://t.co/s6dlS2jhNg https://t.co/58JHGpDmZ9"
+	},
+	{
 		"created_at": "Wed Dec 14 05:50:44 +0000 2022",
 		"id": 1602891133360562200,
 		"id_str": "1602903896539639808",
