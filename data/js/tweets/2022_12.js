@@ -1,6 +1,434 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 14 02:59:02 +0000 2022",
+		"id": 1602850755362181000,
+		"id_str": "1602860687776043008",
+		"full_text": "레드벨벳과 에스파가 함께 부르는 크리스마스 캐럴.\n#레드벨벳 #에스파 #RedVelvet #Aespa #ChristmasCarol  \nhttps://t.co/tHMmDIZlvP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						28,
+						33
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						39,
+						49
+					]
+				},
+				{
+					"text": "Aespa",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "ChristmasCarol",
+					"indices": [
+						57,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tHMmDIZlvP",
+					"expanded_url": "https://www.wkorea.com/2022/12/14/%eb%a0%88%eb%93%9c%eb%b2%a8%eb%b2%b3%ea%b3%bc-%ec%97%90%ec%8a%a4%ed%8c%8c%ea%b0%80-%eb%b6%80%eb%a5%b4%eb%8a%94-%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4-%ec%ba%90%eb%9f%b4/?ddw=132132&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2022/12/14/%eb…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5xzw0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5xzw0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316022,
+			"friends_count": 0,
+			"listed_count": 856,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14437,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1669515424",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳과 에스파가 함께 부르는 크리스마스 캐럴.\n#레드벨벳 #에스파 #RedVelvet #Aespa #ChristmasCarol  \nhttps://t.co/tHMmDIZlvP"
+	},
+	{
+		"created_at": "Wed Dec 14 02:26:12 +0000 2022",
+		"id": 1602843879367389200,
+		"id_str": "1602852425139777536",
+		"full_text": "레드벨벳X에스파 ‘Beautiful Christmas’, 음원+MV 오늘 오후 6시 공개!\n러블리 비주얼+상큼 보컬로 시너지 UP! SMTOWN 겨울 앨범 기대감 증폭!\n\nhttps://t.co/k0Oj5OHew1\n\n#SMTOWN2023 #SMCU_PALACE \n#2022_WINTER_SMTOWN \n#SMTOWN #SMTOWN_LIVE #SMCU\n#BeautifulChristmas #RedVelvet #aespa https://t.co/xOnNA8xw3n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN2023",
+					"indices": [
+						121,
+						132
+					]
+				},
+				{
+					"text": "SMCU_PALACE",
+					"indices": [
+						133,
+						145
+					]
+				},
+				{
+					"text": "2022_WINTER_SMTOWN",
+					"indices": [
+						147,
+						166
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						168,
+						175
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						176,
+						188
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						189,
+						194
+					]
+				},
+				{
+					"text": "BeautifulChristmas",
+					"indices": [
+						195,
+						214
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						215,
+						225
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						226,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k0Oj5OHew1",
+					"expanded_url": "https://bit.ly/3j1aphc",
+					"display_url": "bit.ly/3j1aphc",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1602843871854985200,
+					"id_str": "1602843871854985216",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/Fj5yAlxUAAA7jjM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fj5yAlxUAAA7jjM.jpg",
+					"url": "https://t.co/xOnNA8xw3n",
+					"display_url": "pic.twitter.com/xOnNA8xw3n",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1602843879367389185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1602843871854985200,
+					"id_str": "1602843871854985216",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/Fj5yAlxUAAA7jjM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fj5yAlxUAAA7jjM.jpg",
+					"url": "https://t.co/xOnNA8xw3n",
+					"display_url": "pic.twitter.com/xOnNA8xw3n",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1602843879367389185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1602843871850860500,
+					"id_str": "1602843871850860545",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/Fj5yAlwVEAESaPA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fj5yAlwVEAESaPA.jpg",
+					"url": "https://t.co/xOnNA8xw3n",
+					"display_url": "pic.twitter.com/xOnNA8xw3n",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1602843879367389185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11322261,
+			"friends_count": 56,
+			"listed_count": 12816,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1499,
+		"favorite_count": 4215,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳X에스파 ‘Beautiful Christmas’, 음원+MV 오늘 오후 6시 공개!\n러블리 비주얼+상큼 보컬로 시너지 UP! SMTOWN 겨울 앨범 기대감 증폭!\n\nhttps://t.co/k0Oj5OHew1\n\n#SMTOWN2023 #SMCU_PALACE \n#2022_WINTER_SMTOWN \n#SMTOWN #SMTOWN_LIVE #SMCU\n#BeautifulChristmas #RedVelvet #aespa https://t.co/xOnNA8xw3n"
+	},
+	{
 		"created_at": "Tue Dec 13 15:09:31 +0000 2022",
 		"id": 1602679749951766500,
 		"id_str": "1602682133285244933",
