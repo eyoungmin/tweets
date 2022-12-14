@@ -1,6 +1,644 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 14 15:16:21 +0000 2022",
+		"id": 1603042139360792600,
+		"id_str": "1603046240110796802",
+		"full_text": "✉️ Welcome to SMCU PALACE\n\nhttps://t.co/xVXP7NTD4W\n\n#SMTOWN2023 #SMCU_PALACE\n#2022_WINTER_SMTOWN\n#SMTOWN #SMTOWN_LIVE #SMCU #KANGTA #BoA #TVXQ! #SUPERJUNIOR #GirlsGeneration #SHINee #EXO #RedVelvet #NCT #NCT127 #NCTDREAM #WayV #aespa https://t.co/Scgtp6AvUC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN2023",
+					"indices": [
+						52,
+						63
+					]
+				},
+				{
+					"text": "SMCU_PALACE",
+					"indices": [
+						64,
+						76
+					]
+				},
+				{
+					"text": "2022_WINTER_SMTOWN",
+					"indices": [
+						77,
+						96
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						97,
+						104
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						105,
+						117
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "KANGTA",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						144,
+						156
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						157,
+						173
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						174,
+						181
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						182,
+						186
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						187,
+						197
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						198,
+						202
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						203,
+						210
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						211,
+						220
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						221,
+						226
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						227,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xVXP7NTD4W",
+					"expanded_url": "http://SMCUPALACE.COM",
+					"display_url": "SMCUPALACE.COM",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1603041146372239400,
+					"id_str": "1603041146372239360",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/Fj8lbenaMAArpgq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fj8lbenaMAArpgq.jpg",
+					"url": "https://t.co/Scgtp6AvUC",
+					"display_url": "pic.twitter.com/Scgtp6AvUC",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1603042139360792577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1603041146372239400,
+					"id_str": "1603041146372239360",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/Fj8lbenaMAArpgq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fj8lbenaMAArpgq.jpg",
+					"url": "https://t.co/Scgtp6AvUC",
+					"display_url": "pic.twitter.com/Scgtp6AvUC",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1603042139360792577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3913120,
+			"friends_count": 5,
+			"listed_count": 6294,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1307,
+		"favorite_count": 2047,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✉️ Welcome to SMCU PALACE\n\nhttps://t.co/xVXP7NTD4W\n\n#SMTOWN2023 #SMCU_PALACE\n#2022_WINTER_SMTOWN\n#SMTOWN #SMTOWN_LIVE #SMCU #KANGTA #BoA #TVXQ! #SUPERJUNIOR #GirlsGeneration #SHINee #EXO #RedVelvet #NCT #NCT127 #NCTDREAM #WayV #aespa https://t.co/Scgtp6AvUC"
+	},
+	{
+		"created_at": "Wed Dec 14 15:14:25 +0000 2022",
+		"id": 1603042129021784000,
+		"id_str": "1603045754146213888",
+		"full_text": "✉️ Welcome to SMCU PALACE\n\nhttps://t.co/5FGko57ieq\n\n#SMTOWN2023 #SMCU_PALACE\n#2022_WINTER_SMTOWN\n#SMTOWN #SMTOWN_LIVE #SMCU #KANGTA #BoA #TVXQ! #SUPERJUNIOR #GirlsGeneration #SHINee #EXO #RedVelvet #NCT #NCT127 #NCTDREAM #WayV #aespa https://t.co/Y41buC5AzC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN2023",
+					"indices": [
+						52,
+						63
+					]
+				},
+				{
+					"text": "SMCU_PALACE",
+					"indices": [
+						64,
+						76
+					]
+				},
+				{
+					"text": "2022_WINTER_SMTOWN",
+					"indices": [
+						77,
+						96
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						97,
+						104
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						105,
+						117
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "KANGTA",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						144,
+						156
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						157,
+						173
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						174,
+						181
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						182,
+						186
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						187,
+						197
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						198,
+						202
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						203,
+						210
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						211,
+						220
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						221,
+						226
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						227,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5FGko57ieq",
+					"expanded_url": "http://SMCUPALACE.COM",
+					"display_url": "SMCUPALACE.COM",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1603022964274122800,
+					"id_str": "1603022964274122755",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/Fj8U5JBaUAMmAzD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fj8U5JBaUAMmAzD.jpg",
+					"url": "https://t.co/Y41buC5AzC",
+					"display_url": "pic.twitter.com/Y41buC5AzC",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1603042129021784065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1603022964274122800,
+					"id_str": "1603022964274122755",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/Fj8U5JBaUAMmAzD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fj8U5JBaUAMmAzD.jpg",
+					"url": "https://t.co/Y41buC5AzC",
+					"display_url": "pic.twitter.com/Y41buC5AzC",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1603042129021784065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5793116,
+			"friends_count": 2,
+			"listed_count": 11556,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2121,
+		"favorite_count": 4533,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✉️ Welcome to SMCU PALACE\n\nhttps://t.co/5FGko57ieq\n\n#SMTOWN2023 #SMCU_PALACE\n#2022_WINTER_SMTOWN\n#SMTOWN #SMTOWN_LIVE #SMCU #KANGTA #BoA #TVXQ! #SUPERJUNIOR #GirlsGeneration #SHINee #EXO #RedVelvet #NCT #NCT127 #NCTDREAM #WayV #aespa https://t.co/Y41buC5AzC"
+	},
+	{
 		"created_at": "Wed Dec 14 13:26:19 +0000 2022",
 		"id": 1603017613046530000,
 		"id_str": "1603018551295475713",
