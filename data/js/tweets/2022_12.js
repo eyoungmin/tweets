@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 14 13:26:19 +0000 2022",
+		"id": 1603017613046530000,
+		"id_str": "1603018551295475713",
+		"full_text": "🎁 Everybody Come Have Yourself a Beautiful Christmas 🎄\n \nhttps://t.co/6mVFEmHVt2 \n\n#RedVelvet #aespa\n#SMTOWN2023 #SMCU_PALACE #2022_WINTER_SMTOWN #SMTOWN #SMTOWN_LIVE #SMCU #BeautifulChristmas",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "SMTOWN2023",
+					"indices": [
+						101,
+						112
+					]
+				},
+				{
+					"text": "SMCU_PALACE",
+					"indices": [
+						113,
+						125
+					]
+				},
+				{
+					"text": "2022_WINTER_SMTOWN",
+					"indices": [
+						126,
+						145
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						146,
+						153
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						154,
+						166
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "BeautifulChristmas",
+					"indices": [
+						173,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6mVFEmHVt2",
+					"expanded_url": "https://www.instagram.com/reel/CmJjcIODVWd/?igshid=YmMyMTA2M2Y=",
+					"display_url": "instagram.com/reel/CmJjcIODV…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11323551,
+			"friends_count": 56,
+			"listed_count": 12814,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1622,
+		"favorite_count": 4081,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎁 Everybody Come Have Yourself a Beautiful Christmas 🎄\n \nhttps://t.co/6mVFEmHVt2 \n\n#RedVelvet #aespa\n#SMTOWN2023 #SMCU_PALACE #2022_WINTER_SMTOWN #SMTOWN #SMTOWN_LIVE #SMCU #BeautifulChristmas"
+	},
+	{
+		"created_at": "Wed Dec 14 13:26:19 +0000 2022",
+		"id": 1603017710434062300,
+		"id_str": "1603018549894660097",
+		"full_text": "The best time of the year✨\n\nhttps://t.co/zt14YyB64v \n\n#IRENE #WINTER #RedVelvet #aespa #SMTOWN2023 #SMCU_PALACE #2022_WINTER_SMTOWN #SMTOWN #SMTOWN_LIVE #SMCU #BeautifulChristmas",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IRENE",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						61,
+						68
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						69,
+						79
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "SMTOWN2023",
+					"indices": [
+						87,
+						98
+					]
+				},
+				{
+					"text": "SMCU_PALACE",
+					"indices": [
+						99,
+						111
+					]
+				},
+				{
+					"text": "2022_WINTER_SMTOWN",
+					"indices": [
+						112,
+						131
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						132,
+						139
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						140,
+						152
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "BeautifulChristmas",
+					"indices": [
+						159,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zt14YyB64v",
+					"expanded_url": "https://vt.tiktok.com/ZS8FLwXcp/",
+					"display_url": "vt.tiktok.com/ZS8FLwXcp/",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11323551,
+			"friends_count": 56,
+			"listed_count": 12814,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2430,
+		"favorite_count": 5358,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The best time of the year✨\n\nhttps://t.co/zt14YyB64v \n\n#IRENE #WINTER #RedVelvet #aespa #SMTOWN2023 #SMCU_PALACE #2022_WINTER_SMTOWN #SMTOWN #SMTOWN_LIVE #SMCU #BeautifulChristmas"
+	},
+	{
 		"created_at": "Wed Dec 14 09:50:58 +0000 2022",
 		"id": 1602951537315250200,
 		"id_str": "1602964353677828096",
