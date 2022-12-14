@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 14 05:50:44 +0000 2022",
+		"id": 1602891133360562200,
+		"id_str": "1602903896539639808",
+		"full_text": "사랑스러운 리본 헤어 스타일링! #제니 부터 #조이 까지 눈에 띄는 리본 헤어 노하우. \n@ygofficialblink #블랙핑크 @WM_OHMYGIRL #오마이걸 #미미@RVsmtown #레드벨벳 @JYPETWICE #트와이스 #사나 @ITZYofficial  #있지 #유나 \n@SMTOWNGLOBAL  @ygent_official   @jypnation\nhttps://t.co/Y4BgUAeNEf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제니",
+					"indices": [
+						18,
+						21
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "미미",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "사나",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "있지",
+					"indices": [
+						147,
+						150
+					]
+				},
+				{
+					"text": "유나",
+					"indices": [
+						151,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						50,
+						66
+					]
+				},
+				{
+					"screen_name": "WM_OHMYGIRL",
+					"name": "오마이걸 (OH MY GIRL)",
+					"id": 3115548145,
+					"id_str": "3115548145",
+					"indices": [
+						73,
+						85
+					]
+				},
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						95,
+						104
+					]
+				},
+				{
+					"screen_name": "JYPETWICE",
+					"name": "TWICE",
+					"id": 3129056526,
+					"id_str": "3129056526",
+					"indices": [
+						111,
+						121
+					]
+				},
+				{
+					"screen_name": "ITZYofficial",
+					"name": "ITZY",
+					"id": 1062578718214770700,
+					"id_str": "1062578718214770688",
+					"indices": [
+						132,
+						145
+					]
+				},
+				{
+					"screen_name": "SMTOWNGLOBAL",
+					"name": "SMTOWN",
+					"id": 884378714,
+					"id_str": "884378714",
+					"indices": [
+						156,
+						169
+					]
+				},
+				{
+					"screen_name": "ygent_official",
+					"name": "YG FAMILY",
+					"id": 408177579,
+					"id_str": "408177579",
+					"indices": [
+						171,
+						186
+					]
+				},
+				{
+					"screen_name": "jypnation",
+					"name": "JYPnation",
+					"id": 212266188,
+					"id_str": "212266188",
+					"indices": [
+						189,
+						199
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y4BgUAeNEf",
+					"expanded_url": "https://www.allurekorea.com/?p=190790&ddw=132119&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=190790&ddw=…",
+					"indices": [
+						200,
+						223
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38174,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1668746717",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사랑스러운 리본 헤어 스타일링! #제니 부터 #조이 까지 눈에 띄는 리본 헤어 노하우. \n@ygofficialblink #블랙핑크 @WM_OHMYGIRL #오마이걸 #미미@RVsmtown #레드벨벳 @JYPETWICE #트와이스 #사나 @ITZYofficial  #있지 #유나 \n@SMTOWNGLOBAL  @ygent_official   @jypnation\nhttps://t.co/Y4BgUAeNEf"
+	},
+	{
 		"created_at": "Wed Dec 14 02:59:02 +0000 2022",
 		"id": 1602850755362181000,
 		"id_str": "1602860687776043008",
