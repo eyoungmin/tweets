@@ -1,6 +1,497 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Thu Dec 15 06:51:00 +0000 2022",
+		"id": 1603271758253113300,
+		"id_str": "1603281451335548928",
+		"full_text": "#제작협찬 #Coverstory #마리끌레르 새해의 첫 커버스타는 바로 말간 얼굴의 #블랙핑크 #지수 입니다. #크리스챤디올뷰티 와 함께한 지수의 무해한 눈빛과 천진한 미소, 너무 사랑스럽죠. 뒤이어 공개될 화보 컷과 영상도 기대해주세요💞\n@BLACKPINK @Dior https://t.co/rlpffrc86s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제작협찬",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "Coverstory",
+					"indices": [
+						6,
+						17
+					]
+				},
+				{
+					"text": "마리끌레르",
+					"indices": [
+						18,
+						24
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						47,
+						52
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						53,
+						56
+					]
+				},
+				{
+					"text": "크리스챤디올뷰티",
+					"indices": [
+						62,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"screen_name": "Dior",
+					"name": "Dior",
+					"id": 348379865,
+					"id_str": "348379865",
+					"indices": [
+						145,
+						150
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1603271746966024200,
+					"id_str": "1603271746966024192",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Fj_3KMxUcAAeMZO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fj_3KMxUcAAeMZO.jpg",
+					"url": "https://t.co/rlpffrc86s",
+					"display_url": "pic.twitter.com/rlpffrc86s",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1603271758253113344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1153,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1603271746966024200,
+					"id_str": "1603271746966024192",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Fj_3KMxUcAAeMZO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fj_3KMxUcAAeMZO.jpg",
+					"url": "https://t.co/rlpffrc86s",
+					"display_url": "pic.twitter.com/rlpffrc86s",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1603271758253113344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1153,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1603271746970218500,
+					"id_str": "1603271746970218496",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Fj_3KMyUcAA9MTZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fj_3KMyUcAA9MTZ.jpg",
+					"url": "https://t.co/rlpffrc86s",
+					"display_url": "pic.twitter.com/rlpffrc86s",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1603271758253113344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1153,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108125,
+			"friends_count": 1,
+			"listed_count": 340,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1602960834686496769/9ocVf6Il_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1602960834686496769/9ocVf6Il_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1668412825",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2542,
+		"favorite_count": 4626,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#제작협찬 #Coverstory #마리끌레르 새해의 첫 커버스타는 바로 말간 얼굴의 #블랙핑크 #지수 입니다. #크리스챤디올뷰티 와 함께한 지수의 무해한 눈빛과 천진한 미소, 너무 사랑스럽죠. 뒤이어 공개될 화보 컷과 영상도 기대해주세요💞\n@BLACKPINK @Dior https://t.co/rlpffrc86s"
+	},
+	{
+		"created_at": "Thu Dec 15 06:15:16 +0000 2022",
+		"id": 1603271094013931500,
+		"id_str": "1603272460262002689",
+		"full_text": "예린이 직접 찍고 편집한 영업비밀 세 번째 에피소드! 함께하지 못하는 한국 팬들을 위해 미국 투어 메이크업 영상을 준비했습니다🎀\n⠀\n지금 유튜브에서 확인해보세요!\n\nhttps://t.co/cDp2oPDqqM https://t.co/PWSqB4R9pw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cDp2oPDqqM",
+					"expanded_url": "https://youtu.be/Vb9AKLtw0Bo",
+					"display_url": "youtu.be/Vb9AKLtw0Bo",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1603264969851928600,
+					"id_str": "1603264969851928576",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1603264969851928576/pu/img/9rj-0TfsDGphLg_y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1603264969851928576/pu/img/9rj-0TfsDGphLg_y.jpg",
+					"url": "https://t.co/PWSqB4R9pw",
+					"display_url": "pic.twitter.com/PWSqB4R9pw",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1603271094013931521/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1603264969851928600,
+					"id_str": "1603264969851928576",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1603264969851928576/pu/img/9rj-0TfsDGphLg_y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1603264969851928576/pu/img/9rj-0TfsDGphLg_y.jpg",
+					"url": "https://t.co/PWSqB4R9pw",
+					"display_url": "pic.twitter.com/PWSqB4R9pw",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1603271094013931521/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 49815,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1603264969851928576/pu/vid/480x270/UTNhLwA__I0UJHrW.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1603264969851928576/pu/vid/854x480/cOI1rtigilCPZoGH.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1603264969851928576/pu/vid/640x360/26myfI_LoYFQlMwZ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1603264969851928576/pu/pl/92wHoDC2VT70EH0X.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50579,
+			"friends_count": 2,
+			"listed_count": 241,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1652253459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 337,
+		"favorite_count": 567,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "예린이 직접 찍고 편집한 영업비밀 세 번째 에피소드! 함께하지 못하는 한국 팬들을 위해 미국 투어 메이크업 영상을 준비했습니다🎀\n⠀\n지금 유튜브에서 확인해보세요!\n\nhttps://t.co/cDp2oPDqqM https://t.co/PWSqB4R9pw"
+	},
+	{
 		"created_at": "Thu Dec 15 05:59:16 +0000 2022",
 		"id": 1603253521079476200,
 		"id_str": "1603268435256877056",
