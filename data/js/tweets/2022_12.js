@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Thu Dec 15 17:09:56 +0000 2022",
+		"id": 1603427161733582800,
+		"id_str": "1603437210413342725",
+		"full_text": "LOOΠΔ \nThe Origin Album [0]\n\n#고원 #GoWon 👑\n\n2023.01.03 TUE 6PM (KST) \n\n#이달의소녀 #LOONA\n#Zero #FREESM https://t.co/C0W1DcWMGj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고원",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "Zero",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "FREESM",
+					"indices": [
+						90,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1603345115053162500,
+					"id_str": "1603345115053162497",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FkA54yMaAAEbZgv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkA54yMaAAEbZgv.jpg",
+					"url": "https://t.co/C0W1DcWMGj",
+					"display_url": "pic.twitter.com/C0W1DcWMGj",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1603427161733582849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1603345115053162500,
+					"id_str": "1603345115053162497",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FkA54yMaAAEbZgv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkA54yMaAAEbZgv.jpg",
+					"url": "https://t.co/C0W1DcWMGj",
+					"display_url": "pic.twitter.com/C0W1DcWMGj",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1603427161733582849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1603345115040592000,
+					"id_str": "1603345115040591874",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FkA54yJaMAI4gF6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkA54yJaMAI4gF6.jpg",
+					"url": "https://t.co/C0W1DcWMGj",
+					"display_url": "pic.twitter.com/C0W1DcWMGj",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1603427161733582849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsse3B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsse3B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 963294,
+			"friends_count": 3,
+			"listed_count": 8889,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1603259958807924736/kmMZLUmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1603259958807924736/kmMZLUmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1671081319",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 483,
+		"favorite_count": 2031,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LOOΠΔ \nThe Origin Album [0]\n\n#고원 #GoWon 👑\n\n2023.01.03 TUE 6PM (KST) \n\n#이달의소녀 #LOONA\n#Zero #FREESM https://t.co/C0W1DcWMGj"
+	},
+	{
 		"created_at": "Thu Dec 15 15:26:36 +0000 2022",
 		"id": 1603407839703498800,
 		"id_str": "1603411207452434433",
