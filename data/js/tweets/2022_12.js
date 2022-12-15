@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Thu Dec 15 05:59:16 +0000 2022",
+		"id": 1603253521079476200,
+		"id_str": "1603268435256877056",
+		"full_text": "📣  2023년 &lt;얼루어&gt; 1월호의 커버 스타, #레드벨벳 #예리 \n그리고 #최시원 #이선빈 #전소니 #전주니 #머드더스튜던트 까지 다양한 화보 이미지를 웹사이트를 통해 가장 먼저 만나보세요. \n@RVsmtown @siwonchoi @SMTOWNGLOBAL \nhttps://t.co/sTJnh4uGSt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						33,
+						38
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"text": "최시원",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "이선빈",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "전소니",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "전주니",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "머드더스튜던트",
+					"indices": [
+						68,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"screen_name": "siwonchoi",
+					"name": "최시원 • Siwon Choi",
+					"id": 125603760,
+					"id_str": "125603760",
+					"indices": [
+						125,
+						135
+					]
+				},
+				{
+					"screen_name": "SMTOWNGLOBAL",
+					"name": "SMTOWN",
+					"id": 884378714,
+					"id_str": "884378714",
+					"indices": [
+						136,
+						149
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sTJnh4uGSt",
+					"expanded_url": "https://www.allurekorea.com/?p=190861&ddw=132277&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=190861&ddw=…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38178,
+			"friends_count": 1,
+			"listed_count": 303,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 518,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1668746717",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 288,
+		"favorite_count": 340,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📣  2023년 &lt;얼루어&gt; 1월호의 커버 스타, #레드벨벳 #예리 \n그리고 #최시원 #이선빈 #전소니 #전주니 #머드더스튜던트 까지 다양한 화보 이미지를 웹사이트를 통해 가장 먼저 만나보세요. \n@RVsmtown @siwonchoi @SMTOWNGLOBAL \nhttps://t.co/sTJnh4uGSt"
+	},
+	{
 		"created_at": "Wed Dec 14 16:09:44 +0000 2022",
 		"id": 1603044641028288500,
 		"id_str": "1603059674890182656",
