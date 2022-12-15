@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Thu Dec 15 07:51:02 +0000 2022",
+		"id": 1603284245731893200,
+		"id_str": "1603296560049442817",
+		"full_text": "#제작협찬 #Coverstory #마리끌레르 새해의 첫 커버스타는 바로 말간 얼굴의 #블랙핑크 #지수 입니다. #크리스챤디올뷰티 와 함께한 지수의 무해한 눈빛과 천진한 미소, 너무 사랑스럽죠. 뒤이어 공개될 화보 컷과 영상도 기대해주세요💞\n@BLACKPINK @Dior https://t.co/t2FlN2Jc4R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제작협찬",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "Coverstory",
+					"indices": [
+						6,
+						17
+					]
+				},
+				{
+					"text": "마리끌레르",
+					"indices": [
+						18,
+						24
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						47,
+						52
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						53,
+						56
+					]
+				},
+				{
+					"text": "크리스챤디올뷰티",
+					"indices": [
+						62,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"screen_name": "Dior",
+					"name": "Dior",
+					"id": 348379865,
+					"id_str": "348379865",
+					"indices": [
+						145,
+						150
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1603284238479990800,
+					"id_str": "1603284238479990784",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FkAChTSVIAA9rjL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkAChTSVIAA9rjL.jpg",
+					"url": "https://t.co/t2FlN2Jc4R",
+					"display_url": "pic.twitter.com/t2FlN2Jc4R",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1603284245731893248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1112,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1603284238479990800,
+					"id_str": "1603284238479990784",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FkAChTSVIAA9rjL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkAChTSVIAA9rjL.jpg",
+					"url": "https://t.co/t2FlN2Jc4R",
+					"display_url": "pic.twitter.com/t2FlN2Jc4R",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1603284245731893248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1112,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108155,
+			"friends_count": 1,
+			"listed_count": 341,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1602960834686496769/9ocVf6Il_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1602960834686496769/9ocVf6Il_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1668412825",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2988,
+		"favorite_count": 5553,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#제작협찬 #Coverstory #마리끌레르 새해의 첫 커버스타는 바로 말간 얼굴의 #블랙핑크 #지수 입니다. #크리스챤디올뷰티 와 함께한 지수의 무해한 눈빛과 천진한 미소, 너무 사랑스럽죠. 뒤이어 공개될 화보 컷과 영상도 기대해주세요💞\n@BLACKPINK @Dior https://t.co/t2FlN2Jc4R"
+	},
+	{
 		"created_at": "Thu Dec 15 06:51:00 +0000 2022",
 		"id": 1603271758253113300,
 		"id_str": "1603281451335548928",
