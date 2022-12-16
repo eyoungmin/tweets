@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Fri Dec 16 07:59:22 +0000 2022",
+		"id": 1603650043365433300,
+		"id_str": "1603661045511294981",
+		"full_text": "Falling in love all over again with this incredible city🇫🇷 Thank you so much for having us Paris! Nous t'aimons de tout notre coeur💞\n\n#BLACKPINK #블랙핑크 #BORNPINK #BLACKPINK_WORLDTOUR #BLACKPINK_BORNPINK #PARIS #YG https://t.co/eokrF6xkq6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						151,
+						160
+					]
+				},
+				{
+					"text": "BLACKPINK_WORLDTOUR",
+					"indices": [
+						161,
+						181
+					]
+				},
+				{
+					"text": "BLACKPINK_BORNPINK",
+					"indices": [
+						182,
+						201
+					]
+				},
+				{
+					"text": "PARIS",
+					"indices": [
+						202,
+						208
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						209,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1603649904416415700,
+					"id_str": "1603649904416415745",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FkFPF3DUYAEZqTL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkFPF3DUYAEZqTL.jpg",
+					"url": "https://t.co/eokrF6xkq6",
+					"display_url": "pic.twitter.com/eokrF6xkq6",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1603650043365433344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 433,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1306,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 765,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1603649904416415700,
+					"id_str": "1603649904416415745",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FkFPF3DUYAEZqTL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkFPF3DUYAEZqTL.jpg",
+					"url": "https://t.co/eokrF6xkq6",
+					"display_url": "pic.twitter.com/eokrF6xkq6",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1603650043365433344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 433,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1306,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 765,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1603649904449974300,
+					"id_str": "1603649904449974272",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FkFPF3LUcAAjR-Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkFPF3LUcAAjR-Z.jpg",
+					"url": "https://t.co/eokrF6xkq6",
+					"display_url": "pic.twitter.com/eokrF6xkq6",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1603650043365433344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1307,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 766,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 434,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8154073,
+			"friends_count": 0,
+			"listed_count": 7997,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3479,
+		"favorite_count": 11029,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Falling in love all over again with this incredible city🇫🇷 Thank you so much for having us Paris! Nous t'aimons de tout notre coeur💞\n\n#BLACKPINK #블랙핑크 #BORNPINK #BLACKPINK_WORLDTOUR #BLACKPINK_BORNPINK #PARIS #YG https://t.co/eokrF6xkq6"
+	},
+	{
 		"created_at": "Fri Dec 16 03:51:11 +0000 2022",
 		"id": 1603589948057145300,
 		"id_str": "1603598587790692353",
