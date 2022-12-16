@@ -1,6 +1,170 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Fri Dec 16 09:59:24 +0000 2022",
+		"id": 1603676783622381600,
+		"id_str": "1603691252943163392",
+		"full_text": "#BLACKPINK ‘B.P.M.’ Roll #3\n\n🎬 https://t.co/Fr44F82XWW\n\n#블랙핑크 #BPM #BORN_PINK_MEMORIES #Roll_3 #BORNPINK #YOUTUBE #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "BPM",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "BORN_PINK_MEMORIES",
+					"indices": [
+						67,
+						86
+					]
+				},
+				{
+					"text": "Roll_3",
+					"indices": [
+						87,
+						94
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						95,
+						104
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						105,
+						113
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						114,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fr44F82XWW",
+					"expanded_url": "https://youtu.be/EAysvmlhIBU",
+					"display_url": "youtu.be/EAysvmlhIBU",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8154903,
+			"friends_count": 0,
+			"listed_count": 7994,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5083,
+		"favorite_count": 12052,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘B.P.M.’ Roll #3\n\n🎬 https://t.co/Fr44F82XWW\n\n#블랙핑크 #BPM #BORN_PINK_MEMORIES #Roll_3 #BORNPINK #YOUTUBE #YG"
+	},
+	{
 		"created_at": "Fri Dec 16 08:16:43 +0000 2022",
 		"id": 1603660870772572200,
 		"id_str": "1603665413908205568",
