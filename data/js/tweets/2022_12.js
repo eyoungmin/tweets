@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Fri Dec 16 13:26:48 +0000 2022",
+		"id": 1603740962831753200,
+		"id_str": "1603743447831130112",
+		"full_text": "사랑하는 너의 곁에 늘 함께해❤️\n\nhttps://t.co/KRPjFwSQyx \n\n#YERI #GISELLE #RedVelvet #aespa #SMTOWN2023 #SMCU_PALACE #2022_WINTER_SMTOWN #SMTOWN #SMTOWN_LIVE #SMCU #BeautifulChristmas",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YERI",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"text": "SMTOWN2023",
+					"indices": [
+						79,
+						90
+					]
+				},
+				{
+					"text": "SMCU_PALACE",
+					"indices": [
+						91,
+						103
+					]
+				},
+				{
+					"text": "2022_WINTER_SMTOWN",
+					"indices": [
+						104,
+						123
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						132,
+						144
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "BeautifulChristmas",
+					"indices": [
+						151,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KRPjFwSQyx",
+					"expanded_url": "https://vt.tiktok.com/ZS8FqqCwo/",
+					"display_url": "vt.tiktok.com/ZS8FqqCwo/",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11340992,
+			"friends_count": 56,
+			"listed_count": 12842,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2662,
+		"favorite_count": 8566,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사랑하는 너의 곁에 늘 함께해❤️\n\nhttps://t.co/KRPjFwSQyx \n\n#YERI #GISELLE #RedVelvet #aespa #SMTOWN2023 #SMCU_PALACE #2022_WINTER_SMTOWN #SMTOWN #SMTOWN_LIVE #SMCU #BeautifulChristmas"
+	},
+	{
 		"created_at": "Fri Dec 16 12:59:26 +0000 2022",
 		"id": 1603721949267382300,
 		"id_str": "1603736559756328961",
