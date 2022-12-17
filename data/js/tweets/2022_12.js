@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sat Dec 17 11:17:00 +0000 2022",
+		"id": 1604069329380991000,
+		"id_str": "1604073170142564353",
+		"full_text": "'빛 (Hope from KWANGYA)' Self-Camera Video | SMTOWN LIVE 2022 : SMCU EXPRESS @ TOKYO\n\nhttps://t.co/b501QYFD5i \n\n#SMTOWN #SMCU_EXPRESS\n#SMTOWNLIVE #SMTOWNLIVE2022_TOKYO https://t.co/vrQQmeN9bW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						111,
+						118
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS",
+					"indices": [
+						119,
+						132
+					]
+				},
+				{
+					"text": "SMTOWNLIVE",
+					"indices": [
+						133,
+						144
+					]
+				},
+				{
+					"text": "SMTOWNLIVE2022_TOKYO",
+					"indices": [
+						145,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b501QYFD5i",
+					"expanded_url": "https://youtu.be/VWzRVC3v20Y",
+					"display_url": "youtu.be/VWzRVC3v20Y",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1604069299211362300,
+					"id_str": "1604069299211362305",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FkLMh2aaYAE0TTm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkLMh2aaYAE0TTm.jpg",
+					"url": "https://t.co/vrQQmeN9bW",
+					"display_url": "pic.twitter.com/vrQQmeN9bW",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1604069329380990976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1604069299211362300,
+					"id_str": "1604069299211362305",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FkLMh2aaYAE0TTm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkLMh2aaYAE0TTm.jpg",
+					"url": "https://t.co/vrQQmeN9bW",
+					"display_url": "pic.twitter.com/vrQQmeN9bW",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1604069329380990976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3913144,
+			"friends_count": 5,
+			"listed_count": 6298,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2271,
+		"favorite_count": 4114,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'빛 (Hope from KWANGYA)' Self-Camera Video | SMTOWN LIVE 2022 : SMCU EXPRESS @ TOKYO\n\nhttps://t.co/b501QYFD5i \n\n#SMTOWN #SMCU_EXPRESS\n#SMTOWNLIVE #SMTOWNLIVE2022_TOKYO https://t.co/vrQQmeN9bW"
+	},
+	{
 		"created_at": "Sat Dec 17 10:27:00 +0000 2022",
 		"id": 1604054275747098600,
 		"id_str": "1604060586320412672",
