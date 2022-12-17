@@ -1,6 +1,431 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sat Dec 17 10:27:00 +0000 2022",
+		"id": 1604054275747098600,
+		"id_str": "1604060586320412672",
+		"full_text": "🎄✨Beautiful Christmas✨🎄 MV Behind The Scenes (Short Ver.)\n\nhttps://t.co/meaNgyPchm\n\n#BeautifulChristmas #RedVelvet #aespa\n#SMTOWN2023 #SMCU_PALACE #2022_WINTER_SMTOWN #SMTOWN #SMTOWN_LIVE #SMCU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BeautifulChristmas",
+					"indices": [
+						84,
+						103
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						104,
+						114
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "SMTOWN2023",
+					"indices": [
+						122,
+						133
+					]
+				},
+				{
+					"text": "SMCU_PALACE",
+					"indices": [
+						134,
+						146
+					]
+				},
+				{
+					"text": "2022_WINTER_SMTOWN",
+					"indices": [
+						147,
+						166
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						167,
+						174
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						175,
+						187
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						188,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/meaNgyPchm",
+					"expanded_url": "https://vt.tiktok.com/ZS8F3Qpmy/",
+					"display_url": "vt.tiktok.com/ZS8F3Qpmy/",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11345285,
+			"friends_count": 56,
+			"listed_count": 12847,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2376,
+		"favorite_count": 5823,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎄✨Beautiful Christmas✨🎄 MV Behind The Scenes (Short Ver.)\n\nhttps://t.co/meaNgyPchm\n\n#BeautifulChristmas #RedVelvet #aespa\n#SMTOWN2023 #SMCU_PALACE #2022_WINTER_SMTOWN #SMTOWN #SMTOWN_LIVE #SMCU"
+	},
+	{
+		"created_at": "Sat Dec 17 10:10:17 +0000 2022",
+		"id": 1604045260065509400,
+		"id_str": "1604056380167491584",
+		"full_text": "LOOΠΔ \nThe Origin Album [0]\n\n#진솔 #JinSoul ☔\n\n2023.01.03 TUE 6PM (KST) \n\n#이달의소녀 #LOONA\n#Zero #FREESM https://t.co/OmmeoQnhfH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "진솔",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						33,
+						41
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "Zero",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "FREESM",
+					"indices": [
+						92,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1604044866597851100,
+					"id_str": "1604044866597851136",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FkK2Tr1akAA9odU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkK2Tr1akAA9odU.jpg",
+					"url": "https://t.co/OmmeoQnhfH",
+					"display_url": "pic.twitter.com/OmmeoQnhfH",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1604045260065509376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1604044866597851100,
+					"id_str": "1604044866597851136",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FkK2Tr1akAA9odU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkK2Tr1akAA9odU.jpg",
+					"url": "https://t.co/OmmeoQnhfH",
+					"display_url": "pic.twitter.com/OmmeoQnhfH",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1604045260065509376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1604044867495395300,
+					"id_str": "1604044867495395328",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FkK2TvLaAAAuj2Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkK2TvLaAAAuj2Q.jpg",
+					"url": "https://t.co/OmmeoQnhfH",
+					"display_url": "pic.twitter.com/OmmeoQnhfH",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1604045260065509376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsse3B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsse3B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 957735,
+			"friends_count": 3,
+			"listed_count": 8882,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5311,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1603259958807924736/kmMZLUmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1603259958807924736/kmMZLUmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1671081319",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 500,
+		"favorite_count": 1976,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LOOΠΔ \nThe Origin Album [0]\n\n#진솔 #JinSoul ☔\n\n2023.01.03 TUE 6PM (KST) \n\n#이달의소녀 #LOONA\n#Zero #FREESM https://t.co/OmmeoQnhfH"
+	},
+	{
 		"created_at": "Sat Dec 17 06:26:58 +0000 2022",
 		"id": 1603993418018934800,
 		"id_str": "1604000178851061761",
