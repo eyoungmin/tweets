@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sat Dec 17 05:51:26 +0000 2022",
+		"id": 1603978293513969700,
+		"id_str": "1603991238486523904",
+		"full_text": "여자 아이돌의 무대 의상 대결! 월드투어 #본핑크 #BornPink 에서 #제니 가 입은 샤넬부터 #지수 의 펜시, #리사 의 셀린, #로제 의 파코라반까지.\n#블랙핑크 #블핑 @ygent_official @ygofficialblink \nhttps://t.co/eOxGawe2Zn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "본핑크",
+					"indices": [
+						23,
+						27
+					]
+				},
+				{
+					"text": "BornPink",
+					"indices": [
+						28,
+						37
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "블핑",
+					"indices": [
+						95,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygent_official",
+					"name": "YG FAMILY",
+					"id": 408177579,
+					"id_str": "408177579",
+					"indices": [
+						99,
+						114
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						115,
+						131
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eOxGawe2Zn",
+					"expanded_url": "https://www.allurekorea.com/?p=190877&ddw=132488&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=190877&ddw=…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38182,
+			"friends_count": 1,
+			"listed_count": 302,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1668746717",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여자 아이돌의 무대 의상 대결! 월드투어 #본핑크 #BornPink 에서 #제니 가 입은 샤넬부터 #지수 의 펜시, #리사 의 셀린, #로제 의 파코라반까지.\n#블랙핑크 #블핑 @ygent_official @ygofficialblink \nhttps://t.co/eOxGawe2Zn"
+	},
+	{
 		"created_at": "Fri Dec 16 15:26:49 +0000 2022",
 		"id": 1603767761146368000,
 		"id_str": "1603773648229187585",
