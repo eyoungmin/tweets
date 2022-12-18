@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sun Dec 18 04:51:38 +0000 2022",
+		"id": 1604325581373395000,
+		"id_str": "1604338575545286659",
+		"full_text": "#블랙핑크 #지수 와 함께한 #마리끌레르 새해 첫 커버🌟 지금 바로 만나보세요.💖\n@BLACKPINK @Dior #디올뷰티 \n👉 https://t.co/cRNCZgApHu https://t.co/x3UpAkmMw0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "마리끌레르",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"text": "디올뷰티",
+					"indices": [
+						63,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						46,
+						56
+					]
+				},
+				{
+					"screen_name": "Dior",
+					"name": "Dior",
+					"id": 348379865,
+					"id_str": "348379865",
+					"indices": [
+						57,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cRNCZgApHu",
+					"expanded_url": "https://www.marieclairekorea.com/celebrity/2022/12/christian-dior-beauty-jisoo/",
+					"display_url": "marieclairekorea.com/celebrity/2022…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1603679217417597000,
+					"id_str": "1603679217417596928",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FkFpwGfaMAAMYR-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkFpwGfaMAAMYR-.jpg",
+					"url": "https://t.co/x3UpAkmMw0",
+					"display_url": "pic.twitter.com/x3UpAkmMw0",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1604325581373394944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1153,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1603679217417597000,
+					"id_str": "1603679217417596928",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FkFpwGfaMAAMYR-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkFpwGfaMAAMYR-.jpg",
+					"url": "https://t.co/x3UpAkmMw0",
+					"display_url": "pic.twitter.com/x3UpAkmMw0",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1604325581373394944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1153,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108455,
+			"friends_count": 1,
+			"listed_count": 341,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1602960834686496769/9ocVf6Il_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1602960834686496769/9ocVf6Il_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1671092759",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 769,
+		"favorite_count": 1921,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#블랙핑크 #지수 와 함께한 #마리끌레르 새해 첫 커버🌟 지금 바로 만나보세요.💖\n@BLACKPINK @Dior #디올뷰티 \n👉 https://t.co/cRNCZgApHu https://t.co/x3UpAkmMw0"
+	},
+	{
 		"created_at": "Sat Dec 17 17:10:21 +0000 2022",
 		"id": 1604148414249312300,
 		"id_str": "1604162090872147968",
