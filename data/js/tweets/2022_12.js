@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Mon Dec 19 10:11:59 +0000 2022",
+		"id": 1604778602582913000,
+		"id_str": "1604781584481075200",
+		"full_text": "제42회 황금촬영상영화제🏆\n신인여우상\n이지은 배우의 수상을 축하합니다🎊\n\n배우 이지은의 발자취에\n의미 있는 하루를 그려준\n유애나 고맙습니다💜\n\n#이지은 #LeeJiEun\n#제42회_황금촬영상영화제 https://t.co/qLYGDHFBjS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이지은",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "LeeJiEun",
+					"indices": [
+						85,
+						94
+					]
+				},
+				{
+					"text": "제42회_황금촬영상영화제",
+					"indices": [
+						95,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1604778126097387500,
+					"id_str": "1604778126097387520",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FkVRNAVaEAAslGc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkVRNAVaEAAslGc.jpg",
+					"url": "https://t.co/qLYGDHFBjS",
+					"display_url": "pic.twitter.com/qLYGDHFBjS",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1604778602582913030/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1604778126097387500,
+					"id_str": "1604778126097387520",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FkVRNAVaEAAslGc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkVRNAVaEAAslGc.jpg",
+					"url": "https://t.co/qLYGDHFBjS",
+					"display_url": "pic.twitter.com/qLYGDHFBjS",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1604778602582913030/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1563922,
+			"friends_count": 1,
+			"listed_count": 2417,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1445,
+		"favorite_count": 4389,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제42회 황금촬영상영화제🏆\n신인여우상\n이지은 배우의 수상을 축하합니다🎊\n\n배우 이지은의 발자취에\n의미 있는 하루를 그려준\n유애나 고맙습니다💜\n\n#이지은 #LeeJiEun\n#제42회_황금촬영상영화제 https://t.co/qLYGDHFBjS"
+	},
+	{
 		"created_at": "Mon Dec 19 09:28:09 +0000 2022",
 		"id": 1604769299775660000,
 		"id_str": "1604770552509448192",
