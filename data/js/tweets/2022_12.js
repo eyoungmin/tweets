@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Mon Dec 19 13:27:26 +0000 2022",
+		"id": 1604823915661967400,
+		"id_str": "1604830769204977670",
+		"full_text": "Red Velvet X aespa 'Beautiful Christmas' MV Behind The Scenes 🎄✨\n\nhttps://t.co/21q6LHXzCP\n\n#SMTOWN2023 #SMCU_PALACE #2022_WINTER_SMTOWN #SMTOWN #SMTOWN_LIVE #SMCU\n#BeautifulChristmas #RedVelvet #aespa https://t.co/C0e5prxHyG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN2023",
+					"indices": [
+						91,
+						102
+					]
+				},
+				{
+					"text": "SMCU_PALACE",
+					"indices": [
+						103,
+						115
+					]
+				},
+				{
+					"text": "2022_WINTER_SMTOWN",
+					"indices": [
+						116,
+						135
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						136,
+						143
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						144,
+						156
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "BeautifulChristmas",
+					"indices": [
+						163,
+						182
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						183,
+						193
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						194,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/21q6LHXzCP",
+					"expanded_url": "https://youtu.be/y9BDUgM05ao",
+					"display_url": "youtu.be/y9BDUgM05ao",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1604823902328234000,
+					"id_str": "1604823902328233985",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FkV61iFUoAEhj1-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkV61iFUoAEhj1-.jpg",
+					"url": "https://t.co/C0e5prxHyG",
+					"display_url": "pic.twitter.com/C0e5prxHyG",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1604823915661967362/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1779,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1604823902328234000,
+					"id_str": "1604823902328233985",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FkV61iFUoAEhj1-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkV61iFUoAEhj1-.jpg",
+					"url": "https://t.co/C0e5prxHyG",
+					"display_url": "pic.twitter.com/C0e5prxHyG",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1604823915661967362/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1779,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11352506,
+			"friends_count": 56,
+			"listed_count": 12855,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 943,
+		"favorite_count": 3117,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet X aespa 'Beautiful Christmas' MV Behind The Scenes 🎄✨\n\nhttps://t.co/21q6LHXzCP\n\n#SMTOWN2023 #SMCU_PALACE #2022_WINTER_SMTOWN #SMTOWN #SMTOWN_LIVE #SMCU\n#BeautifulChristmas #RedVelvet #aespa https://t.co/C0e5prxHyG"
+	},
+	{
 		"created_at": "Mon Dec 19 10:11:59 +0000 2022",
 		"id": 1604778602582913000,
 		"id_str": "1604781584481075200",
