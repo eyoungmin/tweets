@@ -1,6 +1,550 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Mon Dec 19 07:15:27 +0000 2022",
+		"id": 1604726238744318000,
+		"id_str": "1604737155594457088",
+		"full_text": "천진난만한 웃음에서 😁\n고혹적 눈빛까지✨️\n\n러블리한 비주얼로 커버를 장식한 예리의 모습을 얼루어 코리아 1월 호에서 만나보세요💜\n\n#레드벨벳 #RedVelvet \n#예리 #YERI \n#얼루어 #allure https://t.co/7kr3WMB92h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "얼루어",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "allure",
+					"indices": [
+						108,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1604726228178456600,
+					"id_str": "1604726228178456577",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FkUiAJhUUAELnrs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkUiAJhUUAELnrs.jpg",
+					"url": "https://t.co/7kr3WMB92h",
+					"display_url": "pic.twitter.com/7kr3WMB92h",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1604726238744317952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1802,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1604726228178456600,
+					"id_str": "1604726228178456577",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FkUiAJhUUAELnrs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkUiAJhUUAELnrs.jpg",
+					"url": "https://t.co/7kr3WMB92h",
+					"display_url": "pic.twitter.com/7kr3WMB92h",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1604726238744317952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1802,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1604726236420329500,
+					"id_str": "1604726236420329472",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FkUiAoOVUAAfYPz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkUiAoOVUAAfYPz.jpg",
+					"url": "https://t.co/7kr3WMB92h",
+					"display_url": "pic.twitter.com/7kr3WMB92h",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1604726238744317952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1803,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 958,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5799775,
+			"friends_count": 2,
+			"listed_count": 11560,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3684,
+		"favorite_count": 11521,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "천진난만한 웃음에서 😁\n고혹적 눈빛까지✨️\n\n러블리한 비주얼로 커버를 장식한 예리의 모습을 얼루어 코리아 1월 호에서 만나보세요💜\n\n#레드벨벳 #RedVelvet \n#예리 #YERI \n#얼루어 #allure https://t.co/7kr3WMB92h"
+	},
+	{
+		"created_at": "Mon Dec 19 07:15:27 +0000 2022",
+		"id": 1604726266883866600,
+		"id_str": "1604737155380547586",
+		"full_text": "From innocent laughter to an enchanting look in her eyes✨️\n\nCheck out YERI on the cover of allure Korea’s January issue 💜\n\n#레드벨벳 #RedVelvet \n#예리 #YERI \n#얼루어 #allure https://t.co/wyMflTnfL6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						129,
+						139
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "얼루어",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "allure",
+					"indices": [
+						157,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1604726241835110400,
+					"id_str": "1604726241835110400",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FkUiA8ZUUAA1PnE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkUiA8ZUUAA1PnE.jpg",
+					"url": "https://t.co/wyMflTnfL6",
+					"display_url": "pic.twitter.com/wyMflTnfL6",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1604726266883866624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1802,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1604726241835110400,
+					"id_str": "1604726241835110400",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FkUiA8ZUUAA1PnE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkUiA8ZUUAA1PnE.jpg",
+					"url": "https://t.co/wyMflTnfL6",
+					"display_url": "pic.twitter.com/wyMflTnfL6",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1604726266883866624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1802,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1604726249586245600,
+					"id_str": "1604726249586245633",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FkUiBZRVQAE53UU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkUiBZRVQAE53UU.jpg",
+					"url": "https://t.co/wyMflTnfL6",
+					"display_url": "pic.twitter.com/wyMflTnfL6",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1604726266883866624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1604726254661382100,
+					"id_str": "1604726254661382144",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FkUiBsLVsAAbESh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkUiBsLVsAAbESh.jpg",
+					"url": "https://t.co/wyMflTnfL6",
+					"display_url": "pic.twitter.com/wyMflTnfL6",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1604726266883866624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 958,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1803,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1604726238744318000,
+		"in_reply_to_status_id_str": "1604726238744317952",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5799775,
+			"friends_count": 2,
+			"listed_count": 11560,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1406,
+		"favorite_count": 4595,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From innocent laughter to an enchanting look in her eyes✨️\n\nCheck out YERI on the cover of allure Korea’s January issue 💜\n\n#레드벨벳 #RedVelvet \n#예리 #YERI \n#얼루어 #allure https://t.co/wyMflTnfL6"
+	},
+	{
 		"created_at": "Mon Dec 19 02:51:51 +0000 2022",
 		"id": 1604657773479723000,
 		"id_str": "1604670819635851264",
