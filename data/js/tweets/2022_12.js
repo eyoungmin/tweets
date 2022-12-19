@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Mon Dec 19 02:51:51 +0000 2022",
+		"id": 1604657773479723000,
+		"id_str": "1604670819635851264",
+		"full_text": "제니만을 위한 샤넬의 커스텀 의상, 그리고 제니가 말하는 샤넬 \n\n버지니 비아르와 함께 무대의상을 만들었죠. 제니에게 직접 물었습니다. \nhttps://t.co/gmQEykqGCP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gmQEykqGCP",
+					"expanded_url": "https://www.vogue.co.kr/2022/12/16/%ec%a0%9c%eb%8b%88%eb%a7%8c%ec%9d%84-%ec%9c%84%ed%95%9c-%ec%83%a4%eb%84%ac%ec%9d%98-%ec%bb%a4%ec%8a%a4%ed%85%80-%ec%9d%98%ec%83%81-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%a0%9c%eb%8b%88%ea%b0%80-%eb%a7%90/?ddw=132547&ds_ch=twitter&utm_source=twitter&utm_medium=SNS&fbclid=IwAR1APxrUrfja4qyr4RdZGT9_-Zf-FPB-3_GdNVjvaBmgP5bej_POYUC0QEY",
+					"display_url": "vogue.co.kr/2022/12/16/%ec…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159102271,
+			"id_str": "159102271",
+			"name": "VOGUE KOREA",
+			"screen_name": "VogueKorea",
+			"location": "",
+			"description": "Vogue Korea official twitter",
+			"url": "https://t.co/cObX4QhDqc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cObX4QhDqc",
+							"expanded_url": "https://www.vogue.co.kr/",
+							"display_url": "vogue.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 202316,
+			"friends_count": 0,
+			"listed_count": 441,
+			"created_at": "Thu Jun 24 13:11:05 +0000 2010",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159102271/1668653398",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5EF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제니만을 위한 샤넬의 커스텀 의상, 그리고 제니가 말하는 샤넬 \n\n버지니 비아르와 함께 무대의상을 만들었죠. 제니에게 직접 물었습니다. \nhttps://t.co/gmQEykqGCP"
+	},
+	{
 		"created_at": "Mon Dec 19 02:00:14 +0000 2022",
 		"id": 1604642840083984400,
 		"id_str": "1604657828668399616",
