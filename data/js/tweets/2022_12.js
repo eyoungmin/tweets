@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Tue Dec 20 07:00:34 +0000 2022",
+		"id": 1605081136186953700,
+		"id_str": "1605095799444017152",
+		"full_text": "Didn’t know that we were cold ‘til we felt your fire🔥 We had such a fantastic time with our Copenhagen BLINKs! Tak skal du have❣️\n\n#BLACKPINK #블랙핑크 #BORNPINK #BLACKPINK_WORLDTOUR #BLACKPINK_BORNPINK #COPENHAGEN #YG https://t.co/SjjSMfUbtd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						131,
+						141
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						148,
+						157
+					]
+				},
+				{
+					"text": "BLACKPINK_WORLDTOUR",
+					"indices": [
+						158,
+						178
+					]
+				},
+				{
+					"text": "BLACKPINK_BORNPINK",
+					"indices": [
+						179,
+						198
+					]
+				},
+				{
+					"text": "COPENHAGEN",
+					"indices": [
+						199,
+						210
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						211,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1605073220268626000,
+					"id_str": "1605073220268625921",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FkZdlvyakAEN-sK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkZdlvyakAEN-sK.jpg",
+					"url": "https://t.co/SjjSMfUbtd",
+					"display_url": "pic.twitter.com/SjjSMfUbtd",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1605081136186953729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 756,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1291,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1605073220268626000,
+					"id_str": "1605073220268625921",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FkZdlvyakAEN-sK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkZdlvyakAEN-sK.jpg",
+					"url": "https://t.co/SjjSMfUbtd",
+					"display_url": "pic.twitter.com/SjjSMfUbtd",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1605081136186953729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 756,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1291,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8170505,
+			"friends_count": 0,
+			"listed_count": 8006,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 852,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3784,
+		"favorite_count": 13525,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Didn’t know that we were cold ‘til we felt your fire🔥 We had such a fantastic time with our Copenhagen BLINKs! Tak skal du have❣️\n\n#BLACKPINK #블랙핑크 #BORNPINK #BLACKPINK_WORLDTOUR #BLACKPINK_BORNPINK #COPENHAGEN #YG https://t.co/SjjSMfUbtd"
+	},
+	{
 		"created_at": "Mon Dec 19 15:27:28 +0000 2022",
 		"id": 1604854384940044300,
 		"id_str": "1604860977668767744",
