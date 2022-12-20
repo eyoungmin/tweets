@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Tue Dec 20 12:00:40 +0000 2022",
+		"id": 1605171260048056300,
+		"id_str": "1605171320748011520",
+		"full_text": "BLACKPINK WORLD TOUR [BORN PINK] COPENHAGEN HIGHLIGHT CLIP\n\n#BLACKPINK #블랙핑크 #BORNPINK #BLACKPINK_WORLDTOUR #BLACKPINK_BORNPINK #COPENHAGEN #HIGHLIGHT #YG https://t.co/4GZtGMFANU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						77,
+						86
+					]
+				},
+				{
+					"text": "BLACKPINK_WORLDTOUR",
+					"indices": [
+						87,
+						107
+					]
+				},
+				{
+					"text": "BLACKPINK_BORNPINK",
+					"indices": [
+						108,
+						127
+					]
+				},
+				{
+					"text": "COPENHAGEN",
+					"indices": [
+						128,
+						139
+					]
+				},
+				{
+					"text": "HIGHLIGHT",
+					"indices": [
+						140,
+						150
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						151,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1605171171640561700,
+					"id_str": "1605171171640561664",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1605171171640561664/pu/img/3eebZdPC7sfzobEv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1605171171640561664/pu/img/3eebZdPC7sfzobEv.jpg",
+					"url": "https://t.co/4GZtGMFANU",
+					"display_url": "pic.twitter.com/4GZtGMFANU",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1605171260048056320/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1605171171640561700,
+					"id_str": "1605171171640561664",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1605171171640561664/pu/img/3eebZdPC7sfzobEv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1605171171640561664/pu/img/3eebZdPC7sfzobEv.jpg",
+					"url": "https://t.co/4GZtGMFANU",
+					"display_url": "pic.twitter.com/4GZtGMFANU",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1605171260048056320/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 32408,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1605171171640561664/pu/vid/320x568/IF9Xd-2ElrAFcHso.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1605171171640561664/pu/pl/F5MMhrSaFAVAfIAg.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1605171171640561664/pu/vid/480x852/RlZpb1oRxmG1KSy0.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1605171171640561664/pu/vid/720x1280/cIjgL_SfRYBT7955.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8171503,
+			"friends_count": 0,
+			"listed_count": 8006,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 510,
+		"favorite_count": 1493,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLACKPINK WORLD TOUR [BORN PINK] COPENHAGEN HIGHLIGHT CLIP\n\n#BLACKPINK #블랙핑크 #BORNPINK #BLACKPINK_WORLDTOUR #BLACKPINK_BORNPINK #COPENHAGEN #HIGHLIGHT #YG https://t.co/4GZtGMFANU"
+	},
+	{
 		"created_at": "Tue Dec 20 07:00:34 +0000 2022",
 		"id": 1605081136186953700,
 		"id_str": "1605095799444017152",
