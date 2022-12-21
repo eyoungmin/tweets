@@ -1,6 +1,272 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 21 12:52:26 +0000 2022",
+		"id": 1605533552296095700,
+		"id_str": "1605546737610854402",
+		"full_text": "#제작협찬 #마리끌레르 1월호의 커버 스타, #블랙핑크 #지수 와 함께 한 무빙 커버를 공개합니다. #크리스챤디올뷰티 와 함께 한 지수의 사랑스러운 모먼트! 두가지 버전으로 준비했습니다.❤ 지수와 함께한 콘텐츠는 앞으로도 쭉 이어질 예정입니다. 투 비 컨티뉴! \n@BLACKPINK @DIOR https://t.co/T5Y2ig7A1p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제작협찬",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "마리끌레르",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						25,
+						30
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "크리스챤디올뷰티",
+					"indices": [
+						56,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						147,
+						157
+					]
+				},
+				{
+					"screen_name": "Dior",
+					"name": "Dior",
+					"id": 348379865,
+					"id_str": "348379865",
+					"indices": [
+						158,
+						163
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1605491386249363500,
+					"id_str": "1605491386249363456",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FkfaUvBWAAE8VHj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkfaUvBWAAE8VHj.jpg",
+					"url": "https://t.co/T5Y2ig7A1p",
+					"display_url": "pic.twitter.com/T5Y2ig7A1p",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1605533552296095744/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1605491386249363500,
+					"id_str": "1605491386249363456",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FkfaUvBWAAE8VHj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkfaUvBWAAE8VHj.jpg",
+					"url": "https://t.co/T5Y2ig7A1p",
+					"display_url": "pic.twitter.com/T5Y2ig7A1p",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1605533552296095744/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 6229,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1605491386249363456/vid/576x720/X5mrHgFh5Ka0OZPA.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1605491386249363456/vid/320x400/gSGuX_xKe0mhvmAi.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1605491386249363456/vid/480x600/2Yc94CiDTAavep8p.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1605491386249363456/pl/r8Hj5FAQJ6wVpz_a.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108535,
+			"friends_count": 1,
+			"listed_count": 341,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1602960834686496769/9ocVf6Il_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1602960834686496769/9ocVf6Il_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1671092759",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2222,
+		"favorite_count": 4075,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#제작협찬 #마리끌레르 1월호의 커버 스타, #블랙핑크 #지수 와 함께 한 무빙 커버를 공개합니다. #크리스챤디올뷰티 와 함께 한 지수의 사랑스러운 모먼트! 두가지 버전으로 준비했습니다.❤ 지수와 함께한 콘텐츠는 앞으로도 쭉 이어질 예정입니다. 투 비 컨티뉴! \n@BLACKPINK @DIOR https://t.co/T5Y2ig7A1p"
+	},
+	{
 		"created_at": "Wed Dec 21 11:11:13 +0000 2022",
 		"id": 1605510388501516300,
 		"id_str": "1605521265585856514",
