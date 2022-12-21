@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 21 10:05:57 +0000 2022",
+		"id": 1605497486222598100,
+		"id_str": "1605504842448805889",
+		"full_text": "이름만으로도 벌써 훈훈한 온기가 맴도는 나얼, 성시경, 태연이 한 앨범을 낸다고?\n#발라드팝시티 #나얼 #성시경 #태연 #브라운아이드소울 #소녀시대 #BalladPopCity #NAUL #BrownEyedSoul #SungSiKyung #TaeYeon #GirlsGeneration #KPOP\nhttps://t.co/msQV6i0Kez",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "발라드팝시티",
+					"indices": [
+						46,
+						53
+					]
+				},
+				{
+					"text": "나얼",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "성시경",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "브라운아이드소울",
+					"indices": [
+						67,
+						76
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "BalladPopCity",
+					"indices": [
+						83,
+						97
+					]
+				},
+				{
+					"text": "NAUL",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "BrownEyedSoul",
+					"indices": [
+						104,
+						118
+					]
+				},
+				{
+					"text": "SungSiKyung",
+					"indices": [
+						119,
+						131
+					]
+				},
+				{
+					"text": "TaeYeon",
+					"indices": [
+						132,
+						140
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						141,
+						157
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						158,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/msQV6i0Kez",
+					"expanded_url": "https://www.gqkorea.co.kr/2022/12/21/%EB%82%98%EC%96%BC-%EC%84%B1%EC%8B%9C%EA%B2%BD-%ED%83%9C%EC%97%B0%EC%9D%B4-%ED%95%9C-%EC%95%A8%EB%B2%94%EC%97%90%EC%84%9C-%EB%A7%8C%EB%82%9C%EB%8B%A4%EA%B3%A0/?ddw=133002&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "gqkorea.co.kr/2022/12/21/%EB…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262470,
+			"id_str": "78262470",
+			"name": "GQ KOREA",
+			"screen_name": "GQKOREA",
+			"location": "Seoul, Korea",
+			"description": "Be a Good Man, Don't be Quiet.",
+			"url": "https://t.co/pJOMTcQb22",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pJOMTcQb22",
+							"expanded_url": "http://www.gqkorea.co.kr",
+							"display_url": "gqkorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 144224,
+			"friends_count": 0,
+			"listed_count": 218,
+			"created_at": "Tue Sep 29 09:20:13 +0000 2009",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262470/1666589234",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이름만으로도 벌써 훈훈한 온기가 맴도는 나얼, 성시경, 태연이 한 앨범을 낸다고?\n#발라드팝시티 #나얼 #성시경 #태연 #브라운아이드소울 #소녀시대 #BalladPopCity #NAUL #BrownEyedSoul #SungSiKyung #TaeYeon #GirlsGeneration #KPOP\nhttps://t.co/msQV6i0Kez"
+	},
+	{
 		"created_at": "Tue Dec 20 15:11:02 +0000 2022",
 		"id": 1605205630431760400,
 		"id_str": "1605219229086584832",
