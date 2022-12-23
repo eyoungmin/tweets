@@ -1,6 +1,825 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Fri Dec 23 09:18:20 +0000 2022",
+		"id": 1606213745738498000,
+		"id_str": "1606217631727779841",
+		"full_text": "▶ Online Store \nSMTOWN &amp;STORE : https://t.co/JRDkAYTyFu\nSM True Store : https://t.co/gRTtj4Uxk1\nSM Global Shop : https://t.co/DItQ1O5hPp\nYIZHIYU : https://t.co/jNOi66N6eq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JRDkAYTyFu",
+					"expanded_url": "http://smtownandstore.com/",
+					"display_url": "smtownandstore.com",
+					"indices": [
+						36,
+						59
+					]
+				},
+				{
+					"url": "https://t.co/gRTtj4Uxk1",
+					"expanded_url": "http://shp.ee/m8urbtz",
+					"display_url": "shp.ee/m8urbtz",
+					"indices": [
+						76,
+						99
+					]
+				},
+				{
+					"url": "https://t.co/DItQ1O5hPp",
+					"expanded_url": "http://smglobalshop.com",
+					"display_url": "smglobalshop.com",
+					"indices": [
+						117,
+						140
+					]
+				},
+				{
+					"url": "https://t.co/jNOi66N6eq",
+					"expanded_url": "http://withfans.com/web/index.html#/",
+					"display_url": "withfans.com/web/index.html…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1606213742651482000,
+		"in_reply_to_status_id_str": "1606213742651482112",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3912975,
+			"friends_count": 5,
+			"listed_count": 6308,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 262,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "▶ Online Store \nSMTOWN &amp;STORE : https://t.co/JRDkAYTyFu\nSM True Store : https://t.co/gRTtj4Uxk1\nSM Global Shop : https://t.co/DItQ1O5hPp\nYIZHIYU : https://t.co/jNOi66N6eq"
+	},
+	{
+		"created_at": "Fri Dec 23 09:18:19 +0000 2022",
+		"id": 1606213742651482000,
+		"id_str": "1606217629886078976",
+		"full_text": "PINK CHRISTMAS RANDOM PACK @ KWANGYA from Girls’ Generation-Oh!GG\nOFFICIAL MD LINE UP SALES NOTICE\n\n▶ Sales Day\n2022. 12. 23 (FRI) 18:00 ~ 2022. 12. 30 (FRI) 23:59 [KST] https://t.co/TzLztOx6BP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1606213657301778400,
+					"id_str": "1606213657301778437",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Fkpqz6zagAUZWlD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fkpqz6zagAUZWlD.jpg",
+					"url": "https://t.co/TzLztOx6BP",
+					"display_url": "pic.twitter.com/TzLztOx6BP",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1606213742651482112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1606213657301778400,
+					"id_str": "1606213657301778437",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Fkpqz6zagAUZWlD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fkpqz6zagAUZWlD.jpg",
+					"url": "https://t.co/TzLztOx6BP",
+					"display_url": "pic.twitter.com/TzLztOx6BP",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1606213742651482112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1606213672397082600,
+					"id_str": "1606213672397082625",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Fkpq0zCakAEAiio.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fkpq0zCakAEAiio.jpg",
+					"url": "https://t.co/TzLztOx6BP",
+					"display_url": "pic.twitter.com/TzLztOx6BP",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1606213742651482112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1606213684698939400,
+					"id_str": "1606213684698939394",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Fkpq1g3aAAIGQRf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fkpq1g3aAAIGQRf.jpg",
+					"url": "https://t.co/TzLztOx6BP",
+					"display_url": "pic.twitter.com/TzLztOx6BP",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1606213742651482112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3912975,
+			"friends_count": 5,
+			"listed_count": 6308,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1363,
+		"favorite_count": 2352,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "PINK CHRISTMAS RANDOM PACK @ KWANGYA from Girls’ Generation-Oh!GG\nOFFICIAL MD LINE UP SALES NOTICE\n\n▶ Sales Day\n2022. 12. 23 (FRI) 18:00 ~ 2022. 12. 30 (FRI) 23:59 [KST] https://t.co/TzLztOx6BP"
+	},
+	{
+		"created_at": "Fri Dec 23 09:16:26 +0000 2022",
+		"id": 1606213038251470800,
+		"id_str": "1606217153178267648",
+		"full_text": "▶ Online Store \nSMTOWN &amp;STORE : https://t.co/InoTF4hlHN\nSM True Store : https://t.co/AWbZ7ZOIkT\nSM Global Shop : https://t.co/ZLGZI2KWxi\nYIZHIYU : https://t.co/cW6Q2Kl7nD\n\n#SMTOWN2023 #SMCU_PALACE\n#2022_WINTER_SMTOWN\n#SMTOWN #SMTOWN_LIVE #SMCU\n#RedVelvet #레드벨벳",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN2023",
+					"indices": [
+						176,
+						187
+					]
+				},
+				{
+					"text": "SMCU_PALACE",
+					"indices": [
+						188,
+						200
+					]
+				},
+				{
+					"text": "2022_WINTER_SMTOWN",
+					"indices": [
+						201,
+						220
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						221,
+						228
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						229,
+						241
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						242,
+						247
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						248,
+						258
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						259,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/InoTF4hlHN",
+					"expanded_url": "http://smtownandstore.com/",
+					"display_url": "smtownandstore.com",
+					"indices": [
+						36,
+						59
+					]
+				},
+				{
+					"url": "https://t.co/AWbZ7ZOIkT",
+					"expanded_url": "http://shp.ee/m8urbtz",
+					"display_url": "shp.ee/m8urbtz",
+					"indices": [
+						76,
+						99
+					]
+				},
+				{
+					"url": "https://t.co/ZLGZI2KWxi",
+					"expanded_url": "http://smglobalshop.com",
+					"display_url": "smglobalshop.com",
+					"indices": [
+						117,
+						140
+					]
+				},
+				{
+					"url": "https://t.co/cW6Q2Kl7nD",
+					"expanded_url": "http://withfans.com/web/index.html#/",
+					"display_url": "withfans.com/web/index.html…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1606213035743252500,
+		"in_reply_to_status_id_str": "1606213035743252480",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5804089,
+			"friends_count": 2,
+			"listed_count": 11570,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 516,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "▶ Online Store \nSMTOWN &amp;STORE : https://t.co/InoTF4hlHN\nSM True Store : https://t.co/AWbZ7ZOIkT\nSM Global Shop : https://t.co/ZLGZI2KWxi\nYIZHIYU : https://t.co/cW6Q2Kl7nD\n\n#SMTOWN2023 #SMCU_PALACE\n#2022_WINTER_SMTOWN\n#SMTOWN #SMTOWN_LIVE #SMCU\n#RedVelvet #레드벨벳"
+	},
+	{
+		"created_at": "Fri Dec 23 09:16:26 +0000 2022",
+		"id": 1606213035743252500,
+		"id_str": "1606217153148948481",
+		"full_text": "PINK CHRISTMAS RANDOM PACK @ KWANGYA from Red Velvet\nOFFICIAL MD LINE UP SALES NOTICE\n\n▶ Sales Day\n2022. 12. 23 (FRI) 18:00 ~ 2022. 12. 30 (FRI) 23:59 [KST] https://t.co/tQKdJzxjNu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1606205073297576000,
+					"id_str": "1606205073297575936",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FkpjAQ5VEAAtLg9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkpjAQ5VEAAtLg9.jpg",
+					"url": "https://t.co/tQKdJzxjNu",
+					"display_url": "pic.twitter.com/tQKdJzxjNu",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1606213035743252480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1606205073297576000,
+					"id_str": "1606205073297575936",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FkpjAQ5VEAAtLg9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkpjAQ5VEAAtLg9.jpg",
+					"url": "https://t.co/tQKdJzxjNu",
+					"display_url": "pic.twitter.com/tQKdJzxjNu",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1606213035743252480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1606205073289142300,
+					"id_str": "1606205073289142273",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FkpjAQ3UYAEPMLV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkpjAQ3UYAEPMLV.jpg",
+					"url": "https://t.co/tQKdJzxjNu",
+					"display_url": "pic.twitter.com/tQKdJzxjNu",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1606213035743252480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1606205073293316000,
+					"id_str": "1606205073293316096",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FkpjAQ4UEAAi8mo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkpjAQ4UEAAi8mo.jpg",
+					"url": "https://t.co/tQKdJzxjNu",
+					"display_url": "pic.twitter.com/tQKdJzxjNu",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1606213035743252480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5804089,
+			"friends_count": 2,
+			"listed_count": 11570,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1869,
+		"favorite_count": 4440,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "PINK CHRISTMAS RANDOM PACK @ KWANGYA from Red Velvet\nOFFICIAL MD LINE UP SALES NOTICE\n\n▶ Sales Day\n2022. 12. 23 (FRI) 18:00 ~ 2022. 12. 30 (FRI) 23:59 [KST] https://t.co/tQKdJzxjNu"
+	},
+	{
 		"created_at": "Fri Dec 23 09:01:28 +0000 2022",
 		"id": 1606213031347765200,
 		"id_str": "1606213389922885632",
