@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sun Dec 25 07:12:06 +0000 2022",
+		"id": 1606895893076222000,
+		"id_str": "1606910639917924352",
+		"full_text": "LOOΠΔ \nThe Origin Album [0]\n\n#ViVi ⛸\n\n#이달의소녀 #LOONA\n#Zero #FREESM https://t.co/aTWpq3osBo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ViVi",
+					"indices": [
+						29,
+						34
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "Zero",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "FREESM",
+					"indices": [
+						58,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1606885756487991300,
+					"id_str": "1606885756487991297",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FkzOFPYaAAEOxek.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkzOFPYaAAEOxek.jpg",
+					"url": "https://t.co/aTWpq3osBo",
+					"display_url": "pic.twitter.com/aTWpq3osBo",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1606895893076221955/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1606885756487991300,
+					"id_str": "1606885756487991297",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FkzOFPYaAAEOxek.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkzOFPYaAAEOxek.jpg",
+					"url": "https://t.co/aTWpq3osBo",
+					"display_url": "pic.twitter.com/aTWpq3osBo",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1606895893076221955/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1606885756559315000,
+					"id_str": "1606885756559314944",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FkzOFPpaUAAR9Cz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkzOFPpaUAAR9Cz.jpg",
+					"url": "https://t.co/aTWpq3osBo",
+					"display_url": "pic.twitter.com/aTWpq3osBo",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1606895893076221955/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsse3B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsse3B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 939020,
+			"friends_count": 3,
+			"listed_count": 8840,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1603259958807924736/kmMZLUmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1603259958807924736/kmMZLUmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1671081319",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 254,
+		"favorite_count": 1169,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LOOΠΔ \nThe Origin Album [0]\n\n#ViVi ⛸\n\n#이달의소녀 #LOONA\n#Zero #FREESM https://t.co/aTWpq3osBo"
+	},
+	{
 		"created_at": "Sun Dec 25 06:13:14 +0000 2022",
 		"id": 1606877580002742300,
 		"id_str": "1606895827708186624",
