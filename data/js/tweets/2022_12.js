@@ -1,6 +1,170 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Mon Dec 26 02:53:34 +0000 2022",
+		"id": 1607203776708116500,
+		"id_str": "1607207967149150210",
+		"full_text": "블랙핑크, 뉴진스가 쓰고 나온 동물 모양 비니가 궁금하다면.\n#BLACKPINK #블랙핑크 #NewJeans #뉴진스  #RedVelvet #레드벨벳  #DuaLipa #두아리파\nhttps://t.co/iPWsYsB9ep",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						51,
+						60
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						67,
+						77
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "DuaLipa",
+					"indices": [
+						85,
+						93
+					]
+				},
+				{
+					"text": "두아리파",
+					"indices": [
+						94,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iPWsYsB9ep",
+					"expanded_url": "https://www.wkorea.com/2022/12/26/%ec%97%ac%ec%9e%90-%ec%95%84%ec%9d%b4%eb%8f%8c%ec%9d%b4-%ec%93%b0%ea%b3%a0-%eb%82%98%ec%98%a8-%ea%b3%a0%ec%96%91%ec%9d%b4-%eb%b9%84%eb%8b%88/?ddw=133406&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2022/12/26/%ec…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5xzw0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5xzw0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316100,
+			"friends_count": 0,
+			"listed_count": 855,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1671603888",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블랙핑크, 뉴진스가 쓰고 나온 동물 모양 비니가 궁금하다면.\n#BLACKPINK #블랙핑크 #NewJeans #뉴진스  #RedVelvet #레드벨벳  #DuaLipa #두아리파\nhttps://t.co/iPWsYsB9ep"
+	},
+	{
 		"created_at": "Sun Dec 25 15:28:53 +0000 2022",
 		"id": 1607029361127063600,
 		"id_str": "1607035660585832449",
