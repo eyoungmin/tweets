@@ -1,6 +1,436 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 28 06:19:29 +0000 2022",
+		"id": 1607980189509910500,
+		"id_str": "1607984564366086144",
+		"full_text": "7. A4 POSTER SET\n8. MINI BROCHURE\n9. PHOTO CARD PACK\n10. 4 CUT PHOTO STICKER\n11. MOVIE TICKET SET\n\n다양한 온라인 판매처를 통해 예약판매 진행 중입니다. https://t.co/F6O9y2KBOK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1607972936937533400,
+					"id_str": "1607972936937533441",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FlCq3eKacAE0bwD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlCq3eKacAE0bwD.jpg",
+					"url": "https://t.co/F6O9y2KBOK",
+					"display_url": "pic.twitter.com/F6O9y2KBOK",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1607980189509910528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 232,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 409,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 698,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1607972936937533400,
+					"id_str": "1607972936937533441",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FlCq3eKacAE0bwD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlCq3eKacAE0bwD.jpg",
+					"url": "https://t.co/F6O9y2KBOK",
+					"display_url": "pic.twitter.com/F6O9y2KBOK",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1607980189509910528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 232,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 409,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 698,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1607972936962683000,
+					"id_str": "1607972936962682880",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FlCq3eQaMAAga55.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlCq3eQaMAAga55.jpg",
+					"url": "https://t.co/F6O9y2KBOK",
+					"display_url": "pic.twitter.com/F6O9y2KBOK",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1607980189509910528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1165,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 682,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 387,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1607980184090873900,
+		"in_reply_to_status_id_str": "1607980184090873858",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3913473,
+			"friends_count": 5,
+			"listed_count": 6308,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3169,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 723,
+		"favorite_count": 1151,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "7. A4 POSTER SET\n8. MINI BROCHURE\n9. PHOTO CARD PACK\n10. 4 CUT PHOTO STICKER\n11. MOVIE TICKET SET\n\n다양한 온라인 판매처를 통해 예약판매 진행 중입니다. https://t.co/F6O9y2KBOK"
+	},
+	{
+		"created_at": "Wed Dec 28 06:19:29 +0000 2022",
+		"id": 1607980184090873900,
+		"id_str": "1607984564357705729",
+		"full_text": "2023 SM ARTIST SEASON’S GREETINGS #GirlsGenerationOhGG\n\n[구성 안내]\n1. PACKAGE\n2. DESK CALENDAR \n3. HARD COVER DIARY\n4. POSTCARD SET\n5. FOLDED POSTER SET\n6. STICKER SET ( PHOTO &amp; HANDWRITING ) https://t.co/qyyTzmmbzB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGenerationOhGG",
+					"indices": [
+						34,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1607971685474664400,
+					"id_str": "1607971685474664448",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FlCpuoGagAAsuT5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlCpuoGagAAsuT5.jpg",
+					"url": "https://t.co/qyyTzmmbzB",
+					"display_url": "pic.twitter.com/qyyTzmmbzB",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1607980184090873858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 934,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 310,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 547,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1607971685474664400,
+					"id_str": "1607971685474664448",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FlCpuoGagAAsuT5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlCpuoGagAAsuT5.jpg",
+					"url": "https://t.co/qyyTzmmbzB",
+					"display_url": "pic.twitter.com/qyyTzmmbzB",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1607980184090873858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 934,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 310,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 547,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1607971685495640000,
+					"id_str": "1607971685495640065",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FlCpuoLakAETmI0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlCpuoLakAETmI0.jpg",
+					"url": "https://t.co/qyyTzmmbzB",
+					"display_url": "pic.twitter.com/qyyTzmmbzB",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1607980184090873858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 629,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 369,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 209,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3913473,
+			"friends_count": 5,
+			"listed_count": 6308,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3169,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1922,
+		"favorite_count": 2947,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2023 SM ARTIST SEASON’S GREETINGS #GirlsGenerationOhGG\n\n[구성 안내]\n1. PACKAGE\n2. DESK CALENDAR \n3. HARD COVER DIARY\n4. POSTCARD SET\n5. FOLDED POSTER SET\n6. STICKER SET ( PHOTO &amp; HANDWRITING ) https://t.co/qyyTzmmbzB"
+	},
+	{
 		"created_at": "Tue Dec 27 12:02:48 +0000 2022",
 		"id": 1607708059010490400,
 		"id_str": "1607708573769007110",
