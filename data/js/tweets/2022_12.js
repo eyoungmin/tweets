@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Thu Dec 29 15:18:34 +0000 2022",
+		"id": 1608478078052798500,
+		"id_str": "1608482615253950465",
+		"full_text": "Yerin Baek Single [New Year]\n2023.1.1  6pm(KST) Release\n⠀\n01. Fuckin' New Year\n02. Big world\n⠀\n#YerinBaek #2023 #NewYear #Release https://t.co/t3y9C0hWxn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YerinBaek",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"text": "NewYear",
+					"indices": [
+						112,
+						120
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						121,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1608464726954217500,
+					"id_str": "1608464726954217472",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1608464726954217472/pu/img/eA3uqVBwqVFknaSc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1608464726954217472/pu/img/eA3uqVBwqVFknaSc.jpg",
+					"url": "https://t.co/t3y9C0hWxn",
+					"display_url": "pic.twitter.com/t3y9C0hWxn",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1608478078052798464/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1608464726954217500,
+					"id_str": "1608464726954217472",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1608464726954217472/pu/img/eA3uqVBwqVFknaSc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1608464726954217472/pu/img/eA3uqVBwqVFknaSc.jpg",
+					"url": "https://t.co/t3y9C0hWxn",
+					"display_url": "pic.twitter.com/t3y9C0hWxn",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1608478078052798464/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 18180,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1608464726954217472/pu/vid/1280x720/NSu0FkKMwX_ozvhS.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1608464726954217472/pu/vid/640x360/tkKGIE6bhr4QKVTa.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1608464726954217472/pu/pl/IOnvyokCATAT5Zwj.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1608464726954217472/pu/vid/480x270/rlA2qDxN8UCNTOOK.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51083,
+			"friends_count": 2,
+			"listed_count": 249,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1652253459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1652,
+		"favorite_count": 1347,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yerin Baek Single [New Year]\n2023.1.1  6pm(KST) Release\n⠀\n01. Fuckin' New Year\n02. Big world\n⠀\n#YerinBaek #2023 #NewYear #Release https://t.co/t3y9C0hWxn"
+	},
+	{
 		"created_at": "Thu Dec 29 09:14:33 +0000 2022",
 		"id": 1608387458579968000,
 		"id_str": "1608391008873771009",
