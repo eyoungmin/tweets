@@ -1,6 +1,136 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Thu Dec 29 06:13:05 +0000 2022",
+		"id": 1608344343999570000,
+		"id_str": "1608345339660226561",
+		"full_text": "#도전_루비를_웃겨라 당첨자 안내 \n\n▶ https://t.co/u3q6FTuyRx\n\n이벤트 당첨자 정보 작성 기간\n📍~2022년 12월 31일 (토) 4:59PM (KST) \n\n해당 링크를 통해 당첨을 확인할 수 있으며\n참여해주신 오빛 여러분들께 감사드립니다.\n\n#이달의소녀 #LOONA \n#여진 #YeoJin",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "도전_루비를_웃겨라",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						148,
+						154
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						155,
+						161
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						167,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u3q6FTuyRx",
+					"expanded_url": "https://forms.gle/r1sBQvSpz7U6EKPz8",
+					"display_url": "forms.gle/r1sBQvSpz7U6EK…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 773078392660856800,
+			"id_str": "773078392660856832",
+			"name": "이달의 소녀 Staff",
+			"screen_name": "loonaStaff",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31312,
+			"friends_count": 1,
+			"listed_count": 552,
+			"created_at": "Tue Sep 06 08:40:26 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1603004403119583237/DhotH0yY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1603004403119583237/DhotH0yY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/773078392660856832/1671021018",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#도전_루비를_웃겨라 당첨자 안내 \n\n▶ https://t.co/u3q6FTuyRx\n\n이벤트 당첨자 정보 작성 기간\n📍~2022년 12월 31일 (토) 4:59PM (KST) \n\n해당 링크를 통해 당첨을 확인할 수 있으며\n참여해주신 오빛 여러분들께 감사드립니다.\n\n#이달의소녀 #LOONA \n#여진 #YeoJin"
+	},
+	{
 		"created_at": "Thu Dec 29 04:17:28 +0000 2022",
 		"id": 1608309669247737900,
 		"id_str": "1608316243693699075",
