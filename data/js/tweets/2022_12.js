@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Fri Dec 30 05:14:48 +0000 2022",
+		"id": 1608689419321749500,
+		"id_str": "1608693059470123010",
+		"full_text": "한 해 동안 받은 사랑을 모아\n작은 기적이 되기를 바라는 마음을 보냅니다.\n\n차가운 겨울의 따뜻한 햇볕처럼,\n무더운 여름의 시원한 그늘처럼,\n누군가에게도 오늘이\n포근한 하루로 기억되길 바랍니다.\n\n언제나 햇볕과 그늘이 되어 준 \n우리 유애나에게도\n은은한 미소가 떠오르는 하루가 되길 바라요💜 https://t.co/zNflFjd4xh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1608689352745562000,
+					"id_str": "1608689352745562115",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FlM2cXBaMAMMHFF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlM2cXBaMAMMHFF.jpg",
+					"url": "https://t.co/zNflFjd4xh",
+					"display_url": "pic.twitter.com/zNflFjd4xh",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1608689419321749505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1608689352745562000,
+					"id_str": "1608689352745562115",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FlM2cXBaMAMMHFF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlM2cXBaMAMMHFF.jpg",
+					"url": "https://t.co/zNflFjd4xh",
+					"display_url": "pic.twitter.com/zNflFjd4xh",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1608689419321749505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1608689410765389800,
+					"id_str": "1608689410765389828",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FlM2fvKagAQydRN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlM2fvKagAQydRN.jpg",
+					"url": "https://t.co/zNflFjd4xh",
+					"display_url": "pic.twitter.com/zNflFjd4xh",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1608689419321749505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 898,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1344,
+							"h": 1006,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1567037,
+			"friends_count": 1,
+			"listed_count": 2417,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2231,
+		"favorite_count": 3696,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한 해 동안 받은 사랑을 모아\n작은 기적이 되기를 바라는 마음을 보냅니다.\n\n차가운 겨울의 따뜻한 햇볕처럼,\n무더운 여름의 시원한 그늘처럼,\n누군가에게도 오늘이\n포근한 하루로 기억되길 바랍니다.\n\n언제나 햇볕과 그늘이 되어 준 \n우리 유애나에게도\n은은한 미소가 떠오르는 하루가 되길 바라요💜 https://t.co/zNflFjd4xh"
+	},
+	{
 		"created_at": "Fri Dec 30 03:54:42 +0000 2022",
 		"id": 1608660383732236300,
 		"id_str": "1608672901510885377",
