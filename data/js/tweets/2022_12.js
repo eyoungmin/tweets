@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sat Dec 31 15:55:17 +0000 2022",
+		"id": 1609202747274047500,
+		"id_str": "1609216631619850242",
+		"full_text": "CHUNG HA 청하 🐇2023 HAPPY NEW YEAR🐇 메시지\n\n별하랑💚💙💜 2023년도 행복하고 건강하게! 원하는 것 다 이루길!\n올해도 잘 부탁해!! 🙏\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG #별랑해\n#HAPPY_NEW_YEAR🙌 https://t.co/cvzRvIPB4J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						110,
+						121
+					]
+				},
+				{
+					"text": "별랑해",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "HAPPY_NEW_YEAR",
+					"indices": [
+						127,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1609202740437332000,
+					"id_str": "1609202740437331970",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FlUJXdNaMAIEIev.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlUJXdNaMAIEIev.jpg",
+					"url": "https://t.co/cvzRvIPB4J",
+					"display_url": "pic.twitter.com/cvzRvIPB4J",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1609202747274047497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1448,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1609202740437332000,
+					"id_str": "1609202740437331970",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FlUJXdNaMAIEIev.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlUJXdNaMAIEIev.jpg",
+					"url": "https://t.co/cvzRvIPB4J",
+					"display_url": "pic.twitter.com/cvzRvIPB4J",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1609202747274047497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1448,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 354370,
+			"friends_count": 1,
+			"listed_count": 2215,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 375,
+		"favorite_count": 938,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CHUNG HA 청하 🐇2023 HAPPY NEW YEAR🐇 메시지\n\n별하랑💚💙💜 2023년도 행복하고 건강하게! 원하는 것 다 이루길!\n올해도 잘 부탁해!! 🙏\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG #별랑해\n#HAPPY_NEW_YEAR🙌 https://t.co/cvzRvIPB4J"
+	},
+	{
 		"created_at": "Sat Dec 31 11:18:23 +0000 2022",
 		"id": 1609142497393143800,
 		"id_str": "1609146948904431618",
