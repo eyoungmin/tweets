@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sat Dec 31 11:18:23 +0000 2022",
+		"id": 1609142497393143800,
+		"id_str": "1609146948904431618",
+		"full_text": "Red Velvet 'Birthday' PARTY in KWANGYA I 러비들 대댕큐 💗💛💙💚💜\n \nhttps://t.co/5esLVjSqOF\n\n#레드벨벳 #RedVelvet \n#Birthday #벌스데이 \n#KWANGYA\n#KWANGYASEOUL https://t.co/gUKVSkRurH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						88,
+						98
+					]
+				},
+				{
+					"text": "Birthday",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"text": "벌스데이",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "KWANGYA",
+					"indices": [
+						117,
+						125
+					]
+				},
+				{
+					"text": "KWANGYASEOUL",
+					"indices": [
+						126,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5esLVjSqOF",
+					"expanded_url": "https://youtu.be/b3qlC85f9aU",
+					"display_url": "youtu.be/b3qlC85f9aU",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1609142479978369000,
+					"id_str": "1609142479978369024",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FlTSj1gaEAA298E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlTSj1gaEAA298E.jpg",
+					"url": "https://t.co/gUKVSkRurH",
+					"display_url": "pic.twitter.com/gUKVSkRurH",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1609142497393143814/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1609142479978369000,
+					"id_str": "1609142479978369024",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FlTSj1gaEAA298E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlTSj1gaEAA298E.jpg",
+					"url": "https://t.co/gUKVSkRurH",
+					"display_url": "pic.twitter.com/gUKVSkRurH",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1609142497393143814/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5815348,
+			"friends_count": 2,
+			"listed_count": 11590,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2821,
+		"favorite_count": 5752,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Red Velvet 'Birthday' PARTY in KWANGYA I 러비들 대댕큐 💗💛💙💚💜\n \nhttps://t.co/5esLVjSqOF\n\n#레드벨벳 #RedVelvet \n#Birthday #벌스데이 \n#KWANGYA\n#KWANGYASEOUL https://t.co/gUKVSkRurH"
+	},
+	{
 		"created_at": "Sat Dec 31 09:34:17 +0000 2022",
 		"id": 1609120368207474700,
 		"id_str": "1609120750631530502",
