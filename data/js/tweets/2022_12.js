@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sat Dec 31 18:19:06 +0000 2022",
+		"id": 1609238932017021000,
+		"id_str": "1609252823304396801",
+		"full_text": "백예린 (Yerin Baek) - ‘Fuckin’ New Year’ MV\n⠀\nHappy New Year!\n백예린의 [New Year] 첫 번째 트랙 ‘Fuckin’ New Year’ 뮤직비디오를 선공개합니다. 백예린 유튜브 채널에서 지금 바로 풀버전으로 감상하실 수 있습니다. The music video for ‘Fuckin’ New Year’ is now on Youtube. https://t.co/wiR6UDylpS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1609238800206819300,
+					"id_str": "1609238800206819333",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1609238800206819333/pu/img/dld2eTVQq2q8A67h.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1609238800206819333/pu/img/dld2eTVQq2q8A67h.jpg",
+					"url": "https://t.co/wiR6UDylpS",
+					"display_url": "pic.twitter.com/wiR6UDylpS",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1609238932017020929/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1609238800206819300,
+					"id_str": "1609238800206819333",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1609238800206819333/pu/img/dld2eTVQq2q8A67h.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1609238800206819333/pu/img/dld2eTVQq2q8A67h.jpg",
+					"url": "https://t.co/wiR6UDylpS",
+					"display_url": "pic.twitter.com/wiR6UDylpS",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1609238932017020929/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 66983,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1609238800206819333/pu/vid/480x270/7nOBOWvSOiw0nf-2.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1609238800206819333/pu/pl/EWkxzp-kdybtPni3.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1609238800206819333/pu/vid/640x360/_yt_DPFQw1EVTCml.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1609238800206819333/pu/vid/1280x720/mLHklwKYb4s7AoK8.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51377,
+			"friends_count": 2,
+			"listed_count": 253,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1608765016316182532/etM2nxei_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1608765016316182532/etM2nxei_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1672394456",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1080,
+		"favorite_count": 1131,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "백예린 (Yerin Baek) - ‘Fuckin’ New Year’ MV\n⠀\nHappy New Year!\n백예린의 [New Year] 첫 번째 트랙 ‘Fuckin’ New Year’ 뮤직비디오를 선공개합니다. 백예린 유튜브 채널에서 지금 바로 풀버전으로 감상하실 수 있습니다. The music video for ‘Fuckin’ New Year’ is now on Youtube. https://t.co/wiR6UDylpS"
+	},
+	{
 		"created_at": "Sat Dec 31 15:55:17 +0000 2022",
 		"id": 1609202747274047500,
 		"id_str": "1609216631619850242",
