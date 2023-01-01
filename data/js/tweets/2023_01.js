@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sun Jan 01 12:19:17 +0000 2023",
+		"id": 1609523733957587000,
+		"id_str": "1609524659967651840",
+		"full_text": "백예린 (Yerin Baek) - ‘Big world‘ MV\n\n[New Year] 두 번째 트랙 'Big world'를 뮤직비디오와 함께 감상하세요! The music video for ‘Big world‘ is now on Youtube.\n\nhttps://t.co/kW7UmVIlRT\n\n#YerinBaek #2023 #NewYear https://t.co/FGCerkXo0d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YerinBaek",
+					"indices": [
+						161,
+						171
+					]
+				},
+				{
+					"text": "NewYear",
+					"indices": [
+						178,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kW7UmVIlRT",
+					"expanded_url": "https://youtu.be/6Kb0_IkO3P4",
+					"display_url": "youtu.be/6Kb0_IkO3P4",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1609523728194613200,
+					"id_str": "1609523728194613248",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FlYtTZyaMAAgWbt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlYtTZyaMAAgWbt.jpg",
+					"url": "https://t.co/FGCerkXo0d",
+					"display_url": "pic.twitter.com/FGCerkXo0d",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1609523733957586944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1609523728194613200,
+					"id_str": "1609523728194613248",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FlYtTZyaMAAgWbt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlYtTZyaMAAgWbt.jpg",
+					"url": "https://t.co/FGCerkXo0d",
+					"display_url": "pic.twitter.com/FGCerkXo0d",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1609523733957586944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51446,
+			"friends_count": 2,
+			"listed_count": 254,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1608765016316182532/etM2nxei_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1608765016316182532/etM2nxei_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1672394456",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 383,
+		"favorite_count": 423,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "백예린 (Yerin Baek) - ‘Big world‘ MV\n\n[New Year] 두 번째 트랙 'Big world'를 뮤직비디오와 함께 감상하세요! The music video for ‘Big world‘ is now on Youtube.\n\nhttps://t.co/kW7UmVIlRT\n\n#YerinBaek #2023 #NewYear https://t.co/FGCerkXo0d"
+	},
+	{
 		"created_at": "Sun Jan 01 11:18:38 +0000 2023",
 		"id": 1609500267355189200,
 		"id_str": "1609509397700673536",
