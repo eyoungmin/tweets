@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sun Jan 01 09:19:15 +0000 2023",
+		"id": 1609474951685472300,
+		"id_str": "1609479353850818569",
+		"full_text": "[Release]\n백예린 싱글 &lt;New Year&gt;가 발매되었습니다. 지금 바로 모든 음원사이트에서 감상하실 수 있습니다.\n⠀\n01. Fuckin' New Year (Title)\n02. Big world (Title)\n\n&lt;Credits&gt;\nAll songs produced by 백예린, 구름\nAll songs recorded by 구름 @ TVT CLUB\nAll songs mixed by 구름 https://t.co/gpxKzI1wwz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1609474942856499200,
+					"id_str": "1609474942856499206",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/FlYA7uPakAYsjCn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlYA7uPakAYsjCn.jpg",
+					"url": "https://t.co/gpxKzI1wwz",
+					"display_url": "pic.twitter.com/gpxKzI1wwz",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1609474951685472261/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1609474942856499200,
+					"id_str": "1609474942856499206",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/FlYA7uPakAYsjCn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlYA7uPakAYsjCn.jpg",
+					"url": "https://t.co/gpxKzI1wwz",
+					"display_url": "pic.twitter.com/gpxKzI1wwz",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1609474951685472261/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51426,
+			"friends_count": 2,
+			"listed_count": 254,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1608765016316182532/etM2nxei_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1608765016316182532/etM2nxei_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1672394456",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 622,
+		"favorite_count": 690,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release]\n백예린 싱글 &lt;New Year&gt;가 발매되었습니다. 지금 바로 모든 음원사이트에서 감상하실 수 있습니다.\n⠀\n01. Fuckin' New Year (Title)\n02. Big world (Title)\n\n&lt;Credits&gt;\nAll songs produced by 백예린, 구름\nAll songs recorded by 구름 @ TVT CLUB\nAll songs mixed by 구름 https://t.co/gpxKzI1wwz"
+	},
+	{
 		"created_at": "Sun Jan 01 03:34:27 +0000 2023",
 		"id": 1609389071213674500,
 		"id_str": "1609392583389896704",
