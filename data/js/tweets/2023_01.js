@@ -1,6 +1,359 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sun Jan 01 13:30:32 +0000 2023",
+		"id": 1609534953494282200,
+		"id_str": "1609542591636439041",
+		"full_text": "Red Velvet X aespa 'Beautiful Christmas' Stage Video\n\nhttps://t.co/1MLpMMS7UK\n\n#BeautifulChristmas #RedVelvet #aespa\n#SMTOWN2023 #SMCU_PALACE \n#2022_WINTER_SMTOWN \n#SMTOWN #SMTOWN_LIVE #SMCU https://t.co/lBnwQNwnVx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BeautifulChristmas",
+					"indices": [
+						79,
+						98
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						99,
+						109
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "SMTOWN2023",
+					"indices": [
+						117,
+						128
+					]
+				},
+				{
+					"text": "SMCU_PALACE",
+					"indices": [
+						129,
+						141
+					]
+				},
+				{
+					"text": "2022_WINTER_SMTOWN",
+					"indices": [
+						143,
+						162
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						164,
+						171
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						172,
+						184
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						185,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1MLpMMS7UK",
+					"expanded_url": "https://youtu.be/KrM6qosTwp8",
+					"display_url": "youtu.be/KrM6qosTwp8",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1609534939208519700,
+					"id_str": "1609534939208519681",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FlY3f-EakAE7xhI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlY3f-EakAE7xhI.jpg",
+					"url": "https://t.co/lBnwQNwnVx",
+					"display_url": "pic.twitter.com/lBnwQNwnVx",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1609534953494282242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1609534939208519700,
+					"id_str": "1609534939208519681",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FlY3f-EakAE7xhI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlY3f-EakAE7xhI.jpg",
+					"url": "https://t.co/lBnwQNwnVx",
+					"display_url": "pic.twitter.com/lBnwQNwnVx",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1609534953494282242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11404498,
+			"friends_count": 56,
+			"listed_count": 12910,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13691,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4918,
+		"favorite_count": 10338,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet X aespa 'Beautiful Christmas' Stage Video\n\nhttps://t.co/1MLpMMS7UK\n\n#BeautifulChristmas #RedVelvet #aespa\n#SMTOWN2023 #SMCU_PALACE \n#2022_WINTER_SMTOWN \n#SMTOWN #SMTOWN_LIVE #SMCU https://t.co/lBnwQNwnVx"
+	},
+	{
+		"created_at": "Sun Jan 01 13:20:33 +0000 2023",
+		"id": 1609532596358381600,
+		"id_str": "1609540080749940743",
+		"full_text": "【#SONEJAPAN】のみなさん、あけましておめでとうございます💓\n本日開催した「SMTOWN LIVE 2023 : SMCU PALACE@KWANGYA」のステージショットとレポートをファンクラブサイト内「BLOG」にて公開いたしました！\nぜひチェックしてください♪\n※会員様限定コンテンツのため、転載禁止です。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SONEJAPAN",
+					"indices": [
+						1,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/T70Fo3NBNn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/T70Fo3NBNn",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 123965,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555086105711886337/zo-mAiti_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555086105711886337/zo-mAiti_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1659596396",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 122,
+		"favorite_count": 491,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "【#SONEJAPAN】のみなさん、あけましておめでとうございます💓\n本日開催した「SMTOWN LIVE 2023 : SMCU PALACE@KWANGYA」のステージショットとレポートをファンクラブサイト内「BLOG」にて公開いたしました！\nぜひチェックしてください♪\n※会員様限定コンテンツのため、転載禁止です。"
+	},
+	{
 		"created_at": "Sun Jan 01 12:19:17 +0000 2023",
 		"id": 1609523733957587000,
 		"id_str": "1609524659967651840",
