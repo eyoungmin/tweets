@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Mon Jan 02 08:55:26 +0000 2023",
+		"id": 1609828891371376600,
+		"id_str": "1609835750354456581",
+		"full_text": "오랜 연습생 기간을 거쳐 세계적인 스타로 거듭난 블랙핑크 지수의 속마음이 담겼다.\n#블랙핑크 #지수 #BLACKPINK #JISOO #BORNPINK #KPOP\nhttps://t.co/s4cMyn86GT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						56,
+						66
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						84,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s4cMyn86GT",
+					"expanded_url": "https://www.gqkorea.co.kr/2023/01/02/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC-%EC%A7%80%EC%88%98-%EC%86%94%EB%A1%9C-%EB%8D%B0%EB%B7%94-%EC%9E%84%EB%B0%95-%EC%96%B4%EB%96%A4-%EC%9D%B4%EC%95%BC%EA%B8%B0%EA%B0%80-%EB%8B%B4%EA%B8%B8%EA%B9%8C/?ddw=133903&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "gqkorea.co.kr/2023/01/02/%EB…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262470,
+			"id_str": "78262470",
+			"name": "GQ KOREA",
+			"screen_name": "GQKOREA",
+			"location": "Seoul, Korea",
+			"description": "Be a Good Man, Don't be Quiet.",
+			"url": "https://t.co/pJOMTcz802",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pJOMTcz802",
+							"expanded_url": "http://www.gqkorea.co.kr",
+							"display_url": "gqkorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 144450,
+			"friends_count": 0,
+			"listed_count": 219,
+			"created_at": "Tue Sep 29 09:20:13 +0000 2009",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262470/1672645348",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오랜 연습생 기간을 거쳐 세계적인 스타로 거듭난 블랙핑크 지수의 속마음이 담겼다.\n#블랙핑크 #지수 #BLACKPINK #JISOO #BORNPINK #KPOP\nhttps://t.co/s4cMyn86GT"
+	},
+	{
 		"created_at": "Mon Jan 02 04:19:26 +0000 2023",
 		"id": 1609758682325356500,
 		"id_str": "1609766293032570881",
