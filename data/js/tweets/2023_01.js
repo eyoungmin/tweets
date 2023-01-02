@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Mon Jan 02 01:55:23 +0000 2023",
+		"id": 1609716108453355500,
+		"id_str": "1609730039398162432",
+		"full_text": "#제작협찬 2023년 1월, #크리스챤디올뷰티 가 #디올어딕트립글로우 #031 스트로베리, #038 로즈 누드, #039 웜 베이지를 새롭게 선보입니다. #031 스트로베리는 디올 글로벌 앰버서더인 #블랙핑크 #지수 로부터 영감 받아 탄생한 맑은 레드 컬러로, 화사하고 생기 있는 입술을 연출해줍니다. https://t.co/8FSoAkPDkj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제작협찬",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "크리스챤디올뷰티",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"text": "디올어딕트립글로우",
+					"indices": [
+						28,
+						38
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						117,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1606191472482873300,
+					"id_str": "1606191472482873344",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FkpWol6acAAME1N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkpWol6acAAME1N.jpg",
+					"url": "https://t.co/8FSoAkPDkj",
+					"display_url": "pic.twitter.com/8FSoAkPDkj",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1609716108453355521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1606191472482873300,
+					"id_str": "1606191472482873344",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FkpWol6acAAME1N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkpWol6acAAME1N.jpg",
+					"url": "https://t.co/8FSoAkPDkj",
+					"display_url": "pic.twitter.com/8FSoAkPDkj",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1609716108453355521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1606191472508010500,
+					"id_str": "1606191472508010496",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FkpWomAaAAAF6VW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkpWomAaAAAF6VW.jpg",
+					"url": "https://t.co/8FSoAkPDkj",
+					"display_url": "pic.twitter.com/8FSoAkPDkj",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1609716108453355521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1606191472487075800,
+					"id_str": "1606191472487075840",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FkpWol7akAA63ec.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkpWol7akAA63ec.jpg",
+					"url": "https://t.co/8FSoAkPDkj",
+					"display_url": "pic.twitter.com/8FSoAkPDkj",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1609716108453355521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108606,
+			"friends_count": 1,
+			"listed_count": 340,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1602960834686496769/9ocVf6Il_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1602960834686496769/9ocVf6Il_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1671092759",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 506,
+		"favorite_count": 1133,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#제작협찬 2023년 1월, #크리스챤디올뷰티 가 #디올어딕트립글로우 #031 스트로베리, #038 로즈 누드, #039 웜 베이지를 새롭게 선보입니다. #031 스트로베리는 디올 글로벌 앰버서더인 #블랙핑크 #지수 로부터 영감 받아 탄생한 맑은 레드 컬러로, 화사하고 생기 있는 입술을 연출해줍니다. https://t.co/8FSoAkPDkj"
+	},
+	{
 		"created_at": "Sun Jan 01 13:30:32 +0000 2023",
 		"id": 1609534953494282200,
 		"id_str": "1609542591636439041",
