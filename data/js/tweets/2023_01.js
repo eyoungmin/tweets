@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Mon Jan 02 12:55:28 +0000 2023",
+		"id": 1609882332135100400,
+		"id_str": "1609896156695506947",
+		"full_text": "필라테스 강사가 된 #AOA #유나! 자격증까지 취득하며 연예인에서 운동 지도자로 전향한 스타는?\n@Official_AOA @Jline_Tahiti #타히티 #지수 #이시영 #심은우 #지현정 #최여진\nhttps://t.co/WzojWx8rto",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AOA",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "유나",
+					"indices": [
+						16,
+						19
+					]
+				},
+				{
+					"text": "타히티",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "이시영",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "심은우",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "지현정",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "최여진",
+					"indices": [
+						107,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Official_AOA",
+					"name": "Official_AOA",
+					"id": 617950382,
+					"id_str": "617950382",
+					"indices": [
+						55,
+						68
+					]
+				},
+				{
+					"screen_name": "Jline_Tahiti",
+					"name": "TAHITI",
+					"id": 536266285,
+					"id_str": "536266285",
+					"indices": [
+						69,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WzojWx8rto",
+					"expanded_url": "https://www.allurekorea.com/2022/09/10/%eb%b3%b8%ec%97%85%eb%8f%84-%ec%9e%98%ed%95%98%eb%8a%94%eb%8d%b0-%eb%b6%80%ec%ba%90%ea%b9%8c%ec%a7%80-%ec%99%84%eb%b2%bd%ed%95%b4-%ec%9a%b4%eb%8f%99%ec%97%90-%ec%a7%84%ec%8b%ac%ec%9d%b8-%ec%8a%a4/?ddw=124196&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2022/09/10/%eb…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38181,
+			"friends_count": 1,
+			"listed_count": 302,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1671433243",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "필라테스 강사가 된 #AOA #유나! 자격증까지 취득하며 연예인에서 운동 지도자로 전향한 스타는?\n@Official_AOA @Jline_Tahiti #타히티 #지수 #이시영 #심은우 #지현정 #최여진\nhttps://t.co/WzojWx8rto"
+	},
+	{
 		"created_at": "Mon Jan 02 11:18:51 +0000 2023",
 		"id": 1609867909085687800,
 		"id_str": "1609871841786748935",
