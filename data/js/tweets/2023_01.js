@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Tue Jan 03 02:55:37 +0000 2023",
+		"id": 1610093949829644300,
+		"id_str": "1610107584182378496",
+		"full_text": "@Dior @BLACKPINK #크리스챤디올뷰티 가 새롭게 선보이는 #031 스트로베리는 #디올 글로벌 앰버서더이자 #블랙핑크 지수의 미소와 아름다움에서 영감을 받고 K-Beauty의 감성을 반영한 맑은 레드 컬러로, 바르는 즉시 얼굴 톤과 입술을 밝혀줍니다. 촉촉하고 투명한 빛으로 물든 #지수 의 뷰티 모먼트를 확인해보세요. https://t.co/0IS1M7xxUI",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "크리스챤디올뷰티",
+					"indices": [
+						17,
+						26
+					]
+				},
+				{
+					"text": "디올",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						162,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dior",
+					"name": "Dior",
+					"id": 348379865,
+					"id_str": "348379865",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						6,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1610093939322937300,
+					"id_str": "1610093939322937344",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/Flgz6DxaYAApxF3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Flgz6DxaYAApxF3.jpg",
+					"url": "https://t.co/0IS1M7xxUI",
+					"display_url": "pic.twitter.com/0IS1M7xxUI",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1610093949829644289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1676,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1610093939322937300,
+					"id_str": "1610093939322937344",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/Flgz6DxaYAApxF3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Flgz6DxaYAApxF3.jpg",
+					"url": "https://t.co/0IS1M7xxUI",
+					"display_url": "pic.twitter.com/0IS1M7xxUI",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1610093949829644289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1676,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1610093939402616800,
+					"id_str": "1610093939402616832",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/Flgz6EEaMAABxg_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Flgz6EEaMAABxg_.jpg",
+					"url": "https://t.co/0IS1M7xxUI",
+					"display_url": "pic.twitter.com/0IS1M7xxUI",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1610093949829644289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1676,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1610093847434133500,
+		"in_reply_to_status_id_str": "1610093847434133504",
+		"in_reply_to_user_id": 132025214,
+		"in_reply_to_user_id_str": "132025214",
+		"in_reply_to_screen_name": "marieclairekr",
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108683,
+			"friends_count": 1,
+			"listed_count": 341,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1609735092745928704/txoqWeI6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1609735092745928704/txoqWeI6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1671092759",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 878,
+		"favorite_count": 1789,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@Dior @BLACKPINK #크리스챤디올뷰티 가 새롭게 선보이는 #031 스트로베리는 #디올 글로벌 앰버서더이자 #블랙핑크 지수의 미소와 아름다움에서 영감을 받고 K-Beauty의 감성을 반영한 맑은 레드 컬러로, 바르는 즉시 얼굴 톤과 입술을 밝혀줍니다. 촉촉하고 투명한 빛으로 물든 #지수 의 뷰티 모먼트를 확인해보세요. https://t.co/0IS1M7xxUI"
+	},
+	{
 		"created_at": "Mon Jan 02 12:55:28 +0000 2023",
 		"id": 1609882332135100400,
 		"id_str": "1609896156695506947",
