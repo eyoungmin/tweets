@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Tue Jan 03 04:55:38 +0000 2023",
+		"id": 1610124119475105800,
+		"id_str": "1610137788632162306",
+		"full_text": "오랜 시간 지속되는 광채와 수분감으로 하루 종일 산뜻하고 편안한 메이크업을 선사합니다. 고급스러운 까나쥬 모티브로 빛나는 디올 포에버 스킨 글로우 쿠션과 디올 어딕트 립 글로우 #025 서울스칼렛으로 완성한 지수의 메이크업을 확인해보세요!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1610123919293309000,
+		"in_reply_to_status_id_str": "1610123919293308933",
+		"in_reply_to_user_id": 132025214,
+		"in_reply_to_user_id_str": "132025214",
+		"in_reply_to_screen_name": "marieclairekr",
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108692,
+			"friends_count": 1,
+			"listed_count": 341,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1609735092745928704/txoqWeI6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1609735092745928704/txoqWeI6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1671092759",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 135,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "오랜 시간 지속되는 광채와 수분감으로 하루 종일 산뜻하고 편안한 메이크업을 선사합니다. 고급스러운 까나쥬 모티브로 빛나는 디올 포에버 스킨 글로우 쿠션과 디올 어딕트 립 글로우 #025 서울스칼렛으로 완성한 지수의 메이크업을 확인해보세요!"
+	},
+	{
 		"created_at": "Tue Jan 03 03:55:39 +0000 2023",
 		"id": 1610111194576355300,
 		"id_str": "1610122692157665280",
