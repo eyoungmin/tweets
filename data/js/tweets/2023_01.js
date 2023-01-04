@@ -1,6 +1,388 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Wed Jan 04 12:19:20 +0000 2023",
+		"id": 1610597257308668000,
+		"id_str": "1610611837103665153",
+		"full_text": "하루의 피로를 영스트리트로 싹! 날려보세요👍\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/nNA3MUjahB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						26,
+						29
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						41,
+						51
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						59,
+						68
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						80,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1610597235959681000,
+					"id_str": "1610597235959681026",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/Fln9px2aUAIQ3Ro.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fln9px2aUAIQ3Ro.jpg",
+					"url": "https://t.co/nNA3MUjahB",
+					"display_url": "pic.twitter.com/nNA3MUjahB",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1610597257308667905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1610597235959681000,
+					"id_str": "1610597235959681026",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/Fln9px2aUAIQ3Ro.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fln9px2aUAIQ3Ro.jpg",
+					"url": "https://t.co/nNA3MUjahB",
+					"display_url": "pic.twitter.com/nNA3MUjahB",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1610597257308667905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5822650,
+			"friends_count": 2,
+			"listed_count": 11582,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2373,
+		"favorite_count": 9289,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "하루의 피로를 영스트리트로 싹! 날려보세요👍\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/nNA3MUjahB"
+	},
+	{
+		"created_at": "Wed Jan 04 09:55:55 +0000 2023",
+		"id": 1610568679254823000,
+		"id_str": "1610575746912878592",
+		"full_text": "블랙핑크 지수는 ‘행복지수 103%’ 유튜브 수익금을 모두 다 기부한다고 밝혔다.\n#블랙핑크 #지수 #BLACKPINK #JISOO #KPOP\nhttps://t.co/64P9WZrpkN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						56,
+						66
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						74,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/64P9WZrpkN",
+					"expanded_url": "https://www.gqkorea.co.kr/2023/01/04/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC-%EC%A7%80%EC%88%98-%EC%9C%A0%ED%8A%9C%EB%B8%8C%EA%B0%80-%EB%A7%A4%EB%A0%A5%EC%A0%81%EC%9D%B8-%EC%9D%B4%EC%9C%A0/?ddw=134148&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "gqkorea.co.kr/2023/01/04/%EB…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262470,
+			"id_str": "78262470",
+			"name": "GQ KOREA",
+			"screen_name": "GQKOREA",
+			"location": "Seoul, Korea",
+			"description": "Be a Good Man, Don't be Quiet.",
+			"url": "https://t.co/pJOMTcz802",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pJOMTcz802",
+							"expanded_url": "http://www.gqkorea.co.kr",
+							"display_url": "gqkorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 144556,
+			"friends_count": 0,
+			"listed_count": 219,
+			"created_at": "Tue Sep 29 09:20:13 +0000 2009",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262470/1672645348",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 371,
+		"favorite_count": 1010,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블랙핑크 지수는 ‘행복지수 103%’ 유튜브 수익금을 모두 다 기부한다고 밝혔다.\n#블랙핑크 #지수 #BLACKPINK #JISOO #KPOP\nhttps://t.co/64P9WZrpkN"
+	},
+	{
 		"created_at": "Wed Jan 04 04:31:07 +0000 2023",
 		"id": 1610486902079230000,
 		"id_str": "1610494008543039491",
