@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Thu Jan 05 09:56:10 +0000 2023",
+		"id": 1610924188025454600,
+		"id_str": "1610938198485798919",
+		"full_text": "마음까지 따뜻하고 주인만큼 인기가 많다?\n#로제 와 행크, #조승우 와 곰자, #이도현 과 가을이, #승희 와 마샹, 할리 #전효성 과 젤링! 🥰🐶🐱\nhttps://t.co/P4gP15AKKz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로제",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "조승우",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "이도현",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "승희",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "전효성",
+					"indices": [
+						69,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P4gP15AKKz",
+					"expanded_url": "https://www.allurekorea.com/?p=192292&ddw=134104&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=192292&ddw=…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38170,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 573,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1671433243",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마음까지 따뜻하고 주인만큼 인기가 많다?\n#로제 와 행크, #조승우 와 곰자, #이도현 과 가을이, #승희 와 마샹, 할리 #전효성 과 젤링! 🥰🐶🐱\nhttps://t.co/P4gP15AKKz"
+	},
+	{
 		"created_at": "Wed Jan 04 12:19:20 +0000 2023",
 		"id": 1610597257308668000,
 		"id_str": "1610611837103665153",
