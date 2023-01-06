@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Fri Jan 06 03:15:01 +0000 2023",
+		"id": 1611195897647628300,
+		"id_str": "1611199630351699969",
+		"full_text": "[달의 일기 #28] BIG ISSUE 12월호 SHOOTING BEHIND🎞\n \n믿고 보는 투진이 투진 했다~🥃☕\n투진의 축복이 끝이 없는 빅이슈 촬영 현장 \n지금 바로 만나보세요!\n \n▶ https://t.co/0kC1IcoH1e\n\n#이달의소녀 #LOONA\n#달의일기 #LOONANOTE https://t.co/ZZtAGxsHTW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "달의일기",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "LOONANOTE",
+					"indices": [
+						152,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0kC1IcoH1e",
+					"expanded_url": "https://youtu.be/Skd4L3GOuEU",
+					"display_url": "youtu.be/Skd4L3GOuEU",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1611195887291871200,
+					"id_str": "1611195887291871234",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FlweH32aMAI5OYx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlweH32aMAI5OYx.jpg",
+					"url": "https://t.co/ZZtAGxsHTW",
+					"display_url": "pic.twitter.com/ZZtAGxsHTW",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1611195897647628288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1611195887291871200,
+					"id_str": "1611195887291871234",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FlweH32aMAI5OYx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlweH32aMAI5OYx.jpg",
+					"url": "https://t.co/ZZtAGxsHTW",
+					"display_url": "pic.twitter.com/ZZtAGxsHTW",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1611195897647628288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsse3B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsse3B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 933691,
+			"friends_count": 3,
+			"listed_count": 8810,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1603259958807924736/kmMZLUmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1603259958807924736/kmMZLUmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1671081319",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 429,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[달의 일기 #28] BIG ISSUE 12월호 SHOOTING BEHIND🎞\n \n믿고 보는 투진이 투진 했다~🥃☕\n투진의 축복이 끝이 없는 빅이슈 촬영 현장 \n지금 바로 만나보세요!\n \n▶ https://t.co/0kC1IcoH1e\n\n#이달의소녀 #LOONA\n#달의일기 #LOONANOTE https://t.co/ZZtAGxsHTW"
+	},
+	{
 		"created_at": "Thu Jan 05 12:56:25 +0000 2023",
 		"id": 1610976908874850300,
 		"id_str": "1610983556674899970",
