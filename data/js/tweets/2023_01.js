@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Fri Jan 06 04:19:20 +0000 2023",
+		"id": 1611208754120523800,
+		"id_str": "1611215816497979393",
+		"full_text": "출발!!!\n광주 공연에 오는 자몽들아 \n광주 공연은 부산 공연하고 \n또 다르다!!! \n알러뷰!! 씨유투모로우!!! \nSee you guys in 광주 tomorrow!!\n明日광주で会いましょうね💜\n\n#MERRY_SPOOKY_JAURIM https://t.co/2Xc2B3V4NF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MERRY_SPOOKY_JAURIM",
+					"indices": [
+						110,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1611208744117088300,
+					"id_str": "1611208744117088258",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/Flwp0PQaMAIISjq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Flwp0PQaMAIISjq.jpg",
+					"url": "https://t.co/2Xc2B3V4NF",
+					"display_url": "pic.twitter.com/2Xc2B3V4NF",
+					"expanded_url": "https://twitter.com/love_yuna/status/1611208754120523776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1611208744117088300,
+					"id_str": "1611208744117088258",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/Flwp0PQaMAIISjq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Flwp0PQaMAIISjq.jpg",
+					"url": "https://t.co/2Xc2B3V4NF",
+					"display_url": "pic.twitter.com/2Xc2B3V4NF",
+					"expanded_url": "https://twitter.com/love_yuna/status/1611208754120523776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276088,
+			"friends_count": 612,
+			"listed_count": 2723,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1587350693115199488/WeM4899U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587350693115199488/WeM4899U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1667288883",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 131,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "출발!!!\n광주 공연에 오는 자몽들아 \n광주 공연은 부산 공연하고 \n또 다르다!!! \n알러뷰!! 씨유투모로우!!! \nSee you guys in 광주 tomorrow!!\n明日광주で会いましょうね💜\n\n#MERRY_SPOOKY_JAURIM https://t.co/2Xc2B3V4NF"
+	},
+	{
 		"created_at": "Fri Jan 06 03:15:01 +0000 2023",
 		"id": 1611195897647628300,
 		"id_str": "1611199630351699969",
