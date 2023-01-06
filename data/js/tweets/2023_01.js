@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Fri Jan 06 12:56:26 +0000 2023",
+		"id": 1611331967437656000,
+		"id_str": "1611345951079411712",
+		"full_text": "입술에 녹듯이 발리는 촉촉한 텍스처로 투명한 유리구슬처럼 반짝이는 입술을 연출할 수 있죠.✨ 같은 컬러로 색다른 무드의 두 가지 룩을 연출한 지수의 모습이 너무 아름답지 않나요? 사랑스러운 지수의 뷰티 모멘트를 지금 영상으로 확인해 보세요! 💞",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1611331863179849700,
+		"in_reply_to_status_id_str": "1611331863179849730",
+		"in_reply_to_user_id": 132025214,
+		"in_reply_to_user_id_str": "132025214",
+		"in_reply_to_screen_name": "marieclairekr",
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108904,
+			"friends_count": 1,
+			"listed_count": 341,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11715,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1609735092745928704/txoqWeI6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1609735092745928704/txoqWeI6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1671092759",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 221,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "입술에 녹듯이 발리는 촉촉한 텍스처로 투명한 유리구슬처럼 반짝이는 입술을 연출할 수 있죠.✨ 같은 컬러로 색다른 무드의 두 가지 룩을 연출한 지수의 모습이 너무 아름답지 않나요? 사랑스러운 지수의 뷰티 모멘트를 지금 영상으로 확인해 보세요! 💞"
+	},
+	{
+		"created_at": "Fri Jan 06 12:56:26 +0000 2023",
+		"id": 1611331916002906000,
+		"id_str": "1611345950743883776",
+		"full_text": "디올 어딕트 #031 스트로베리는 지수의 눈부신 미소와 아름다움에서 영감받은 쉐이드로, 생기 있고 눈부신 맑은 레드 컬러가 얼굴을 환하게 밝혀주는 아주 매력적인 신규 컬러랍니다.💄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1611331863179849700,
+		"in_reply_to_status_id_str": "1611331863179849730",
+		"in_reply_to_user_id": 132025214,
+		"in_reply_to_user_id_str": "132025214",
+		"in_reply_to_screen_name": "marieclairekr",
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108904,
+			"friends_count": 1,
+			"listed_count": 341,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11715,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1609735092745928704/txoqWeI6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1609735092745928704/txoqWeI6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1671092759",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 209,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "디올 어딕트 #031 스트로베리는 지수의 눈부신 미소와 아름다움에서 영감받은 쉐이드로, 생기 있고 눈부신 맑은 레드 컬러가 얼굴을 환하게 밝혀주는 아주 매력적인 신규 컬러랍니다.💄"
+	},
+	{
 		"created_at": "Fri Jan 06 09:56:25 +0000 2023",
 		"id": 1611286584791371800,
 		"id_str": "1611300645595942917",
