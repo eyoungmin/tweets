@@ -1,10 +1,188 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sat Jan 07 09:56:38 +0000 2023",
+		"id": 1611648970140287000,
+		"id_str": "1611663090055282688",
+		"full_text": "연예인도 즐기는 새해 취미 추천! \n#공유 의 낚시부터 #제니 의 필름카메라까지 🎣📸\n@ygofficialblink @official_mino_ #JENNIE #MINO #YoonSeA #SeolInA #GongYoo \nhttps://t.co/X5XJeNohK9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공유",
+					"indices": [
+						20,
+						23
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						81,
+						88
+					]
+				},
+				{
+					"text": "MINO",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "YoonSeA",
+					"indices": [
+						95,
+						103
+					]
+				},
+				{
+					"text": "SeolInA",
+					"indices": [
+						104,
+						112
+					]
+				},
+				{
+					"text": "GongYoo",
+					"indices": [
+						113,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						48,
+						64
+					]
+				},
+				{
+					"screen_name": "official_mino_",
+					"name": "official_mino_",
+					"id": 963274907311198200,
+					"id_str": "963274907311198208",
+					"indices": [
+						65,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/X5XJeNohK9",
+					"expanded_url": "https://www.allurekorea.com/2023/01/05/newhobby/?ddw=134294&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2023/01/05/new…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38162,
+			"friends_count": 1,
+			"listed_count": 302,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1671433243",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "연예인도 즐기는 새해 취미 추천! \n#공유 의 낚시부터 #제니 의 필름카메라까지 🎣📸\n@ygofficialblink @official_mino_ #JENNIE #MINO #YoonSeA #SeolInA #GongYoo \nhttps://t.co/X5XJeNohK9"
+	},
+	{
 		"created_at": "Sat Jan 07 05:05:04 +0000 2023",
 		"id": 1611588442403602400,
 		"id_str": "1611589716603985920",
-		"full_text": "💇‍♀️#웬디단발 에서 숏단발로 변신한 #웬디 부터 #류진 의 칼각 태슬컷까지 셀럽 단발 시안 모음.zip\n#레드벨벳 @RVsmtown #고민시 @ITZYofficial #있지 @GirlsGeneration #소녀시대 #태연 #채수빈 \nhttps://t.co/zfavsnDZhT",
+		"full_text": "💇♀️#웬디단발 에서 숏단발로 변신한 #웬디 부터 #류진 의 칼각 태슬컷까지 셀럽 단발 시안 모음.zip\n#레드벨벳 @RVsmtown #고민시 @ITZYofficial #있지 @GirlsGeneration #소녀시대 #태연 #채수빈 \nhttps://t.co/zfavsnDZhT",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -200,7 +378,7 @@ Grailbird.data.tweets_2023_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "💇‍♀️#웬디단발 에서 숏단발로 변신한 #웬디 부터 #류진 의 칼각 태슬컷까지 셀럽 단발 시안 모음.zip\n#레드벨벳 @RVsmtown #고민시 @ITZYofficial #있지 @GirlsGeneration #소녀시대 #태연 #채수빈 \nhttps://t.co/zfavsnDZhT"
+		"text": "💇♀️#웬디단발 에서 숏단발로 변신한 #웬디 부터 #류진 의 칼각 태슬컷까지 셀럽 단발 시안 모음.zip\n#레드벨벳 @RVsmtown #고민시 @ITZYofficial #있지 @GirlsGeneration #소녀시대 #태연 #채수빈 \nhttps://t.co/zfavsnDZhT"
 	},
 	{
 		"created_at": "Sat Jan 07 03:35:52 +0000 2023",
