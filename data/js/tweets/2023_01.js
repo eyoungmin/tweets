@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sat Jan 07 12:10:08 +0000 2023",
+		"id": 1611694136654020600,
+		"id_str": "1611696687122370560",
+		"full_text": "패딩의 시대가 돌아왔다! 근육 빵빵맨 말고 슬림하게 코디해볼까? #김나영 #마마무 #화사 #소녀시대 #권유리 #효민 #차정원 처럼! 💃\nhttps://t.co/7T7Z6d4NY1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김나영",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "화사",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						50,
+						55
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "효민",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "차정원",
+					"indices": [
+						65,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7T7Z6d4NY1",
+					"expanded_url": "https://www.allurekorea.com/2022/12/12/%ec%98%ac%ea%b2%a8%ec%9a%b8-%ed%8c%a8%eb%94%a9%ec%9d%84-%eb%82%a0%ec%94%ac%ed%95%98%ea%b2%8c-%ec%9e%85%eb%8a%94-%eb%b0%a9%eb%b2%95/?ddw=132060&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2022/12/12/%ec…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38164,
+			"friends_count": 1,
+			"listed_count": 302,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8006,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1671433243",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "패딩의 시대가 돌아왔다! 근육 빵빵맨 말고 슬림하게 코디해볼까? #김나영 #마마무 #화사 #소녀시대 #권유리 #효민 #차정원 처럼! 💃\nhttps://t.co/7T7Z6d4NY1"
+	},
+	{
 		"created_at": "Sat Jan 07 09:56:38 +0000 2023",
 		"id": 1611648970140287000,
 		"id_str": "1611663090055282688",
