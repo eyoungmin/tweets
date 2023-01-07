@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sat Jan 07 05:05:04 +0000 2023",
+		"id": 1611588442403602400,
+		"id_str": "1611589716603985920",
+		"full_text": "💇‍♀️#웬디단발 에서 숏단발로 변신한 #웬디 부터 #류진 의 칼각 태슬컷까지 셀럽 단발 시안 모음.zip\n#레드벨벳 @RVsmtown #고민시 @ITZYofficial #있지 @GirlsGeneration #소녀시대 #태연 #채수빈 \nhttps://t.co/zfavsnDZhT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디단발",
+					"indices": [
+						4,
+						9
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						22,
+						25
+					]
+				},
+				{
+					"text": "류진",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "고민시",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "있지",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "채수빈",
+					"indices": [
+						126,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						66,
+						75
+					]
+				},
+				{
+					"screen_name": "ITZYofficial",
+					"name": "ITZY",
+					"id": 1062578718214770700,
+					"id_str": "1062578718214770688",
+					"indices": [
+						81,
+						94
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						99,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zfavsnDZhT",
+					"expanded_url": "https://www.allurekorea.com/?p=192666&ddw=134279&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=192666&ddw=…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38164,
+			"friends_count": 1,
+			"listed_count": 302,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1671433243",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💇‍♀️#웬디단발 에서 숏단발로 변신한 #웬디 부터 #류진 의 칼각 태슬컷까지 셀럽 단발 시안 모음.zip\n#레드벨벳 @RVsmtown #고민시 @ITZYofficial #있지 @GirlsGeneration #소녀시대 #태연 #채수빈 \nhttps://t.co/zfavsnDZhT"
+	},
+	{
 		"created_at": "Sat Jan 07 03:35:52 +0000 2023",
 		"id": 1611556934779535400,
 		"id_str": "1611567268298915841",
