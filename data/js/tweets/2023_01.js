@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sun Jan 08 09:33:15 +0000 2023",
+		"id": 1612008540805398500,
+		"id_str": "1612019594608381955",
+		"full_text": "사비나앤드론즈의 라이브 토크콘서트 [Seiren House] 🌬\n\n수요일 저녁 8시\n🌬여러분의 이야기를 들려주세요 \n\n✔️공연 일시 \nJan. 11 (Wed) 8pm (입장 7:30~)\n\n✔️티켓 오픈 (무료 선착순 방청신청) \nJan. 8 (Sun) 8pm \n클럽온에어 네이버 예약페이지 \n(Limited Seat, 테이블석 15인) https://t.co/cQNau0qiUj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1612008462619406300,
+					"id_str": "1612008462619406336",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1612008462619406336/pu/img/neZTYcEyUD3ifnlx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1612008462619406336/pu/img/neZTYcEyUD3ifnlx.jpg",
+					"url": "https://t.co/cQNau0qiUj",
+					"display_url": "pic.twitter.com/cQNau0qiUj",
+					"expanded_url": "https://twitter.com/savina0128/status/1612008540805398528/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1612008462619406300,
+					"id_str": "1612008462619406336",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1612008462619406336/pu/img/neZTYcEyUD3ifnlx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1612008462619406336/pu/img/neZTYcEyUD3ifnlx.jpg",
+					"url": "https://t.co/cQNau0qiUj",
+					"display_url": "pic.twitter.com/cQNau0qiUj",
+					"expanded_url": "https://twitter.com/savina0128/status/1612008540805398528/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 48100,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1612008462619406336/pu/vid/320x400/WmRra6Y3Swat8FqO.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1612008462619406336/pu/vid/480x600/QZaEh1ZCS7uI2p4z.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1612008462619406336/pu/pl/HNB_FupH14t0vXAi.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1612008462619406336/pu/vid/720x900/AG53YO6c9HwIZ0DU.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나 SAVINA",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "사비나앤드론즈 SAVINA & DRONES Musician",
+			"url": "https://t.co/HUiR4zmWAI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HUiR4zmWAI",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1275,
+			"friends_count": 244,
+			"listed_count": 33,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사비나앤드론즈의 라이브 토크콘서트 [Seiren House] 🌬\n\n수요일 저녁 8시\n🌬여러분의 이야기를 들려주세요 \n\n✔️공연 일시 \nJan. 11 (Wed) 8pm (입장 7:30~)\n\n✔️티켓 오픈 (무료 선착순 방청신청) \nJan. 8 (Sun) 8pm \n클럽온에어 네이버 예약페이지 \n(Limited Seat, 테이블석 15인) https://t.co/cQNau0qiUj"
+	},
+	{
 		"created_at": "Sat Jan 07 12:10:08 +0000 2023",
 		"id": 1611694136654020600,
 		"id_str": "1611696687122370560",
