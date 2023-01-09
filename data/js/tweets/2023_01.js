@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Mon Jan 09 03:06:23 +0000 2023",
+		"id": 1612283117548736500,
+		"id_str": "1612284623559749634",
+		"full_text": "BLACKPINK WORLD TOUR [BORN PINK] ASIA \nKAOHSIUNG∙SINGAPORE∙MACAU ADDITIONAL SHOWS ANNOUNCEMENT\n\n#BLACKPINK #블랙핑크 #BORNPINK #BLACKPINK_WORLDTOUR #BLACKPINK_BORNPINK #ASIA #KAOHSIUNG #SINGAPORE #MACAU #ADDITIONAL_SHOWS #ANNOUNCEMENT #YG https://t.co/6PL2f5E4Vx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						113,
+						122
+					]
+				},
+				{
+					"text": "BLACKPINK_WORLDTOUR",
+					"indices": [
+						123,
+						143
+					]
+				},
+				{
+					"text": "BLACKPINK_BORNPINK",
+					"indices": [
+						144,
+						163
+					]
+				},
+				{
+					"text": "ASIA",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "KAOHSIUNG",
+					"indices": [
+						170,
+						180
+					]
+				},
+				{
+					"text": "SINGAPORE",
+					"indices": [
+						181,
+						191
+					]
+				},
+				{
+					"text": "MACAU",
+					"indices": [
+						192,
+						198
+					]
+				},
+				{
+					"text": "ADDITIONAL_SHOWS",
+					"indices": [
+						199,
+						216
+					]
+				},
+				{
+					"text": "ANNOUNCEMENT",
+					"indices": [
+						217,
+						230
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						231,
+						234
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1612283082224337000,
+					"id_str": "1612283082224336898",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/Fl_668lagAIPjVf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fl_668lagAIPjVf.jpg",
+					"url": "https://t.co/6PL2f5E4Vx",
+					"display_url": "pic.twitter.com/6PL2f5E4Vx",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1612283117548736514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1612283082224337000,
+					"id_str": "1612283082224336898",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/Fl_668lagAIPjVf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fl_668lagAIPjVf.jpg",
+					"url": "https://t.co/6PL2f5E4Vx",
+					"display_url": "pic.twitter.com/6PL2f5E4Vx",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1612283117548736514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8301244,
+			"friends_count": 0,
+			"listed_count": 8,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 867,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4628,
+		"favorite_count": 13950,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLACKPINK WORLD TOUR [BORN PINK] ASIA \nKAOHSIUNG∙SINGAPORE∙MACAU ADDITIONAL SHOWS ANNOUNCEMENT\n\n#BLACKPINK #블랙핑크 #BORNPINK #BLACKPINK_WORLDTOUR #BLACKPINK_BORNPINK #ASIA #KAOHSIUNG #SINGAPORE #MACAU #ADDITIONAL_SHOWS #ANNOUNCEMENT #YG https://t.co/6PL2f5E4Vx"
+	},
+	{
 		"created_at": "Sun Jan 08 09:33:15 +0000 2023",
 		"id": 1612008540805398500,
 		"id_str": "1612019594608381955",
