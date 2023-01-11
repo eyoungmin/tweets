@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Wed Jan 11 06:06:55 +0000 2023",
+		"id": 1613053145172824000,
+		"id_str": "1613054832214175746",
+		"full_text": "Bangkok! Thank you for making the start of our Asian tour special💖\nWe had an amazing time with you guys and hope to see you all again! รักนะ 😘\n\n#BLACKPINK #블랙핑크 #BORNPINK #BLACKPINK_WORLDTOUR #BLACKPINK_BORNPINK  #BANGKOK #YG https://t.co/m54OaHCWYz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						144,
+						154
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						161,
+						170
+					]
+				},
+				{
+					"text": "BLACKPINK_WORLDTOUR",
+					"indices": [
+						171,
+						191
+					]
+				},
+				{
+					"text": "BLACKPINK_BORNPINK",
+					"indices": [
+						192,
+						211
+					]
+				},
+				{
+					"text": "BANGKOK",
+					"indices": [
+						213,
+						221
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						222,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1613052882059956200,
+					"id_str": "1613052882059956224",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FmK3DMcakAABOii.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmK3DMcakAABOii.jpg",
+					"url": "https://t.co/m54OaHCWYz",
+					"display_url": "pic.twitter.com/m54OaHCWYz",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1613053145172824070/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 785,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1613052882059956200,
+					"id_str": "1613052882059956224",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FmK3DMcakAABOii.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmK3DMcakAABOii.jpg",
+					"url": "https://t.co/m54OaHCWYz",
+					"display_url": "pic.twitter.com/m54OaHCWYz",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1613053145172824070/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 785,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1613052892881244200,
+					"id_str": "1613052892881244161",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FmK3D0waUAEMR69.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmK3D0waUAEMR69.jpg",
+					"url": "https://t.co/m54OaHCWYz",
+					"display_url": "pic.twitter.com/m54OaHCWYz",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1613053145172824070/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8314950,
+			"friends_count": 0,
+			"listed_count": 8030,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 869,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10789,
+		"favorite_count": 24000,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bangkok! Thank you for making the start of our Asian tour special💖\nWe had an amazing time with you guys and hope to see you all again! รักนะ 😘\n\n#BLACKPINK #블랙핑크 #BORNPINK #BLACKPINK_WORLDTOUR #BLACKPINK_BORNPINK  #BANGKOK #YG https://t.co/m54OaHCWYz"
+	},
+	{
 		"created_at": "Wed Jan 11 05:33:54 +0000 2023",
 		"id": 1613042048780894200,
 		"id_str": "1613046522928828417",
