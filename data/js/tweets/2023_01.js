@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Wed Jan 11 02:06:53 +0000 2023",
+		"id": 1612989461314564000,
+		"id_str": "1612994424287694848",
+		"full_text": "BLACKPINK COACHELLA HEADLINER ANNOUNCEMENT POSTER\n\nSee you at @coachella \nPresale starts Friday, January 13th at 11am PT. Register for the presale now at https://t.co/PxfVKEgt4m \n\n#BLACKPINK #블랙핑크 #COACHELLA #HEADLINER #ANNOUNCEMENT #YG https://t.co/MEflWWyWVf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						180,
+						190
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						191,
+						196
+					]
+				},
+				{
+					"text": "COACHELLA",
+					"indices": [
+						197,
+						207
+					]
+				},
+				{
+					"text": "HEADLINER",
+					"indices": [
+						208,
+						218
+					]
+				},
+				{
+					"text": "ANNOUNCEMENT",
+					"indices": [
+						219,
+						232
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						233,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coachella",
+					"name": "Coachella",
+					"id": 688583,
+					"id_str": "688583",
+					"indices": [
+						62,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PxfVKEgt4m",
+					"expanded_url": "http://Coachella.com",
+					"display_url": "Coachella.com",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1612989300299399200,
+					"id_str": "1612989300299399169",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/FmJ9OP7aAAEyrh9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmJ9OP7aAAEyrh9.jpg",
+					"url": "https://t.co/MEflWWyWVf",
+					"display_url": "pic.twitter.com/MEflWWyWVf",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1612989461314564098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1612989300299399200,
+					"id_str": "1612989300299399169",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/FmJ9OP7aAAEyrh9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmJ9OP7aAAEyrh9.jpg",
+					"url": "https://t.co/MEflWWyWVf",
+					"display_url": "pic.twitter.com/MEflWWyWVf",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1612989461314564098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8313315,
+			"friends_count": 0,
+			"listed_count": 8031,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 868,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21146,
+		"favorite_count": 43570,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLACKPINK COACHELLA HEADLINER ANNOUNCEMENT POSTER\n\nSee you at @coachella \nPresale starts Friday, January 13th at 11am PT. Register for the presale now at https://t.co/PxfVKEgt4m \n\n#BLACKPINK #블랙핑크 #COACHELLA #HEADLINER #ANNOUNCEMENT #YG https://t.co/MEflWWyWVf"
+	},
+	{
 		"created_at": "Wed Jan 11 01:57:28 +0000 2023",
 		"id": 1612990939269845000,
 		"id_str": "1612992055181209606",
