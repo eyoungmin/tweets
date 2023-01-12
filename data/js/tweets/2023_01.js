@@ -1,6 +1,170 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Thu Jan 12 05:11:12 +0000 2023",
+		"id": 1613400381752590300,
+		"id_str": "1613403197808476160",
+		"full_text": "국내와 해외의 메이크업 유행 차이점 8! \n뉴진스 민지처럼 풍성한 눈썹에 번진 듯 연출한 립 메이크업 vs. 곧 사라질 듯한 실눈썹에 라인을 강조한 립  💋💄\n#아이들_미연 #트와이스_나연 #스테이씨_세은 #소녀시대_태연 #뉴진스_민지 #GigiHadid #KylieJenner #KimKardashian\nhttps://t.co/0SSamJArZ0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이들_미연",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"text": "트와이스_나연",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "스테이씨_세은",
+					"indices": [
+						106,
+						114
+					]
+				},
+				{
+					"text": "소녀시대_태연",
+					"indices": [
+						115,
+						123
+					]
+				},
+				{
+					"text": "뉴진스_민지",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "GigiHadid",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "KylieJenner",
+					"indices": [
+						143,
+						155
+					]
+				},
+				{
+					"text": "KimKardashian",
+					"indices": [
+						156,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0SSamJArZ0",
+					"expanded_url": "https://www.allurekorea.com/?p=192708&ddw=134900&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=192708&ddw=…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38150,
+			"friends_count": 1,
+			"listed_count": 302,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8020,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1671433243",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "국내와 해외의 메이크업 유행 차이점 8! \n뉴진스 민지처럼 풍성한 눈썹에 번진 듯 연출한 립 메이크업 vs. 곧 사라질 듯한 실눈썹에 라인을 강조한 립  💋💄\n#아이들_미연 #트와이스_나연 #스테이씨_세은 #소녀시대_태연 #뉴진스_민지 #GigiHadid #KylieJenner #KimKardashian\nhttps://t.co/0SSamJArZ0"
+	},
+	{
 		"created_at": "Wed Jan 11 12:21:00 +0000 2023",
 		"id": 1613143757993685000,
 		"id_str": "1613148973258395648",
