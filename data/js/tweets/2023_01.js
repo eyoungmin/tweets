@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Fri Jan 13 12:58:05 +0000 2023",
+		"id": 1613868556353179600,
+		"id_str": "1613883079420178433",
+		"full_text": "#제작협찬 #Coverstory 이제 막 피어난 꽃들의 싱싱한 부케가 연상되는 산뜻하고 부드러운 스파클링 플로럴 노트의 ‘NEW 미스 디올 블루밍 부케’ 향수와 함께한 #지수. 풍성한 장미 꽃 향기에 사랑스러운 미소를 짓는 그는  사랑에 빠진 여인처럼 눈부시게 아름답고 향기로운 뷰티 모먼트를 표현합니다 https://t.co/t556oaNBkd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제작협찬",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "Coverstory",
+					"indices": [
+						6,
+						17
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						94,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1613868478393618400,
+					"id_str": "1613868478393618433",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1613868478393618433/pu/img/w9K0mDOq0F1aw2os.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1613868478393618433/pu/img/w9K0mDOq0F1aw2os.jpg",
+					"url": "https://t.co/t556oaNBkd",
+					"display_url": "pic.twitter.com/t556oaNBkd",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1613868556353179650/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1613868478393618400,
+					"id_str": "1613868478393618433",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1613868478393618433/pu/img/w9K0mDOq0F1aw2os.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1613868478393618433/pu/img/w9K0mDOq0F1aw2os.jpg",
+					"url": "https://t.co/t556oaNBkd",
+					"display_url": "pic.twitter.com/t556oaNBkd",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1613868556353179650/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 23981,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1613868478393618433/pu/pl/0PcgF_Niw6Gb6HnY.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1613868478393618433/pu/vid/320x568/MagsNMmLbjBsEgtO.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1613868478393618433/pu/vid/720x1280/Op9ojdVwy90yy1Gb.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1613868478393618433/pu/vid/480x852/Pd6Y-Xz0oMWzWxW9.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 111549,
+			"friends_count": 1,
+			"listed_count": 342,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1613480471060705280/C4hupsFD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1613480471060705280/C4hupsFD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1673600363",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1225,
+		"favorite_count": 2195,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#제작협찬 #Coverstory 이제 막 피어난 꽃들의 싱싱한 부케가 연상되는 산뜻하고 부드러운 스파클링 플로럴 노트의 ‘NEW 미스 디올 블루밍 부케’ 향수와 함께한 #지수. 풍성한 장미 꽃 향기에 사랑스러운 미소를 짓는 그는  사랑에 빠진 여인처럼 눈부시게 아름답고 향기로운 뷰티 모먼트를 표현합니다 https://t.co/t556oaNBkd"
+	},
+	{
 		"created_at": "Fri Jan 13 10:58:04 +0000 2023",
 		"id": 1613839144165298200,
 		"id_str": "1613852876417413121",
