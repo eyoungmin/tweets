@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Fri Jan 13 02:57:57 +0000 2023",
+		"id": 1613724175985946600,
+		"id_str": "1613732050904965120",
+		"full_text": "블랙핑크가 미국 코첼라 최초 헤드라이너에 이어 영국에서 또 최초 타이틀을 얻었다.\n#블랙핑크 #제니 #리사 #로제 #지수 #브릿어워즈 #BLACKPINK #JENNIE #LISA #ROSÉ #JISOO #BORNPINK #PinkVenom #BRITAwards #KPOP\nhttps://t.co/Y3jFUTCAaz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "브릿어워즈",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						75,
+						85
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						86,
+						93
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						113,
+						122
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						123,
+						133
+					]
+				},
+				{
+					"text": "BRITAwards",
+					"indices": [
+						134,
+						145
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						146,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y3jFUTCAaz",
+					"expanded_url": "https://www.gqkorea.co.kr/2023/01/13/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC-%EC%98%81%EA%B5%AD-%EC%B5%9C%EA%B3%A0-%EA%B6%8C%EC%9C%84-%EB%B8%8C%EB%A6%BF-%EC%96%B4%EC%9B%8C%EC%A6%88-%ED%9B%84%EB%B3%B4-%EC%98%AC%EB%9E%90/?ddw=134995&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "gqkorea.co.kr/2023/01/13/%EB…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262470,
+			"id_str": "78262470",
+			"name": "GQ KOREA",
+			"screen_name": "GQKOREA",
+			"location": "Seoul, Korea",
+			"description": "Be a Good Man, Don't be Quiet.",
+			"url": "https://t.co/pJOMTcz802",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pJOMTcz802",
+							"expanded_url": "http://www.gqkorea.co.kr",
+							"display_url": "gqkorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 145002,
+			"friends_count": 0,
+			"listed_count": 221,
+			"created_at": "Tue Sep 29 09:20:13 +0000 2009",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262470/1672645348",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블랙핑크가 미국 코첼라 최초 헤드라이너에 이어 영국에서 또 최초 타이틀을 얻었다.\n#블랙핑크 #제니 #리사 #로제 #지수 #브릿어워즈 #BLACKPINK #JENNIE #LISA #ROSÉ #JISOO #BORNPINK #PinkVenom #BRITAwards #KPOP\nhttps://t.co/Y3jFUTCAaz"
+	},
+	{
 		"created_at": "Thu Jan 12 05:11:12 +0000 2023",
 		"id": 1613400381752590300,
 		"id_str": "1613403197808476160",
