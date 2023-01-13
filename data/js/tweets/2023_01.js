@@ -1,6 +1,1099 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Fri Jan 13 06:58:02 +0000 2023",
+		"id": 1613786946391928800,
+		"id_str": "1613792468721635330",
+		"full_text": "#협찬 #VogueCover #Feb\n최상, 극치, 전성, 절정, 최고, 일류, 정상 그리고 제니.\n\n@CHANEL #Jennie #CHANELFineJewelry #COCOCRUSH #샤넬 #제니 #샤넬화인주얼리 #샤넬코코크러쉬 #코코크러쉬 https://t.co/eMkEi9pt0Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "협찬",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "VogueCover",
+					"indices": [
+						4,
+						15
+					]
+				},
+				{
+					"text": "Feb",
+					"indices": [
+						16,
+						20
+					]
+				},
+				{
+					"text": "Jennie",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "CHANELFineJewelry",
+					"indices": [
+						73,
+						91
+					]
+				},
+				{
+					"text": "COCOCRUSH",
+					"indices": [
+						92,
+						102
+					]
+				},
+				{
+					"text": "샤넬",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "샤넬화인주얼리",
+					"indices": [
+						111,
+						119
+					]
+				},
+				{
+					"text": "샤넬코코크러쉬",
+					"indices": [
+						120,
+						128
+					]
+				},
+				{
+					"text": "코코크러쉬",
+					"indices": [
+						129,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHANEL",
+					"name": "CHANEL",
+					"id": 326359913,
+					"id_str": "326359913",
+					"indices": [
+						57,
+						64
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1613786898182594600,
+					"id_str": "1613786898182594570",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FmVSojlaYAolooH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmVSojlaYAolooH.jpg",
+					"url": "https://t.co/eMkEi9pt0Z",
+					"display_url": "pic.twitter.com/eMkEi9pt0Z",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1613786946391928837/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 542,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 957,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1633,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1613786898182594600,
+					"id_str": "1613786898182594570",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FmVSojlaYAolooH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmVSojlaYAolooH.jpg",
+					"url": "https://t.co/eMkEi9pt0Z",
+					"display_url": "pic.twitter.com/eMkEi9pt0Z",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1613786946391928837/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 542,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 957,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1633,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159102271,
+			"id_str": "159102271",
+			"name": "VOGUE KOREA",
+			"screen_name": "VogueKorea",
+			"location": "",
+			"description": "Vogue Korea official twitter",
+			"url": "https://t.co/cObX4QyGsc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cObX4QyGsc",
+							"expanded_url": "https://www.vogue.co.kr/",
+							"display_url": "vogue.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 206465,
+			"friends_count": 0,
+			"listed_count": 443,
+			"created_at": "Thu Jun 24 13:11:05 +0000 2010",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159102271/1671430477",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5EF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2017,
+		"favorite_count": 3153,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#협찬 #VogueCover #Feb\n최상, 극치, 전성, 절정, 최고, 일류, 정상 그리고 제니.\n\n@CHANEL #Jennie #CHANELFineJewelry #COCOCRUSH #샤넬 #제니 #샤넬화인주얼리 #샤넬코코크러쉬 #코코크러쉬 https://t.co/eMkEi9pt0Z"
+	},
+	{
+		"created_at": "Fri Jan 13 06:58:01 +0000 2023",
+		"id": 1613787090059432000,
+		"id_str": "1613792466284453888",
+		"full_text": "#협찬 #VogueCover #Feb\n가장 동시대적인, 더욱 빛나는, 여전히 무한한 오직 단 하나의 제니.\n\n@CHANEL #Jennie #CHANELFineJewelry #COCOCRUSH #샤넬 #제니 #샤넬화인주얼리 #샤넬코코크러쉬 #코코크러쉬 https://t.co/xLCPrPt4LH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "협찬",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "VogueCover",
+					"indices": [
+						4,
+						15
+					]
+				},
+				{
+					"text": "Feb",
+					"indices": [
+						16,
+						20
+					]
+				},
+				{
+					"text": "Jennie",
+					"indices": [
+						69,
+						76
+					]
+				},
+				{
+					"text": "CHANELFineJewelry",
+					"indices": [
+						77,
+						95
+					]
+				},
+				{
+					"text": "COCOCRUSH",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"text": "샤넬",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "샤넬화인주얼리",
+					"indices": [
+						115,
+						123
+					]
+				},
+				{
+					"text": "샤넬코코크러쉬",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "코코크러쉬",
+					"indices": [
+						133,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHANEL",
+					"name": "CHANEL",
+					"id": 326359913,
+					"id_str": "326359913",
+					"indices": [
+						61,
+						68
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1613787063626895400,
+					"id_str": "1613787063626895360",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FmVSyL6aEAAFeha.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmVSyL6aEAAFeha.jpg",
+					"url": "https://t.co/xLCPrPt4LH",
+					"display_url": "pic.twitter.com/xLCPrPt4LH",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1613787090059431937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 957,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 542,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1633,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1613787063626895400,
+					"id_str": "1613787063626895360",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FmVSyL6aEAAFeha.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmVSyL6aEAAFeha.jpg",
+					"url": "https://t.co/xLCPrPt4LH",
+					"display_url": "pic.twitter.com/xLCPrPt4LH",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1613787090059431937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 957,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 542,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1633,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159102271,
+			"id_str": "159102271",
+			"name": "VOGUE KOREA",
+			"screen_name": "VogueKorea",
+			"location": "",
+			"description": "Vogue Korea official twitter",
+			"url": "https://t.co/cObX4QyGsc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cObX4QyGsc",
+							"expanded_url": "https://www.vogue.co.kr/",
+							"display_url": "vogue.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 206465,
+			"friends_count": 0,
+			"listed_count": 443,
+			"created_at": "Thu Jun 24 13:11:05 +0000 2010",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159102271/1671430477",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5EF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1933,
+		"favorite_count": 3000,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#협찬 #VogueCover #Feb\n가장 동시대적인, 더욱 빛나는, 여전히 무한한 오직 단 하나의 제니.\n\n@CHANEL #Jennie #CHANELFineJewelry #COCOCRUSH #샤넬 #제니 #샤넬화인주얼리 #샤넬코코크러쉬 #코코크러쉬 https://t.co/xLCPrPt4LH"
+	},
+	{
+		"created_at": "Fri Jan 13 06:58:01 +0000 2023",
+		"id": 1613786738463502300,
+		"id_str": "1613792466242785280",
+		"full_text": "#협찬 #VogueCover #Feb\n&lt;보그 코리아&gt; 2월의 뮤즈, 베를린에서 마주한 절정의 제니.\n\n@CHANEL #Jennie #CHANELFineJewelry #COCOCRUSH #샤넬 #제니 #샤넬화인주얼리 #샤넬코코크러쉬 #코코크러쉬 https://t.co/MajOwRdyzN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "협찬",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "VogueCover",
+					"indices": [
+						4,
+						15
+					]
+				},
+				{
+					"text": "Feb",
+					"indices": [
+						16,
+						20
+					]
+				},
+				{
+					"text": "Jennie",
+					"indices": [
+						71,
+						78
+					]
+				},
+				{
+					"text": "CHANELFineJewelry",
+					"indices": [
+						79,
+						97
+					]
+				},
+				{
+					"text": "COCOCRUSH",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"text": "샤넬",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "샤넬화인주얼리",
+					"indices": [
+						117,
+						125
+					]
+				},
+				{
+					"text": "샤넬코코크러쉬",
+					"indices": [
+						126,
+						134
+					]
+				},
+				{
+					"text": "코코크러쉬",
+					"indices": [
+						135,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHANEL",
+					"name": "CHANEL",
+					"id": 326359913,
+					"id_str": "326359913",
+					"indices": [
+						63,
+						70
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1613786691000733700,
+					"id_str": "1613786691000733697",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FmVScfxaEAEN7ai.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmVScfxaEAEN7ai.jpg",
+					"url": "https://t.co/MajOwRdyzN",
+					"display_url": "pic.twitter.com/MajOwRdyzN",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1613786738463502337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 957,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1633,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 542,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1613786691000733700,
+					"id_str": "1613786691000733697",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FmVScfxaEAEN7ai.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmVScfxaEAEN7ai.jpg",
+					"url": "https://t.co/MajOwRdyzN",
+					"display_url": "pic.twitter.com/MajOwRdyzN",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1613786738463502337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 957,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1633,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 542,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159102271,
+			"id_str": "159102271",
+			"name": "VOGUE KOREA",
+			"screen_name": "VogueKorea",
+			"location": "",
+			"description": "Vogue Korea official twitter",
+			"url": "https://t.co/cObX4QyGsc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cObX4QyGsc",
+							"expanded_url": "https://www.vogue.co.kr/",
+							"display_url": "vogue.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 206465,
+			"friends_count": 0,
+			"listed_count": 443,
+			"created_at": "Thu Jun 24 13:11:05 +0000 2010",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159102271/1671430477",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5EF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2095,
+		"favorite_count": 3358,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#협찬 #VogueCover #Feb\n&lt;보그 코리아&gt; 2월의 뮤즈, 베를린에서 마주한 절정의 제니.\n\n@CHANEL #Jennie #CHANELFineJewelry #COCOCRUSH #샤넬 #제니 #샤넬화인주얼리 #샤넬코코크러쉬 #코코크러쉬 https://t.co/MajOwRdyzN"
+	},
+	{
+		"created_at": "Fri Jan 13 06:18:08 +0000 2023",
+		"id": 1613777873911046100,
+		"id_str": "1613782429659181056",
+		"full_text": "EDAM 2023 계묘년 OFFICIAL MD \n예약 판매 안내\n\n아이유, 신세경, 우즈가 직접 그린\n2023년의 토끼🐰로 만든 계묘년 MD를 \nEDAM 공식 온라인 쇼핑몰에서\n만나보아요❤\n\n🐇 오픈 : 2023.01.16(월) 2PM (KST)\n🐰 https://t.co/0mD3GGvtBL\n\n#아이유 #신세경 #우즈 https://t.co/csu8ZKbaKY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "신세경",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "우즈",
+					"indices": [
+						175,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0mD3GGvtBL",
+					"expanded_url": "http://madeedam.com/",
+					"display_url": "madeedam.com",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1613765713193496600,
+					"id_str": "1613765713193496577",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FmU_XbWacAEXr9X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmU_XbWacAEXr9X.jpg",
+					"url": "https://t.co/csu8ZKbaKY",
+					"display_url": "pic.twitter.com/csu8ZKbaKY",
+					"expanded_url": "https://twitter.com/edam_ent/status/1613777873911046144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1613765713193496600,
+					"id_str": "1613765713193496577",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FmU_XbWacAEXr9X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmU_XbWacAEXr9X.jpg",
+					"url": "https://t.co/csu8ZKbaKY",
+					"display_url": "pic.twitter.com/csu8ZKbaKY",
+					"expanded_url": "https://twitter.com/edam_ent/status/1613777873911046144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1613765769908883500,
+					"id_str": "1613765769908883458",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FmU_auoakAItH3Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmU_auoakAItH3Q.jpg",
+					"url": "https://t.co/csu8ZKbaKY",
+					"display_url": "pic.twitter.com/csu8ZKbaKY",
+					"expanded_url": "https://twitter.com/edam_ent/status/1613777873911046144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1613765795896791000,
+					"id_str": "1613765795896791045",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FmU_cPcakAU2ZcD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmU_cPcakAU2ZcD.jpg",
+					"url": "https://t.co/csu8ZKbaKY",
+					"display_url": "pic.twitter.com/csu8ZKbaKY",
+					"expanded_url": "https://twitter.com/edam_ent/status/1613777873911046144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1613765820815118300,
+					"id_str": "1613765820815118336",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FmU_dsRaEAAhG91.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmU_dsRaEAAhG91.jpg",
+					"url": "https://t.co/csu8ZKbaKY",
+					"display_url": "pic.twitter.com/csu8ZKbaKY",
+					"expanded_url": "https://twitter.com/edam_ent/status/1613777873911046144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79839,
+			"friends_count": 3,
+			"listed_count": 267,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1645,
+		"favorite_count": 2640,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "EDAM 2023 계묘년 OFFICIAL MD \n예약 판매 안내\n\n아이유, 신세경, 우즈가 직접 그린\n2023년의 토끼🐰로 만든 계묘년 MD를 \nEDAM 공식 온라인 쇼핑몰에서\n만나보아요❤\n\n🐇 오픈 : 2023.01.16(월) 2PM (KST)\n🐰 https://t.co/0mD3GGvtBL\n\n#아이유 #신세경 #우즈 https://t.co/csu8ZKbaKY"
+	},
+	{
 		"created_at": "Fri Jan 13 05:18:07 +0000 2023",
 		"id": 1613762874996031500,
 		"id_str": "1613767324389212161",
