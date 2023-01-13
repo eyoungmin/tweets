@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Fri Jan 13 10:58:04 +0000 2023",
+		"id": 1613839144165298200,
+		"id_str": "1613852876417413121",
+		"full_text": "#제작협찬 #디올뷰티 와 함께 #마리끌레르 1월호 커버를 장식했던 #블랙핑크 #지수 의 #밸런스게임 🌟블랙 VS 핑크, 강아지 VS토끼, 매트 VS 글로우 등 그를 고민에 빠뜨린 질문들이 가득했는데요. 지수의 선택은? 지금 확인해 보세요!💗\n@BLACKPINK @Dior\n👉https://t.co/fTG0JrIdgz https://t.co/mwvRs1raCc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제작협찬",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "디올뷰티",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "마리끌레르",
+					"indices": [
+						17,
+						23
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						37,
+						42
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						43,
+						46
+					]
+				},
+				{
+					"text": "밸런스게임",
+					"indices": [
+						49,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						135,
+						145
+					]
+				},
+				{
+					"screen_name": "Dior",
+					"name": "Dior",
+					"id": 348379865,
+					"id_str": "348379865",
+					"indices": [
+						146,
+						151
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fTG0JrIdgz",
+					"expanded_url": "https://youtu.be/Hus_8a7uvy0",
+					"display_url": "youtu.be/Hus_8a7uvy0",
+					"indices": [
+						153,
+						176
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1613444580804006000,
+					"id_str": "1613444580804005892",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FmQbTD-aEAQXEA9.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FmQbTD-aEAQXEA9.jpg",
+					"url": "https://t.co/mwvRs1raCc",
+					"display_url": "pic.twitter.com/mwvRs1raCc",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1613839144165298177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1068,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 1068,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1613444580804006000,
+					"id_str": "1613444580804005892",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FmQbTD-aEAQXEA9.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FmQbTD-aEAQXEA9.jpg",
+					"url": "https://t.co/mwvRs1raCc",
+					"display_url": "pic.twitter.com/mwvRs1raCc",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1613839144165298177/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1068,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 1068,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							50,
+							89
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FmQbTD-aEAQXEA9.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 111521,
+			"friends_count": 1,
+			"listed_count": 342,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1613480471060705280/C4hupsFD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1613480471060705280/C4hupsFD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1673600363",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1272,
+		"favorite_count": 2662,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#제작협찬 #디올뷰티 와 함께 #마리끌레르 1월호 커버를 장식했던 #블랙핑크 #지수 의 #밸런스게임 🌟블랙 VS 핑크, 강아지 VS토끼, 매트 VS 글로우 등 그를 고민에 빠뜨린 질문들이 가득했는데요. 지수의 선택은? 지금 확인해 보세요!💗\n@BLACKPINK @Dior\n👉https://t.co/fTG0JrIdgz https://t.co/mwvRs1raCc"
+	},
+	{
 		"created_at": "Fri Jan 13 09:07:30 +0000 2023",
 		"id": 1613824013901631500,
 		"id_str": "1613825053921251330",
