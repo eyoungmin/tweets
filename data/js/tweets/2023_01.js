@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sat Jan 14 09:06:43 +0000 2023",
+		"id": 1614185688437497900,
+		"id_str": "1614187243874430977",
+		"full_text": "#아이브 #장원영 의 사랑스러운 분위기와 찰떡인 폰케이스 브랜드는 어디?\n@IVEstarship @ygofficialblink @RVsmtown @asepa_official @KWONEUNBI #블랙핑크 #로제 #레드벨벳 #조이 #에스파 #카리나 #권은비\nhttps://t.co/PbN6lv0Ljd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이브",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "장원영",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "권은비",
+					"indices": [
+						138,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IVEstarship",
+					"name": "IVE OFFICIAL",
+					"id": 1402182579265048600,
+					"id_str": "1402182579265048598",
+					"indices": [
+						41,
+						53
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						54,
+						70
+					]
+				},
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"screen_name": "asepa_official",
+					"name": "aespa 🍥",
+					"id": 1344638801902092300,
+					"id_str": "1344638801902092290",
+					"indices": [
+						81,
+						96
+					]
+				},
+				{
+					"screen_name": "KWONEUNBI",
+					"name": "권은비 (KWON EUN BI)",
+					"id": 1369848247007682600,
+					"id_str": "1369848247007682560",
+					"indices": [
+						97,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PbN6lv0Ljd",
+					"expanded_url": "https://www.allurekorea.com/2022/05/24/%ec%85%80%eb%9f%bd%eb%93%a4%ec%9d%98-%ed%8f%b0%ec%bc%80%ec%9d%b4%ec%8a%a4-%ec%b7%a8%ed%96%a5/?ddw=128982&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2022/05/24/%ec…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38151,
+			"friends_count": 1,
+			"listed_count": 302,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1671433243",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#아이브 #장원영 의 사랑스러운 분위기와 찰떡인 폰케이스 브랜드는 어디?\n@IVEstarship @ygofficialblink @RVsmtown @asepa_official @KWONEUNBI #블랙핑크 #로제 #레드벨벳 #조이 #에스파 #카리나 #권은비\nhttps://t.co/PbN6lv0Ljd"
+	},
+	{
 		"created_at": "Fri Jan 13 12:58:05 +0000 2023",
 		"id": 1613868556353179600,
 		"id_str": "1613883079420178433",
