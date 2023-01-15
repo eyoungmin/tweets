@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sun Jan 15 12:58:48 +0000 2023",
+		"id": 1614593247296331800,
+		"id_str": "1614608037918167041",
+		"full_text": "\"또 나만 강아지 없어\" 인형처럼 예쁜 셀럽들의 견주만큼 귀여운 스타 반려견들 🐶🤍\n@officialDavichi @iamkmk @WM_OHMYGIRL @ICE_Gang @ygofficialblink #다비치 #강민경 #경리 #오마이걸 #아린 #블랙핑크 #지수 #설현\nhttps://t.co/xHH8Pvoalw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "다비치",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "강민경",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "경리",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "아린",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						142,
+						145
+					]
+				},
+				{
+					"text": "설현",
+					"indices": [
+						146,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "officialDavichi",
+					"name": "official_Davichi",
+					"id": 2859446406,
+					"id_str": "2859446406",
+					"indices": [
+						47,
+						63
+					]
+				},
+				{
+					"screen_name": "iamkmk",
+					"name": "강민경",
+					"id": 181823334,
+					"id_str": "181823334",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"screen_name": "WM_OHMYGIRL",
+					"name": "오마이걸 (OH MY GIRL)",
+					"id": 3115548145,
+					"id_str": "3115548145",
+					"indices": [
+						72,
+						84
+					]
+				},
+				{
+					"screen_name": "ICE_Gang",
+					"name": "✽경리",
+					"id": 215233590,
+					"id_str": "215233590",
+					"indices": [
+						85,
+						94
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						95,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xHH8Pvoalw",
+					"expanded_url": "https://www.allurekorea.com/?p=147114&ddw=135014&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=147114&ddw=…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38148,
+			"friends_count": 1,
+			"listed_count": 302,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1671433243",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"또 나만 강아지 없어\" 인형처럼 예쁜 셀럽들의 견주만큼 귀여운 스타 반려견들 🐶🤍\n@officialDavichi @iamkmk @WM_OHMYGIRL @ICE_Gang @ygofficialblink #다비치 #강민경 #경리 #오마이걸 #아린 #블랙핑크 #지수 #설현\nhttps://t.co/xHH8Pvoalw"
+	},
+	{
 		"created_at": "Sun Jan 15 05:06:55 +0000 2023",
 		"id": 1614487542245589000,
 		"id_str": "1614489281036455936",
