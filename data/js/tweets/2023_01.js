@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sun Jan 15 03:37:50 +0000 2023",
+		"id": 1614454825801945000,
+		"id_str": "1614466864872292354",
+		"full_text": "[🌳📂] 나무엑터스 창립 19주년 기념 - 나무집 서현 ver.\n\n𝟮𝟬𝟮𝟯.𝟬𝟭.𝟭𝟱 𝗡𝗔𝗠𝗢𝗢𝗔𝗖𝗧𝗢𝗥𝗦 𝟭𝟵𝘁𝗵 𝗔𝗡𝗡𝗜𝗩𝗘𝗥𝗦𝗔𝗥𝗬\n▶ https://t.co/VsNEnmdG8W\n▶ https://t.co/accnkTWO7i\n\n#서현 #나무엑터스 #나무집_19th #SEOHYUN #NAMOOACTORS https://t.co/L6EvjjVDcj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "나무엑터스",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "나무집_19th",
+					"indices": [
+						141,
+						150
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"text": "NAMOOACTORS",
+					"indices": [
+						160,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VsNEnmdG8W",
+					"expanded_url": "https://youtube.com/shorts/h6hT626G3bI",
+					"display_url": "youtube.com/shorts/h6hT626…",
+					"indices": [
+						79,
+						102
+					]
+				},
+				{
+					"url": "https://t.co/accnkTWO7i",
+					"expanded_url": "https://youtube.com/shorts/CLexRoIVxI0",
+					"display_url": "youtube.com/shorts/CLexRoI…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1613842083852464000,
+					"id_str": "1613842083852464128",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FmWE0yOaMAAbFeL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmWE0yOaMAAbFeL.jpg",
+					"url": "https://t.co/L6EvjjVDcj",
+					"display_url": "pic.twitter.com/L6EvjjVDcj",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1614454825801945090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1350,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1613842083852464000,
+					"id_str": "1613842083852464128",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FmWE0yOaMAAbFeL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmWE0yOaMAAbFeL.jpg",
+					"url": "https://t.co/L6EvjjVDcj",
+					"display_url": "pic.twitter.com/L6EvjjVDcj",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1614454825801945090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1350,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1613842083856658400,
+					"id_str": "1613842083856658434",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FmWE0yPaMAI_TaE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmWE0yPaMAI_TaE.jpg",
+					"url": "https://t.co/L6EvjjVDcj",
+					"display_url": "pic.twitter.com/L6EvjjVDcj",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1614454825801945090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1350,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1613842083877654500,
+					"id_str": "1613842083877654528",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FmWE0yUakAA1CiS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmWE0yUakAA1CiS.jpg",
+					"url": "https://t.co/L6EvjjVDcj",
+					"display_url": "pic.twitter.com/L6EvjjVDcj",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1614454825801945090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1350,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68184,
+			"friends_count": 16,
+			"listed_count": 292,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 462,
+		"favorite_count": 658,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🌳📂] 나무엑터스 창립 19주년 기념 - 나무집 서현 ver.\n\n𝟮𝟬𝟮𝟯.𝟬𝟭.𝟭𝟱 𝗡𝗔𝗠𝗢𝗢𝗔𝗖𝗧𝗢𝗥𝗦 𝟭𝟵𝘁𝗵 𝗔𝗡𝗡𝗜𝗩𝗘𝗥𝗦𝗔𝗥𝗬\n▶ https://t.co/VsNEnmdG8W\n▶ https://t.co/accnkTWO7i\n\n#서현 #나무엑터스 #나무집_19th #SEOHYUN #NAMOOACTORS https://t.co/L6EvjjVDcj"
+	},
+	{
 		"created_at": "Sat Jan 14 09:06:43 +0000 2023",
 		"id": 1614185688437497900,
 		"id_str": "1614187243874430977",
