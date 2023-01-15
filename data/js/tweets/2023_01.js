@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sun Jan 15 15:08:10 +0000 2023",
+		"id": 1614638616856387600,
+		"id_str": "1614640590981050369",
+		"full_text": "HAPPY BIRTHDAY JENNIE 🎉\n✅2023.01.16\n\n#BLACKPINK #블랙핑크 #JENNIE #제니 #HAPPYBIRTHDAY #20230116 #YG https://t.co/lUlR3Kh6RK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						54,
+						61
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "HAPPYBIRTHDAY",
+					"indices": [
+						66,
+						80
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						91,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1614638357996540000,
+					"id_str": "1614638357996539906",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/FmhZCCkakAI5iId.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmhZCCkakAI5iId.jpg",
+					"url": "https://t.co/lUlR3Kh6RK",
+					"display_url": "pic.twitter.com/lUlR3Kh6RK",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1614638616856387585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1614638357996540000,
+					"id_str": "1614638357996539906",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/FmhZCCkakAI5iId.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmhZCCkakAI5iId.jpg",
+					"url": "https://t.co/lUlR3Kh6RK",
+					"display_url": "pic.twitter.com/lUlR3Kh6RK",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1614638616856387585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8343435,
+			"friends_count": 0,
+			"listed_count": 8042,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29483,
+		"favorite_count": 52333,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HAPPY BIRTHDAY JENNIE 🎉\n✅2023.01.16\n\n#BLACKPINK #블랙핑크 #JENNIE #제니 #HAPPYBIRTHDAY #20230116 #YG https://t.co/lUlR3Kh6RK"
+	},
+	{
 		"created_at": "Sun Jan 15 12:58:48 +0000 2023",
 		"id": 1614593247296331800,
 		"id_str": "1614608037918167041",
