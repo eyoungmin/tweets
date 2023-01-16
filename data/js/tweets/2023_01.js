@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sun Jan 15 23:08:15 +0000 2023",
+		"id": 1614759640927187000,
+		"id_str": "1614761408306221057",
+		"full_text": "#BLACKPINK '불장난 (PLAYING WITH FIRE)' M/V HITS 800 MILLION VIEWS \n@Youtube\n\nBLINKs worldwide, thank you so much!\n\n'불장난 (PLAYING WITH FIRE)' M/V\n🎥 https://t.co/Xhb1NEV4lv \n\n#블랙핑크 #PLAYINGWITHFIRE #불장난 #MV #800MILLION #YOUTUBE #YG https://t.co/I1r24HTrdp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						171,
+						176
+					]
+				},
+				{
+					"text": "PLAYINGWITHFIRE",
+					"indices": [
+						177,
+						193
+					]
+				},
+				{
+					"text": "불장난",
+					"indices": [
+						194,
+						198
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						199,
+						202
+					]
+				},
+				{
+					"text": "800MILLION",
+					"indices": [
+						203,
+						214
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						215,
+						223
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						224,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						65,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Xhb1NEV4lv",
+					"expanded_url": "https://youtu.be/9pdj4iJD08s",
+					"display_url": "youtu.be/9pdj4iJD08s",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1614759591459577900,
+					"id_str": "1614759591459577856",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FmjHSwaaYAAOu0U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmjHSwaaYAAOu0U.jpg",
+					"url": "https://t.co/I1r24HTrdp",
+					"display_url": "pic.twitter.com/I1r24HTrdp",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1614759640927186944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1614759591459577900,
+					"id_str": "1614759591459577856",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FmjHSwaaYAAOu0U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmjHSwaaYAAOu0U.jpg",
+					"url": "https://t.co/I1r24HTrdp",
+					"display_url": "pic.twitter.com/I1r24HTrdp",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1614759640927186944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8345714,
+			"friends_count": 0,
+			"listed_count": 8035,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4705,
+		"favorite_count": 15122,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK '불장난 (PLAYING WITH FIRE)' M/V HITS 800 MILLION VIEWS \n@Youtube\n\nBLINKs worldwide, thank you so much!\n\n'불장난 (PLAYING WITH FIRE)' M/V\n🎥 https://t.co/Xhb1NEV4lv \n\n#블랙핑크 #PLAYINGWITHFIRE #불장난 #MV #800MILLION #YOUTUBE #YG https://t.co/I1r24HTrdp"
+	},
+	{
 		"created_at": "Sun Jan 15 15:08:10 +0000 2023",
 		"id": 1614638616856387600,
 		"id_str": "1614640590981050369",
