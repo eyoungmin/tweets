@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Mon Jan 16 06:07:11 +0000 2023",
+		"id": 1614855591452868600,
+		"id_str": "1614866836725837824",
+		"full_text": "#싱글즈 와 함께 한 2월호 커버 스타는 바로, #레드벨벳 그리고 #갓더비트 의 멤버 #웬디  입니다. 싱그러움 가득한 봄날을 닮은 화보 그리고 또 다른 버전의 커버도 곧 공개될 예정이니 많은 관심 부탁드립니다💚 @RVsmtown @GirlsOnTop_SM #WENDY https://t.co/1XrTaG9qpC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "싱글즈",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "갓더비트",
+					"indices": [
+						37,
+						42
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						144,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						119,
+						128
+					]
+				},
+				{
+					"screen_name": "GirlsOnTop_SM",
+					"name": "Girls On Top",
+					"id": 1472876868416475100,
+					"id_str": "1472876868416475141",
+					"indices": [
+						129,
+						143
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1614855496086999000,
+					"id_str": "1614855496086999040",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FmkehI_aUAAJKp5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmkehI_aUAAJKp5.jpg",
+					"url": "https://t.co/1XrTaG9qpC",
+					"display_url": "pic.twitter.com/1XrTaG9qpC",
+					"expanded_url": "https://twitter.com/singlesmania/status/1614855591452868608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1111,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 926,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1614855496086999000,
+					"id_str": "1614855496086999040",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FmkehI_aUAAJKp5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmkehI_aUAAJKp5.jpg",
+					"url": "https://t.co/1XrTaG9qpC",
+					"display_url": "pic.twitter.com/1XrTaG9qpC",
+					"expanded_url": "https://twitter.com/singlesmania/status/1614855591452868608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1111,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 926,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 102038546,
+			"id_str": "102038546",
+			"name": "Singles Korea 싱글즈",
+			"screen_name": "singlesmania",
+			"location": "seoul",
+			"description": "당당한 싱글들을 위한 즐거운 패션 매거진 싱글즈.",
+			"url": "https://t.co/0AqlouNorT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0AqlouNorT",
+							"expanded_url": "http://linktr.ee/Singlesmagazine",
+							"display_url": "linktr.ee/Singlesmagazine",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41936,
+			"friends_count": 1,
+			"listed_count": 237,
+			"created_at": "Tue Jan 05 11:43:09 +0000 2010",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F3F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389450100162711553/CScqoQww_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389450100162711553/CScqoQww_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/102038546/1671514722",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCD",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1177,
+		"favorite_count": 1913,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#싱글즈 와 함께 한 2월호 커버 스타는 바로, #레드벨벳 그리고 #갓더비트 의 멤버 #웬디  입니다. 싱그러움 가득한 봄날을 닮은 화보 그리고 또 다른 버전의 커버도 곧 공개될 예정이니 많은 관심 부탁드립니다💚 @RVsmtown @GirlsOnTop_SM #WENDY https://t.co/1XrTaG9qpC"
+	},
+	{
 		"created_at": "Mon Jan 16 05:07:10 +0000 2023",
 		"id": 1614850058704326700,
 		"id_str": "1614851733263642628",
