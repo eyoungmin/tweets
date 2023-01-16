@@ -1,6 +1,184 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Mon Jan 16 04:58:58 +0000 2023",
+		"id": 1614839252478754800,
+		"id_str": "1614849670710460420",
+		"full_text": "제 2의 제니라 불리는 베이비몬스터 두번째 멤버 ‘아현’의 라이브 비디오가 공개됐다.\n#베이비몬스터 #아현 #블랙핑크 #제니 #BABYMONSTER #AHYEON #BLACKPINK #JENNIE #YG #KPOP\nhttps://t.co/xVz7nY1sX1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "베이비몬스터",
+					"indices": [
+						48,
+						55
+					]
+				},
+				{
+					"text": "아현",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "BABYMONSTER",
+					"indices": [
+						70,
+						82
+					]
+				},
+				{
+					"text": "AHYEON",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						91,
+						101
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						102,
+						109
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						114,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xVz7nY1sX1",
+					"expanded_url": "https://www.gqkorea.co.kr/2023/01/16/%EB%B2%A0%EC%9D%B4%EB%B9%84%EB%AA%AC%EC%8A%A4%ED%84%B0-%EC%95%84%ED%98%84%EC%9D%B4-%EA%B8%B0%EB%8C%80%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/?ddw=135214&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "gqkorea.co.kr/2023/01/16/%EB…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262470,
+			"id_str": "78262470",
+			"name": "GQ KOREA",
+			"screen_name": "GQKOREA",
+			"location": "Seoul, Korea",
+			"description": "Be a Good Man, Don't be Quiet.",
+			"url": "https://t.co/pJOMTcz802",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pJOMTcz802",
+							"expanded_url": "http://www.gqkorea.co.kr",
+							"display_url": "gqkorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 145132,
+			"friends_count": 0,
+			"listed_count": 223,
+			"created_at": "Tue Sep 29 09:20:13 +0000 2009",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2633,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262470/1672645348",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제 2의 제니라 불리는 베이비몬스터 두번째 멤버 ‘아현’의 라이브 비디오가 공개됐다.\n#베이비몬스터 #아현 #블랙핑크 #제니 #BABYMONSTER #AHYEON #BLACKPINK #JENNIE #YG #KPOP\nhttps://t.co/xVz7nY1sX1"
+	},
+	{
 		"created_at": "Mon Jan 16 03:58:58 +0000 2023",
 		"id": 1614821577245479000,
 		"id_str": "1614834572650479616",
