@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Mon Jan 16 01:58:56 +0000 2023",
+		"id": 1614797206648660000,
+		"id_str": "1614804365390536705",
+		"full_text": "\"이런 일을 재미있고 멋있게 다 할 수 있음을 보여주는 게 좋아요.\" \n\n지난 2020년, 제니는 아주 분명하게 전했습니다. 앞으로도 꾸준히 상상만 하는 것들을 현실로 만들어주고 싶다고요. 여전히 눈을 뗄 수 없게 만드는 스웩을 지닌 제니 그리고 블랙핑크와의 인터뷰 ▶️ https://t.co/MPyZ0C7Z5l https://t.co/f0ZpoDesZq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MPyZ0C7Z5l",
+					"expanded_url": "http://vogue.co.kr/?ddw=135188",
+					"display_url": "vogue.co.kr/?ddw=135188",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1614777693727510500,
+					"id_str": "1614777693727510529",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FmjXwcnaUAEv-A_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmjXwcnaUAEv-A_.jpg",
+					"url": "https://t.co/f0ZpoDesZq",
+					"display_url": "pic.twitter.com/f0ZpoDesZq",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1614797206648659970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 622,
+							"h": 930,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 622,
+							"h": 930,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1614777693727510500,
+					"id_str": "1614777693727510529",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FmjXwcnaUAEv-A_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmjXwcnaUAEv-A_.jpg",
+					"url": "https://t.co/f0ZpoDesZq",
+					"display_url": "pic.twitter.com/f0ZpoDesZq",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1614797206648659970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 622,
+							"h": 930,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 622,
+							"h": 930,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1614777693698158600,
+					"id_str": "1614777693698158594",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FmjXwcgacAIqWQ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmjXwcgacAIqWQ9.jpg",
+					"url": "https://t.co/f0ZpoDesZq",
+					"display_url": "pic.twitter.com/f0ZpoDesZq",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1614797206648659970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 714,
+							"h": 930,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 522,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 714,
+							"h": 930,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159102271,
+			"id_str": "159102271",
+			"name": "VOGUE KOREA",
+			"screen_name": "VogueKorea",
+			"location": "",
+			"description": "Vogue Korea official twitter",
+			"url": "https://t.co/cObX4QyGsc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cObX4QyGsc",
+							"expanded_url": "https://www.vogue.co.kr/",
+							"display_url": "vogue.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 206934,
+			"friends_count": 0,
+			"listed_count": 442,
+			"created_at": "Thu Jun 24 13:11:05 +0000 2010",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159102271/1671430477",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5EF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"이런 일을 재미있고 멋있게 다 할 수 있음을 보여주는 게 좋아요.\" \n\n지난 2020년, 제니는 아주 분명하게 전했습니다. 앞으로도 꾸준히 상상만 하는 것들을 현실로 만들어주고 싶다고요. 여전히 눈을 뗄 수 없게 만드는 스웩을 지닌 제니 그리고 블랙핑크와의 인터뷰 ▶️ https://t.co/MPyZ0C7Z5l https://t.co/f0ZpoDesZq"
+	},
+	{
 		"created_at": "Sun Jan 15 23:08:15 +0000 2023",
 		"id": 1614759640927187000,
 		"id_str": "1614761408306221057",
