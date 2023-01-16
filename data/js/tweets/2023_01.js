@@ -1,6 +1,170 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Mon Jan 16 12:08:24 +0000 2023",
+		"id": 1614942625978798000,
+		"id_str": "1614957741042454530",
+		"full_text": "#THANKUBLINK\n\n생일을 축하해 준 #BLINK 여러분들에게\n#JENNIE 가 전하는 메시지🤭\n\n#BLACKPINK Weverse에서 확인해 보세요💌\n제니의 생일을 축하해 주신 BLINK 여러분 감사드립니다💓\n\n▶️ https://t.co/STYhRs4R5a \n\n#블랙핑크 #제니 \n#오늘생일인_걔가_나야_제니\n#TheIconJENNIEDay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THANKUBLINK",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "BLINK",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						38,
+						45
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						58,
+						68
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "오늘생일인_걔가_나야_제니",
+					"indices": [
+						162,
+						177
+					]
+				},
+				{
+					"text": "TheIconJENNIEDay",
+					"indices": [
+						178,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/STYhRs4R5a",
+					"expanded_url": "https://weverse.io/blackpink/media/4-111060213",
+					"display_url": "weverse.io/blackpink/medi…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8816231,
+			"friends_count": 9,
+			"listed_count": 9403,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2608,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1518,
+		"favorite_count": 4853,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#THANKUBLINK\n\n생일을 축하해 준 #BLINK 여러분들에게\n#JENNIE 가 전하는 메시지🤭\n\n#BLACKPINK Weverse에서 확인해 보세요💌\n제니의 생일을 축하해 주신 BLINK 여러분 감사드립니다💓\n\n▶️ https://t.co/STYhRs4R5a \n\n#블랙핑크 #제니 \n#오늘생일인_걔가_나야_제니\n#TheIconJENNIEDay"
+	},
+	{
 		"created_at": "Mon Jan 16 11:22:08 +0000 2023",
 		"id": 1614942946142613500,
 		"id_str": "1614946099156090882",
