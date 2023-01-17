@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Tue Jan 17 05:07:26 +0000 2023",
+		"id": 1615213382768160800,
+		"id_str": "1615214187948683266",
+		"full_text": "#웬디 와 함께한 #싱글즈2월호 의 두 번째 커버를 공개합니다. 장난기 가득한 포즈와 해맑은 미소로 카메라 앞에 선 웬디. 그녀의 진솔한 이야기를 담은 인터뷰와 더 많은 화보 이미지는 #싱글즈 2월호에서 확인할 수 있습니다💛 @RVsmtown @GirlsOnTop_SM #WENDY https://t.co/gq0y9U2Xp4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "싱글즈2월호",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"text": "싱글즈",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						151,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						126,
+						135
+					]
+				},
+				{
+					"screen_name": "GirlsOnTop_SM",
+					"name": "Girls On Top",
+					"id": 1472876868416475100,
+					"id_str": "1472876868416475141",
+					"indices": [
+						136,
+						150
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1615213376451547100,
+					"id_str": "1615213376451547136",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FmpkAhPakAA8pky.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmpkAhPakAA8pky.jpg",
+					"url": "https://t.co/gq0y9U2Xp4",
+					"display_url": "pic.twitter.com/gq0y9U2Xp4",
+					"expanded_url": "https://twitter.com/singlesmania/status/1615213382768160769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 926,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1111,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1615213376451547100,
+					"id_str": "1615213376451547136",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FmpkAhPakAA8pky.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmpkAhPakAA8pky.jpg",
+					"url": "https://t.co/gq0y9U2Xp4",
+					"display_url": "pic.twitter.com/gq0y9U2Xp4",
+					"expanded_url": "https://twitter.com/singlesmania/status/1615213382768160769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 926,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1111,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 102038546,
+			"id_str": "102038546",
+			"name": "Singles Korea 싱글즈",
+			"screen_name": "singlesmania",
+			"location": "seoul",
+			"description": "당당한 싱글들을 위한 즐거운 패션 매거진 싱글즈.",
+			"url": "https://t.co/0AqlouwlpT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0AqlouwlpT",
+							"expanded_url": "http://linktr.ee/Singlesmagazine",
+							"display_url": "linktr.ee/Singlesmagazine",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41980,
+			"friends_count": 1,
+			"listed_count": 237,
+			"created_at": "Tue Jan 05 11:43:09 +0000 2010",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F3F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389450100162711553/CScqoQww_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389450100162711553/CScqoQww_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/102038546/1673921883",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCD",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 556,
+		"favorite_count": 851,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#웬디 와 함께한 #싱글즈2월호 의 두 번째 커버를 공개합니다. 장난기 가득한 포즈와 해맑은 미소로 카메라 앞에 선 웬디. 그녀의 진솔한 이야기를 담은 인터뷰와 더 많은 화보 이미지는 #싱글즈 2월호에서 확인할 수 있습니다💛 @RVsmtown @GirlsOnTop_SM #WENDY https://t.co/gq0y9U2Xp4"
+	},
+	{
 		"created_at": "Tue Jan 17 04:59:14 +0000 2023",
 		"id": 1615210876784738300,
 		"id_str": "1615212126519578626",
