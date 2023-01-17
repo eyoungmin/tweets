@@ -1,6 +1,355 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Tue Jan 17 02:59:12 +0000 2023",
+		"id": 1615167247651311600,
+		"id_str": "1615181916738842624",
+		"full_text": "#협찬 #VoguePictures\n\n아이콘으로서 누리는 영광, 평범한 20대로서 꾸는 꿈, 베를린에서 마주한 절정의 제니 ▶️ https://t.co/sv8FYdFGfP \n\n@CHANEL @BLACKPINK #Jennie #CHANELFineJewelry #COCOCRUSH #샤넬 #제니 #샤넬화인주얼리 #샤넬코코크러쉬 #코코크러쉬 https://t.co/X08HfAREAr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "협찬",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "VoguePictures",
+					"indices": [
+						4,
+						18
+					]
+				},
+				{
+					"text": "Jennie",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"text": "CHANELFineJewelry",
+					"indices": [
+						124,
+						142
+					]
+				},
+				{
+					"text": "COCOCRUSH",
+					"indices": [
+						143,
+						153
+					]
+				},
+				{
+					"text": "샤넬",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						158,
+						161
+					]
+				},
+				{
+					"text": "샤넬화인주얼리",
+					"indices": [
+						162,
+						170
+					]
+				},
+				{
+					"text": "샤넬코코크러쉬",
+					"indices": [
+						171,
+						179
+					]
+				},
+				{
+					"text": "코코크러쉬",
+					"indices": [
+						180,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHANEL",
+					"name": "CHANEL",
+					"id": 326359913,
+					"id_str": "326359913",
+					"indices": [
+						97,
+						104
+					]
+				},
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						105,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sv8FYdFGfP",
+					"expanded_url": "http://vogue.co.kr/?ddw=135234",
+					"display_url": "vogue.co.kr/?ddw=135234",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1615166964556796000,
+					"id_str": "1615166964556795904",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/Fmo5y_dakAAwIYS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fmo5y_dakAAwIYS.jpg",
+					"url": "https://t.co/X08HfAREAr",
+					"display_url": "pic.twitter.com/X08HfAREAr",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1615167247651311617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 965,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1647,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1615166964556796000,
+					"id_str": "1615166964556795904",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/Fmo5y_dakAAwIYS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fmo5y_dakAAwIYS.jpg",
+					"url": "https://t.co/X08HfAREAr",
+					"display_url": "pic.twitter.com/X08HfAREAr",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1615167247651311617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 965,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1647,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1615167030445101000,
+					"id_str": "1615167030445101058",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/Fmo5206aUAIjfnL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fmo5206aUAIjfnL.jpg",
+					"url": "https://t.co/X08HfAREAr",
+					"display_url": "pic.twitter.com/X08HfAREAr",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1615167247651311617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 746,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 423,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1274,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1615167040838566000,
+					"id_str": "1615167040838565888",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/Fmo53boaAAAMJG9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fmo53boaAAAMJG9.jpg",
+					"url": "https://t.co/X08HfAREAr",
+					"display_url": "pic.twitter.com/X08HfAREAr",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1615167247651311617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1274,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 746,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 423,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159102271,
+			"id_str": "159102271",
+			"name": "VOGUE KOREA",
+			"screen_name": "VogueKorea",
+			"location": "",
+			"description": "Vogue Korea official twitter",
+			"url": "https://t.co/cObX4QhDqc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cObX4QhDqc",
+							"expanded_url": "https://www.vogue.co.kr/",
+							"display_url": "vogue.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 207183,
+			"friends_count": 0,
+			"listed_count": 440,
+			"created_at": "Thu Jun 24 13:11:05 +0000 2010",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159102271/1673837026",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5EF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4069,
+		"favorite_count": 8204,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#협찬 #VoguePictures\n\n아이콘으로서 누리는 영광, 평범한 20대로서 꾸는 꿈, 베를린에서 마주한 절정의 제니 ▶️ https://t.co/sv8FYdFGfP \n\n@CHANEL @BLACKPINK #Jennie #CHANELFineJewelry #COCOCRUSH #샤넬 #제니 #샤넬화인주얼리 #샤넬코코크러쉬 #코코크러쉬 https://t.co/X08HfAREAr"
+	},
+	{
 		"created_at": "Mon Jan 16 12:08:24 +0000 2023",
 		"id": 1614942625978798000,
 		"id_str": "1614957741042454530",
