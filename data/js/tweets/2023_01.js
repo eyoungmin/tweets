@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Thu Jan 19 08:14:57 +0000 2023",
+		"id": 1615985305676546000,
+		"id_str": "1615986153852899328",
+		"full_text": "#캐나다구스 가 롯데GFR을 통한 브랜드 리론칭을 기념해 이벤트를 개최했습니다.👀 배우 #이재욱, #크리스탈, #수주, #가비  #시미즈 도 참석해 자리를 빛내주었는데요. 그 현장을 &lt;#싱글즈&gt;가 담아왔습니다! 궁금하다면? 지금 바로 확인해 보세요.❤️\n#LeeJaeWook #KRYSTAL #SooJoo #GABEE #Simeez https://t.co/XSDz9j9yna",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캐나다구스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "이재욱",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "크리스탈",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "수주",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "가비",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "시미즈",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "싱글즈",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "LeeJaeWook",
+					"indices": [
+						148,
+						159
+					]
+				},
+				{
+					"text": "KRYSTAL",
+					"indices": [
+						160,
+						168
+					]
+				},
+				{
+					"text": "SooJoo",
+					"indices": [
+						169,
+						176
+					]
+				},
+				{
+					"text": "GABEE",
+					"indices": [
+						177,
+						183
+					]
+				},
+				{
+					"text": "Simeez",
+					"indices": [
+						184,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1615985141834485800,
+					"id_str": "1615985141834485760",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1615985141834485760/pu/img/3C5OIf_cnbEMGGtM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1615985141834485760/pu/img/3C5OIf_cnbEMGGtM.jpg",
+					"url": "https://t.co/XSDz9j9yna",
+					"display_url": "pic.twitter.com/XSDz9j9yna",
+					"expanded_url": "https://twitter.com/singlesmania/status/1615985305676546048/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1615985141834485800,
+					"id_str": "1615985141834485760",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1615985141834485760/pu/img/3C5OIf_cnbEMGGtM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1615985141834485760/pu/img/3C5OIf_cnbEMGGtM.jpg",
+					"url": "https://t.co/XSDz9j9yna",
+					"display_url": "pic.twitter.com/XSDz9j9yna",
+					"expanded_url": "https://twitter.com/singlesmania/status/1615985305676546048/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 91600,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1615985141834485760/pu/vid/720x1280/c_MoOdmVuakDb8U4.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1615985141834485760/pu/vid/320x568/7o2_b2bx6FvEsffF.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1615985141834485760/pu/pl/v-6JPyA3TGQMzcuL.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1615985141834485760/pu/vid/480x852/MEkp7FSKciV4PImK.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 102038546,
+			"id_str": "102038546",
+			"name": "Singles Korea 싱글즈",
+			"screen_name": "singlesmania",
+			"location": "seoul",
+			"description": "당당한 싱글들을 위한 즐거운 패션 매거진 싱글즈.",
+			"url": "https://t.co/0AqlouwlpT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0AqlouwlpT",
+							"expanded_url": "http://linktr.ee/Singlesmagazine",
+							"display_url": "linktr.ee/Singlesmagazine",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42037,
+			"friends_count": 1,
+			"listed_count": 237,
+			"created_at": "Tue Jan 05 11:43:09 +0000 2010",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F3F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389450100162711553/CScqoQww_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389450100162711553/CScqoQww_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/102038546/1673921883",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCD",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#캐나다구스 가 롯데GFR을 통한 브랜드 리론칭을 기념해 이벤트를 개최했습니다.👀 배우 #이재욱, #크리스탈, #수주, #가비  #시미즈 도 참석해 자리를 빛내주었는데요. 그 현장을 &lt;#싱글즈&gt;가 담아왔습니다! 궁금하다면? 지금 바로 확인해 보세요.❤️\n#LeeJaeWook #KRYSTAL #SooJoo #GABEE #Simeez https://t.co/XSDz9j9yna"
+	},
+	{
 		"created_at": "Thu Jan 19 05:22:44 +0000 2023",
 		"id": 1615937826067214300,
 		"id_str": "1615942816726921218",
