@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Thu Jan 19 05:22:44 +0000 2023",
+		"id": 1615937826067214300,
+		"id_str": "1615942816726921218",
+		"full_text": "‘THIS IS YOUR YEAR, DO WHAT YOU WANTS’\nWENDY is on the cover of Singles February issue 💙\nCheck out her playful poses and candid interview in the February issue of Singles!\n\n#웬디 #WENDY\n#싱글즈 #Singles\n#레드벨벳 #RedVelvet https://t.co/AsmCoPT4Dl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						173,
+						176
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						177,
+						183
+					]
+				},
+				{
+					"text": "싱글즈",
+					"indices": [
+						184,
+						188
+					]
+				},
+				{
+					"text": "Singles",
+					"indices": [
+						189,
+						197
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						198,
+						203
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						204,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1615937808958619600,
+					"id_str": "1615937808958619648",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/Fmz24CoaAAAtKN7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fmz24CoaAAAtKN7.jpg",
+					"url": "https://t.co/AsmCoPT4Dl",
+					"display_url": "pic.twitter.com/AsmCoPT4Dl",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1615937826067214341/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1615937808958619600,
+					"id_str": "1615937808958619648",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/Fmz24CoaAAAtKN7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fmz24CoaAAAtKN7.jpg",
+					"url": "https://t.co/AsmCoPT4Dl",
+					"display_url": "pic.twitter.com/AsmCoPT4Dl",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1615937826067214341/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1615937815438856200,
+					"id_str": "1615937815438856192",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/Fmz24axakAAnkj7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fmz24axakAAnkj7.jpg",
+					"url": "https://t.co/AsmCoPT4Dl",
+					"display_url": "pic.twitter.com/AsmCoPT4Dl",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1615937826067214341/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1615937821004681200,
+					"id_str": "1615937821004681216",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/Fmz24vgaUAAWVDO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fmz24vgaUAAWVDO.jpg",
+					"url": "https://t.co/AsmCoPT4Dl",
+					"display_url": "pic.twitter.com/AsmCoPT4Dl",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1615937826067214341/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1615937803208257500,
+		"in_reply_to_status_id_str": "1615937803208257537",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5838952,
+			"friends_count": 2,
+			"listed_count": 11581,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1559,
+		"favorite_count": 3727,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘THIS IS YOUR YEAR, DO WHAT YOU WANTS’\nWENDY is on the cover of Singles February issue 💙\nCheck out her playful poses and candid interview in the February issue of Singles!\n\n#웬디 #WENDY\n#싱글즈 #Singles\n#레드벨벳 #RedVelvet https://t.co/AsmCoPT4Dl"
+	},
+	{
 		"created_at": "Thu Jan 19 03:07:54 +0000 2023",
 		"id": 1615894662316953600,
 		"id_str": "1615908883826114560",
