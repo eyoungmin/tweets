@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Thu Jan 19 03:07:54 +0000 2023",
+		"id": 1615894662316953600,
+		"id_str": "1615908883826114560",
+		"full_text": "#웬디 와 함께한 #싱글즈2월호 화보를 공개합니다! 다가오는 봄엔 계절처럼 따뜻하고 밝은 목소리를 안고 팬들에게 다가가려고 준비 중이라는 웬디. 진심 어린 이야기를 담은 인터뷰는 #싱글즈2월호 에서 확인해보세요💕 @RVsmtown @GirlsOnTop_SM #WENDY\n\nhttps://t.co/4MkBdXyGAc https://t.co/2rFdqVCIql",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "싱글즈2월호",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"text": "싱글즈2월호",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						144,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						119,
+						128
+					]
+				},
+				{
+					"screen_name": "GirlsOnTop_SM",
+					"name": "Girls On Top",
+					"id": 1472876868416475100,
+					"id_str": "1472876868416475141",
+					"indices": [
+						129,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4MkBdXyGAc",
+					"expanded_url": "https://m.thesingle.co.kr/article/715456/THESINGLE",
+					"display_url": "m.thesingle.co.kr/article/715456…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1615894645539745800,
+					"id_str": "1615894645539745792",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FmzPnmXaMAAYfsW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmzPnmXaMAAYfsW.jpg",
+					"url": "https://t.co/2rFdqVCIql",
+					"display_url": "pic.twitter.com/2rFdqVCIql",
+					"expanded_url": "https://twitter.com/singlesmania/status/1615894662316953604/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1615894645539745800,
+					"id_str": "1615894645539745792",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FmzPnmXaMAAYfsW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmzPnmXaMAAYfsW.jpg",
+					"url": "https://t.co/2rFdqVCIql",
+					"display_url": "pic.twitter.com/2rFdqVCIql",
+					"expanded_url": "https://twitter.com/singlesmania/status/1615894662316953604/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1615894645548134400,
+					"id_str": "1615894645548134401",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FmzPnmZaMAEEgyH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmzPnmZaMAEEgyH.jpg",
+					"url": "https://t.co/2rFdqVCIql",
+					"display_url": "pic.twitter.com/2rFdqVCIql",
+					"expanded_url": "https://twitter.com/singlesmania/status/1615894662316953604/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1615894645569118200,
+					"id_str": "1615894645569118208",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FmzPnmeaYAA4tpt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmzPnmeaYAA4tpt.jpg",
+					"url": "https://t.co/2rFdqVCIql",
+					"display_url": "pic.twitter.com/2rFdqVCIql",
+					"expanded_url": "https://twitter.com/singlesmania/status/1615894662316953604/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 102038546,
+			"id_str": "102038546",
+			"name": "Singles Korea 싱글즈",
+			"screen_name": "singlesmania",
+			"location": "seoul",
+			"description": "당당한 싱글들을 위한 즐거운 패션 매거진 싱글즈.",
+			"url": "https://t.co/0AqlouwlpT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0AqlouwlpT",
+							"expanded_url": "http://linktr.ee/Singlesmagazine",
+							"display_url": "linktr.ee/Singlesmagazine",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42029,
+			"friends_count": 1,
+			"listed_count": 237,
+			"created_at": "Tue Jan 05 11:43:09 +0000 2010",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F3F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389450100162711553/CScqoQww_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389450100162711553/CScqoQww_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/102038546/1673921883",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCD",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1371,
+		"favorite_count": 2152,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#웬디 와 함께한 #싱글즈2월호 화보를 공개합니다! 다가오는 봄엔 계절처럼 따뜻하고 밝은 목소리를 안고 팬들에게 다가가려고 준비 중이라는 웬디. 진심 어린 이야기를 담은 인터뷰는 #싱글즈2월호 에서 확인해보세요💕 @RVsmtown @GirlsOnTop_SM #WENDY\n\nhttps://t.co/4MkBdXyGAc https://t.co/2rFdqVCIql"
+	},
+	{
 		"created_at": "Thu Jan 19 01:09:14 +0000 2023",
 		"id": 1615878952442269700,
 		"id_str": "1615879020285145091",
