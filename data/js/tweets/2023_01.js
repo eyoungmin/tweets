@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Fri Jan 20 17:36:21 +0000 2023",
+		"id": 1616480729747312600,
+		"id_str": "1616489824713854976",
+		"full_text": "🖤 https://t.co/yQjawU6dfQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1616480724021923800,
+					"id_str": "1616480724021923840",
+					"indices": [
+						2,
+						25
+					],
+					"media_url": "http://pbs.twimg.com/media/Fm7kp22X0AAp-dR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fm7kp22X0AAp-dR.jpg",
+					"url": "https://t.co/yQjawU6dfQ",
+					"display_url": "pic.twitter.com/yQjawU6dfQ",
+					"expanded_url": "https://twitter.com/birdy/status/1616480729747312641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1616480724021923800,
+					"id_str": "1616480724021923840",
+					"indices": [
+						2,
+						25
+					],
+					"media_url": "http://pbs.twimg.com/media/Fm7kp22X0AAp-dR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fm7kp22X0AAp-dR.jpg",
+					"url": "https://t.co/yQjawU6dfQ",
+					"display_url": "pic.twitter.com/yQjawU6dfQ",
+					"expanded_url": "https://twitter.com/birdy/status/1616480729747312641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "State Lines with Hybrid Minds is out now ✨ tickets to my 2023 european tour are on sale",
+			"url": "https://t.co/ZKWv3eIilG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZKWv3eIilG",
+							"expanded_url": "https://linktr.ee/officialbirdy",
+							"display_url": "linktr.ee/officialbirdy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306758,
+			"friends_count": 174,
+			"listed_count": 1159,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 861,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1559470636900274176/uDiw2PLl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1559470636900274176/uDiw2PLl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1660641749",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 479,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🖤 https://t.co/yQjawU6dfQ"
+	},
+	{
 		"created_at": "Fri Jan 20 13:23:06 +0000 2023",
 		"id": 1616420654571753500,
 		"id_str": "1616426092256198657",
