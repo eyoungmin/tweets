@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Fri Jan 20 01:03:52 +0000 2023",
+		"id": 1616199663715029000,
+		"id_str": "1616240055940706305",
+		"full_text": "Twitter officially bans third-party clients with new developer rules https://t.co/IijjXeQfCH https://t.co/PgDi1Fmpmc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IijjXeQfCH",
+					"expanded_url": "https://www.theverge.com/2023/1/19/23562947/twitter-third-party-client-tweetbot-twitterific-ban-rules?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+					"display_url": "theverge.com/2023/1/19/2356…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1616199661231931400,
+					"id_str": "1616199661231931392",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/Fm3lB2XWAAAMd1s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fm3lB2XWAAAMd1s.jpg",
+					"url": "https://t.co/PgDi1Fmpmc",
+					"display_url": "pic.twitter.com/PgDi1Fmpmc",
+					"expanded_url": "https://twitter.com/verge/status/1616199663715029001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1616199661231931400,
+					"id_str": "1616199661231931392",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/Fm3lB2XWAAAMd1s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fm3lB2XWAAAMd1s.jpg",
+					"url": "https://t.co/PgDi1Fmpmc",
+					"display_url": "pic.twitter.com/PgDi1Fmpmc",
+					"expanded_url": "https://twitter.com/verge/status/1616199663715029001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 275686563,
+			"id_str": "275686563",
+			"name": "The Verge",
+			"screen_name": "verge",
+			"location": "New York",
+			"description": "https://t.co/GYkBloRfPz covers life in the future.",
+			"url": "https://t.co/pGMvEf1quS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pGMvEf1quS",
+							"expanded_url": "http://www.theverge.com",
+							"display_url": "theverge.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GYkBloRfPz",
+							"expanded_url": "http://theverge.com",
+							"display_url": "theverge.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3038039,
+			"friends_count": 182,
+			"listed_count": 37734,
+			"created_at": "Fri Apr 01 19:54:22 +0000 2011",
+			"favourites_count": 1418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 220839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569656103528448000/d0BzVIPL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569656103528448000/d0BzVIPL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1663070153",
+			"profile_link_color": "EC008C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 340,
+		"favorite_count": 433,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Twitter officially bans third-party clients with new developer rules https://t.co/IijjXeQfCH https://t.co/PgDi1Fmpmc"
+	},
+	{
 		"created_at": "Thu Jan 19 08:14:57 +0000 2023",
 		"id": 1615985305676546000,
 		"id_str": "1615986153852899328",
