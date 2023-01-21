@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sat Jan 21 04:08:31 +0000 2023",
+		"id": 1616647845356146700,
+		"id_str": "1616648911892140033",
+		"full_text": "&lt;#싱글즈&gt; 2월호 커버의 주인공! #레드벨벳 #웬디 가 화보 촬영을 마치고 보내온 인사 영상을 공개합니다. 보기만 해도 미소가 지어지는 긍정 에너지로 화보 촬영장을 봄으로 만들었던 웬디💙 그런 웬디와 함께한 화보와 인터뷰는 &lt;#싱글즈&gt; 2월호에서 만나보세요! \n@RVsmtown @GirlsOnTop_SM #WENDY https://t.co/EybK7mm8Uu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "싱글즈",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						26,
+						31
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "싱글즈",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						184,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						159,
+						168
+					]
+				},
+				{
+					"screen_name": "GirlsOnTop_SM",
+					"name": "Girls On Top",
+					"id": 1472876868416475100,
+					"id_str": "1472876868416475141",
+					"indices": [
+						169,
+						183
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1616647781678223400,
+					"id_str": "1616647781678223364",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1616647781678223364/pu/img/-eU4sTSwfEBowoGe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1616647781678223364/pu/img/-eU4sTSwfEBowoGe.jpg",
+					"url": "https://t.co/EybK7mm8Uu",
+					"display_url": "pic.twitter.com/EybK7mm8Uu",
+					"expanded_url": "https://twitter.com/singlesmania/status/1616647845356146688/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1616647781678223400,
+					"id_str": "1616647781678223364",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1616647781678223364/pu/img/-eU4sTSwfEBowoGe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1616647781678223364/pu/img/-eU4sTSwfEBowoGe.jpg",
+					"url": "https://t.co/EybK7mm8Uu",
+					"display_url": "pic.twitter.com/EybK7mm8Uu",
+					"expanded_url": "https://twitter.com/singlesmania/status/1616647845356146688/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 30096,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1616647781678223364/pu/vid/540x540/Jth0-b0F8vQqMybp.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1616647781678223364/pu/vid/720x720/Bx4oGFAavbI3puBp.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1616647781678223364/pu/pl/47FXtaSjlVO8q4tM.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1616647781678223364/pu/vid/320x320/k1aquHEkD0miYSUC.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 102038546,
+			"id_str": "102038546",
+			"name": "Singles Korea 싱글즈",
+			"screen_name": "singlesmania",
+			"location": "seoul",
+			"description": "당당한 싱글들을 위한 즐거운 패션 매거진 싱글즈.",
+			"url": "https://t.co/0AqlouwlpT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0AqlouwlpT",
+							"expanded_url": "http://linktr.ee/Singlesmagazine",
+							"display_url": "linktr.ee/Singlesmagazine",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42094,
+			"friends_count": 1,
+			"listed_count": 237,
+			"created_at": "Tue Jan 05 11:43:09 +0000 2010",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F3F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389450100162711553/CScqoQww_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389450100162711553/CScqoQww_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/102038546/1673921883",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCD",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 894,
+		"favorite_count": 1210,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;#싱글즈&gt; 2월호 커버의 주인공! #레드벨벳 #웬디 가 화보 촬영을 마치고 보내온 인사 영상을 공개합니다. 보기만 해도 미소가 지어지는 긍정 에너지로 화보 촬영장을 봄으로 만들었던 웬디💙 그런 웬디와 함께한 화보와 인터뷰는 &lt;#싱글즈&gt; 2월호에서 만나보세요! \n@RVsmtown @GirlsOnTop_SM #WENDY https://t.co/EybK7mm8Uu"
+	},
+	{
 		"created_at": "Fri Jan 20 17:36:21 +0000 2023",
 		"id": 1616480729747312600,
 		"id_str": "1616489824713854976",
