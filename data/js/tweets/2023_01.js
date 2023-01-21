@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sat Jan 21 12:00:44 +0000 2023",
+		"id": 1616767566914982000,
+		"id_str": "1616767752672522243",
+		"full_text": "9만원어치의 키링을 구매했다는 #뉴진스 막내 #혜인 어디 키링을 샀길래? 요즘 셀럽들이 푹 빠진 인형 키링! \n@NewJeans_ADOR @ygofficialblink #블랙핑크 #지수 @RVsmtown #레드벨벳 #슬기 #예리 #효민\nhttps://t.co/lPh8CO52ur",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뉴진스",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "혜인",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "효민",
+					"indices": [
+						128,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewJeans_ADOR",
+					"name": "NewJeans",
+					"id": 1476476838180696000,
+					"id_str": "1476476838180696073",
+					"indices": [
+						62,
+						76
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						77,
+						93
+					]
+				},
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						104,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lPh8CO52ur",
+					"expanded_url": "https://www.allurekorea.com/2022/12/28/%eb%89%b4%ec%a7%84%ec%8a%a4-%ed%98%9c%ec%9d%b8%ec%9d%b4-%ed%94%8c%eb%a0%89%ec%8a%a4-%ed%96%88%eb%8b%a4%eb%8a%94-%ed%82%a4%eb%a7%81/?ddw=133863&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2022/12/28/%eb…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38160,
+			"friends_count": 1,
+			"listed_count": 303,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 623,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8052,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1674017934",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "9만원어치의 키링을 구매했다는 #뉴진스 막내 #혜인 어디 키링을 샀길래? 요즘 셀럽들이 푹 빠진 인형 키링! \n@NewJeans_ADOR @ygofficialblink #블랙핑크 #지수 @RVsmtown #레드벨벳 #슬기 #예리 #효민\nhttps://t.co/lPh8CO52ur"
+	},
+	{
 		"created_at": "Sat Jan 21 09:00:26 +0000 2023",
 		"id": 1616722289982308400,
 		"id_str": "1616722378104635394",
