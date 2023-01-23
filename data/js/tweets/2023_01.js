@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Mon Jan 23 01:10:27 +0000 2023",
+		"id": 1617320461146411000,
+		"id_str": "1617328877818482690",
+		"full_text": "#BLACKPINK 'Shut Down' DANCE PERFORMANCE VIDEO HITS 100 MILLION VIEWS \n@Youtube\n\nBLINKs worldwide, thank you so much!\n\n'Shut Down' DANCE PERFORMANCE VIDEO \n🎥 https://t.co/njHp5GBUow \n\n#블랙핑크 #ShutDown #DANCE_PERFORMANCE_VIDEO #안무영상 #100MILLION #YOUTUBE #YG https://t.co/Xs9v5Lb6sM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						184,
+						189
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						190,
+						199
+					]
+				},
+				{
+					"text": "DANCE_PERFORMANCE_VIDEO",
+					"indices": [
+						200,
+						224
+					]
+				},
+				{
+					"text": "안무영상",
+					"indices": [
+						225,
+						230
+					]
+				},
+				{
+					"text": "100MILLION",
+					"indices": [
+						231,
+						242
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						243,
+						251
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						252,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						71,
+						79
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/njHp5GBUow",
+					"expanded_url": "https://youtu.be/PjrAwC4TIPA",
+					"display_url": "youtu.be/PjrAwC4TIPA",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1617320405215367200,
+					"id_str": "1617320405215367171",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/FnHgVvDaUAMPkcS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnHgVvDaUAMPkcS.jpg",
+					"url": "https://t.co/Xs9v5Lb6sM",
+					"display_url": "pic.twitter.com/Xs9v5Lb6sM",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1617320461146411008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1617320405215367200,
+					"id_str": "1617320405215367171",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/FnHgVvDaUAMPkcS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnHgVvDaUAMPkcS.jpg",
+					"url": "https://t.co/Xs9v5Lb6sM",
+					"display_url": "pic.twitter.com/Xs9v5Lb6sM",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1617320461146411008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8394155,
+			"friends_count": 0,
+			"listed_count": 8060,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6459,
+		"favorite_count": 18573,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 'Shut Down' DANCE PERFORMANCE VIDEO HITS 100 MILLION VIEWS \n@Youtube\n\nBLINKs worldwide, thank you so much!\n\n'Shut Down' DANCE PERFORMANCE VIDEO \n🎥 https://t.co/njHp5GBUow \n\n#블랙핑크 #ShutDown #DANCE_PERFORMANCE_VIDEO #안무영상 #100MILLION #YOUTUBE #YG https://t.co/Xs9v5Lb6sM"
+	},
+	{
 		"created_at": "Sun Jan 22 20:36:53 +0000 2023",
 		"id": 1617254793646325800,
 		"id_str": "1617260031560515584",
