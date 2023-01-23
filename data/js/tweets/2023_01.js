@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Mon Jan 23 05:23:43 +0000 2023",
+		"id": 1617392010746564600,
+		"id_str": "1617392615389032451",
+		"full_text": "~ 메리스푸키투어 \n   리허설과 무대 영상 ~ #광고\n\n#모조에스핀 과 #자우림 \n알고보니 동갑이어서\n깜짝 놀랐습니다. 😍\n97년 여름에 탄생한 \n스물다섯 동갑내기들의 \n#스물다섯스물하나 입니다. https://t.co/Ln3gOxJpOt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "광고",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "모조에스핀",
+					"indices": [
+						32,
+						38
+					]
+				},
+				{
+					"text": "자우림",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "스물다섯스물하나",
+					"indices": [
+						96,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1617391929842626600,
+					"id_str": "1617391929842626561",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1617391929842626561/pu/img/UsTAvAnUUyOz4yrc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1617391929842626561/pu/img/UsTAvAnUUyOz4yrc.jpg",
+					"url": "https://t.co/Ln3gOxJpOt",
+					"display_url": "pic.twitter.com/Ln3gOxJpOt",
+					"expanded_url": "https://twitter.com/love_yuna/status/1617392010746564610/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1617391929842626600,
+					"id_str": "1617391929842626561",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1617391929842626561/pu/img/UsTAvAnUUyOz4yrc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1617391929842626561/pu/img/UsTAvAnUUyOz4yrc.jpg",
+					"url": "https://t.co/Ln3gOxJpOt",
+					"display_url": "pic.twitter.com/Ln3gOxJpOt",
+					"expanded_url": "https://twitter.com/love_yuna/status/1617392010746564610/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 90131,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1617391929842626561/pu/vid/1280x720/YmGW4WMcY_ABqFgB.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1617391929842626561/pu/vid/480x270/ZqL47hRFwbmjFDoZ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1617391929842626561/pu/pl/AUjaKMIvXMlpVh9s.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1617391929842626561/pu/vid/640x360/VcG0fwUw2Mq1XS3U.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1615533454061629400,
+		"in_reply_to_status_id_str": "1615533454061629443",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275910,
+			"friends_count": 615,
+			"listed_count": 2721,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1587350693115199488/WeM4899U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587350693115199488/WeM4899U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1667288883",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "~ 메리스푸키투어 \n   리허설과 무대 영상 ~ #광고\n\n#모조에스핀 과 #자우림 \n알고보니 동갑이어서\n깜짝 놀랐습니다. 😍\n97년 여름에 탄생한 \n스물다섯 동갑내기들의 \n#스물다섯스물하나 입니다. https://t.co/Ln3gOxJpOt"
+	},
+	{
 		"created_at": "Mon Jan 23 01:10:27 +0000 2023",
 		"id": 1617320461146411000,
 		"id_str": "1617328877818482690",
