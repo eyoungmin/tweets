@@ -1,6 +1,575 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Tue Jan 24 12:01:29 +0000 2023",
+		"id": 1617854739420528600,
+		"id_str": "1617855103578550273",
+		"full_text": "🚨 한파주의보! 패딩을 입는다면 #웬디 처럼! 보온성까지 높인 셀럽들의 겨울 스타일링 제안.\n@RVsmtown @minju_official_ @ygofficialblink @official_sunmi_ #레드벨벳 #김민주 #블랙핑크 #제니 #현아 #선미\nhttps://t.co/B4ytLaai8J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						18,
+						21
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "김민주",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "현아",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "선미",
+					"indices": [
+						138,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						52,
+						61
+					]
+				},
+				{
+					"screen_name": "minju_official_",
+					"name": "김민주 KIM MIN JU",
+					"id": 1424908767565521000,
+					"id_str": "1424908767565520897",
+					"indices": [
+						62,
+						78
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						79,
+						95
+					]
+				},
+				{
+					"screen_name": "official_sunmi_",
+					"name": "선미 SUNMI",
+					"id": 895202531978104800,
+					"id_str": "895202531978104832",
+					"indices": [
+						96,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B4ytLaai8J",
+					"expanded_url": "https://www.allurekorea.com/2022/12/02/thisweek-24/?ddw=131072&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2022/12/02/thi…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38161,
+			"friends_count": 1,
+			"listed_count": 303,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 623,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8060,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1674017934",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🚨 한파주의보! 패딩을 입는다면 #웬디 처럼! 보온성까지 높인 셀럽들의 겨울 스타일링 제안.\n@RVsmtown @minju_official_ @ygofficialblink @official_sunmi_ #레드벨벳 #김민주 #블랙핑크 #제니 #현아 #선미\nhttps://t.co/B4ytLaai8J"
+	},
+	{
+		"created_at": "Tue Jan 24 11:37:15 +0000 2023",
+		"id": 1617842916873109500,
+		"id_str": "1617849004238471168",
+		"full_text": "신예영 ‘혼잣말 獨白’ Released!!\n🧡 https://t.co/Rz68ubiTWb https://t.co/4ZfHrZvXaY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Rz68ubiTWb",
+					"expanded_url": "https://www.instagram.com/p/Cnyz9isr64H/?igshid=YmMyMTA2M2Y=",
+					"display_url": "instagram.com/p/Cnyz9isr64H/…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1617842907784040400,
+					"id_str": "1617842907784040451",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/FnO7jYzaUAM8Eqa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnO7jYzaUAM8Eqa.jpg",
+					"url": "https://t.co/4ZfHrZvXaY",
+					"display_url": "pic.twitter.com/4ZfHrZvXaY",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1617842916873109505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1617842907784040400,
+					"id_str": "1617842907784040451",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/FnO7jYzaUAM8Eqa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnO7jYzaUAM8Eqa.jpg",
+					"url": "https://t.co/4ZfHrZvXaY",
+					"display_url": "pic.twitter.com/4ZfHrZvXaY",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1617842916873109505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/RrGBgJa7Lc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RrGBgJa7Lc",
+							"expanded_url": "https://www.monotreemusic.com",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7366,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "신예영 ‘혼잣말 獨白’ Released!!\n🧡 https://t.co/Rz68ubiTWb https://t.co/4ZfHrZvXaY"
+	},
+	{
+		"created_at": "Tue Jan 24 11:37:15 +0000 2023",
+		"id": 1617843050591711200,
+		"id_str": "1617849004079075328",
+		"full_text": "사비나앤드론즈의 라디오 공개방송 \n&lt;세이렌 하우스&gt; 티켓 오픈!\n\n⚓️공개방송 일시 1/25(수) 8pm\n✔️티켓 오픈 일시 | 1/24(화) 8pm (15석 한정)\n 클럽온에어 예매페이지 @club_onair \n✔️Running time | 70분\n✔️방송 종료 후 사진 촬영 및 사인회 가능\n✔️사연 신청 접수 중 (인스타그램 @seiren_house) https://t.co/UlFUZSRffA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CLUB_ONAIR",
+					"name": "Club onair",
+					"id": 352936135,
+					"id_str": "352936135",
+					"indices": [
+						112,
+						123
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1617843044023406600,
+					"id_str": "1617843044023406596",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FnO7rUVaEAQQfXX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnO7rUVaEAQQfXX.jpg",
+					"url": "https://t.co/UlFUZSRffA",
+					"display_url": "pic.twitter.com/UlFUZSRffA",
+					"expanded_url": "https://twitter.com/savina0128/status/1617843050591711232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1617843044023406600,
+					"id_str": "1617843044023406596",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FnO7rUVaEAQQfXX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnO7rUVaEAQQfXX.jpg",
+					"url": "https://t.co/UlFUZSRffA",
+					"display_url": "pic.twitter.com/UlFUZSRffA",
+					"expanded_url": "https://twitter.com/savina0128/status/1617843050591711232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나앤드론즈",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "Musician",
+			"url": "https://t.co/V1U5R1XyaU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V1U5R1XyaU",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1276,
+			"friends_count": 244,
+			"listed_count": 33,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사비나앤드론즈의 라디오 공개방송 \n&lt;세이렌 하우스&gt; 티켓 오픈!\n\n⚓️공개방송 일시 1/25(수) 8pm\n✔️티켓 오픈 일시 | 1/24(화) 8pm (15석 한정)\n 클럽온에어 예매페이지 @club_onair \n✔️Running time | 70분\n✔️방송 종료 후 사진 촬영 및 사인회 가능\n✔️사연 신청 접수 중 (인스타그램 @seiren_house) https://t.co/UlFUZSRffA"
+	},
+	{
 		"created_at": "Tue Jan 24 09:35:57 +0000 2023",
 		"id": 1617809564690256000,
 		"id_str": "1617818477280264194",
