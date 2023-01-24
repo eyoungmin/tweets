@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Tue Jan 24 09:35:57 +0000 2023",
+		"id": 1617809564690256000,
+		"id_str": "1617818477280264194",
+		"full_text": "[STATION] 웬디X멜로망스 '안부 (Miracle)'\n\n2023.01.26 6PM\n\n#WENDY #웬디\n#RedVelvet #레드벨벳\n#MeloMance #멜로망스\n#김민석 #정동환\n#안부 #Miracle\n#STATION #스테이션 https://t.co/igkYmVsqBl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WENDY",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "MeloMance",
+					"indices": [
+						78,
+						88
+					]
+				},
+				{
+					"text": "멜로망스",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "김민석",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "정동환",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "안부",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "Miracle",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "스테이션",
+					"indices": [
+						127,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1617804970727977000,
+					"id_str": "1617804970727976961",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FnOZDKQaMAEq_Vb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnOZDKQaMAEq_Vb.jpg",
+					"url": "https://t.co/igkYmVsqBl",
+					"display_url": "pic.twitter.com/igkYmVsqBl",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1617809564690255873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1617804970727977000,
+					"id_str": "1617804970727976961",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FnOZDKQaMAEq_Vb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnOZDKQaMAEq_Vb.jpg",
+					"url": "https://t.co/igkYmVsqBl",
+					"display_url": "pic.twitter.com/igkYmVsqBl",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1617809564690255873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11465046,
+			"friends_count": 56,
+			"listed_count": 12996,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2635,
+		"favorite_count": 5481,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[STATION] 웬디X멜로망스 '안부 (Miracle)'\n\n2023.01.26 6PM\n\n#WENDY #웬디\n#RedVelvet #레드벨벳\n#MeloMance #멜로망스\n#김민석 #정동환\n#안부 #Miracle\n#STATION #스테이션 https://t.co/igkYmVsqBl"
+	},
+	{
 		"created_at": "Tue Jan 24 06:01:25 +0000 2023",
 		"id": 1617749670964662300,
 		"id_str": "1617764489226768384",
