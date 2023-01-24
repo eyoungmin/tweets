@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Tue Jan 24 18:37:20 +0000 2023",
+		"id": 1617946149356462000,
+		"id_str": "1617954720458629122",
+		"full_text": "I’m so excited to finally be on the road again in March and April and to sing with you all 🤍 \nI’m going to be giving away two tickets for you and a friend to any of my shows. To enter you need to be based in one of the places I’m playing on the tour ✨ \nhttps://t.co/SuAJFw5tSU https://t.co/OX7DmrJPGv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SuAJFw5tSU",
+					"expanded_url": "https://wct.live/birdyftw",
+					"display_url": "wct.live/birdyftw",
+					"indices": [
+						253,
+						276
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1617946144046293000,
+					"id_str": "1617946144046292992",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FnQZch2XoAAvhr7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnQZch2XoAAvhr7.jpg",
+					"url": "https://t.co/OX7DmrJPGv",
+					"display_url": "pic.twitter.com/OX7DmrJPGv",
+					"expanded_url": "https://twitter.com/birdy/status/1617946149356462080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1617946144046293000,
+					"id_str": "1617946144046292992",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FnQZch2XoAAvhr7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnQZch2XoAAvhr7.jpg",
+					"url": "https://t.co/OX7DmrJPGv",
+					"display_url": "pic.twitter.com/OX7DmrJPGv",
+					"expanded_url": "https://twitter.com/birdy/status/1617946149356462080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "State Lines with Hybrid Minds is out now ✨ tickets to my 2023 european tour are on sale",
+			"url": "https://t.co/ZKWv3eIilG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZKWv3eIilG",
+							"expanded_url": "https://linktr.ee/officialbirdy",
+							"display_url": "linktr.ee/officialbirdy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306702,
+			"friends_count": 174,
+			"listed_count": 1160,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 861,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1559470636900274176/uDiw2PLl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1559470636900274176/uDiw2PLl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1660641749",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 157,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m so excited to finally be on the road again in March and April and to sing with you all 🤍 \nI’m going to be giving away two tickets for you and a friend to any of my shows. To enter you need to be based in one of the places I’m playing on the tour ✨ \nhttps://t.co/SuAJFw5tSU https://t.co/OX7DmrJPGv"
+	},
+	{
 		"created_at": "Tue Jan 24 15:37:18 +0000 2023",
 		"id": 1617898350329856000,
 		"id_str": "1617909415713333249",
