@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Tue Jan 24 06:01:25 +0000 2023",
+		"id": 1617749670964662300,
+		"id_str": "1617764489226768384",
+		"full_text": "인간 #샤넬 #블랙핑크 #제니 가 함께한 #코코크러쉬 2023 캠페인 🖤✨ 지금 바로 만나보세요.💖\n@BLACKPINK @CHANEL #샤넬코코크러쉬 \n👉 https://t.co/Kkw6cvkoc5 https://t.co/o1Xy0fAu3U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "샤넬",
+					"indices": [
+						3,
+						6
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						13,
+						16
+					]
+				},
+				{
+					"text": "코코크러쉬",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"text": "샤넬코코크러쉬",
+					"indices": [
+						75,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						56,
+						66
+					]
+				},
+				{
+					"screen_name": "CHANEL",
+					"name": "CHANEL",
+					"id": 326359913,
+					"id_str": "326359913",
+					"indices": [
+						67,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Kkw6cvkoc5",
+					"expanded_url": "https://www.marieclairekorea.com/fashion/2023/01/chaneljenniecococrush/",
+					"display_url": "marieclairekorea.com/fashion/2023/0…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1617749665902121000,
+					"id_str": "1617749665902120962",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FnNmv_uaUAIuUxI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnNmv_uaUAIuUxI.jpg",
+					"url": "https://t.co/o1Xy0fAu3U",
+					"display_url": "pic.twitter.com/o1Xy0fAu3U",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1617749670964662273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 570,
+							"h": 381,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 570,
+							"h": 381,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 570,
+							"h": 381,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1617749665902121000,
+					"id_str": "1617749665902120962",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FnNmv_uaUAIuUxI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnNmv_uaUAIuUxI.jpg",
+					"url": "https://t.co/o1Xy0fAu3U",
+					"display_url": "pic.twitter.com/o1Xy0fAu3U",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1617749670964662273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 570,
+							"h": 381,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 570,
+							"h": 381,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 570,
+							"h": 381,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 112030,
+			"friends_count": 1,
+			"listed_count": 346,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1613480471060705280/C4hupsFD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1613480471060705280/C4hupsFD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1673600363",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 374,
+		"favorite_count": 912,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인간 #샤넬 #블랙핑크 #제니 가 함께한 #코코크러쉬 2023 캠페인 🖤✨ 지금 바로 만나보세요.💖\n@BLACKPINK @CHANEL #샤넬코코크러쉬 \n👉 https://t.co/Kkw6cvkoc5 https://t.co/o1Xy0fAu3U"
+	},
+	{
 		"created_at": "Tue Jan 24 04:35:54 +0000 2023",
 		"id": 1617732632669978600,
 		"id_str": "1617742968756260871",
