@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Tue Jan 24 04:35:54 +0000 2023",
+		"id": 1617732632669978600,
+		"id_str": "1617742968756260871",
+		"full_text": "SM ‘#STATION’ Red Velvet #WENDY X MeloMance collaboration song ‘Miracle’ is out on 1/26 at 6PM KST!\nLook forward to the ballad packed full of winter sensibilities!\n\nhttps://t.co/2LtEGqyIQf\n\n#웬디\n#RedVelvet #레드벨벳\n#MeloMance #멜로망스\n#김민석 #정동환\n#안부 #Miracle\n#스테이션 https://t.co/7zKCn2Q4J1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						190,
+						193
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						194,
+						204
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						205,
+						210
+					]
+				},
+				{
+					"text": "MeloMance",
+					"indices": [
+						211,
+						221
+					]
+				},
+				{
+					"text": "멜로망스",
+					"indices": [
+						222,
+						227
+					]
+				},
+				{
+					"text": "김민석",
+					"indices": [
+						228,
+						232
+					]
+				},
+				{
+					"text": "정동환",
+					"indices": [
+						233,
+						237
+					]
+				},
+				{
+					"text": "안부",
+					"indices": [
+						238,
+						241
+					]
+				},
+				{
+					"text": "Miracle",
+					"indices": [
+						242,
+						250
+					]
+				},
+				{
+					"text": "스테이션",
+					"indices": [
+						251,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2LtEGqyIQf",
+					"expanded_url": "https://bit.ly/3WA51zs",
+					"display_url": "bit.ly/3WA51zs",
+					"indices": [
+						165,
+						188
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1617732624465920000,
+					"id_str": "1617732624465920001",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FnNXQDbaAAEpVre.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnNXQDbaAAEpVre.jpg",
+					"url": "https://t.co/7zKCn2Q4J1",
+					"display_url": "pic.twitter.com/7zKCn2Q4J1",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1617732632669978626/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 723,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 410,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1023,
+							"h": 1698,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1617732624465920000,
+					"id_str": "1617732624465920001",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FnNXQDbaAAEpVre.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnNXQDbaAAEpVre.jpg",
+					"url": "https://t.co/7zKCn2Q4J1",
+					"display_url": "pic.twitter.com/7zKCn2Q4J1",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1617732632669978626/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 723,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 410,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1023,
+							"h": 1698,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11464604,
+			"friends_count": 56,
+			"listed_count": 12992,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 897,
+		"favorite_count": 2453,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SM ‘#STATION’ Red Velvet #WENDY X MeloMance collaboration song ‘Miracle’ is out on 1/26 at 6PM KST!\nLook forward to the ballad packed full of winter sensibilities!\n\nhttps://t.co/2LtEGqyIQf\n\n#웬디\n#RedVelvet #레드벨벳\n#MeloMance #멜로망스\n#김민석 #정동환\n#안부 #Miracle\n#스테이션 https://t.co/7zKCn2Q4J1"
+	},
+	{
 		"created_at": "Mon Jan 23 12:14:16 +0000 2023",
 		"id": 1617492470853427200,
 		"id_str": "1617495931355791361",
