@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Wed Jan 25 09:01:42 +0000 2023",
+		"id": 1618171946801283000,
+		"id_str": "1618172245226180610",
+		"full_text": "세뱃돈으로 사고 싶은 지금 핫한 셀럽들의 아이템 쇼핑 리스트.\n@ygofficialblink @GirlsGeneration @IVEstarship #김나영 #블랙핑크 #제니 #리사 #로제 #차정원 #소녀시대 #태연 #아이브 #장원영 \nhttps://t.co/f3Y5SjehEE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김나영",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "차정원",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "아이브",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "장원영",
+					"indices": [
+						125,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						35,
+						51
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						52,
+						68
+					]
+				},
+				{
+					"screen_name": "IVEstarship",
+					"name": "IVE OFFICIAL",
+					"id": 1402182579265048600,
+					"id_str": "1402182579265048598",
+					"indices": [
+						69,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/f3Y5SjehEE",
+					"expanded_url": "https://www.allurekorea.com/?p=193931&ddw=136057&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=193931&ddw=…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38158,
+			"friends_count": 1,
+			"listed_count": 303,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8061,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1674017934",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세뱃돈으로 사고 싶은 지금 핫한 셀럽들의 아이템 쇼핑 리스트.\n@ygofficialblink @GirlsGeneration @IVEstarship #김나영 #블랙핑크 #제니 #리사 #로제 #차정원 #소녀시대 #태연 #아이브 #장원영 \nhttps://t.co/f3Y5SjehEE"
+	},
+	{
 		"created_at": "Wed Jan 25 05:24:21 +0000 2023",
 		"id": 1618108844886102000,
 		"id_str": "1618117548901564416",
