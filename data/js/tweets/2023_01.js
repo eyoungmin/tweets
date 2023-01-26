@@ -1,6 +1,660 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Thu Jan 26 09:36:33 +0000 2023",
+		"id": 1618539075916689400,
+		"id_str": "1618543403633111040",
+		"full_text": "[SM STATION] 웬디 X 멜로망스 '안부 (Miracle)'\nhttps://t.co/CaQmIr9GQR \n \n#WENDY #웬디\n#RedVelvet #레드벨벳\n#MeloMance #멜로망스\n#김민석 #정동환\n#안부 #Miracle\n#STATION #스테이션",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WENDY",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						76,
+						86
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "MeloMance",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"text": "멜로망스",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "김민석",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "정동환",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "안부",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "Miracle",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						133,
+						141
+					]
+				},
+				{
+					"text": "스테이션",
+					"indices": [
+						142,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CaQmIr9GQR",
+					"expanded_url": "https://naver.me/FIYiVYEA",
+					"display_url": "naver.me/FIYiVYEA",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11467752,
+			"friends_count": 56,
+			"listed_count": 12999,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13818,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 532,
+		"favorite_count": 1520,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[SM STATION] 웬디 X 멜로망스 '안부 (Miracle)'\nhttps://t.co/CaQmIr9GQR \n \n#WENDY #웬디\n#RedVelvet #레드벨벳\n#MeloMance #멜로망스\n#김민석 #정동환\n#안부 #Miracle\n#STATION #스테이션"
+	},
+	{
+		"created_at": "Thu Jan 26 09:36:33 +0000 2023",
+		"id": 1618538027919507500,
+		"id_str": "1618543403444359168",
+		"full_text": "[STATION] 웬디 (WENDY) X 멜로망스 (MeloMance) '안부 (Miracle)'\n\nListen now on your favorite platform\n🎧https://t.co/8IluqnfgnM\n\n#WENDY #웬디\n#RedVelvet #레드벨벳\n#MeloMance #멜로망스\n#김민석 #정동환\n#안부 #Miracle\n#STATION #스테이션",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WENDY",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						130,
+						140
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "MeloMance",
+					"indices": [
+						147,
+						157
+					]
+				},
+				{
+					"text": "멜로망스",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "김민석",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "정동환",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "안부",
+					"indices": [
+						174,
+						177
+					]
+				},
+				{
+					"text": "Miracle",
+					"indices": [
+						178,
+						186
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						187,
+						195
+					]
+				},
+				{
+					"text": "스테이션",
+					"indices": [
+						196,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8IluqnfgnM",
+					"expanded_url": "https://STATION.lnk.to/Miracle",
+					"display_url": "STATION.lnk.to/Miracle",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11467752,
+			"friends_count": 56,
+			"listed_count": 12999,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13818,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 742,
+		"favorite_count": 1821,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[STATION] 웬디 (WENDY) X 멜로망스 (MeloMance) '안부 (Miracle)'\n\nListen now on your favorite platform\n🎧https://t.co/8IluqnfgnM\n\n#WENDY #웬디\n#RedVelvet #레드벨벳\n#MeloMance #멜로망스\n#김민석 #정동환\n#안부 #Miracle\n#STATION #스테이션"
+	},
+	{
+		"created_at": "Thu Jan 26 09:36:33 +0000 2023",
+		"id": 1618534217465450500,
+		"id_str": "1618543403263983618",
+		"full_text": "[STATION] 웬디 (WENDY) X 멜로망스 (MeloMance) '안부 (Miracle)' Live Video\n\nhttps://t.co/lh5tlhEkMV\n\n#WENDY #웬디\n#RedVelvet #레드벨벳\n#MeloMance #멜로망스\n#김민석 #정동환\n#안부 #Miracle\n#STATION #스테이션 https://t.co/WZ24xuBPsy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WENDY",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						103,
+						113
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "MeloMance",
+					"indices": [
+						120,
+						130
+					]
+				},
+				{
+					"text": "멜로망스",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "김민석",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "정동환",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "안부",
+					"indices": [
+						147,
+						150
+					]
+				},
+				{
+					"text": "Miracle",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						160,
+						168
+					]
+				},
+				{
+					"text": "스테이션",
+					"indices": [
+						169,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lh5tlhEkMV",
+					"expanded_url": "https://youtu.be/8s-ZlKWaa7w",
+					"display_url": "youtu.be/8s-ZlKWaa7w",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1618526716506566700,
+					"id_str": "1618526716506566658",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FnYpeSzacAISCH1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnYpeSzacAISCH1.jpg",
+					"url": "https://t.co/WZ24xuBPsy",
+					"display_url": "pic.twitter.com/WZ24xuBPsy",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1618534217465450497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1618526716506566700,
+					"id_str": "1618526716506566658",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FnYpeSzacAISCH1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnYpeSzacAISCH1.jpg",
+					"url": "https://t.co/WZ24xuBPsy",
+					"display_url": "pic.twitter.com/WZ24xuBPsy",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1618534217465450497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11467752,
+			"friends_count": 56,
+			"listed_count": 12999,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13818,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2522,
+		"favorite_count": 3727,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[STATION] 웬디 (WENDY) X 멜로망스 (MeloMance) '안부 (Miracle)' Live Video\n\nhttps://t.co/lh5tlhEkMV\n\n#WENDY #웬디\n#RedVelvet #레드벨벳\n#MeloMance #멜로망스\n#김민석 #정동환\n#안부 #Miracle\n#STATION #스테이션 https://t.co/WZ24xuBPsy"
+	},
+	{
 		"created_at": "Thu Jan 26 06:12:09 +0000 2023",
 		"id": 1618489357685620700,
 		"id_str": "1618491966098145281",
