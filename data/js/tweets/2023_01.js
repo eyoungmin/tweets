@@ -1,6 +1,184 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Fri Jan 27 09:12:29 +0000 2023",
+		"id": 1618898281064702000,
+		"id_str": "1618899735489945600",
+		"full_text": "#BLACKPINK ‘B.P.M.’ Roll #9\n\n🎬 https://t.co/Zl16jnHNSz \n\n#블랙핑크 #BPM #BORN_PINK_MEMORIES #Roll_9 #BORNPINK #WORLD_TOUR #CHICAGO #YOUTUBE #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "BPM",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "BORN_PINK_MEMORIES",
+					"indices": [
+						68,
+						87
+					]
+				},
+				{
+					"text": "Roll_9",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"text": "WORLD_TOUR",
+					"indices": [
+						106,
+						117
+					]
+				},
+				{
+					"text": "CHICAGO",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						127,
+						135
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						136,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Zl16jnHNSz",
+					"expanded_url": "https://youtu.be/NNmtPJcV3AE",
+					"display_url": "youtu.be/NNmtPJcV3AE",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8416772,
+			"friends_count": 0,
+			"listed_count": 8065,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 882,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2457,
+		"favorite_count": 5205,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘B.P.M.’ Roll #9\n\n🎬 https://t.co/Zl16jnHNSz \n\n#블랙핑크 #BPM #BORN_PINK_MEMORIES #Roll_9 #BORNPINK #WORLD_TOUR #CHICAGO #YOUTUBE #YG"
+	},
+	{
 		"created_at": "Fri Jan 27 03:11:38 +0000 2023",
 		"id": 1618808136869232600,
 		"id_str": "1618808924689559552",
