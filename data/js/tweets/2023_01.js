@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Fri Jan 27 12:11:43 +0000 2023",
+		"id": 1618942022529736700,
+		"id_str": "1618944843216203777",
+		"full_text": "추운 날엔 에어팟 맥스가 시린 귀를 감싸준다고?스타일과 보온 두 가지 효과를 불 수 있는 #에어팟맥스🎧\n@RVsmtown @G_I_DLE @ITZYofficial @JYPETWICE #레드벨벳 #조이 #태연 #여자아이들 #민니 #설인아 #던 #이동휘 #강민경 #있지 #리아 #트와이스 #채영 #최예나 \nhttps://t.co/GssYNGjVn4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에어팟맥스",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "여자아이들",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "민니",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "설인아",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "던",
+					"indices": [
+						132,
+						134
+					]
+				},
+				{
+					"text": "이동휘",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "강민경",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "있지",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "리아",
+					"indices": [
+						149,
+						152
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "채영",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "최예나",
+					"indices": [
+						163,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						58,
+						67
+					]
+				},
+				{
+					"screen_name": "G_I_DLE",
+					"name": "(G)I-DLE·(여자)아이들",
+					"id": 967000437797761000,
+					"id_str": "967000437797761024",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"screen_name": "ITZYofficial",
+					"name": "ITZY",
+					"id": 1062578718214770700,
+					"id_str": "1062578718214770688",
+					"indices": [
+						77,
+						90
+					]
+				},
+				{
+					"screen_name": "JYPETWICE",
+					"name": "TWICE",
+					"id": 3129056526,
+					"id_str": "3129056526",
+					"indices": [
+						91,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GssYNGjVn4",
+					"expanded_url": "https://www.allurekorea.com/?p=194295&ddw=136147&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=194295&ddw=…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38159,
+			"friends_count": 1,
+			"listed_count": 303,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1674017934",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "추운 날엔 에어팟 맥스가 시린 귀를 감싸준다고?스타일과 보온 두 가지 효과를 불 수 있는 #에어팟맥스🎧\n@RVsmtown @G_I_DLE @ITZYofficial @JYPETWICE #레드벨벳 #조이 #태연 #여자아이들 #민니 #설인아 #던 #이동휘 #강민경 #있지 #리아 #트와이스 #채영 #최예나 \nhttps://t.co/GssYNGjVn4"
+	},
+	{
 		"created_at": "Fri Jan 27 10:02:27 +0000 2023",
 		"id": 1618904312104767500,
 		"id_str": "1618912309996552193",
