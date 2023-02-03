@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Fri Feb 03 11:28:21 +0000 2023",
+		"id": 1621463743027904500,
+		"id_str": "1621470643010310146",
+		"full_text": "웬디 (WENDY) X 멜로망스 (MeloMance) '안부 (Miracle)' Live Video Behind\n\nhttps://t.co/yzD5pblKNw\n\n#WENDY #웬디 \n#MeloMance #멜로망스\n#RedVelvet #레드벨벳 \n#안부 #Miracle #STATION #스테이션\n#Live_Video_Behind https://t.co/9dZ9nJ8QgG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WENDY",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "MeloMance",
+					"indices": [
+						101,
+						111
+					]
+				},
+				{
+					"text": "멜로망스",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						118,
+						128
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "안부",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "Miracle",
+					"indices": [
+						140,
+						148
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						149,
+						157
+					]
+				},
+				{
+					"text": "스테이션",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "Live_Video_Behind",
+					"indices": [
+						164,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yzD5pblKNw",
+					"expanded_url": "https://youtu.be/R9SdAiI5eN0",
+					"display_url": "youtu.be/R9SdAiI5eN0",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1621463732781195300,
+					"id_str": "1621463732781195264",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FoCYrJCaIAAm1Vh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FoCYrJCaIAAm1Vh.jpg",
+					"url": "https://t.co/9dZ9nJ8QgG",
+					"display_url": "pic.twitter.com/9dZ9nJ8QgG",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1621463743027904512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1621463732781195300,
+					"id_str": "1621463732781195264",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FoCYrJCaIAAm1Vh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FoCYrJCaIAAm1Vh.jpg",
+					"url": "https://t.co/9dZ9nJ8QgG",
+					"display_url": "pic.twitter.com/9dZ9nJ8QgG",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1621463743027904512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5851848,
+			"friends_count": 2,
+			"listed_count": 11620,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1852,
+		"favorite_count": 3978,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "웬디 (WENDY) X 멜로망스 (MeloMance) '안부 (Miracle)' Live Video Behind\n\nhttps://t.co/yzD5pblKNw\n\n#WENDY #웬디 \n#MeloMance #멜로망스\n#RedVelvet #레드벨벳 \n#안부 #Miracle #STATION #스테이션\n#Live_Video_Behind https://t.co/9dZ9nJ8QgG"
+	},
+	{
 		"created_at": "Fri Feb 03 09:25:13 +0000 2023",
 		"id": 1621433381388161000,
 		"id_str": "1621439657568526336",
