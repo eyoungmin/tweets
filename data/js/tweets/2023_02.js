@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Fri Feb 03 05:04:04 +0000 2023",
+		"id": 1621370491578761200,
+		"id_str": "1621373936771690497",
+		"full_text": "블랙핑크 지수, 유튜브 채널 구독자 300만 돌파\n#BLACKPINK #블랙핑크 #지수 #JISOO #블랙핑크지수 \n\nhttps://t.co/xBNhR7NL2I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						28,
+						38
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						39,
+						44
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "블랙핑크지수",
+					"indices": [
+						56,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xBNhR7NL2I",
+					"expanded_url": "https://www.wkorea.com/2023/02/03/%eb%b8%94%eb%9e%99%ed%95%91%ed%81%ac-%ec%a7%80%ec%88%98-%ec%9c%a0%ed%8a%9c%eb%b8%8c-%ec%b1%84%eb%84%90-%ea%b5%ac%eb%8f%85%ec%9e%90-300%eb%a7%8c-%eb%8f%8c%ed%8c%8c/?ddw=136847&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2023/02/03/%eb…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5gwu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5gwu0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 330128,
+			"friends_count": 0,
+			"listed_count": 865,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14672,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1673836319",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 278,
+		"favorite_count": 726,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블랙핑크 지수, 유튜브 채널 구독자 300만 돌파\n#BLACKPINK #블랙핑크 #지수 #JISOO #블랙핑크지수 \n\nhttps://t.co/xBNhR7NL2I"
+	},
+	{
 		"created_at": "Thu Feb 02 09:30:14 +0000 2023",
 		"id": 1621070930024996900,
 		"id_str": "1621078528543555585",
