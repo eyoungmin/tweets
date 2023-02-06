@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Mon Feb 06 09:40:15 +0000 2023",
+		"id": 1622527676652322800,
+		"id_str": "1622530600765882369",
+		"full_text": "SBS 월화드라마 &lt;#트롤리&gt; #OST Part.4 \n&lt;🎧Lost The Way - #사비나앤드론즈&gt;\n\n♾각종 음원사이트에 발매되었습니다.\n\n‘트롤리 딜레마’ 처럼 정답이 없는 선택의 순간에 마주한 회한의 감정을 담은 곡 입니다. \n\n🚩[월/화] 밤 10시 #SBS 와 #Netflix #Wavve 를 통해 시청하실 수 있습니다.\n#LostTheWay https://t.co/ewXQiJL95K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "트롤리",
+					"indices": [
+						14,
+						18
+					]
+				},
+				{
+					"text": "OST",
+					"indices": [
+						23,
+						27
+					]
+				},
+				{
+					"text": "사비나앤드론즈",
+					"indices": [
+						56,
+						64
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "Netflix",
+					"indices": [
+						163,
+						171
+					]
+				},
+				{
+					"text": "Wavve",
+					"indices": [
+						172,
+						178
+					]
+				},
+				{
+					"text": "LostTheWay",
+					"indices": [
+						197,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1622527668750270500,
+					"id_str": "1622527668750270464",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FoRgUXYaQAAEL7k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FoRgUXYaQAAEL7k.jpg",
+					"url": "https://t.co/ewXQiJL95K",
+					"display_url": "pic.twitter.com/ewXQiJL95K",
+					"expanded_url": "https://twitter.com/savina0128/status/1622527676652322816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1622527668750270500,
+					"id_str": "1622527668750270464",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FoRgUXYaQAAEL7k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FoRgUXYaQAAEL7k.jpg",
+					"url": "https://t.co/ewXQiJL95K",
+					"display_url": "pic.twitter.com/ewXQiJL95K",
+					"expanded_url": "https://twitter.com/savina0128/status/1622527676652322816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1622527668737671200,
+					"id_str": "1622527668737671168",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FoRgUXVaAAA40kF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FoRgUXVaAAA40kF.jpg",
+					"url": "https://t.co/ewXQiJL95K",
+					"display_url": "pic.twitter.com/ewXQiJL95K",
+					"expanded_url": "https://twitter.com/savina0128/status/1622527676652322816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 645,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 366,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1395,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나앤드론즈",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "Musician",
+			"url": "https://t.co/V1U5R1XyaU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V1U5R1XyaU",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1274,
+			"friends_count": 244,
+			"listed_count": 33,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SBS 월화드라마 &lt;#트롤리&gt; #OST Part.4 \n&lt;🎧Lost The Way - #사비나앤드론즈&gt;\n\n♾각종 음원사이트에 발매되었습니다.\n\n‘트롤리 딜레마’ 처럼 정답이 없는 선택의 순간에 마주한 회한의 감정을 담은 곡 입니다. \n\n🚩[월/화] 밤 10시 #SBS 와 #Netflix #Wavve 를 통해 시청하실 수 있습니다.\n#LostTheWay https://t.co/ewXQiJL95K"
+	},
+	{
 		"created_at": "Mon Feb 06 03:25:54 +0000 2023",
 		"id": 1622429949004247000,
 		"id_str": "1622436395016163329",
