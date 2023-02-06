@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Mon Feb 06 02:04:42 +0000 2023",
+		"id": 1622410668656951300,
+		"id_str": "1622415959477866499",
+		"full_text": "미국 롤링스톤 ‘2023년 가장 스타일리시한 뮤지션 25인’에 뽑힌 블랙핑크-던-제이홉.\n#블랙핑크 #던 #제이홉 #BLACKPINK #DAWN #JHOPE  \nhttps://t.co/AmGDpxsbK4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						50,
+						55
+					]
+				},
+				{
+					"text": "던",
+					"indices": [
+						56,
+						58
+					]
+				},
+				{
+					"text": "제이홉",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						64,
+						74
+					]
+				},
+				{
+					"text": "DAWN",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "JHOPE",
+					"indices": [
+						81,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AmGDpxsbK4",
+					"expanded_url": "https://www.wkorea.com/2023/02/06/%eb%b8%94%eb%9e%99%ed%95%91%ed%81%ac-%eb%8d%98-%ec%a0%9c%ec%9d%b4%ed%99%89-%ec%8a%a4%ed%83%80%ec%9d%bc%eb%a6%ac%ec%8b%9c-%eb%ae%a4%ec%a7%80%ec%85%98/?ddw=137015&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2023/02/06/%eb…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5gwu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5gwu0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 330257,
+			"friends_count": 0,
+			"listed_count": 864,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7331,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1673836319",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미국 롤링스톤 ‘2023년 가장 스타일리시한 뮤지션 25인’에 뽑힌 블랙핑크-던-제이홉.\n#블랙핑크 #던 #제이홉 #BLACKPINK #DAWN #JHOPE  \nhttps://t.co/AmGDpxsbK4"
+	},
+	{
 		"created_at": "Fri Feb 03 14:39:41 +0000 2023",
 		"id": 1621517750408708000,
 		"id_str": "1621518794886881287",
