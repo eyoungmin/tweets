@@ -1,6 +1,272 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Mon Feb 06 10:14:15 +0000 2023",
+		"id": 1622535945349374000,
+		"id_str": "1622539157406105600",
+		"full_text": "#레드벨벳 , #갓더비트 로 여러분을 만나고 있는 #웬디 와 함께한 인터뷰를 공개합니다! 웬디가 여러분에게 댓글을 급구한 사연은 무엇일까요? 지금 영상에서 확인해 보세요! @RVsmtown @GirlsOnTop_SM #WENDY\n https://t.co/fAeWsZ4kH0 https://t.co/nOkgcDXC00",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "갓더비트",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						121,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"screen_name": "GirlsOnTop_SM",
+					"name": "Girls On Top",
+					"id": 1472876868416475100,
+					"id_str": "1472876868416475141",
+					"indices": [
+						106,
+						120
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fAeWsZ4kH0",
+					"expanded_url": "https://m.thesingle.co.kr/article/715565/THESINGLE",
+					"display_url": "m.thesingle.co.kr/article/715565…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1622535500556030000,
+					"id_str": "1622535500556029953",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1622535500556029953/pu/img/C1Vq0KeAfrvcX-vk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1622535500556029953/pu/img/C1Vq0KeAfrvcX-vk.jpg",
+					"url": "https://t.co/nOkgcDXC00",
+					"display_url": "pic.twitter.com/nOkgcDXC00",
+					"expanded_url": "https://twitter.com/singlesmania/status/1622535945349373952/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1622535500556030000,
+					"id_str": "1622535500556029953",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1622535500556029953/pu/img/C1Vq0KeAfrvcX-vk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1622535500556029953/pu/img/C1Vq0KeAfrvcX-vk.jpg",
+					"url": "https://t.co/nOkgcDXC00",
+					"display_url": "pic.twitter.com/nOkgcDXC00",
+					"expanded_url": "https://twitter.com/singlesmania/status/1622535945349373952/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 36503,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1622535500556029953/pu/vid/320x568/lbRnWAlTJtybCtcM.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1622535500556029953/pu/pl/qVfJ3bIlykQL0d5D.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1622535500556029953/pu/vid/480x852/DdvObBTYzWDnDrvY.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1622535500556029953/pu/vid/720x1280/zLcx4CSNKho582My.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 102038546,
+			"id_str": "102038546",
+			"name": "Singles Korea 싱글즈",
+			"screen_name": "singlesmania",
+			"location": "seoul",
+			"description": "당당한 싱글들을 위한 즐거운 패션 매거진 싱글즈.",
+			"url": "https://t.co/0AqlouwlpT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0AqlouwlpT",
+							"expanded_url": "http://linktr.ee/Singlesmagazine",
+							"display_url": "linktr.ee/Singlesmagazine",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42202,
+			"friends_count": 1,
+			"listed_count": 236,
+			"created_at": "Tue Jan 05 11:43:09 +0000 2010",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F3F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389450100162711553/CScqoQww_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389450100162711553/CScqoQww_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/102038546/1673921883",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCD",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 775,
+		"favorite_count": 1095,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#레드벨벳 , #갓더비트 로 여러분을 만나고 있는 #웬디 와 함께한 인터뷰를 공개합니다! 웬디가 여러분에게 댓글을 급구한 사연은 무엇일까요? 지금 영상에서 확인해 보세요! @RVsmtown @GirlsOnTop_SM #WENDY\n https://t.co/fAeWsZ4kH0 https://t.co/nOkgcDXC00"
+	},
+	{
 		"created_at": "Mon Feb 06 09:40:15 +0000 2023",
 		"id": 1622527676652322800,
 		"id_str": "1622530600765882369",
