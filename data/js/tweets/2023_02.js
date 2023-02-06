@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Mon Feb 06 03:25:54 +0000 2023",
+		"id": 1622429949004247000,
+		"id_str": "1622436395016163329",
+		"full_text": "[공지] 아이유 공식 팬클럽\n&lt;유애나&gt; 6기 모집 안내\n⠀\n▶ 공식 팬카페 : https://t.co/Q3bjK5y1cC\n▶ 멜론 티켓 : https://t.co/7uGuuHCcFj\n⠀\n📍 자세한 내용은\n공식 팬카페와 멜론 티켓을 확인해 주세요!\n⠀\n#아이유 #IU \n#유애나 #UAENA https://t.co/nNXq8hSegY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "유애나",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "UAENA",
+					"indices": [
+						161,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q3bjK5y1cC",
+					"expanded_url": "https://cafe.daum.net/IU/NDuY/517",
+					"display_url": "cafe.daum.net/IU/NDuY/517",
+					"indices": [
+						50,
+						73
+					]
+				},
+				{
+					"url": "https://t.co/7uGuuHCcFj",
+					"expanded_url": "https://ticket.melon.com/csoon/detail.htm?csoonId=6943",
+					"display_url": "ticket.melon.com/csoon/detail.h…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1622427556975878100,
+					"id_str": "1622427556975878144",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FoQFRF9aIAA0O-Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FoQFRF9aIAA0O-Q.jpg",
+					"url": "https://t.co/nNXq8hSegY",
+					"display_url": "pic.twitter.com/nNXq8hSegY",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1622429949004247040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1622427556975878100,
+					"id_str": "1622427556975878144",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FoQFRF9aIAA0O-Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FoQFRF9aIAA0O-Q.jpg",
+					"url": "https://t.co/nNXq8hSegY",
+					"display_url": "pic.twitter.com/nNXq8hSegY",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1622429949004247040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1580431,
+			"friends_count": 1,
+			"listed_count": 2434,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2043,
+		"favorite_count": 5747,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공지] 아이유 공식 팬클럽\n&lt;유애나&gt; 6기 모집 안내\n⠀\n▶ 공식 팬카페 : https://t.co/Q3bjK5y1cC\n▶ 멜론 티켓 : https://t.co/7uGuuHCcFj\n⠀\n📍 자세한 내용은\n공식 팬카페와 멜론 티켓을 확인해 주세요!\n⠀\n#아이유 #IU \n#유애나 #UAENA https://t.co/nNXq8hSegY"
+	},
+	{
 		"created_at": "Mon Feb 06 02:04:42 +0000 2023",
 		"id": 1622410668656951300,
 		"id_str": "1622415959477866499",
