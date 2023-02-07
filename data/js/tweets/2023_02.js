@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Tue Feb 07 18:40:31 +0000 2023",
+		"id": 1623017145679417300,
+		"id_str": "1623028954457325568",
+		"full_text": "Friends, have you entered yet? You have until the 10th Feb! ✨\nhttps://t.co/SuAJFw4W3m https://t.co/YHVHVjJqaF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SuAJFw4W3m",
+					"expanded_url": "https://wct.live/birdyftw",
+					"display_url": "wct.live/birdyftw",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1623017126712733700,
+					"id_str": "1623017126712733698",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/FoYdekYWcAIH2jA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FoYdekYWcAIH2jA.jpg",
+					"url": "https://t.co/YHVHVjJqaF",
+					"display_url": "pic.twitter.com/YHVHVjJqaF",
+					"expanded_url": "https://twitter.com/birdy/status/1623017145679417344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1623017126712733700,
+					"id_str": "1623017126712733698",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/FoYdekYWcAIH2jA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FoYdekYWcAIH2jA.jpg",
+					"url": "https://t.co/YHVHVjJqaF",
+					"display_url": "pic.twitter.com/YHVHVjJqaF",
+					"expanded_url": "https://twitter.com/birdy/status/1623017145679417344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "State Lines with Hybrid Minds is out now ✨ tickets to my 2023 european tour are on sale",
+			"url": "https://t.co/ZKWv3eIilG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZKWv3eIilG",
+							"expanded_url": "https://linktr.ee/officialbirdy",
+							"display_url": "linktr.ee/officialbirdy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306371,
+			"friends_count": 174,
+			"listed_count": 1159,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1559470636900274176/uDiw2PLl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1559470636900274176/uDiw2PLl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1660641749",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Friends, have you entered yet? You have until the 10th Feb! ✨\nhttps://t.co/SuAJFw4W3m https://t.co/YHVHVjJqaF"
+	},
+	{
 		"created_at": "Tue Feb 07 11:29:15 +0000 2023",
 		"id": 1622915164654960600,
 		"id_str": "1622920420809924609",
