@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Tue Feb 07 08:14:32 +0000 2023",
+		"id": 1622870280296333300,
+		"id_str": "1622871417372160001",
+		"full_text": "신슬기와 함께 한 화보를 공개합니다. 싱그러운 미소와 자연스러운 포즈로 처음 찍는 화보를 완벽히 소화했죠. 더 많은 화보 사진은 에스콰이어 공식 홈페이지에서 확인할 수 있습니다.\n-\n#신슬기 #슬기 #솔로지옥 #singlesinferno #에스콰이어 #ESQUIREKOREA https://t.co/aqyPdt7Tmg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신슬기",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "솔로지옥",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "singlesinferno",
+					"indices": [
+						117,
+						132
+					]
+				},
+				{
+					"text": "에스콰이어",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "ESQUIREKOREA",
+					"indices": [
+						140,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1622870090462167000,
+					"id_str": "1622870090462167040",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FoWXv7qagAA_W3m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FoWXv7qagAA_W3m.jpg",
+					"url": "https://t.co/aqyPdt7Tmg",
+					"display_url": "pic.twitter.com/aqyPdt7Tmg",
+					"expanded_url": "https://twitter.com/esquirekr/status/1622870280296333314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1622870090462167000,
+					"id_str": "1622870090462167040",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FoWXv7qagAA_W3m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FoWXv7qagAA_W3m.jpg",
+					"url": "https://t.co/aqyPdt7Tmg",
+					"display_url": "pic.twitter.com/aqyPdt7Tmg",
+					"expanded_url": "https://twitter.com/esquirekr/status/1622870280296333314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1622870090491494400,
+					"id_str": "1622870090491494400",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FoWXv7xaAAA0ylG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FoWXv7xaAAA0ylG.jpg",
+					"url": "https://t.co/aqyPdt7Tmg",
+					"display_url": "pic.twitter.com/aqyPdt7Tmg",
+					"expanded_url": "https://twitter.com/esquirekr/status/1622870280296333314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1622870091590426600,
+					"id_str": "1622870091590426624",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FoWXv_3aYAA7_qK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FoWXv_3aYAA7_qK.jpg",
+					"url": "https://t.co/aqyPdt7Tmg",
+					"display_url": "pic.twitter.com/aqyPdt7Tmg",
+					"expanded_url": "https://twitter.com/esquirekr/status/1622870280296333314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1622870092542546000,
+					"id_str": "1622870092542545921",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FoWXwDaakAEZI0k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FoWXwDaakAEZI0k.jpg",
+					"url": "https://t.co/aqyPdt7Tmg",
+					"display_url": "pic.twitter.com/aqyPdt7Tmg",
+					"expanded_url": "https://twitter.com/esquirekr/status/1622870280296333314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174477812,
+			"id_str": "174477812",
+			"name": "ESQUIRE Korea",
+			"screen_name": "esquirekr",
+			"location": "Seoul",
+			"description": "취향 있는 이들을 위한 에스콰이어 트윗입니다.",
+			"url": "https://t.co/Gj8l5F7Y2g",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Gj8l5F7Y2g",
+							"expanded_url": "http://esquirekorea.co.kr/",
+							"display_url": "esquirekorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21208,
+			"friends_count": 0,
+			"listed_count": 140,
+			"created_at": "Wed Aug 04 01:06:57 +0000 2010",
+			"favourites_count": 1191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3517,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6F6F6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589445123972005889/3jjtiQnd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589445123972005889/3jjtiQnd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174477812/1673854343",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C7C7C7",
+			"profile_text_color": "0A0006",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "신슬기와 함께 한 화보를 공개합니다. 싱그러운 미소와 자연스러운 포즈로 처음 찍는 화보를 완벽히 소화했죠. 더 많은 화보 사진은 에스콰이어 공식 홈페이지에서 확인할 수 있습니다.\n-\n#신슬기 #슬기 #솔로지옥 #singlesinferno #에스콰이어 #ESQUIREKOREA https://t.co/aqyPdt7Tmg"
+	},
+	{
 		"created_at": "Tue Feb 07 07:04:58 +0000 2023",
 		"id": 1622842742496968700,
 		"id_str": "1622853911651708928",
