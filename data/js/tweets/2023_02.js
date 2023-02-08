@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Wed Feb 08 11:31:37 +0000 2023",
+		"id": 1623276815728124000,
+		"id_str": "1623283406548385792",
+		"full_text": "PIMRYPIE Ft. HYO [Girls' Generation] - PARTY [OFFICIAL MV]\n\nhttps://t.co/sdR8AN9m2a\n\n🎧2023.02.09 2AM (KST) / 12AM (ICT)\n\n#HYO #HYOYEON #효연\n#PIMRYPIE #핌리파이\n#PARTY https://t.co/dp2Dy2x7R3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						126,
+						134
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "PIMRYPIE",
+					"indices": [
+						139,
+						148
+					]
+				},
+				{
+					"text": "핌리파이",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "PARTY",
+					"indices": [
+						155,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sdR8AN9m2a",
+					"expanded_url": "https://youtu.be/NksBalfKCGA",
+					"display_url": "youtu.be/NksBalfKCGA",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1623268573547466800,
+					"id_str": "1623268573547466753",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FocCKs1aEAEQixt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FocCKs1aEAEQixt.jpg",
+					"url": "https://t.co/dp2Dy2x7R3",
+					"display_url": "pic.twitter.com/dp2Dy2x7R3",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1623276815728123906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1623268573547466800,
+					"id_str": "1623268573547466753",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FocCKs1aEAEQixt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FocCKs1aEAEQixt.jpg",
+					"url": "https://t.co/dp2Dy2x7R3",
+					"display_url": "pic.twitter.com/dp2Dy2x7R3",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1623276815728123906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3914070,
+			"friends_count": 5,
+			"listed_count": 6361,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5632,
+		"favorite_count": 5954,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "PIMRYPIE Ft. HYO [Girls' Generation] - PARTY [OFFICIAL MV]\n\nhttps://t.co/sdR8AN9m2a\n\n🎧2023.02.09 2AM (KST) / 12AM (ICT)\n\n#HYO #HYOYEON #효연\n#PIMRYPIE #핌리파이\n#PARTY https://t.co/dp2Dy2x7R3"
+	},
+	{
 		"created_at": "Wed Feb 08 07:05:15 +0000 2023",
 		"id": 1623209845930311700,
 		"id_str": "1623216370942087168",
