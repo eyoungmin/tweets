@@ -1,6 +1,395 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Thu Feb 09 10:40:54 +0000 2023",
+		"id": 1623621509226045400,
+		"id_str": "1623633031406960640",
+		"full_text": "내 동생은 대체 왜이러는걸까 https://t.co/a9U3cXxipv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1623621503467294700,
+					"id_str": "1623621503467294721",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/FohDJ7PakAEgv08.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FohDJ7PakAEgv08.jpg",
+					"url": "https://t.co/a9U3cXxipv",
+					"display_url": "pic.twitter.com/a9U3cXxipv",
+					"expanded_url": "https://twitter.com/savina0128/status/1623621509226045442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 362,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1407,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1623621503467294700,
+					"id_str": "1623621503467294721",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/FohDJ7PakAEgv08.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FohDJ7PakAEgv08.jpg",
+					"url": "https://t.co/a9U3cXxipv",
+					"display_url": "pic.twitter.com/a9U3cXxipv",
+					"expanded_url": "https://twitter.com/savina0128/status/1623621509226045442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 362,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1407,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나앤드론즈",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "Musician",
+			"url": "https://t.co/V1U5R1XyaU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V1U5R1XyaU",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1273,
+			"friends_count": 244,
+			"listed_count": 33,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내 동생은 대체 왜이러는걸까 https://t.co/a9U3cXxipv"
+	},
+	{
+		"created_at": "Thu Feb 09 09:26:41 +0000 2023",
+		"id": 1623607648955551700,
+		"id_str": "1623614354028634113",
+		"full_text": "IU OFFICIAL FANCLUB\n&lt;UAENA&gt; 6th\nConcept Spoiler\n\n💜 Recruitment period\n: 2023.02.13(Mon.) 12PM ~ 2023.02.26(Sun.) 11:59PM(KST)\n\n💚 Where to sign up\n: Melon Ticket\nhttps://t.co/7uGuuHCcFj\n\n#아이유 #IU\n#유애나 #UAENA https://t.co/QrNqANjf7e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						192,
+						196
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						197,
+						200
+					]
+				},
+				{
+					"text": "유애나",
+					"indices": [
+						201,
+						205
+					]
+				},
+				{
+					"text": "UAENA",
+					"indices": [
+						206,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7uGuuHCcFj",
+					"expanded_url": "https://ticket.melon.com/csoon/detail.htm?csoonId=6943",
+					"display_url": "ticket.melon.com/csoon/detail.h…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1623602995266216000,
+					"id_str": "1623602995266215936",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FogyUm0aYAADMsI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FogyUm0aYAADMsI.jpg",
+					"url": "https://t.co/QrNqANjf7e",
+					"display_url": "pic.twitter.com/QrNqANjf7e",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1623607648955551746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1623602995266216000,
+					"id_str": "1623602995266215936",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FogyUm0aYAADMsI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FogyUm0aYAADMsI.jpg",
+					"url": "https://t.co/QrNqANjf7e",
+					"display_url": "pic.twitter.com/QrNqANjf7e",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1623607648955551746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1623607644492791800,
+		"in_reply_to_status_id_str": "1623607644492791808",
+		"in_reply_to_user_id": 1024486566096326700,
+		"in_reply_to_user_id_str": "1024486566096326656",
+		"in_reply_to_screen_name": "_IUofficial",
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1581122,
+			"friends_count": 1,
+			"listed_count": 2430,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 997,
+		"favorite_count": 4098,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "IU OFFICIAL FANCLUB\n&lt;UAENA&gt; 6th\nConcept Spoiler\n\n💜 Recruitment period\n: 2023.02.13(Mon.) 12PM ~ 2023.02.26(Sun.) 11:59PM(KST)\n\n💚 Where to sign up\n: Melon Ticket\nhttps://t.co/7uGuuHCcFj\n\n#아이유 #IU\n#유애나 #UAENA https://t.co/QrNqANjf7e"
+	},
+	{
 		"created_at": "Thu Feb 09 04:29:40 +0000 2023",
 		"id": 1623525870366503000,
 		"id_str": "1623539605533507585",
