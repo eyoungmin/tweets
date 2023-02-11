@@ -1,6 +1,170 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Sat Feb 11 11:15:51 +0000 2023",
+		"id": 1624364732785492000,
+		"id_str": "1624366599368212480",
+		"full_text": "#THANKUBLINK\n\n생일을 축하해 준 #BLINK 여러분들에게\n#ROSÉ 가 전하는 메시지🤭\n\n#BLACKPINK Weverse에서 확인해 보세요💌\n로제의 생일을 축하해 주신 BLINK 여러분 감사드립니다💓\n\n▶️ https://t.co/flcFiXhiKD\n\n#블랙핑크 #로제\n#자_오늘밤이야_해피_로제데이\n#EasyToLoveROSÉDay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THANKUBLINK",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "BLINK",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						56,
+						66
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "자_오늘밤이야_해피_로제데이",
+					"indices": [
+						158,
+						174
+					]
+				},
+				{
+					"text": "EasyToLoveROSÉDay",
+					"indices": [
+						175,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/flcFiXhiKD",
+					"expanded_url": "https://weverse.io/blackpink/media/1-113834317",
+					"display_url": "weverse.io/blackpink/medi…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8855518,
+			"friends_count": 9,
+			"listed_count": 9430,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1235,
+		"favorite_count": 3641,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#THANKUBLINK\n\n생일을 축하해 준 #BLINK 여러분들에게\n#ROSÉ 가 전하는 메시지🤭\n\n#BLACKPINK Weverse에서 확인해 보세요💌\n로제의 생일을 축하해 주신 BLINK 여러분 감사드립니다💓\n\n▶️ https://t.co/flcFiXhiKD\n\n#블랙핑크 #로제\n#자_오늘밤이야_해피_로제데이\n#EasyToLoveROSÉDay"
+	},
+	{
 		"created_at": "Fri Feb 10 19:41:11 +0000 2023",
 		"id": 1624128739977138200,
 		"id_str": "1624131384918020097",
