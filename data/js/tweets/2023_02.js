@@ -1,6 +1,466 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Mon Feb 13 11:32:39 +0000 2023",
+		"id": 1625087708166238200,
+		"id_str": "1625095602823389184",
+		"full_text": "[Daily HYO] DJ HYO in Singapore🇸🇬 디제잉 공연🎧 + 싱가포르에서 보내는 힐링타임🛥\n\nhttps://t.co/xFGvYRaelx\n\n#HYO #효연 @Hyoyeon_djhyo\n#GirlsGeneration #소녀시대\n#DailyHYO https://t.co/uZ64rDWMgZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						111,
+						127
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "DailyHYO",
+					"indices": [
+						134,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						96,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xFGvYRaelx",
+					"expanded_url": "https://youtu.be/pOy7w45Z1EU",
+					"display_url": "youtu.be/pOy7w45Z1EU",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1625086834530455600,
+					"id_str": "1625086834530455553",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/Fo133a1aEAEzxAQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fo133a1aEAEzxAQ.jpg",
+					"url": "https://t.co/uZ64rDWMgZ",
+					"display_url": "pic.twitter.com/uZ64rDWMgZ",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1625087708166238209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1625086834530455600,
+					"id_str": "1625086834530455553",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/Fo133a1aEAEzxAQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fo133a1aEAEzxAQ.jpg",
+					"url": "https://t.co/uZ64rDWMgZ",
+					"display_url": "pic.twitter.com/uZ64rDWMgZ",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1625087708166238209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3913438,
+			"friends_count": 5,
+			"listed_count": 6359,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3183,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1282,
+		"favorite_count": 2597,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Daily HYO] DJ HYO in Singapore🇸🇬 디제잉 공연🎧 + 싱가포르에서 보내는 힐링타임🛥\n\nhttps://t.co/xFGvYRaelx\n\n#HYO #효연 @Hyoyeon_djhyo\n#GirlsGeneration #소녀시대\n#DailyHYO https://t.co/uZ64rDWMgZ"
+	},
+	{
+		"created_at": "Mon Feb 13 11:30:41 +0000 2023",
+		"id": 1625087441278492700,
+		"id_str": "1625095107623137280",
+		"full_text": "🐻SEULGI's Winter Trip In Sapporo⛄️ #1 \n\nhttps://t.co/xanmoPiwEM\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet\n#Sapporo_Vlog\n#Winter_Trip_In_Sapporo https://t.co/o6SUB8T6GR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						69,
+						76
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"text": "Sapporo_Vlog",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"text": "Winter_Trip_In_Sapporo",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xanmoPiwEM",
+					"expanded_url": "https://youtu.be/iargMiv7GI4",
+					"display_url": "youtu.be/iargMiv7GI4",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1625087432860516400,
+					"id_str": "1625087432860516353",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Fo14aPyaQAEOTbm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fo14aPyaQAEOTbm.jpg",
+					"url": "https://t.co/o6SUB8T6GR",
+					"display_url": "pic.twitter.com/o6SUB8T6GR",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1625087441278492672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1625087432860516400,
+					"id_str": "1625087432860516353",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Fo14aPyaQAEOTbm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fo14aPyaQAEOTbm.jpg",
+					"url": "https://t.co/o6SUB8T6GR",
+					"display_url": "pic.twitter.com/o6SUB8T6GR",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1625087441278492672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5860291,
+			"friends_count": 2,
+			"listed_count": 11637,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4271,
+		"favorite_count": 11158,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "🐻SEULGI's Winter Trip In Sapporo⛄️ #1 \n\nhttps://t.co/xanmoPiwEM\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet\n#Sapporo_Vlog\n#Winter_Trip_In_Sapporo https://t.co/o6SUB8T6GR"
+	},
+	{
 		"created_at": "Mon Feb 13 03:27:30 +0000 2023",
 		"id": 1624966615162036200,
 		"id_str": "1624973513550614529",
