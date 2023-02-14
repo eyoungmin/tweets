@@ -1,6 +1,824 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Tue Feb 14 07:30:52 +0000 2023",
+		"id": 1625386315989790700,
+		"id_str": "1625397145598844928",
+		"full_text": "마리끌레르 코리아의 30주년을 맞이하여\n#HMBD 캠페인에 함께한 조이💚\n어떠한 순간에도 자신을 담담히 보여주는 아티스트 조이의 견고한 세계를\n마리끌레르 3월호에서 만나보세요\n\n#JOY #조이\n#RedVelvet #레드벨벳 \n#marieclaire #마리끌레르\n#TODS #토즈 https://t.co/DFyo2yMISa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HMBD",
+					"indices": [
+						22,
+						27
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "marieclaire",
+					"indices": [
+						126,
+						138
+					]
+				},
+				{
+					"text": "마리끌레르",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "TODS",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "토즈",
+					"indices": [
+						152,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1625386277175713800,
+					"id_str": "1625386277175713792",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1625386277175713792/pu/img/Wfcu3_sWfS4a9ViY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1625386277175713792/pu/img/Wfcu3_sWfS4a9ViY.jpg",
+					"url": "https://t.co/DFyo2yMISa",
+					"display_url": "pic.twitter.com/DFyo2yMISa",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1625386315989790721/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1625386277175713800,
+					"id_str": "1625386277175713792",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1625386277175713792/pu/img/Wfcu3_sWfS4a9ViY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1625386277175713792/pu/img/Wfcu3_sWfS4a9ViY.jpg",
+					"url": "https://t.co/DFyo2yMISa",
+					"display_url": "pic.twitter.com/DFyo2yMISa",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1625386315989790721/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 6590,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1625386277175713792/pu/vid/720x900/PxUP5PwDKvSR9LTp.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1625386277175713792/pu/pl/IBq-S4fhDd2swO6L.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1625386277175713792/pu/vid/480x600/Kw2tux_y_IDCY3vZ.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1625386277175713792/pu/vid/320x400/7VDPF9Ukh-5eXY_I.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5860691,
+			"friends_count": 2,
+			"listed_count": 11635,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2240,
+		"favorite_count": 5570,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마리끌레르 코리아의 30주년을 맞이하여\n#HMBD 캠페인에 함께한 조이💚\n어떠한 순간에도 자신을 담담히 보여주는 아티스트 조이의 견고한 세계를\n마리끌레르 3월호에서 만나보세요\n\n#JOY #조이\n#RedVelvet #레드벨벳 \n#marieclaire #마리끌레르\n#TODS #토즈 https://t.co/DFyo2yMISa"
+	},
+	{
+		"created_at": "Tue Feb 14 07:30:52 +0000 2023",
+		"id": 1625386331693269000,
+		"id_str": "1625397144151806009",
+		"full_text": "Celebrating the 30th anniversary of Marie Claire Korea,\nJOY with #HMBD campaign 💚\nLet’s Check out via March issue\n\n#JOY #조이\n#RedVelvet #레드벨벳 \n#marieclaire #마리끌레르\n#TODS #토즈 https://t.co/jDFTqbpbj8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HMBD",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						124,
+						134
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "marieclaire",
+					"indices": [
+						142,
+						154
+					]
+				},
+				{
+					"text": "마리끌레르",
+					"indices": [
+						155,
+						161
+					]
+				},
+				{
+					"text": "TODS",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "토즈",
+					"indices": [
+						168,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1625386321106837500,
+					"id_str": "1625386321106837504",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/Fo6IP1RaIAAZvq4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fo6IP1RaIAAZvq4.jpg",
+					"url": "https://t.co/jDFTqbpbj8",
+					"display_url": "pic.twitter.com/jDFTqbpbj8",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1625386331693268993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 540,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 953,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1626,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1625386321106837500,
+					"id_str": "1625386321106837504",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/Fo6IP1RaIAAZvq4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fo6IP1RaIAAZvq4.jpg",
+					"url": "https://t.co/jDFTqbpbj8",
+					"display_url": "pic.twitter.com/jDFTqbpbj8",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1625386331693268993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 540,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 953,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1626,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1625386321111040000,
+					"id_str": "1625386321111040001",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/Fo6IP1SaQAEFqGQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fo6IP1SaQAEFqGQ.jpg",
+					"url": "https://t.co/jDFTqbpbj8",
+					"display_url": "pic.twitter.com/jDFTqbpbj8",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1625386331693268993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1626,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 953,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1625386315989790700,
+		"in_reply_to_status_id_str": "1625386315989790721",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5860691,
+			"friends_count": 2,
+			"listed_count": 11635,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1149,
+		"favorite_count": 3170,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Celebrating the 30th anniversary of Marie Claire Korea,\nJOY with #HMBD campaign 💚\nLet’s Check out via March issue\n\n#JOY #조이\n#RedVelvet #레드벨벳 \n#marieclaire #마리끌레르\n#TODS #토즈 https://t.co/jDFTqbpbj8"
+	},
+	{
+		"created_at": "Tue Feb 14 07:16:37 +0000 2023",
+		"id": 1625381826435981300,
+		"id_str": "1625393557669576704",
+		"full_text": "#제작협찬 #마리끌레르코리아 의 30주년을 맞아 진행되는 #HMBD 캠페인! '누구나 자신의 생일을 축하 받을 권리가 있다'는 메시지를 전하며 국내외 아동의 생명권을 지키기 위한 캠페인에 #레드벨벳 #조이 와 #토즈 가 함께 합니다. 여러분도 함께 목소리를 높여주세요.💛\n@RVsmtown @Tods https://t.co/qV3HFk8DhH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제작협찬",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "마리끌레르코리아",
+					"indices": [
+						6,
+						15
+					]
+				},
+				{
+					"text": "HMBD",
+					"indices": [
+						32,
+						37
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "토즈",
+					"indices": [
+						117,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						152,
+						161
+					]
+				},
+				{
+					"screen_name": "Tods",
+					"name": "Tods",
+					"id": 1524667988535881700,
+					"id_str": "1524667988535881729",
+					"indices": [
+						162,
+						167
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1625363187922276400,
+					"id_str": "1625363187922276353",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/Fo5zbDuaQAAglyn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fo5zbDuaQAAglyn.jpg",
+					"url": "https://t.co/qV3HFk8DhH",
+					"display_url": "pic.twitter.com/qV3HFk8DhH",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1625381826435981316/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1625363187922276400,
+					"id_str": "1625363187922276353",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/Fo5zbDuaQAAglyn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fo5zbDuaQAAglyn.jpg",
+					"url": "https://t.co/qV3HFk8DhH",
+					"display_url": "pic.twitter.com/qV3HFk8DhH",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1625381826435981316/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 6550,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1625363187922276353/vid/480x600/VZuYEDY4bl0EjZk9.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1625363187922276353/pl/JYFmbv1Ht9K0JqJP.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1625363187922276353/vid/720x900/1FC2RAHe3tpwgjXM.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1625363187922276353/vid/320x400/KOcFglcu6dEJuOJx.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 114222,
+			"friends_count": 1,
+			"listed_count": 351,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618413226215235585/A3xz6D2j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618413226215235585/A3xz6D2j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1673600363",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 556,
+		"favorite_count": 785,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#제작협찬 #마리끌레르코리아 의 30주년을 맞아 진행되는 #HMBD 캠페인! '누구나 자신의 생일을 축하 받을 권리가 있다'는 메시지를 전하며 국내외 아동의 생명권을 지키기 위한 캠페인에 #레드벨벳 #조이 와 #토즈 가 함께 합니다. 여러분도 함께 목소리를 높여주세요.💛\n@RVsmtown @Tods https://t.co/qV3HFk8DhH"
+	},
+	{
 		"created_at": "Mon Feb 13 11:32:39 +0000 2023",
 		"id": 1625087708166238200,
 		"id_str": "1625095602823389184",
