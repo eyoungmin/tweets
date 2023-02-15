@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Wed Feb 15 03:06:55 +0000 2023",
+		"id": 1625686397477859300,
+		"id_str": "1625693108326506496",
+		"full_text": "블랙핑크 이후 7년 만에 선보이는 여자 아이돌, BABY MONSTER. 지금까지의 떡밥과 윤곽 총 정리.\n#BABYMONSTER #베이비몬스터 #BLACKPINK #블랙핑크 #YG #YG_NEW_GROUP\nhttps://t.co/Tl277KwCEh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BABYMONSTER",
+					"indices": [
+						60,
+						72
+					]
+				},
+				{
+					"text": "베이비몬스터",
+					"indices": [
+						73,
+						80
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						81,
+						91
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "YG_NEW_GROUP",
+					"indices": [
+						102,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Tl277KwCEh",
+					"expanded_url": "https://www.gqkorea.co.kr/2023/02/10/yg-%eb%b2%a0%ec%9d%b4%eb%b9%84-%eb%aa%ac%ec%8a%a4%ed%84%b0-%eb%a9%a4%eb%b2%84-7%ec%9d%b8-%eb%96%a1%eb%b0%a5-%ec%a0%95%eb%a6%ac/?ddw=137832&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "gqkorea.co.kr/2023/02/10/yg-…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262470,
+			"id_str": "78262470",
+			"name": "GQ KOREA",
+			"screen_name": "GQKOREA",
+			"location": "Seoul, Korea",
+			"description": "Be a Good Man, Don't be Quiet.",
+			"url": "https://t.co/pJOMTcz802",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pJOMTcz802",
+							"expanded_url": "http://www.gqkorea.co.kr",
+							"display_url": "gqkorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 148786,
+			"friends_count": 0,
+			"listed_count": 223,
+			"created_at": "Tue Sep 29 09:20:13 +0000 2009",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262470/1675748138",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블랙핑크 이후 7년 만에 선보이는 여자 아이돌, BABY MONSTER. 지금까지의 떡밥과 윤곽 총 정리.\n#BABYMONSTER #베이비몬스터 #BLACKPINK #블랙핑크 #YG #YG_NEW_GROUP\nhttps://t.co/Tl277KwCEh"
+	},
+	{
 		"created_at": "Wed Feb 15 02:06:55 +0000 2023",
 		"id": 1625664523418976300,
 		"id_str": "1625678006927912960",
