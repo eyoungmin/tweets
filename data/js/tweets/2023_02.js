@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Thu Feb 16 10:07:16 +0000 2023",
+		"id": 1626146442095263700,
+		"id_str": "1626161281479901186",
+		"full_text": "모든 성공담에는 서사가 불변의 공식처럼 존재하는 법. 잘 알려지지 않은 제이홉, 블랙핑크, 마마무 이야기를 들을 시간이다.\n#제이홉 #블랙핑크 #마마무 #JHOPE #BLACKPINK #MAMAMOO \nhttps://t.co/eI9gYtOSvN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제이홉",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "JHOPE",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						92,
+						102
+					]
+				},
+				{
+					"text": "MAMAMOO",
+					"indices": [
+						103,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eI9gYtOSvN",
+					"expanded_url": "https://www.wkorea.com/2023/02/16/%ec%9e%98-%ec%95%8c%eb%a0%a4%ec%a7%80%ec%a7%80-%ec%95%8a%ec%9d%80-%ec%a0%9c%ec%9d%b4%ed%99%89-%eb%b8%94%eb%9e%99%ed%95%91%ed%81%ac-%eb%a7%88%eb%a7%88%eb%ac%b4-%ec%9d%b4%ec%95%bc%ea%b8%b0/?ddw=137991&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2023/02/16/%ec…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5gwu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5gwu0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331535,
+			"friends_count": 0,
+			"listed_count": 864,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1673836319",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 104,
+		"favorite_count": 265,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모든 성공담에는 서사가 불변의 공식처럼 존재하는 법. 잘 알려지지 않은 제이홉, 블랙핑크, 마마무 이야기를 들을 시간이다.\n#제이홉 #블랙핑크 #마마무 #JHOPE #BLACKPINK #MAMAMOO \nhttps://t.co/eI9gYtOSvN"
+	},
+	{
 		"created_at": "Thu Feb 16 09:28:14 +0000 2023",
 		"id": 1626144486085755000,
 		"id_str": "1626151456461164544",
