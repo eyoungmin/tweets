@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Fri Feb 17 18:42:44 +0000 2023",
+		"id": 1626645346347585500,
+		"id_str": "1626653391677181953",
+		"full_text": "So lovely to walk for @oxfamgb yesterday at @LondonFashionWk wearing head to toe vintage and secondhand clothing 💥🖤 https://t.co/EdrmqZxDnR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oxfamgb",
+					"name": "Oxfam",
+					"id": 15821039,
+					"id_str": "15821039",
+					"indices": [
+						22,
+						30
+					]
+				},
+				{
+					"screen_name": "LondonFashionWk",
+					"name": "London Fashion Week",
+					"id": 50627903,
+					"id_str": "50627903",
+					"indices": [
+						44,
+						60
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1626645338139332600,
+					"id_str": "1626645338139332612",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FpMBURNXEAQfZ4x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpMBURNXEAQfZ4x.jpg",
+					"url": "https://t.co/EdrmqZxDnR",
+					"display_url": "pic.twitter.com/EdrmqZxDnR",
+					"expanded_url": "https://twitter.com/birdy/status/1626645346347585547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1626645338139332600,
+					"id_str": "1626645338139332612",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FpMBURNXEAQfZ4x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpMBURNXEAQfZ4x.jpg",
+					"url": "https://t.co/EdrmqZxDnR",
+					"display_url": "pic.twitter.com/EdrmqZxDnR",
+					"expanded_url": "https://twitter.com/birdy/status/1626645346347585547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1626645338139332600,
+					"id_str": "1626645338139332621",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FpMBURNXEA0wzBt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpMBURNXEA0wzBt.jpg",
+					"url": "https://t.co/EdrmqZxDnR",
+					"display_url": "pic.twitter.com/EdrmqZxDnR",
+					"expanded_url": "https://twitter.com/birdy/status/1626645346347585547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1626645338126749700,
+					"id_str": "1626645338126749710",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FpMBURKXEA4x34W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpMBURKXEA4x34W.jpg",
+					"url": "https://t.co/EdrmqZxDnR",
+					"display_url": "pic.twitter.com/EdrmqZxDnR",
+					"expanded_url": "https://twitter.com/birdy/status/1626645346347585547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1626645338139332600,
+					"id_str": "1626645338139332610",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FpMBURNXEAIEf1c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpMBURNXEAIEf1c.jpg",
+					"url": "https://t.co/EdrmqZxDnR",
+					"display_url": "pic.twitter.com/EdrmqZxDnR",
+					"expanded_url": "https://twitter.com/birdy/status/1626645346347585547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "State Lines with Hybrid Minds is out now ✨ tickets to my 2023 european tour are on sale",
+			"url": "https://t.co/ZKWv3eIilG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZKWv3eIilG",
+							"expanded_url": "https://linktr.ee/officialbirdy",
+							"display_url": "linktr.ee/officialbirdy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306134,
+			"friends_count": 174,
+			"listed_count": 1158,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1559470636900274176/uDiw2PLl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1559470636900274176/uDiw2PLl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1660641749",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So lovely to walk for @oxfamgb yesterday at @LondonFashionWk wearing head to toe vintage and secondhand clothing 💥🖤 https://t.co/EdrmqZxDnR"
+	},
+	{
 		"created_at": "Fri Feb 17 13:30:14 +0000 2023",
 		"id": 1626564974192767000,
 		"id_str": "1626574747801890824",
