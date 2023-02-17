@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Fri Feb 17 09:32:24 +0000 2023",
+		"id": 1626506973989712000,
+		"id_str": "1626514893389328388",
+		"full_text": "약속드린 대로 가능한 일정에 재발매 할 수 있도록 노력하겠습니다. \n\n백예린 LP에 뜨거운 성원 보내주시고, 너른 마음으로 양해해 주신 점, 그리고 잦은 지연에도 기다려주신 점 모두 감사드립니다. 양질의 제품을 받아보실 수 있도록 최선을 다하겠습니다. \n\n감사합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1626506972412661800,
+		"in_reply_to_status_id_str": "1626506972412661761",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51959,
+			"friends_count": 2,
+			"listed_count": 243,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1608765016316182532/etM2nxei_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1608765016316182532/etM2nxei_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1672394456",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "약속드린 대로 가능한 일정에 재발매 할 수 있도록 노력하겠습니다. \n\n백예린 LP에 뜨거운 성원 보내주시고, 너른 마음으로 양해해 주신 점, 그리고 잦은 지연에도 기다려주신 점 모두 감사드립니다. 양질의 제품을 받아보실 수 있도록 최선을 다하겠습니다. \n\n감사합니다."
+	},
+	{
+		"created_at": "Fri Feb 17 09:32:24 +0000 2023",
+		"id": 1626506972412661800,
+		"id_str": "1626514893057978369",
+		"full_text": "현재 제품을 받아보시는 일정은 5월 중에 가능할 것으로 예상됩니다. 손꼽아 기다리셨을 많은 분들께 죄송하다는 말씀드립니다. \n\n또한, 추가 예약 판매의 경우 현재 제작 중인 수량이 모두 제작된 후 구체적인 일정을 확인할 수 있는 상황입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1626506968516141000,
+		"in_reply_to_status_id_str": "1626506968516141064",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51959,
+			"friends_count": 2,
+			"listed_count": 243,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1608765016316182532/etM2nxei_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1608765016316182532/etM2nxei_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1672394456",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "현재 제품을 받아보시는 일정은 5월 중에 가능할 것으로 예상됩니다. 손꼽아 기다리셨을 많은 분들께 죄송하다는 말씀드립니다. \n\n또한, 추가 예약 판매의 경우 현재 제작 중인 수량이 모두 제작된 후 구체적인 일정을 확인할 수 있는 상황입니다."
+	},
+	{
+		"created_at": "Fri Feb 17 09:32:24 +0000 2023",
+		"id": 1626506968516141000,
+		"id_str": "1626514892621758464",
+		"full_text": "안녕하세요, 블루바이닐입니다.\n \n지난 11월 오픈하였던 백예린 데뷔 10주년 기념 바이닐 4종의 배송 지연 안내드립니다. 당초 2023년 2월에 해외에서 출고될 예정이었으나, 공장 측으로부터 제작 상의 이슈로 출고 일정이 3개월가량 지연되었음을 전달받았습니다. https://t.co/pchmks4xqC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1626506550650228700,
+					"id_str": "1626506550650228737",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FpKDFxhaUAElGBu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpKDFxhaUAElGBu.jpg",
+					"url": "https://t.co/pchmks4xqC",
+					"display_url": "pic.twitter.com/pchmks4xqC",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1626506968516141064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1626506550650228700,
+					"id_str": "1626506550650228737",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FpKDFxhaUAElGBu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpKDFxhaUAElGBu.jpg",
+					"url": "https://t.co/pchmks4xqC",
+					"display_url": "pic.twitter.com/pchmks4xqC",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1626506968516141064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51959,
+			"friends_count": 2,
+			"listed_count": 243,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1608765016316182532/etM2nxei_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1608765016316182532/etM2nxei_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1672394456",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 117,
+		"favorite_count": 228,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요, 블루바이닐입니다.\n \n지난 11월 오픈하였던 백예린 데뷔 10주년 기념 바이닐 4종의 배송 지연 안내드립니다. 당초 2023년 2월에 해외에서 출고될 예정이었으나, 공장 측으로부터 제작 상의 이슈로 출고 일정이 3개월가량 지연되었음을 전달받았습니다. https://t.co/pchmks4xqC"
+	},
+	{
 		"created_at": "Fri Feb 17 04:33:34 +0000 2023",
 		"id": 1626436908900565000,
 		"id_str": "1626439689623445509",
