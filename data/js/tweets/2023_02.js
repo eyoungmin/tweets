@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Sun Feb 19 07:43:07 +0000 2023",
+		"id": 1627197307551907800,
+		"id_str": "1627212167836745730",
+		"full_text": "‘사비나양! 평생 갚을게요’ -정치 \n🌬[세이렌 하우스] 정규 2화. \n게스트 &lt;조정치&gt;\n\n📣방청신청 공지 \n(선착순 무료 15인 한정석) \n⚓️공개방송 일시 2/21 (화) 8pm \n❗️이번주는 화요일에 진행됩니다\n\n✔️방청신청 일시 | 2/20 (월) 8pm \n -클럽온에어 예매페이지\n#세이렌하우스 #사비나앤드론즈 #조정치 https://t.co/y0GJ7i5Qr3 https://t.co/yPHBfMNlUp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "세이렌하우스",
+					"indices": [
+						168,
+						175
+					]
+				},
+				{
+					"text": "사비나앤드론즈",
+					"indices": [
+						176,
+						184
+					]
+				},
+				{
+					"text": "조정치",
+					"indices": [
+						185,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y0GJ7i5Qr3",
+					"expanded_url": "https://twitter.com/i/web/status/1627197307551907841",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						190,
+						213
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1627197250987491300,
+					"id_str": "1627197250987491328",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1627197250987491328/pu/img/WGkJeoOEMg8TRVZB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1627197250987491328/pu/img/WGkJeoOEMg8TRVZB.jpg",
+					"url": "https://t.co/yPHBfMNlUp",
+					"display_url": "pic.twitter.com/yPHBfMNlUp",
+					"expanded_url": "https://twitter.com/savina0128/status/1627197307551907841/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1627197250987491300,
+					"id_str": "1627197250987491328",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1627197250987491328/pu/img/WGkJeoOEMg8TRVZB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1627197250987491328/pu/img/WGkJeoOEMg8TRVZB.jpg",
+					"url": "https://t.co/yPHBfMNlUp",
+					"display_url": "pic.twitter.com/yPHBfMNlUp",
+					"expanded_url": "https://twitter.com/savina0128/status/1627197307551907841/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 58233,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1627197250987491328/pu/vid/480x600/nHamDIHK8heJiopg.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1627197250987491328/pu/vid/720x900/v5ijhc_0U-lo7oAC.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1627197250987491328/pu/pl/Gy_0L3UWX8IH5FGF.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1627197250987491328/pu/vid/320x400/VXFVymjgLJm-vIpa.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나앤드론즈",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "Musician",
+			"url": "https://t.co/V1U5R1XyaU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V1U5R1XyaU",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1270,
+			"friends_count": 244,
+			"listed_count": 33,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘사비나양! 평생 갚을게요’ -정치 \n🌬[세이렌 하우스] 정규 2화. \n게스트 &lt;조정치&gt;\n\n📣방청신청 공지 \n(선착순 무료 15인 한정석) \n⚓️공개방송 일시 2/21 (화) 8pm \n❗️이번주는 화요일에 진행됩니다\n\n✔️방청신청 일시 | 2/20 (월) 8pm \n -클럽온에어 예매페이지\n#세이렌하우스 #사비나앤드론즈 #조정치 https://t.co/y0GJ7i5Qr3 https://t.co/yPHBfMNlUp"
+	},
+	{
 		"created_at": "Sat Feb 18 11:31:45 +0000 2023",
 		"id": 1626904380363665400,
 		"id_str": "1626907317378887681",
