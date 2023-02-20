@@ -1,6 +1,446 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Mon Feb 20 09:29:02 +0000 2023",
+		"id": 1627594004031479800,
+		"id_str": "1627601210130984961",
+		"full_text": "[UAENA NOTICE]\n💚12차 Lotto Show 응모 안내\n💚12th Lotto show application guide\n\n▶ https://t.co/bQzjihO8UH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bQzjihO8UH",
+					"expanded_url": "https://cafe.daum.net/IU/S2lP",
+					"display_url": "cafe.daum.net/IU/S2lP",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1587971,
+			"friends_count": 1,
+			"listed_count": 2430,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 433,
+		"favorite_count": 1685,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[UAENA NOTICE]\n💚12차 Lotto Show 응모 안내\n💚12th Lotto show application guide\n\n▶ https://t.co/bQzjihO8UH"
+	},
+	{
+		"created_at": "Mon Feb 20 09:18:20 +0000 2023",
+		"id": 1627594983795748900,
+		"id_str": "1627598517173891072",
+		"full_text": "#제작협찬 #Coverstory #토즈 의 방에서 마주한 아티스트 #조이. 어떠한 순간에도 자신을 담담히 보여주는 그의 견고한 세계.\n@RVsmtown @Tods https://t.co/fgfq4v5Rn1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제작협찬",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "Coverstory",
+					"indices": [
+						6,
+						17
+					]
+				},
+				{
+					"text": "토즈",
+					"indices": [
+						18,
+						21
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						37,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						75,
+						84
+					]
+				},
+				{
+					"screen_name": "Tods",
+					"name": "Tods",
+					"id": 1524667988535881700,
+					"id_str": "1524667988535881729",
+					"indices": [
+						85,
+						90
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1627594958306955300,
+					"id_str": "1627594958306955265",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FpZg_cAaUAEiNvR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpZg_cAaUAEiNvR.jpg",
+					"url": "https://t.co/fgfq4v5Rn1",
+					"display_url": "pic.twitter.com/fgfq4v5Rn1",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1627594983795748864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1178,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1627594958306955300,
+					"id_str": "1627594958306955265",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FpZg_cAaUAEiNvR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpZg_cAaUAEiNvR.jpg",
+					"url": "https://t.co/fgfq4v5Rn1",
+					"display_url": "pic.twitter.com/fgfq4v5Rn1",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1627594983795748864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1178,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1627594958306951200,
+					"id_str": "1627594958306951168",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FpZg_cAaQAA29Da.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpZg_cAaQAA29Da.jpg",
+					"url": "https://t.co/fgfq4v5Rn1",
+					"display_url": "pic.twitter.com/fgfq4v5Rn1",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1627594983795748864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1178,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1627594958294384600,
+					"id_str": "1627594958294384641",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FpZg_b9agAEE4Da.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpZg_b9agAEE4Da.jpg",
+					"url": "https://t.co/fgfq4v5Rn1",
+					"display_url": "pic.twitter.com/fgfq4v5Rn1",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1627594983795748864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1178,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1627594958319517700,
+					"id_str": "1627594958319517696",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FpZg_cDaAAAMEJq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpZg_cDaAAAMEJq.jpg",
+					"url": "https://t.co/fgfq4v5Rn1",
+					"display_url": "pic.twitter.com/fgfq4v5Rn1",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1627594983795748864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1178,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 114813,
+			"friends_count": 1,
+			"listed_count": 350,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11840,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618413226215235585/A3xz6D2j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618413226215235585/A3xz6D2j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1673600363",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 533,
+		"favorite_count": 725,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#제작협찬 #Coverstory #토즈 의 방에서 마주한 아티스트 #조이. 어떠한 순간에도 자신을 담담히 보여주는 그의 견고한 세계.\n@RVsmtown @Tods https://t.co/fgfq4v5Rn1"
+	},
+	{
 		"created_at": "Mon Feb 20 05:08:10 +0000 2023",
 		"id": 1627533505482616800,
 		"id_str": "1627535559949451266",
