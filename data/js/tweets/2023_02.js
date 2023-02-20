@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Mon Feb 20 03:33:01 +0000 2023",
+		"id": 1627503477017673700,
+		"id_str": "1627511616513138689",
+		"full_text": "June 11  Brisbane\nJune 13  Melbourne\nJune 15  Sydney \nJune 17  Bangkok\n⠀\nCheck the ticket sales schedule on the live nation site.\n🔗 https://t.co/xhrk2v9Tib\n\n#yerinbaek #백예린 #yerintour #백예린아시아투어 #백예린단독공연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "yerinbaek",
+					"indices": [
+						157,
+						167
+					]
+				},
+				{
+					"text": "백예린",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "yerintour",
+					"indices": [
+						173,
+						183
+					]
+				},
+				{
+					"text": "백예린아시아투어",
+					"indices": [
+						184,
+						193
+					]
+				},
+				{
+					"text": "백예린단독공연",
+					"indices": [
+						194,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xhrk2v9Tib",
+					"expanded_url": "https://www.livenation.asia/artist-yerin-baek-1382106",
+					"display_url": "livenation.asia/artist-yerin-b…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1627503472424915000,
+		"in_reply_to_status_id_str": "1627503472424914944",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52193,
+			"friends_count": 2,
+			"listed_count": 244,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1608765016316182532/etM2nxei_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1608765016316182532/etM2nxei_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1672394456",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 397,
+		"favorite_count": 189,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "June 11  Brisbane\nJune 13  Melbourne\nJune 15  Sydney \nJune 17  Bangkok\n⠀\nCheck the ticket sales schedule on the live nation site.\n🔗 https://t.co/xhrk2v9Tib\n\n#yerinbaek #백예린 #yerintour #백예린아시아투어 #백예린단독공연"
+	},
+	{
 		"created_at": "Sun Feb 19 10:31:59 +0000 2023",
 		"id": 1627250630770450400,
 		"id_str": "1627254662301896705",
