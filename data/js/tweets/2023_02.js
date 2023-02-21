@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Tue Feb 21 05:08:26 +0000 2023",
+		"id": 1627890655640039400,
+		"id_str": "1627898014328320000",
+		"full_text": "The Aperture, #협찬\n\n“악당이 없는 원더랜드를 꿈꿔.” 유일한 나를 찾는 여정, 디 애퍼처와 제니가 보여주는 이 시대의 뉴 클래식. Appearance of Fun, the Aperture.\n\n#TheAperture #디애퍼처 \n\n더 많은 화보와 기사는 &lt;데이즈드&gt; 3월호에서 만나볼 수 있습니다. https://t.co/QfwZuSqjyn https://t.co/olhOMGZ4QN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "협찬",
+					"indices": [
+						14,
+						17
+					]
+				},
+				{
+					"text": "TheAperture",
+					"indices": [
+						115,
+						127
+					]
+				},
+				{
+					"text": "디애퍼처",
+					"indices": [
+						128,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QfwZuSqjyn",
+					"expanded_url": "https://twitter.com/i/web/status/1627890655640039424",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1627890616901443600,
+					"id_str": "1627890616901443584",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1627890616901443584/pu/img/sdY6vXFXdYpDE-tP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1627890616901443584/pu/img/sdY6vXFXdYpDE-tP.jpg",
+					"url": "https://t.co/olhOMGZ4QN",
+					"display_url": "pic.twitter.com/olhOMGZ4QN",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1627890655640039424/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1627890616901443600,
+					"id_str": "1627890616901443584",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1627890616901443584/pu/img/sdY6vXFXdYpDE-tP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1627890616901443584/pu/img/sdY6vXFXdYpDE-tP.jpg",
+					"url": "https://t.co/olhOMGZ4QN",
+					"display_url": "pic.twitter.com/olhOMGZ4QN",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1627890655640039424/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 15431,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1627890616901443584/pu/vid/320x400/JnFe066DEf1PaS32.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1627890616901443584/pu/pl/0c5eyA30WoxBSlBU.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1627890616901443584/pu/vid/480x600/QtwhI_PXJWDlQiAl.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1627890616901443584/pu/vid/720x900/DMRtL9XTvotuCkyt.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9LshhmAaM",
+			"url": "https://t.co/0p0y3FGmKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3FGmKw",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9LshhmAaM",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 169082,
+			"friends_count": 0,
+			"listed_count": 355,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1676445354",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "The Aperture, #협찬\n\n“악당이 없는 원더랜드를 꿈꿔.” 유일한 나를 찾는 여정, 디 애퍼처와 제니가 보여주는 이 시대의 뉴 클래식. Appearance of Fun, the Aperture.\n\n#TheAperture #디애퍼처 \n\n더 많은 화보와 기사는 &lt;데이즈드&gt; 3월호에서 만나볼 수 있습니다. https://t.co/QfwZuSqjyn https://t.co/olhOMGZ4QN"
+	},
+	{
 		"created_at": "Tue Feb 21 04:08:14 +0000 2023",
 		"id": 1627882434418327600,
 		"id_str": "1627882866809135111",
