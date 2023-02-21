@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Tue Feb 21 12:23:36 +0000 2023",
+		"id": 1628001590677233700,
+		"id_str": "1628007529468002304",
+		"full_text": "Y2K 열풍의 양대산맥, 국내외 셀럽들이 스타일링한 '줄 이어폰 VS. 에어팟 맥스' 당신의 선택은?\n\n#태연 #카리나 #BellaHadid #LilyRoseDepp #KristenStewart #JustinBieber #HaileyBieber\nhttps://t.co/CZxYDzTZkR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "BellaHadid",
+					"indices": [
+						67,
+						78
+					]
+				},
+				{
+					"text": "LilyRoseDepp",
+					"indices": [
+						79,
+						92
+					]
+				},
+				{
+					"text": "KristenStewart",
+					"indices": [
+						93,
+						108
+					]
+				},
+				{
+					"text": "JustinBieber",
+					"indices": [
+						109,
+						122
+					]
+				},
+				{
+					"text": "HaileyBieber",
+					"indices": [
+						123,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CZxYDzTZkR",
+					"expanded_url": "https://www.allurekorea.com/?p=196019&ddw=138322&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=196019&ddw=…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38109,
+			"friends_count": 1,
+			"listed_count": 350,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 662,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1676687083",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Y2K 열풍의 양대산맥, 국내외 셀럽들이 스타일링한 '줄 이어폰 VS. 에어팟 맥스' 당신의 선택은?\n\n#태연 #카리나 #BellaHadid #LilyRoseDepp #KristenStewart #JustinBieber #HaileyBieber\nhttps://t.co/CZxYDzTZkR"
+	},
+	{
 		"created_at": "Tue Feb 21 05:08:26 +0000 2023",
 		"id": 1627890655640039400,
 		"id_str": "1627898014328320000",
