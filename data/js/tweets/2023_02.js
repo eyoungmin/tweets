@@ -1,6 +1,551 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Wed Feb 22 07:48:17 +0000 2023",
+		"id": 1628285964023107600,
+		"id_str": "1628300631978147843",
+		"full_text": "[#NEWS] 구교환·유재명·서현, 원신연 SF대작 '왕을 찾아서' 주연 확정\n▶ https://t.co/yZrUI6wQHB\n\n#구교환 #서현 #왕을찾아서 #KOOKYOHWAN #SEOHYUN #SeekingTheKing https://t.co/MFJDhldDLd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "구교환",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "왕을찾아서",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "KOOKYOHWAN",
+					"indices": [
+						87,
+						98
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"text": "SeekingTheKing",
+					"indices": [
+						108,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yZrUI6wQHB",
+					"expanded_url": "http://naver.me/xGiem2wP",
+					"display_url": "naver.me/xGiem2wP",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1628285883324706800,
+					"id_str": "1628285883324706816",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FpjVYkRaMAAXHoK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpjVYkRaMAAXHoK.jpg",
+					"url": "https://t.co/MFJDhldDLd",
+					"display_url": "pic.twitter.com/MFJDhldDLd",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1628285964023107584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1628285883324706800,
+					"id_str": "1628285883324706816",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FpjVYkRaMAAXHoK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpjVYkRaMAAXHoK.jpg",
+					"url": "https://t.co/MFJDhldDLd",
+					"display_url": "pic.twitter.com/MFJDhldDLd",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1628285964023107584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1628285900617830400,
+					"id_str": "1628285900617830401",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FpjVZksaUAE5t7d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpjVZksaUAE5t7d.jpg",
+					"url": "https://t.co/MFJDhldDLd",
+					"display_url": "pic.twitter.com/MFJDhldDLd",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1628285964023107584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1628285914211565600,
+					"id_str": "1628285914211565568",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FpjVaXVaQAAsbuN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpjVaXVaQAAsbuN.jpg",
+					"url": "https://t.co/MFJDhldDLd",
+					"display_url": "pic.twitter.com/MFJDhldDLd",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1628285964023107584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68723,
+			"friends_count": 16,
+			"listed_count": 289,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 149,
+		"favorite_count": 194,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 구교환·유재명·서현, 원신연 SF대작 '왕을 찾아서' 주연 확정\n▶ https://t.co/yZrUI6wQHB\n\n#구교환 #서현 #왕을찾아서 #KOOKYOHWAN #SEOHYUN #SeekingTheKing https://t.co/MFJDhldDLd"
+	},
+	{
+		"created_at": "Wed Feb 22 07:18:53 +0000 2023",
+		"id": 1628278763749535700,
+		"id_str": "1628293231019708416",
+		"full_text": "BLACKPINK WORLD TOUR [BORN PINK] BANGKOK ENCORE POSTER\n\n#BLACKPINK #블랙핑크 #BORNPINK #BLACKPINK_WORLDTOUR #BLACKPINK_BORNPINK #BANGKOK #ENCORE #POSTER #YG https://t.co/M18zynsvJX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						56,
+						66
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						73,
+						82
+					]
+				},
+				{
+					"text": "BLACKPINK_WORLDTOUR",
+					"indices": [
+						83,
+						103
+					]
+				},
+				{
+					"text": "BLACKPINK_BORNPINK",
+					"indices": [
+						104,
+						123
+					]
+				},
+				{
+					"text": "BANGKOK",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "ENCORE",
+					"indices": [
+						133,
+						140
+					]
+				},
+				{
+					"text": "POSTER",
+					"indices": [
+						141,
+						148
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						149,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1628278697873776600,
+					"id_str": "1628278697873776646",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FpjO2UYaIAYJNSk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpjO2UYaIAYJNSk.jpg",
+					"url": "https://t.co/M18zynsvJX",
+					"display_url": "pic.twitter.com/M18zynsvJX",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1628278763749535745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1628278697873776600,
+					"id_str": "1628278697873776646",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FpjO2UYaIAYJNSk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpjO2UYaIAYJNSk.jpg",
+					"url": "https://t.co/M18zynsvJX",
+					"display_url": "pic.twitter.com/M18zynsvJX",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1628278763749535745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8547005,
+			"friends_count": 0,
+			"listed_count": 8069,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14032,
+		"favorite_count": 26933,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLACKPINK WORLD TOUR [BORN PINK] BANGKOK ENCORE POSTER\n\n#BLACKPINK #블랙핑크 #BORNPINK #BLACKPINK_WORLDTOUR #BLACKPINK_BORNPINK #BANGKOK #ENCORE #POSTER #YG https://t.co/M18zynsvJX"
+	},
+	{
 		"created_at": "Wed Feb 22 02:48:14 +0000 2023",
 		"id": 1628215645614776300,
 		"id_str": "1628225122581774336",
