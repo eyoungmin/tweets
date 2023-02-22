@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Wed Feb 22 09:43:49 +0000 2023",
+		"id": 1628318963783569400,
+		"id_str": "1628329705681350656",
+		"full_text": "제 58회 라이브 클럽 데이 with 멜론 트랙제로 - https://t.co/LZaJfhc0t6 \n\n[라이브클럽데이8주년] 라인업 및 타임테이블 공개📢\n\n#라이브클럽데이8주년 \n📢#상상마당라이브홀\n\n20:00 #사비나앤드론즈\n21:00 #백아\n22:00 #이루리 https://t.co/sCZHr5E6vp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라이브클럽데이8주년",
+					"indices": [
+						87,
+						98
+					]
+				},
+				{
+					"text": "상상마당라이브홀",
+					"indices": [
+						101,
+						110
+					]
+				},
+				{
+					"text": "사비나앤드론즈",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "백아",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "이루리",
+					"indices": [
+						143,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LZaJfhc0t6",
+					"expanded_url": "http://kko.to/HanYo9rukx",
+					"display_url": "kko.to/HanYo9rukx",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1628318956313542700,
+					"id_str": "1628318956313542656",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FpjzdqwagAAuC32.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpjzdqwagAAuC32.jpg",
+					"url": "https://t.co/sCZHr5E6vp",
+					"display_url": "pic.twitter.com/sCZHr5E6vp",
+					"expanded_url": "https://twitter.com/savina0128/status/1628318963783569408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1628318956313542700,
+					"id_str": "1628318956313542656",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FpjzdqwagAAuC32.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpjzdqwagAAuC32.jpg",
+					"url": "https://t.co/sCZHr5E6vp",
+					"display_url": "pic.twitter.com/sCZHr5E6vp",
+					"expanded_url": "https://twitter.com/savina0128/status/1628318963783569408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1628318956326101000,
+					"id_str": "1628318956326100993",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FpjzdqzaIAEh9uX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpjzdqzaIAEh9uX.jpg",
+					"url": "https://t.co/sCZHr5E6vp",
+					"display_url": "pic.twitter.com/sCZHr5E6vp",
+					"expanded_url": "https://twitter.com/savina0128/status/1628318963783569408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1628318956321935400,
+					"id_str": "1628318956321935360",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FpjzdqyakAAeO4c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpjzdqyakAAeO4c.jpg",
+					"url": "https://t.co/sCZHr5E6vp",
+					"display_url": "pic.twitter.com/sCZHr5E6vp",
+					"expanded_url": "https://twitter.com/savina0128/status/1628318963783569408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 639,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 639,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 639,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1628318956321931300,
+					"id_str": "1628318956321931265",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FpjzdqyagAEVraN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpjzdqyagAEVraN.jpg",
+					"url": "https://t.co/sCZHr5E6vp",
+					"display_url": "pic.twitter.com/sCZHr5E6vp",
+					"expanded_url": "https://twitter.com/savina0128/status/1628318963783569408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나앤드론즈",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "Musician",
+			"url": "https://t.co/V1U5R1XyaU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V1U5R1XyaU",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1269,
+			"friends_count": 244,
+			"listed_count": 33,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제 58회 라이브 클럽 데이 with 멜론 트랙제로 - https://t.co/LZaJfhc0t6 \n\n[라이브클럽데이8주년] 라인업 및 타임테이블 공개📢\n\n#라이브클럽데이8주년 \n📢#상상마당라이브홀\n\n20:00 #사비나앤드론즈\n21:00 #백아\n22:00 #이루리 https://t.co/sCZHr5E6vp"
+	},
+	{
 		"created_at": "Wed Feb 22 07:48:17 +0000 2023",
 		"id": 1628285964023107600,
 		"id_str": "1628300631978147843",
