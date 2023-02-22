@@ -1,6 +1,440 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Wed Feb 22 10:43:50 +0000 2023",
+		"id": 1628334057816985600,
+		"id_str": "1628344807868497923",
+		"full_text": "제58회 #라이브클럽데이 라인업과 \n🌟상상마당의 타임테이블을 공개합니다✨\n\n#라이브클럽데이8주년 \n📢#상상마당라이브홀\n\n20:00 #사비나앤드론즈\n21:00 #백아\n22:00 #이루리\n\n🍈멜론티켓과 💙YES24에서 예매 가능\n공연장에서 당일 현매 가능하나 수량이 적어 예매를 권장 드립니다 🙏 https://t.co/2xAUhxm9Wl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라이브클럽데이",
+					"indices": [
+						5,
+						13
+					]
+				},
+				{
+					"text": "라이브클럽데이8주년",
+					"indices": [
+						42,
+						53
+					]
+				},
+				{
+					"text": "상상마당라이브홀",
+					"indices": [
+						56,
+						65
+					]
+				},
+				{
+					"text": "사비나앤드론즈",
+					"indices": [
+						73,
+						81
+					]
+				},
+				{
+					"text": "백아",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "이루리",
+					"indices": [
+						98,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1628334000917078000,
+					"id_str": "1628334000917078017",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1628334000917078017/pu/img/MdJT4mjty33nRYfC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1628334000917078017/pu/img/MdJT4mjty33nRYfC.jpg",
+					"url": "https://t.co/2xAUhxm9Wl",
+					"display_url": "pic.twitter.com/2xAUhxm9Wl",
+					"expanded_url": "https://twitter.com/savina0128/status/1628334057816985602/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1628334000917078000,
+					"id_str": "1628334000917078017",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1628334000917078017/pu/img/MdJT4mjty33nRYfC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1628334000917078017/pu/img/MdJT4mjty33nRYfC.jpg",
+					"url": "https://t.co/2xAUhxm9Wl",
+					"display_url": "pic.twitter.com/2xAUhxm9Wl",
+					"expanded_url": "https://twitter.com/savina0128/status/1628334057816985602/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 39573,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1628334000917078017/pu/vid/320x320/gc8splLve8iBlIF3.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1628334000917078017/pu/vid/720x720/6yx2mRsnixtcYOqx.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1628334000917078017/pu/vid/540x540/Rbk6rVZqSrDWAhoo.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1628334000917078017/pu/pl/IAOeJ7YPhYFTEfyg.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나앤드론즈",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "Musician",
+			"url": "https://t.co/V1U5R1XyaU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V1U5R1XyaU",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1269,
+			"friends_count": 244,
+			"listed_count": 33,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제58회 #라이브클럽데이 라인업과 \n🌟상상마당의 타임테이블을 공개합니다✨\n\n#라이브클럽데이8주년 \n📢#상상마당라이브홀\n\n20:00 #사비나앤드론즈\n21:00 #백아\n22:00 #이루리\n\n🍈멜론티켓과 💙YES24에서 예매 가능\n공연장에서 당일 현매 가능하나 수량이 적어 예매를 권장 드립니다 🙏 https://t.co/2xAUhxm9Wl"
+	},
+	{
+		"created_at": "Wed Feb 22 10:43:49 +0000 2023",
+		"id": 1628342457804144600,
+		"id_str": "1628344807608430594",
+		"full_text": "투모로우바이투게더 ‘이젠 안녕 (연애혁명 X 투모로우바이투게더)’ Released!!\n💚 https://t.co/D5KOsxYGSc https://t.co/cJkTnvk64C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D5KOsxYGSc",
+					"expanded_url": "https://www.instagram.com/p/Co9iDVAPvCp/?igshid=YmMyMTA2M2Y=",
+					"display_url": "instagram.com/p/Co9iDVAPvCp/…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1628342450535399400,
+					"id_str": "1628342450535399430",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/FpkI1NjaAAYWHv3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpkI1NjaAAYWHv3.jpg",
+					"url": "https://t.co/cJkTnvk64C",
+					"display_url": "pic.twitter.com/cJkTnvk64C",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1628342457804144641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1628342450535399400,
+					"id_str": "1628342450535399430",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/FpkI1NjaAAYWHv3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpkI1NjaAAYWHv3.jpg",
+					"url": "https://t.co/cJkTnvk64C",
+					"display_url": "pic.twitter.com/cJkTnvk64C",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1628342457804144641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/RrGBgJa7Lc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RrGBgJa7Lc",
+							"expanded_url": "https://www.monotreemusic.com",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7389,
+			"friends_count": 0,
+			"listed_count": 55,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "투모로우바이투게더 ‘이젠 안녕 (연애혁명 X 투모로우바이투게더)’ Released!!\n💚 https://t.co/D5KOsxYGSc https://t.co/cJkTnvk64C"
+	},
+	{
 		"created_at": "Wed Feb 22 09:43:49 +0000 2023",
 		"id": 1628318963783569400,
 		"id_str": "1628329705681350656",
