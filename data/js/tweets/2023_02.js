@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Thu Feb 23 06:08:54 +0000 2023",
+		"id": 1628626847700508700,
+		"id_str": "1628638007409639424",
+		"full_text": "보그 프랑스 커버 장식한 지수 \n\n&lt;보그&gt; 프랑스는 \"K-팝 스타가 표지를 장식한 것은 처음\"이라며 지수에 대해 \"대담하면서 활기차고 섬세하지만 결코 연약하지 않다\"는 멘트를 남겼습니다. \nhttps://t.co/MGBCOBROyV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MGBCOBROyV",
+					"expanded_url": "https://www.vogue.co.kr/2023/02/23/%eb%b3%b4%ea%b7%b8-%ed%94%84%eb%9e%91%ec%8a%a4-%ec%bb%a4%eb%b2%84-%ec%9e%a5%ec%8b%9d%ed%95%9c-%ec%a7%80%ec%88%98/?ddw=138582&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "vogue.co.kr/2023/02/23/%eb…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159102271,
+			"id_str": "159102271",
+			"name": "VOGUE KOREA",
+			"screen_name": "VogueKorea",
+			"location": "",
+			"description": "Vogue Korea official twitter",
+			"url": "https://t.co/cObX4QhDqc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cObX4QhDqc",
+							"expanded_url": "https://www.vogue.co.kr/",
+							"display_url": "vogue.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 209784,
+			"friends_count": 0,
+			"listed_count": 443,
+			"created_at": "Thu Jun 24 13:11:05 +0000 2010",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159102271/1676525195",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5EF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 505,
+		"favorite_count": 897,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보그 프랑스 커버 장식한 지수 \n\n&lt;보그&gt; 프랑스는 \"K-팝 스타가 표지를 장식한 것은 처음\"이라며 지수에 대해 \"대담하면서 활기차고 섬세하지만 결코 연약하지 않다\"는 멘트를 남겼습니다. \nhttps://t.co/MGBCOBROyV"
+	},
+	{
 		"created_at": "Thu Feb 23 03:23:58 +0000 2023",
 		"id": 1628582435008163800,
 		"id_str": "1628596501869129734",
