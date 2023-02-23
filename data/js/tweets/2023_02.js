@@ -1,6 +1,184 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Thu Feb 23 10:08:56 +0000 2023",
+		"id": 1628696167755272200,
+		"id_str": "1628698413855555584",
+		"full_text": "💇‍♀️중단발부터 숏단발까지! 단발 박제했으면 하는 연예인은 누가 있을까요? \n\n#aespa #윈터 #TWICE #지효 #BLACKPINK #리사 #CLC #예은 #IZONE #권은비 \nhttps://t.co/9yB3UIkE3Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "TWICE",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "지효",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						67,
+						77
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "CLC",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "예은",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "IZONE",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "권은비",
+					"indices": [
+						98,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9yB3UIkE3Z",
+					"expanded_url": "https://www.allurekorea.com/?p=197016&ddw=138522&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=197016&ddw=…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38104,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 670,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1676687083",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💇‍♀️중단발부터 숏단발까지! 단발 박제했으면 하는 연예인은 누가 있을까요? \n\n#aespa #윈터 #TWICE #지효 #BLACKPINK #리사 #CLC #예은 #IZONE #권은비 \nhttps://t.co/9yB3UIkE3Z"
+	},
+	{
 		"created_at": "Thu Feb 23 07:29:41 +0000 2023",
 		"id": 1628651048910078000,
 		"id_str": "1628658336504893442",
