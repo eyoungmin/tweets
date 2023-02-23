@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Thu Feb 23 18:44:08 +0000 2023",
+		"id": 1628826824963760000,
+		"id_str": "1628828069082562560",
+		"full_text": "Finally able to do some Raincatching, I know someone who will be happy 🦆 https://t.co/aLeJqq9fT1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1628826668474241000,
+					"id_str": "1628826668474241029",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1628826668474241029/pu/img/sg1w7Ze488NPTBqY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1628826668474241029/pu/img/sg1w7Ze488NPTBqY.jpg",
+					"url": "https://t.co/aLeJqq9fT1",
+					"display_url": "pic.twitter.com/aLeJqq9fT1",
+					"expanded_url": "https://twitter.com/birdy/status/1628826824963760129/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1628826668474241000,
+					"id_str": "1628826668474241029",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1628826668474241029/pu/img/sg1w7Ze488NPTBqY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1628826668474241029/pu/img/sg1w7Ze488NPTBqY.jpg",
+					"url": "https://t.co/aLeJqq9fT1",
+					"display_url": "pic.twitter.com/aLeJqq9fT1",
+					"expanded_url": "https://twitter.com/birdy/status/1628826824963760129/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 16250,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1628826668474241029/pu/vid/720x1280/_K95UjPgt4AX4oTO.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1628826668474241029/pu/vid/480x852/kmtf4Kxqvya5aTkk.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1628826668474241029/pu/pl/JX8y_-EwamAiL1Fc.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1628826668474241029/pu/vid/320x568/5TnDxpW5zZ7xlsU4.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "State Lines with Hybrid Minds is out now ✨ tickets to my 2023 european tour are on sale",
+			"url": "https://t.co/ZKWv3eIilG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZKWv3eIilG",
+							"expanded_url": "https://linktr.ee/officialbirdy",
+							"display_url": "linktr.ee/officialbirdy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306044,
+			"friends_count": 174,
+			"listed_count": 1158,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1559470636900274176/uDiw2PLl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1559470636900274176/uDiw2PLl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1660641749",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 142,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Finally able to do some Raincatching, I know someone who will be happy 🦆 https://t.co/aLeJqq9fT1"
+	},
+	{
 		"created_at": "Thu Feb 23 11:32:52 +0000 2023",
 		"id": 1628713257522581500,
 		"id_str": "1628719536622174208",
