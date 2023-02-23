@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Thu Feb 23 07:29:41 +0000 2023",
+		"id": 1628651048910078000,
+		"id_str": "1628658336504893442",
+		"full_text": "[IU POST]\n\n한번 보면 밤을 새우게 만드는 화보 장인♥\nA pictorial master \nwho makes you stay up all night \nonce you see her♥\n\n▶ https://t.co/wzhBDCXweZ\n\n#아이유 #IU https://t.co/VhEuT5IbCo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						139,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wzhBDCXweZ",
+					"expanded_url": "https://naver.me/GPFISgvV",
+					"display_url": "naver.me/GPFISgvV",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1628649737883877400,
+					"id_str": "1628649737883877376",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FpogTsIaAAAytnI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpogTsIaAAAytnI.jpg",
+					"url": "https://t.co/VhEuT5IbCo",
+					"display_url": "pic.twitter.com/VhEuT5IbCo",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1628651048910077952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1628649737883877400,
+					"id_str": "1628649737883877376",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FpogTsIaAAAytnI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpogTsIaAAAytnI.jpg",
+					"url": "https://t.co/VhEuT5IbCo",
+					"display_url": "pic.twitter.com/VhEuT5IbCo",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1628651048910077952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1628649755793576000,
+					"id_str": "1628649755793575936",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FpogUu2aUAAZU0T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpogUu2aUAAZU0T.jpg",
+					"url": "https://t.co/VhEuT5IbCo",
+					"display_url": "pic.twitter.com/VhEuT5IbCo",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1628651048910077952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1628649778136633300,
+					"id_str": "1628649778136633344",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FpogWCFaUAAidNV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpogWCFaUAAidNV.jpg",
+					"url": "https://t.co/VhEuT5IbCo",
+					"display_url": "pic.twitter.com/VhEuT5IbCo",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1628651048910077952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1628649795433939000,
+					"id_str": "1628649795433938944",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FpogXChaQAAG5aT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpogXChaQAAG5aT.jpg",
+					"url": "https://t.co/VhEuT5IbCo",
+					"display_url": "pic.twitter.com/VhEuT5IbCo",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1628651048910077952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1589430,
+			"friends_count": 1,
+			"listed_count": 2430,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2006,
+		"favorite_count": 5512,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[IU POST]\n\n한번 보면 밤을 새우게 만드는 화보 장인♥\nA pictorial master \nwho makes you stay up all night \nonce you see her♥\n\n▶ https://t.co/wzhBDCXweZ\n\n#아이유 #IU https://t.co/VhEuT5IbCo"
+	},
+	{
 		"created_at": "Thu Feb 23 06:08:54 +0000 2023",
 		"id": 1628626847700508700,
 		"id_str": "1628638007409639424",
