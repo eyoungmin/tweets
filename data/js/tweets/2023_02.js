@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Fri Feb 24 08:09:00 +0000 2023",
+		"id": 1629024691775213600,
+		"id_str": "1629030621300285441",
+		"full_text": "#강남대 #대진대\n입학 진심으로 축하해요 👏🏻👏🏻👏🏻\n초대해 줘서 너무 고마워요~🙏🏻\n그리고 여러분의 새로운 출발과 함께 조만간 찾아올 저의 새로운 출발도 응원받은 것 같아서 너무 행복했어요😝\n우리 또 만나요!! 사랑해요💟\n\n#청하 #CHUNGHA https://t.co/v8GOzFzNy8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강남대",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "대진대",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						130,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1629024679976632300,
+					"id_str": "1629024679976632321",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/Fpt1UMRaAAENy6v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fpt1UMRaAAENy6v.jpg",
+					"url": "https://t.co/v8GOzFzNy8",
+					"display_url": "pic.twitter.com/v8GOzFzNy8",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1629024691775213568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1316,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 771,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 437,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1629024679976632300,
+					"id_str": "1629024679976632321",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/Fpt1UMRaAAENy6v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fpt1UMRaAAENy6v.jpg",
+					"url": "https://t.co/v8GOzFzNy8",
+					"display_url": "pic.twitter.com/v8GOzFzNy8",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1629024691775213568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1316,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 771,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 437,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1629024679985037300,
+					"id_str": "1629024679985037313",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/Fpt1UMTaQAEMr45.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fpt1UMTaQAEMr45.jpg",
+					"url": "https://t.co/v8GOzFzNy8",
+					"display_url": "pic.twitter.com/v8GOzFzNy8",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1629024691775213568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 437,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 771,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1316,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1629024679989235700,
+					"id_str": "1629024679989235713",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/Fpt1UMUaUAEUhDn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fpt1UMUaUAEUhDn.jpg",
+					"url": "https://t.co/v8GOzFzNy8",
+					"display_url": "pic.twitter.com/v8GOzFzNy8",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1629024691775213568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 771,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 437,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1316,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1629024679976661000,
+					"id_str": "1629024679976660994",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/Fpt1UMRacAIjJDX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fpt1UMRacAIjJDX.jpg",
+					"url": "https://t.co/v8GOzFzNy8",
+					"display_url": "pic.twitter.com/v8GOzFzNy8",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1629024691775213568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1316,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 771,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 437,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 352126,
+			"friends_count": 1,
+			"listed_count": 2187,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2606,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 152,
+		"favorite_count": 669,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#강남대 #대진대\n입학 진심으로 축하해요 👏🏻👏🏻👏🏻\n초대해 줘서 너무 고마워요~🙏🏻\n그리고 여러분의 새로운 출발과 함께 조만간 찾아올 저의 새로운 출발도 응원받은 것 같아서 너무 행복했어요😝\n우리 또 만나요!! 사랑해요💟\n\n#청하 #CHUNGHA https://t.co/v8GOzFzNy8"
+	},
+	{
 		"created_at": "Fri Feb 24 07:19:24 +0000 2023",
 		"id": 1629005704882274300,
 		"id_str": "1629018138032459777",
