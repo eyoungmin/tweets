@@ -1,6 +1,556 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Fri Feb 24 07:19:24 +0000 2023",
+		"id": 1629005704882274300,
+		"id_str": "1629018138032459777",
+		"full_text": "#제작협찬 #Coverstory 마리끌레르 코리아의 서른 번째 생일을 맞이해 진행되는 #HMBD 캠페인! #조이 가 함께한 #HMBD 영상을 소개합니다. 3월 1일부터 12일까지 #마리끌레르코리아 30주년 기념 디지털 팝업 전시 #서른이란마리야 에서 영상을 직접 만나보세요.\n@RVsmtown @Tods https://t.co/CpD8LsaeFk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제작협찬",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "Coverstory",
+					"indices": [
+						6,
+						17
+					]
+				},
+				{
+					"text": "HMBD",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "HMBD",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "마리끌레르코리아",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"text": "서른이란마리야",
+					"indices": [
+						128,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						154,
+						163
+					]
+				},
+				{
+					"screen_name": "Tods",
+					"name": "Tods",
+					"id": 1524667988535881700,
+					"id_str": "1524667988535881729",
+					"indices": [
+						164,
+						169
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1628677185031782400,
+					"id_str": "1628677185031782400",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Fpo5kMuaQAAUI2g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fpo5kMuaQAAUI2g.jpg",
+					"url": "https://t.co/CpD8LsaeFk",
+					"display_url": "pic.twitter.com/CpD8LsaeFk",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1629005704882274305/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1628677185031782400,
+					"id_str": "1628677185031782400",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Fpo5kMuaQAAUI2g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fpo5kMuaQAAUI2g.jpg",
+					"url": "https://t.co/CpD8LsaeFk",
+					"display_url": "pic.twitter.com/CpD8LsaeFk",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1629005704882274305/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							359,
+							639
+						],
+						"duration_millis": 26411,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1628677185031782400/pl/5fBKhIvM272ndSfX.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1628677185031782400/vid/320x568/rmaE1aAYLSRxRCES.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1628677185031782400/vid/480x854/QoDhgSIlSouFVyws.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1628677185031782400/vid/718x1278/xM5HDGbj5Jzg7liO.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 115112,
+			"friends_count": 1,
+			"listed_count": 350,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1628909014833836032/hK4IMvWf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1628909014833836032/hK4IMvWf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1677197202",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 359,
+		"favorite_count": 515,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#제작협찬 #Coverstory 마리끌레르 코리아의 서른 번째 생일을 맞이해 진행되는 #HMBD 캠페인! #조이 가 함께한 #HMBD 영상을 소개합니다. 3월 1일부터 12일까지 #마리끌레르코리아 30주년 기념 디지털 팝업 전시 #서른이란마리야 에서 영상을 직접 만나보세요.\n@RVsmtown @Tods https://t.co/CpD8LsaeFk"
+	},
+	{
+		"created_at": "Fri Feb 24 07:19:24 +0000 2023",
+		"id": 1629005956557463600,
+		"id_str": "1629018136430186497",
+		"full_text": "#제작협찬 #Coverstory 마리끌레르 코리아의 서른 번째 생일을 맞이해 진행되는 #HMBD 캠페인! #조이 가 #HMBD 캠페인 필터 #생일이란_MARIE야_국민생일필터 로 생일 축하 메시지를 전합니다.\n@RVsmtown @Tods https://t.co/LwY4q8EBe8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제작협찬",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "Coverstory",
+					"indices": [
+						6,
+						17
+					]
+				},
+				{
+					"text": "HMBD",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "HMBD",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "생일이란_MARIE야_국민생일필터",
+					"indices": [
+						78,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						117,
+						126
+					]
+				},
+				{
+					"screen_name": "Tods",
+					"name": "Tods",
+					"id": 1524667988535881700,
+					"id_str": "1524667988535881729",
+					"indices": [
+						127,
+						132
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1628677775644323800,
+					"id_str": "1628677775644323841",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1628677775644323841/img/_8iiSQF1ucwj2xsK.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1628677775644323841/img/_8iiSQF1ucwj2xsK.jpg",
+					"url": "https://t.co/LwY4q8EBe8",
+					"display_url": "pic.twitter.com/LwY4q8EBe8",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1629005956557463561/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1628677775644323800,
+					"id_str": "1628677775644323841",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1628677775644323841/img/_8iiSQF1ucwj2xsK.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1628677775644323841/img/_8iiSQF1ucwj2xsK.jpg",
+					"url": "https://t.co/LwY4q8EBe8",
+					"display_url": "pic.twitter.com/LwY4q8EBe8",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1629005956557463561/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 16020,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1628677775644323841/vid/320x568/rc4i5S4lWDMLz6Jx.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1628677775644323841/vid/480x852/n01KN8qhUrVJpyoi.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1628677775644323841/vid/720x1280/M14CvpEEgOtBYGod.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1628677775644323841/pl/rmp9ggOCZyJOhnPP.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 115112,
+			"friends_count": 1,
+			"listed_count": 350,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1628909014833836032/hK4IMvWf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1628909014833836032/hK4IMvWf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1677197202",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 340,
+		"favorite_count": 505,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#제작협찬 #Coverstory 마리끌레르 코리아의 서른 번째 생일을 맞이해 진행되는 #HMBD 캠페인! #조이 가 #HMBD 캠페인 필터 #생일이란_MARIE야_국민생일필터 로 생일 축하 메시지를 전합니다.\n@RVsmtown @Tods https://t.co/LwY4q8EBe8"
+	},
+	{
 		"created_at": "Fri Feb 24 04:09:06 +0000 2023",
 		"id": 1628955918972121000,
 		"id_str": "1628970249675571200",
