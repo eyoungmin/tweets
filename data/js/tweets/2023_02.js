@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Sat Feb 25 08:44:31 +0000 2023",
+		"id": 1629389003345764400,
+		"id_str": "1629401945164136448",
+		"full_text": "밤의 정원 콘서트\n블루레이 MIX 모니터하고 있어요 :)♡\n.\n#이상훈드러머님 #주병조음향감독님 #이승남감독님 #최우재대표님 #앰피아스튜디오 #헤아릴규 #심규선 #루시아 #Lucia #밤의정원 #심규선콘서트 #블루레이 #Bluray https://t.co/XHWHinpHwk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이상훈드러머님",
+					"indices": [
+						35,
+						43
+					]
+				},
+				{
+					"text": "주병조음향감독님",
+					"indices": [
+						44,
+						53
+					]
+				},
+				{
+					"text": "이승남감독님",
+					"indices": [
+						54,
+						61
+					]
+				},
+				{
+					"text": "최우재대표님",
+					"indices": [
+						62,
+						69
+					]
+				},
+				{
+					"text": "앰피아스튜디오",
+					"indices": [
+						70,
+						78
+					]
+				},
+				{
+					"text": "헤아릴규",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "심규선",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "루시아",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "Lucia",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "밤의정원",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "심규선콘서트",
+					"indices": [
+						108,
+						115
+					]
+				},
+				{
+					"text": "블루레이",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "Bluray",
+					"indices": [
+						122,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1629388980977569800,
+					"id_str": "1629388980977569794",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FpzApTQakAIpxUo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpzApTQakAIpxUo.jpg",
+					"url": "https://t.co/XHWHinpHwk",
+					"display_url": "pic.twitter.com/XHWHinpHwk",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1629389003345764353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1629388980977569800,
+					"id_str": "1629388980977569794",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FpzApTQakAIpxUo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpzApTQakAIpxUo.jpg",
+					"url": "https://t.co/XHWHinpHwk",
+					"display_url": "pic.twitter.com/XHWHinpHwk",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1629389003345764353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1629388985775849500,
+					"id_str": "1629388985775849477",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FpzAplIagAUBUnx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpzAplIagAUBUnx.jpg",
+					"url": "https://t.co/XHWHinpHwk",
+					"display_url": "pic.twitter.com/XHWHinpHwk",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1629389003345764353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1629388991362646000,
+					"id_str": "1629388991362646017",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FpzAp58aQAEKUEM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpzAp58aQAEKUEM.jpg",
+					"url": "https://t.co/XHWHinpHwk",
+					"display_url": "pic.twitter.com/XHWHinpHwk",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1629389003345764353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1629388998249709600,
+					"id_str": "1629388998249709568",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FpzAqTmagAAiBKr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpzAqTmagAAiBKr.jpg",
+					"url": "https://t.co/XHWHinpHwk",
+					"display_url": "pic.twitter.com/XHWHinpHwk",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1629389003345764353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌌2022 단독 콘서트 '밤의 정원'",
+			"url": "https://t.co/q8FfaeWXfm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8FfaeWXfm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10914,
+			"friends_count": 0,
+			"listed_count": 161,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1661404317",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "밤의 정원 콘서트\n블루레이 MIX 모니터하고 있어요 :)♡\n.\n#이상훈드러머님 #주병조음향감독님 #이승남감독님 #최우재대표님 #앰피아스튜디오 #헤아릴규 #심규선 #루시아 #Lucia #밤의정원 #심규선콘서트 #블루레이 #Bluray https://t.co/XHWHinpHwk"
+	},
+	{
 		"created_at": "Fri Feb 24 17:44:20 +0000 2023",
 		"id": 1629171949539655700,
 		"id_str": "1629175408926109696",
