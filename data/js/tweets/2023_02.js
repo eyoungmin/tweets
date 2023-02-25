@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Sat Feb 25 13:44:33 +0000 2023",
+		"id": 1629468029963698200,
+		"id_str": "1629477451473596417",
+		"full_text": "https://t.co/jiUfIfiAi7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1629468016923615200,
+					"id_str": "1629468016923615232",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Fp0IhzGXoAA2pFp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fp0IhzGXoAA2pFp.jpg",
+					"url": "https://t.co/jiUfIfiAi7",
+					"display_url": "pic.twitter.com/jiUfIfiAi7",
+					"expanded_url": "https://twitter.com/birdy/status/1629468029963698177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1629468016923615200,
+					"id_str": "1629468016923615232",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Fp0IhzGXoAA2pFp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fp0IhzGXoAA2pFp.jpg",
+					"url": "https://t.co/jiUfIfiAi7",
+					"display_url": "pic.twitter.com/jiUfIfiAi7",
+					"expanded_url": "https://twitter.com/birdy/status/1629468029963698177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1629468016936202200,
+					"id_str": "1629468016936202242",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Fp0IhzJXsAIVEc7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fp0IhzJXsAIVEc7.jpg",
+					"url": "https://t.co/jiUfIfiAi7",
+					"display_url": "pic.twitter.com/jiUfIfiAi7",
+					"expanded_url": "https://twitter.com/birdy/status/1629468029963698177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1629468016957091800,
+					"id_str": "1629468016957091842",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Fp0IhzOWcAI2BLk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fp0IhzOWcAI2BLk.jpg",
+					"url": "https://t.co/jiUfIfiAi7",
+					"display_url": "pic.twitter.com/jiUfIfiAi7",
+					"expanded_url": "https://twitter.com/birdy/status/1629468029963698177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1629468016919363600,
+					"id_str": "1629468016919363584",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Fp0IhzFWwAAB07o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fp0IhzFWwAAB07o.jpg",
+					"url": "https://t.co/jiUfIfiAi7",
+					"display_url": "pic.twitter.com/jiUfIfiAi7",
+					"expanded_url": "https://twitter.com/birdy/status/1629468029963698177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1629468012687360000,
+		"in_reply_to_status_id_str": "1629468012687360000",
+		"in_reply_to_user_id": 270901752,
+		"in_reply_to_user_id_str": "270901752",
+		"in_reply_to_screen_name": "birdy",
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Raincatchers is yours on Friday, pre-save below 🌧️🩰🔮 My fifth album ..P O R T R A I T S.. is out in july",
+			"url": "https://t.co/ZKWv3eHKw8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZKWv3eHKw8",
+							"expanded_url": "https://linktr.ee/officialbirdy",
+							"display_url": "linktr.ee/officialbirdy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306047,
+			"friends_count": 174,
+			"listed_count": 1158,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1629171726885027843/5g1NCOIB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1629171726885027843/5g1NCOIB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1677259796",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/jiUfIfiAi7"
+	},
+	{
 		"created_at": "Sat Feb 25 12:29:56 +0000 2023",
 		"id": 1629457102115831800,
 		"id_str": "1629458674539278336",
