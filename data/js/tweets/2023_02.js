@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Sat Feb 25 12:29:56 +0000 2023",
+		"id": 1629457102115831800,
+		"id_str": "1629458674539278336",
+		"full_text": "오늘도 함께해 준 오빛❤ \n밥 잘 챙겨 먹고 든든한 주말 보내요! 💫\n\n#이달의소녀 #LOONA https://t.co/ymLa7qfYTl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						47,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1629457063909933000,
+					"id_str": "1629457063909933056",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/Fpz-kP8aQAA1s4T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fpz-kP8aQAA1s4T.jpg",
+					"url": "https://t.co/ymLa7qfYTl",
+					"display_url": "pic.twitter.com/ymLa7qfYTl",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1629457102115831809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1961,
+							"h": 1469,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1629457063909933000,
+					"id_str": "1629457063909933056",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/Fpz-kP8aQAA1s4T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fpz-kP8aQAA1s4T.jpg",
+					"url": "https://t.co/ymLa7qfYTl",
+					"display_url": "pic.twitter.com/ymLa7qfYTl",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1629457102115831809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1961,
+							"h": 1469,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsse3B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsse3B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 912169,
+			"friends_count": 3,
+			"listed_count": 8717,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1613484545420177411/LZaVVlBl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1613484545420177411/LZaVVlBl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1673500664",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 545,
+		"favorite_count": 1994,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘도 함께해 준 오빛❤ \n밥 잘 챙겨 먹고 든든한 주말 보내요! 💫\n\n#이달의소녀 #LOONA https://t.co/ymLa7qfYTl"
+	},
+	{
 		"created_at": "Sat Feb 25 08:44:31 +0000 2023",
 		"id": 1629389003345764400,
 		"id_str": "1629401945164136448",
