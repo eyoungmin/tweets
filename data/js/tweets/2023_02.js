@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Sun Feb 26 08:19:59 +0000 2023",
+		"id": 1629753135081349000,
+		"id_str": "1629758158867513346",
+		"full_text": "다가오는 봄 새로운 변신을 하고 싶다면, 2023 헤어 컬러의 트렌드를 확인하세요. \n\n#레드벨벳 #웬디 #아이들 #전소연 #미연 #선미 #에스파 #카리나 #Redvelvet #IDEL #Sunmi #aespa \nhttps://t.co/RzcRWXoWqs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "아이들",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "전소연",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "미연",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "선미",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "Redvelvet",
+					"indices": [
+						87,
+						97
+					]
+				},
+				{
+					"text": "IDEL",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "Sunmi",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						111,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RzcRWXoWqs",
+					"expanded_url": "https://www.allurekorea.com/2023/02/08/2023-%ed%97%a4%ec%96%b4-%ec%bb%ac%eb%9f%ac-%ed%8a%b8%eb%a0%8c%eb%93%9c-5/?ddw=137255&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2023/02/08/202…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38097,
+			"friends_count": 1,
+			"listed_count": 302,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1676687083",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다가오는 봄 새로운 변신을 하고 싶다면, 2023 헤어 컬러의 트렌드를 확인하세요. \n\n#레드벨벳 #웬디 #아이들 #전소연 #미연 #선미 #에스파 #카리나 #Redvelvet #IDEL #Sunmi #aespa \nhttps://t.co/RzcRWXoWqs"
+	},
+	{
 		"created_at": "Sat Feb 25 13:44:33 +0000 2023",
 		"id": 1629468029963698200,
 		"id_str": "1629477451473596417",
