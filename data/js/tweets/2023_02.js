@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Mon Feb 27 08:30:39 +0000 2023",
+		"id": 1630115577087012900,
+		"id_str": "1630123232966705155",
+		"full_text": "[NOTICE]\n\n유애나 5기 &lt;안녕, 오소리야&gt; URL \n미수령 관련 안내\nRegarding UAENA 5th \nwho haven’t received &lt;Goodbye, 5sori&gt; URL\n\n▶ https://t.co/sTkEGO3Z3Z \n\n#아이유 #IU\n#유애나 #UAENA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "유애나",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "UAENA",
+					"indices": [
+						161,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sTkEGO3Z3Z",
+					"expanded_url": "https://cafe.daum.net/IU/NDuY/519",
+					"display_url": "cafe.daum.net/IU/NDuY/519",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1590998,
+			"friends_count": 1,
+			"listed_count": 2431,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 628,
+		"favorite_count": 2104,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NOTICE]\n\n유애나 5기 &lt;안녕, 오소리야&gt; URL \n미수령 관련 안내\nRegarding UAENA 5th \nwho haven’t received &lt;Goodbye, 5sori&gt; URL\n\n▶ https://t.co/sTkEGO3Z3Z \n\n#아이유 #IU\n#유애나 #UAENA"
+	},
+	{
 		"created_at": "Mon Feb 27 02:44:34 +0000 2023",
 		"id": 1630023227786379300,
 		"id_str": "1630036135781998592",
