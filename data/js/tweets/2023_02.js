@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Mon Feb 27 02:44:34 +0000 2023",
+		"id": 1630023227786379300,
+		"id_str": "1630036135781998592",
+		"full_text": "#aespa successfully wrapped up their first solo concert with 10,000 fans in the audience and MY from 79 regions around the world!\nFrom hit songs → unreleased new song stage → solo stage, aespa filled the concert with visuals + performance + SMCU storyline! \n\n#SYNK_HYPERLINE https://t.co/80DCCPiPVi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "SYNK_HYPERLINE",
+					"indices": [
+						259,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1630023214066962400,
+					"id_str": "1630023214066962432",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/Fp8BehoaEAAiqna.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fp8BehoaEAAiqna.jpg",
+					"url": "https://t.co/80DCCPiPVi",
+					"display_url": "pic.twitter.com/80DCCPiPVi",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1630023227786379270/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1630023214066962400,
+					"id_str": "1630023214066962432",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/Fp8BehoaEAAiqna.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fp8BehoaEAAiqna.jpg",
+					"url": "https://t.co/80DCCPiPVi",
+					"display_url": "pic.twitter.com/80DCCPiPVi",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1630023227786379270/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1630023214092136400,
+					"id_str": "1630023214092136449",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/Fp8BehuaMAEs6Cf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fp8BehuaMAEs6Cf.jpg",
+					"url": "https://t.co/80DCCPiPVi",
+					"display_url": "pic.twitter.com/80DCCPiPVi",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1630023227786379270/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1630022894616191000,
+		"in_reply_to_status_id_str": "1630022894616190979",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11517082,
+			"friends_count": 56,
+			"listed_count": 13024,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 881,
+		"favorite_count": 2239,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#aespa successfully wrapped up their first solo concert with 10,000 fans in the audience and MY from 79 regions around the world!\nFrom hit songs → unreleased new song stage → solo stage, aespa filled the concert with visuals + performance + SMCU storyline! \n\n#SYNK_HYPERLINE https://t.co/80DCCPiPVi"
+	},
+	{
 		"created_at": "Sun Feb 26 08:19:59 +0000 2023",
 		"id": 1629753135081349000,
 		"id_str": "1629758158867513346",
