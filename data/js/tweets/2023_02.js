@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Tue Feb 28 09:36:14 +0000 2023",
+		"id": 1630493011049078800,
+		"id_str": "1630502125175296002",
+		"full_text": "【#SONEJAPAN】メンバーの個性を特集したデジタルマガジン『SONE NOTE LIVE』のVol.41を更新！今回のメンバーはテヨン🤍\nそんなテヨンからのメッセージ動画をお届け！\nぜひチェックしてください♪\n※会員様限定コンテンツのため、転載禁止です。 https://t.co/dOXOAAajVn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SONEJAPAN",
+					"indices": [
+						1,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1630086145811030000,
+					"id_str": "1630086145811030016",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1630086145811030016/pu/img/qYOdle7P6TGyQ8F6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1630086145811030016/pu/img/qYOdle7P6TGyQ8F6.jpg",
+					"url": "https://t.co/dOXOAAajVn",
+					"display_url": "pic.twitter.com/dOXOAAajVn",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1630493011049078786/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1630086145811030000,
+					"id_str": "1630086145811030016",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1630086145811030016/pu/img/qYOdle7P6TGyQ8F6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1630086145811030016/pu/img/qYOdle7P6TGyQ8F6.jpg",
+					"url": "https://t.co/dOXOAAajVn",
+					"display_url": "pic.twitter.com/dOXOAAajVn",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1630493011049078786/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 11402,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1630086145811030016/pu/vid/480x270/I_vyzuGrf9ht2Glx.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1630086145811030016/pu/pl/Lg0_cjTHn-ZAko7z.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1630086145811030016/pu/vid/960x540/kCgdbWN6SJ0Ywz5L.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1630086145811030016/pu/vid/640x360/rLLFQlJ4u65kL7_d.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/T70Fo3NBNn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/T70Fo3NBNn",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 123671,
+			"friends_count": 0,
+			"listed_count": 551,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 456,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555086105711886337/zo-mAiti_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555086105711886337/zo-mAiti_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1659596396",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 603,
+		"favorite_count": 955,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【#SONEJAPAN】メンバーの個性を特集したデジタルマガジン『SONE NOTE LIVE』のVol.41を更新！今回のメンバーはテヨン🤍\nそんなテヨンからのメッセージ動画をお届け！\nぜひチェックしてください♪\n※会員様限定コンテンツのため、転載禁止です。 https://t.co/dOXOAAajVn"
+	},
+	{
 		"created_at": "Mon Feb 27 20:45:11 +0000 2023",
 		"id": 1630293025405411300,
 		"id_str": "1630308082352783361",
