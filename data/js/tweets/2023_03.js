@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Sun Mar 05 18:46:48 +0000 2023",
+		"id": 1632442294614872000,
+		"id_str": "1632452617157636096",
+		"full_text": "🌧️ Raincatchers is yours 🌧️ \nHope you’ve been enjoying it ?? So happy it’s finally out in the world ✨\nhttps://t.co/TGk8d3EEzu https://t.co/mmuv5PjuBp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TGk8d3EEzu",
+					"expanded_url": "https://birdy.lnk.to/Bio",
+					"display_url": "birdy.lnk.to/Bio",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1632442091031625700,
+					"id_str": "1632442091031625730",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1632442091031625730/pu/img/BEy5u8b41E5SXVgG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1632442091031625730/pu/img/BEy5u8b41E5SXVgG.jpg",
+					"url": "https://t.co/mmuv5PjuBp",
+					"display_url": "pic.twitter.com/mmuv5PjuBp",
+					"expanded_url": "https://twitter.com/birdy/status/1632442294614872066/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1632442091031625700,
+					"id_str": "1632442091031625730",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1632442091031625730/pu/img/BEy5u8b41E5SXVgG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1632442091031625730/pu/img/BEy5u8b41E5SXVgG.jpg",
+					"url": "https://t.co/mmuv5PjuBp",
+					"display_url": "pic.twitter.com/mmuv5PjuBp",
+					"expanded_url": "https://twitter.com/birdy/status/1632442294614872066/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 33566,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1632442091031625730/pu/pl/72yrN815ku1THU2N.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1632442091031625730/pu/vid/320x568/YvdhBeHvhIxhr2w9.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1632442091031625730/pu/vid/480x852/cNVsP75renPOwQmA.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1632442091031625730/pu/vid/720x1280/pSAJKnFVqfE374LI.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Raincatchers is yours, listen below 🌧🩰🔮 My fifth album ..P O R T R A i T S.. is out 14th July",
+			"url": "https://t.co/hvZ8uW6Pkl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hvZ8uW6Pkl",
+							"expanded_url": "https://birdy.lnk.to/Bio",
+							"display_url": "birdy.lnk.to/Bio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306090,
+			"friends_count": 175,
+			"listed_count": 1155,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 861,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1629171726885027843/5g1NCOIB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1629171726885027843/5g1NCOIB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1677837601",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🌧️ Raincatchers is yours 🌧️ \nHope you’ve been enjoying it ?? So happy it’s finally out in the world ✨\nhttps://t.co/TGk8d3EEzu https://t.co/mmuv5PjuBp"
+	},
+	{
 		"created_at": "Sun Mar 05 16:46:46 +0000 2023",
 		"id": 1632418509001990100,
 		"id_str": "1632422412225589251",
