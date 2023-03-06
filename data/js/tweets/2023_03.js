@@ -1,6 +1,469 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Mon Mar 06 07:22:08 +0000 2023",
+		"id": 1632639921088503800,
+		"id_str": "1632642704290066432",
+		"full_text": "#JISOO FIRST SINGLE VINYL LP -LIMITED EDITION-\nPre-order notice has been uploaded.\n\n▶️https://t.co/tp3NIuQeq8 \n\n#지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEVINYLLP #YG https://t.co/2hbMA2mObR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JISOO",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						116,
+						126
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "FIRSTSINGLEVINYLLP",
+					"indices": [
+						133,
+						152
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						153,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tp3NIuQeq8",
+					"expanded_url": "https://weverse.io/blackpink/notice/12757?hl=ko",
+					"display_url": "weverse.io/blackpink/noti…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1632634787621118000,
+					"id_str": "1632634787621117952",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FqhIsHQaIAACInX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FqhIsHQaIAACInX.jpg",
+					"url": "https://t.co/2hbMA2mObR",
+					"display_url": "pic.twitter.com/2hbMA2mObR",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1632639921088503808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1632634787621118000,
+					"id_str": "1632634787621117952",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FqhIsHQaIAACInX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FqhIsHQaIAACInX.jpg",
+					"url": "https://t.co/2hbMA2mObR",
+					"display_url": "pic.twitter.com/2hbMA2mObR",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1632639921088503808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8613856,
+			"friends_count": 0,
+			"listed_count": 8100,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 901,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1678028460",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6707,
+		"favorite_count": 18071,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#JISOO FIRST SINGLE VINYL LP -LIMITED EDITION-\nPre-order notice has been uploaded.\n\n▶️https://t.co/tp3NIuQeq8 \n\n#지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEVINYLLP #YG https://t.co/2hbMA2mObR"
+	},
+	{
+		"created_at": "Mon Mar 06 07:22:08 +0000 2023",
+		"id": 1632639750657163300,
+		"id_str": "1632642704277483520",
+		"full_text": "#JISOO FIRST SINGLE ALBUM \nPre-order notice has been uploaded.\n\n▶️https://t.co/tp3NIuQeq8 \n\n#지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #20230331 #OFFLINERELEASE #YG https://t.co/fUX45a34Ez",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JISOO",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						113,
+						130
+					]
+				},
+				{
+					"text": "OFFLINERELEASE",
+					"indices": [
+						141,
+						156
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						157,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tp3NIuQeq8",
+					"expanded_url": "https://weverse.io/blackpink/notice/12757?hl=ko",
+					"display_url": "weverse.io/blackpink/noti…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1632634768327319600,
+					"id_str": "1632634768327319552",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FqhIq_YaIAAg6JL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FqhIq_YaIAAg6JL.jpg",
+					"url": "https://t.co/fUX45a34Ez",
+					"display_url": "pic.twitter.com/fUX45a34Ez",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1632639750657163266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1632634768327319600,
+					"id_str": "1632634768327319552",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FqhIq_YaIAAg6JL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FqhIq_YaIAAg6JL.jpg",
+					"url": "https://t.co/fUX45a34Ez",
+					"display_url": "pic.twitter.com/fUX45a34Ez",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1632639750657163266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8613856,
+			"friends_count": 0,
+			"listed_count": 8100,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 901,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1678028460",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5377,
+		"favorite_count": 14043,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#JISOO FIRST SINGLE ALBUM \nPre-order notice has been uploaded.\n\n▶️https://t.co/tp3NIuQeq8 \n\n#지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #20230331 #OFFLINERELEASE #YG https://t.co/fUX45a34Ez"
+	},
+	{
 		"created_at": "Mon Mar 06 06:35:29 +0000 2023",
 		"id": 1632624065713438700,
 		"id_str": "1632630964097622016",
