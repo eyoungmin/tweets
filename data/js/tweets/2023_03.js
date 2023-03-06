@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Mon Mar 06 05:12:00 +0000 2023",
+		"id": 1632599631543828500,
+		"id_str": "1632609954090696704",
+		"full_text": "‘솔로’라는 말이 가장 황홀하게 어울리는 K팝 스타 3인.\n#카이 #지민 #지수 #Kai #Jimin #Jisoo \nhttps://t.co/e1eEK3wWEb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "카이",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "지민",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "Kai",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "Jimin",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "Jisoo",
+					"indices": [
+						57,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e1eEK3wWEb",
+					"expanded_url": "https://www.wkorea.com/2023/03/04/%ec%bc%80%ec%9d%b4%ed%8c%9d%ec%9d%98-%eb%82%98%eb%8a%94-%ec%86%94%eb%a1%9c-%eb%81%9d%ed%8c%90%ec%99%95/?ddw=139194&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2023/03/04/%ec…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5gwu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5gwu0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 332664,
+			"friends_count": 0,
+			"listed_count": 868,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14793,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1677032622",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 240,
+		"favorite_count": 336,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘솔로’라는 말이 가장 황홀하게 어울리는 K팝 스타 3인.\n#카이 #지민 #지수 #Kai #Jimin #Jisoo \nhttps://t.co/e1eEK3wWEb"
+	},
+	{
 		"created_at": "Mon Mar 06 03:51:29 +0000 2023",
 		"id": 1632576739506307000,
 		"id_str": "1632589691240284160",
