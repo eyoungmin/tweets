@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Tue Mar 07 05:12:17 +0000 2023",
+		"id": 1632969323311677400,
+		"id_str": "1632972414937178113",
+		"full_text": "다시 돌아온 레그워머 #블랙핑크 리사처럼 하이힐과 함께 매치해볼까?\n\n@ygofficialblink  #리사 #InesSilva #jessie #TeganAmelia #Olivia #SOFIA @IVEstarship #아이브 #장원영 \nhttps://t.co/CrHcJki2Gr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						12,
+						17
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "InesSilva",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"text": "jessie",
+					"indices": [
+						72,
+						79
+					]
+				},
+				{
+					"text": "TeganAmelia",
+					"indices": [
+						80,
+						92
+					]
+				},
+				{
+					"text": "Olivia",
+					"indices": [
+						93,
+						100
+					]
+				},
+				{
+					"text": "SOFIA",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "아이브",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "장원영",
+					"indices": [
+						126,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						39,
+						55
+					]
+				},
+				{
+					"screen_name": "IVEstarship",
+					"name": "IVE OFFICIAL",
+					"id": 1402182579265048600,
+					"id_str": "1402182579265048598",
+					"indices": [
+						108,
+						120
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CrHcJki2Gr",
+					"expanded_url": "https://www.allurekorea.com/2022/11/08/%eb%a0%88%ea%b7%b8-%ec%9b%8c%eb%a8%b8-%ec%bd%94%eb%94%94-%ec%88%98%ec%b9%99-3/?ddw=128562&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2022/11/08/%eb…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38081,
+			"friends_count": 1,
+			"listed_count": 301,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1676687083",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다시 돌아온 레그워머 #블랙핑크 리사처럼 하이힐과 함께 매치해볼까?\n\n@ygofficialblink  #리사 #InesSilva #jessie #TeganAmelia #Olivia #SOFIA @IVEstarship #아이브 #장원영 \nhttps://t.co/CrHcJki2Gr"
+	},
+	{
 		"created_at": "Mon Mar 06 18:47:07 +0000 2023",
 		"id": 1632803403179892700,
 		"id_str": "1632815084647972864",
