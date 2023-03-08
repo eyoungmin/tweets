@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Wed Mar 08 05:12:35 +0000 2023",
+		"id": 1633331712787910700,
+		"id_str": "1633334880158248963",
+		"full_text": "제니가 입은 컬러풀한 파자마 브랜드는?\n\n#블랙핑크 #제니 #다비치 #강민경 #이해리 #레드벨벳 #슬기\nhttps://t.co/nZ0DLBUM0b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "다비치",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "강민경",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "이해리",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						54,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nZ0DLBUM0b",
+					"expanded_url": "https://www.allurekorea.com/2022/12/22/%ea%b2%a8%ec%9a%b8-%ed%8f%ac%ea%b7%bc%ed%95%9c-%ec%9e%a0%ec%98%b7%ec%9d%b4-%ed%95%84%ec%9a%94%ed%95%9c-%ea%b3%84%ec%a0%88/?ddw=133080&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2022/12/22/%ea…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38075,
+			"friends_count": 1,
+			"listed_count": 301,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1676687083",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제니가 입은 컬러풀한 파자마 브랜드는?\n\n#블랙핑크 #제니 #다비치 #강민경 #이해리 #레드벨벳 #슬기\nhttps://t.co/nZ0DLBUM0b"
+	},
+	{
 		"created_at": "Wed Mar 08 03:51:58 +0000 2023",
 		"id": 1633304027919155200,
 		"id_str": "1633314590804115458",
