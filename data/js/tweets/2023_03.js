@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Thu Mar 09 04:12:52 +0000 2023",
+		"id": 1633669227927470000,
+		"id_str": "1633682238230646785",
+		"full_text": "블랙핑크 지수의 데뷔 첫 솔로 앨범 명이 공개됐다.\n#지수 #JISOO #ME #JISOO_ME #BLACKPINK \nhttps://t.co/gOifeUNPJw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지수",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "ME",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "JISOO_ME",
+					"indices": [
+						44,
+						53
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						54,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gOifeUNPJw",
+					"expanded_url": "https://www.wkorea.com/2023/03/09/%eb%b8%94%eb%9e%99%ed%95%91%ed%81%ac-%ec%a7%80%ec%88%98-%ec%b2%ab-%ec%86%94%eb%a1%9c-%ec%95%a8%eb%b2%94-%eb%af%b8-%ea%b3%b5%ea%b0%9c-%ec%9e%84%eb%b0%95/?ddw=139381&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2023/03/09/%eb…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5gwu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5gwu0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 332885,
+			"friends_count": 0,
+			"listed_count": 867,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14809,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1677032622",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 170,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블랙핑크 지수의 데뷔 첫 솔로 앨범 명이 공개됐다.\n#지수 #JISOO #ME #JISOO_ME #BLACKPINK \nhttps://t.co/gOifeUNPJw"
+	},
+	{
 		"created_at": "Thu Mar 09 03:33:06 +0000 2023",
 		"id": 1633663905141608400,
 		"id_str": "1633672230197665792",
