@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Sat Mar 11 11:36:41 +0000 2023",
+		"id": 1634509832245100500,
+		"id_str": "1634518704074391553",
+		"full_text": "YERI 예리 ‘My Sweetie’ Cover Video\n\nhttps://t.co/k9Vlvk6Baj\n\n#HappyYERIday #My_Sweetie\n#예리 #YERI \n#RedVelvet #레드벨벳 https://t.co/CXJQeeFYuL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HappyYERIday",
+					"indices": [
+						59,
+						72
+					]
+				},
+				{
+					"text": "My_Sweetie",
+					"indices": [
+						73,
+						84
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						107,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k9Vlvk6Baj",
+					"expanded_url": "https://youtu.be/QdM60vTh1es",
+					"display_url": "youtu.be/QdM60vTh1es",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1634509825064452000,
+					"id_str": "1634509825064452096",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/Fq7yBqDaQAAy5RB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fq7yBqDaQAAy5RB.jpg",
+					"url": "https://t.co/CXJQeeFYuL",
+					"display_url": "pic.twitter.com/CXJQeeFYuL",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1634509832245100544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1634509825064452000,
+					"id_str": "1634509825064452096",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/Fq7yBqDaQAAy5RB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fq7yBqDaQAAy5RB.jpg",
+					"url": "https://t.co/CXJQeeFYuL",
+					"display_url": "pic.twitter.com/CXJQeeFYuL",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1634509832245100544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5881860,
+			"friends_count": 2,
+			"listed_count": 11661,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3338,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5301,
+		"favorite_count": 10310,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YERI 예리 ‘My Sweetie’ Cover Video\n\nhttps://t.co/k9Vlvk6Baj\n\n#HappyYERIday #My_Sweetie\n#예리 #YERI \n#RedVelvet #레드벨벳 https://t.co/CXJQeeFYuL"
+	},
+	{
 		"created_at": "Fri Mar 10 18:48:15 +0000 2023",
 		"id": 1634252696038305800,
 		"id_str": "1634264923491409942",
