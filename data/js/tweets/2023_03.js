@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Mon Mar 13 05:13:55 +0000 2023",
+		"id": 1635143654196105200,
+		"id_str": "1635147154108084224",
+		"full_text": "🌤갑자기 추워진 이번주! 꽃샘추위에 입기 좋은 셀럽들의 옷차림 가이드. \n\n#크리스탈 #지수 #수영 #문가영 #홍은채 #르세라핌 \nhttps://t.co/dkn6IgL9v2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "크리스탈",
+					"indices": [
+						42,
+						47
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "수영",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "문가영",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "홍은채",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "르세라핌",
+					"indices": [
+						66,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dkn6IgL9v2",
+					"expanded_url": "https://www.allurekorea.com/?p=198493&ddw=139567&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=198493&ddw=…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38049,
+			"friends_count": 1,
+			"listed_count": 301,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 729,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1676687083",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌤갑자기 추워진 이번주! 꽃샘추위에 입기 좋은 셀럽들의 옷차림 가이드. \n\n#크리스탈 #지수 #수영 #문가영 #홍은채 #르세라핌 \nhttps://t.co/dkn6IgL9v2"
+	},
+	{
 		"created_at": "Mon Mar 13 03:48:12 +0000 2023",
 		"id": 1635111964644118500,
 		"id_str": "1635125580336336897",
