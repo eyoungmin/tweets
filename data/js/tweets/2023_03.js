@@ -1,6 +1,1679 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Mon Mar 13 09:37:08 +0000 2023",
+		"id": 1635204622385311700,
+		"id_str": "1635213395216715776",
+		"full_text": "[Preview of ‘R to V’] Ep. Ice Cream Cake I Red Velvet 4th Concert : R to V\n\nhttps://t.co/JY5ajM4mm4\n\n&lt;#RedVelvet4thConcert_RtoV&gt;\n\n📍올림픽공원 KSPO DOME\n\n➫2023.04.01(SAT) : 6PM (KST)\n➫2023.04.02(SUN) : 4PM (KST)\n\n🎟 TICKET \nhttps://t.co/sH8VgCrOTf\n\n#RedVelvet #레드벨벳 #RtoV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet4thConcert_RtoV",
+					"indices": [
+						105,
+						130
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						248,
+						258
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						259,
+						264
+					]
+				},
+				{
+					"text": "RtoV",
+					"indices": [
+						265,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JY5ajM4mm4",
+					"expanded_url": "https://youtu.be/JSZ8kareFAM",
+					"display_url": "youtu.be/JSZ8kareFAM",
+					"indices": [
+						76,
+						99
+					]
+				},
+				{
+					"url": "https://t.co/sH8VgCrOTf",
+					"expanded_url": "http://ticket.yes24.com/Special/45135",
+					"display_url": "ticket.yes24.com/Special/45135",
+					"indices": [
+						223,
+						246
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5882846,
+			"friends_count": 2,
+			"listed_count": 11674,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3739,
+		"favorite_count": 5841,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Preview of ‘R to V’] Ep. Ice Cream Cake I Red Velvet 4th Concert : R to V\n\nhttps://t.co/JY5ajM4mm4\n\n&lt;#RedVelvet4thConcert_RtoV&gt;\n\n📍올림픽공원 KSPO DOME\n\n➫2023.04.01(SAT) : 6PM (KST)\n➫2023.04.02(SUN) : 4PM (KST)\n\n🎟 TICKET \nhttps://t.co/sH8VgCrOTf\n\n#RedVelvet #레드벨벳 #RtoV"
+	},
+	{
+		"created_at": "Mon Mar 13 09:37:08 +0000 2023",
+		"id": 1635213065523462100,
+		"id_str": "1635213395174518784",
+		"full_text": "Check out more of our editorials and articles \nin &lt;DAZED&gt; KOREA special print issue.\n\n#웬디 #WENDY\n#레드벨벳 #RedVelvet \n#데이즈드 #DAZED https://t.co/XyYfmVoi8z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"text": "데이즈드",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "DAZED",
+					"indices": [
+						127,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1635213038340169700,
+					"id_str": "1635213038340169729",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FrFxmDpaYAEtfCL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrFxmDpaYAEtfCL.jpg",
+					"url": "https://t.co/XyYfmVoi8z",
+					"display_url": "pic.twitter.com/XyYfmVoi8z",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1635213065523462144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1635213038340169700,
+					"id_str": "1635213038340169729",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FrFxmDpaYAEtfCL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrFxmDpaYAEtfCL.jpg",
+					"url": "https://t.co/XyYfmVoi8z",
+					"display_url": "pic.twitter.com/XyYfmVoi8z",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1635213065523462144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1635213044321243100,
+					"id_str": "1635213044321243137",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FrFxmZ7aUAEjVp5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrFxmZ7aUAEjVp5.jpg",
+					"url": "https://t.co/XyYfmVoi8z",
+					"display_url": "pic.twitter.com/XyYfmVoi8z",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1635213065523462144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1635213051652890600,
+					"id_str": "1635213051652890625",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FrFxm1PaYAEEXC3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrFxm1PaYAEEXC3.jpg",
+					"url": "https://t.co/XyYfmVoi8z",
+					"display_url": "pic.twitter.com/XyYfmVoi8z",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1635213065523462144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1635213060104417300,
+					"id_str": "1635213060104417281",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FrFxnUuacAEclXe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrFxnUuacAEclXe.jpg",
+					"url": "https://t.co/XyYfmVoi8z",
+					"display_url": "pic.twitter.com/XyYfmVoi8z",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1635213065523462144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1635213033718059000,
+		"in_reply_to_status_id_str": "1635213033718059009",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5882846,
+			"friends_count": 2,
+			"listed_count": 11674,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1122,
+		"favorite_count": 2603,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out more of our editorials and articles \nin &lt;DAZED&gt; KOREA special print issue.\n\n#웬디 #WENDY\n#레드벨벳 #RedVelvet \n#데이즈드 #DAZED https://t.co/XyYfmVoi8z"
+	},
+	{
+		"created_at": "Mon Mar 13 09:37:08 +0000 2023",
+		"id": 1635213125103546400,
+		"id_str": "1635213395044564997",
+		"full_text": "#웬디 #WENDY\n#레드벨벳 #RedVelvet \n#데이즈드 #DAZED https://t.co/4uKEw274eN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						4,
+						10
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"text": "데이즈드",
+					"indices": [
+						29,
+						34
+					]
+				},
+				{
+					"text": "DAZED",
+					"indices": [
+						35,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1635213070854402000,
+					"id_str": "1635213070854402049",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/FrFxn8xaMAEeVOu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrFxn8xaMAEeVOu.jpg",
+					"url": "https://t.co/4uKEw274eN",
+					"display_url": "pic.twitter.com/4uKEw274eN",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1635213125103546368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1635213070854402000,
+					"id_str": "1635213070854402049",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/FrFxn8xaMAEeVOu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrFxn8xaMAEeVOu.jpg",
+					"url": "https://t.co/4uKEw274eN",
+					"display_url": "pic.twitter.com/4uKEw274eN",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1635213125103546368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1635213099908333600,
+					"id_str": "1635213099908333569",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/FrFxppAaAAEKg8w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrFxppAaAAEKg8w.jpg",
+					"url": "https://t.co/4uKEw274eN",
+					"display_url": "pic.twitter.com/4uKEw274eN",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1635213125103546368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 778,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1328,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1635213065523462100,
+		"in_reply_to_status_id_str": "1635213065523462144",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5882846,
+			"friends_count": 2,
+			"listed_count": 11674,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 961,
+		"favorite_count": 2279,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "#웬디 #WENDY\n#레드벨벳 #RedVelvet \n#데이즈드 #DAZED https://t.co/4uKEw274eN"
+	},
+	{
+		"created_at": "Mon Mar 13 09:37:08 +0000 2023",
+		"id": 1635213033718059000,
+		"id_str": "1635213394893500417",
+		"full_text": "‘에트로와 웬디의 경사스러운 봄’\n데이즈드 스페셜 에디션에서 \n웬디의 새로운 모습을 만나보세요💙\n\n#웬디 #WENDY\n#레드벨벳 #RedVelvet \n#데이즈드 #DAZED https://t.co/6aUHmTSaWQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						72,
+						82
+					]
+				},
+				{
+					"text": "데이즈드",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "DAZED",
+					"indices": [
+						90,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1635213005020614700,
+					"id_str": "1635213005020614656",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FrFxkHhaUAAGibd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrFxkHhaUAAGibd.jpg",
+					"url": "https://t.co/6aUHmTSaWQ",
+					"display_url": "pic.twitter.com/6aUHmTSaWQ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1635213033718059009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1635213005020614700,
+					"id_str": "1635213005020614656",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FrFxkHhaUAAGibd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrFxkHhaUAAGibd.jpg",
+					"url": "https://t.co/6aUHmTSaWQ",
+					"display_url": "pic.twitter.com/6aUHmTSaWQ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1635213033718059009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1635213013153357800,
+					"id_str": "1635213013153357825",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FrFxkl0aIAEPnbN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrFxkl0aIAEPnbN.jpg",
+					"url": "https://t.co/6aUHmTSaWQ",
+					"display_url": "pic.twitter.com/6aUHmTSaWQ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1635213033718059009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1635213019985870800,
+					"id_str": "1635213019985870850",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FrFxk_RaAAIOWRt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrFxk_RaAAIOWRt.jpg",
+					"url": "https://t.co/6aUHmTSaWQ",
+					"display_url": "pic.twitter.com/6aUHmTSaWQ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1635213033718059009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1635213027896361000,
+					"id_str": "1635213027896360963",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FrFxlcvagAM37K8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrFxlcvagAM37K8.jpg",
+					"url": "https://t.co/6aUHmTSaWQ",
+					"display_url": "pic.twitter.com/6aUHmTSaWQ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1635213033718059009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5882846,
+			"friends_count": 2,
+			"listed_count": 11674,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2827,
+		"favorite_count": 6191,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘에트로와 웬디의 경사스러운 봄’\n데이즈드 스페셜 에디션에서 \n웬디의 새로운 모습을 만나보세요💙\n\n#웬디 #WENDY\n#레드벨벳 #RedVelvet \n#데이즈드 #DAZED https://t.co/6aUHmTSaWQ"
+	},
+	{
+		"created_at": "Mon Mar 13 09:24:06 +0000 2023",
+		"id": 1635207132114210800,
+		"id_str": "1635210114415329280",
+		"full_text": "입춘대길 #협찬\n\n에트로와 웬디의 경사스러운 봄.\n\nEtro and Wendy's Happy Spring.\n\n#에트로 #웬디 #etro #wendy \n\n더 많은 화보와 기사는 &lt;데이즈드&gt; 스페셜 에디션에서 만나볼 수 있습니다. Check out more of our editorials and articles in &lt;DAZED&gt; KOREA special print issue. https://t.co/jvR01tLgMe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "협찬",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "에트로",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "etro",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "wendy",
+					"indices": [
+						76,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1635207118314967000,
+					"id_str": "1635207118314967040",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FrFsNd1akAAUN1e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrFsNd1akAAUN1e.jpg",
+					"url": "https://t.co/jvR01tLgMe",
+					"display_url": "pic.twitter.com/jvR01tLgMe",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1635207132114210818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1580,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 926,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1635207118314967000,
+					"id_str": "1635207118314967040",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FrFsNd1akAAUN1e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrFsNd1akAAUN1e.jpg",
+					"url": "https://t.co/jvR01tLgMe",
+					"display_url": "pic.twitter.com/jvR01tLgMe",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1635207132114210818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1580,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 926,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1635207118306578400,
+					"id_str": "1635207118306578432",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FrFsNdzakAAumGc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrFsNdzakAAumGc.jpg",
+					"url": "https://t.co/jvR01tLgMe",
+					"display_url": "pic.twitter.com/jvR01tLgMe",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1635207132114210818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 923,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1576,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1635207118310768600,
+					"id_str": "1635207118310768641",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FrFsNd0agAEx4Tj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrFsNd0agAEx4Tj.jpg",
+					"url": "https://t.co/jvR01tLgMe",
+					"display_url": "pic.twitter.com/jvR01tLgMe",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1635207132114210818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1580,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 926,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1635207118340120600,
+					"id_str": "1635207118340120576",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FrFsNd7aYAAeEv7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrFsNd7aYAAeEv7.jpg",
+					"url": "https://t.co/jvR01tLgMe",
+					"display_url": "pic.twitter.com/jvR01tLgMe",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1635207132114210818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1328,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 778,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9LshhmAaM",
+			"url": "https://t.co/0p0y3FGmKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3FGmKw",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9LshhmAaM",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 170285,
+			"friends_count": 0,
+			"listed_count": 354,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1678063102",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 965,
+		"favorite_count": 1291,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "입춘대길 #협찬\n\n에트로와 웬디의 경사스러운 봄.\n\nEtro and Wendy's Happy Spring.\n\n#에트로 #웬디 #etro #wendy \n\n더 많은 화보와 기사는 &lt;데이즈드&gt; 스페셜 에디션에서 만나볼 수 있습니다. Check out more of our editorials and articles in &lt;DAZED&gt; KOREA special print issue. https://t.co/jvR01tLgMe"
+	},
+	{
+		"created_at": "Mon Mar 13 09:24:06 +0000 2023",
+		"id": 1635207240713113600,
+		"id_str": "1635210113622441990",
+		"full_text": "입춘대길 #협찬\n\n에트로와 웬디의 경사스러운 봄.\n\nEtro and Wendy's Happy Spring.\n\n#에트로 #웬디 #etro #wendy \n\n더 많은 화보와 기사는 &lt;데이즈드&gt; 스페셜 에디션에서 만나볼 수 있습니다. Check out more of our editorials and articles in &lt;DAZED&gt; KOREA special print issue. https://t.co/eR5CbG97bE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "협찬",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "에트로",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "etro",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "wendy",
+					"indices": [
+						76,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1635207226649636900,
+					"id_str": "1635207226649636867",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FrFsTxaacAM04TN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrFsTxaacAM04TN.jpg",
+					"url": "https://t.co/eR5CbG97bE",
+					"display_url": "pic.twitter.com/eR5CbG97bE",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1635207240713113600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1578,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 925,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1635207226649636900,
+					"id_str": "1635207226649636867",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FrFsTxaacAM04TN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrFsTxaacAM04TN.jpg",
+					"url": "https://t.co/eR5CbG97bE",
+					"display_url": "pic.twitter.com/eR5CbG97bE",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1635207240713113600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1578,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 925,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1635207226620248000,
+					"id_str": "1635207226620248065",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FrFsTxTaAAEyzWn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrFsTxTaAAEyzWn.jpg",
+					"url": "https://t.co/eR5CbG97bE",
+					"display_url": "pic.twitter.com/eR5CbG97bE",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1635207240713113600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1580,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 926,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1635207226968400000,
+					"id_str": "1635207226968399872",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FrFsTymaYAA6S_0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrFsTymaYAA6S_0.jpg",
+					"url": "https://t.co/eR5CbG97bE",
+					"display_url": "pic.twitter.com/eR5CbG97bE",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1635207240713113600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 926,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1580,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9LshhmAaM",
+			"url": "https://t.co/0p0y3FGmKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3FGmKw",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9LshhmAaM",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 170285,
+			"friends_count": 0,
+			"listed_count": 354,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1678063102",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 763,
+		"favorite_count": 1055,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "입춘대길 #협찬\n\n에트로와 웬디의 경사스러운 봄.\n\nEtro and Wendy's Happy Spring.\n\n#에트로 #웬디 #etro #wendy \n\n더 많은 화보와 기사는 &lt;데이즈드&gt; 스페셜 에디션에서 만나볼 수 있습니다. Check out more of our editorials and articles in &lt;DAZED&gt; KOREA special print issue. https://t.co/eR5CbG97bE"
+	},
+	{
 		"created_at": "Mon Mar 13 07:53:10 +0000 2023",
 		"id": 1635183802736857000,
 		"id_str": "1635187230292742145",
