@@ -1,6 +1,408 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Tue Mar 14 07:49:08 +0000 2023",
+		"id": 1635545909214986200,
+		"id_str": "1635548603451154434",
+		"full_text": "Yong lee 의 swing 을 감상하세요 \n\n무료 방청예약 _ 오늘저녁 8시 오픈 \n선착순 15석 \nhttps://t.co/Mcu4extwhz https://t.co/F3e2VVWTyk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mcu4extwhz",
+					"expanded_url": "https://m.booking.naver.com/booking/6/bizes/593478/items/4937482",
+					"display_url": "m.booking.naver.com/booking/6/bize…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1635545816575381500,
+					"id_str": "1635545816575381504",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1635545816575381504/pu/img/a9oyC6efJI9k75Oy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1635545816575381504/pu/img/a9oyC6efJI9k75Oy.jpg",
+					"url": "https://t.co/F3e2VVWTyk",
+					"display_url": "pic.twitter.com/F3e2VVWTyk",
+					"expanded_url": "https://twitter.com/savina0128/status/1635545909214986240/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1635545816575381500,
+					"id_str": "1635545816575381504",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1635545816575381504/pu/img/a9oyC6efJI9k75Oy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1635545816575381504/pu/img/a9oyC6efJI9k75Oy.jpg",
+					"url": "https://t.co/F3e2VVWTyk",
+					"display_url": "pic.twitter.com/F3e2VVWTyk",
+					"expanded_url": "https://twitter.com/savina0128/status/1635545909214986240/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 60100,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1635545816575381504/pu/vid/320x568/NkLL72YKv8OY5QcE.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1635545816575381504/pu/vid/480x852/CeBp9N-wO4BFxPYu.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1635545816575381504/pu/vid/720x1280/XgVSEFcxJI80gfnM.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1635545816575381504/pu/pl/xBwJviIAN04CXs8K.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나앤드론즈",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "Musician",
+			"url": "https://t.co/V1U5R1XyaU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V1U5R1XyaU",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1268,
+			"friends_count": 243,
+			"listed_count": 33,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Yong lee 의 swing 을 감상하세요 \n\n무료 방청예약 _ 오늘저녁 8시 오픈 \n선착순 15석 \nhttps://t.co/Mcu4extwhz https://t.co/F3e2VVWTyk"
+	},
+	{
+		"created_at": "Tue Mar 14 07:49:08 +0000 2023",
+		"id": 1635545288600608800,
+		"id_str": "1635548603442683905",
+		"full_text": "&lt;세이렌하우스&gt; 제 3화 Guest. 용리 편 \n\n방청 안내 \n\n⚓️공개방송 일시 3/21 (화) 8pm\n\n✔️방청신청 오픈 일시 | 3/14(화) 8pm (무료 15석 한정)\n -클럽온에어 예매페이지 @club_onair \n\n✔️Running time | 70분\n\n❗️세이렌하우스 두번째 초대 게스트는 재즈계의 뉴웨이브 피아니스트 용리님 입니다. https://t.co/gpNbpe4osi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CLUB_ONAIR",
+					"name": "Club onair",
+					"id": 352936135,
+					"id_str": "352936135",
+					"indices": [
+						119,
+						130
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1635545278257442800,
+					"id_str": "1635545278257442818",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FrKfw9yaMAIvxMc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrKfw9yaMAIvxMc.jpg",
+					"url": "https://t.co/gpNbpe4osi",
+					"display_url": "pic.twitter.com/gpNbpe4osi",
+					"expanded_url": "https://twitter.com/savina0128/status/1635545288600608770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1635545278257442800,
+					"id_str": "1635545278257442818",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FrKfw9yaMAIvxMc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrKfw9yaMAIvxMc.jpg",
+					"url": "https://t.co/gpNbpe4osi",
+					"display_url": "pic.twitter.com/gpNbpe4osi",
+					"expanded_url": "https://twitter.com/savina0128/status/1635545288600608770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나앤드론즈",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "Musician",
+			"url": "https://t.co/V1U5R1XyaU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V1U5R1XyaU",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1268,
+			"friends_count": 243,
+			"listed_count": 33,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;세이렌하우스&gt; 제 3화 Guest. 용리 편 \n\n방청 안내 \n\n⚓️공개방송 일시 3/21 (화) 8pm\n\n✔️방청신청 오픈 일시 | 3/14(화) 8pm (무료 15석 한정)\n -클럽온에어 예매페이지 @club_onair \n\n✔️Running time | 70분\n\n❗️세이렌하우스 두번째 초대 게스트는 재즈계의 뉴웨이브 피아니스트 용리님 입니다. https://t.co/gpNbpe4osi"
+	},
+	{
 		"created_at": "Tue Mar 14 05:24:16 +0000 2023",
 		"id": 1635507960062578700,
 		"id_str": "1635512146044780545",
