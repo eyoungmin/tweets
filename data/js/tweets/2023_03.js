@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Tue Mar 14 05:24:16 +0000 2023",
+		"id": 1635507960062578700,
+		"id_str": "1635512146044780545",
+		"full_text": "#LISA 0327 PHOTOBOOK VOL. 4\nPre-order notice has been uploaded.\n\n▶️https://t.co/M632hX2xxB… \n\n#리사 #BLACKPINK #블랙핑크 #0327 #PHOTOBOOK #VOL4 #20230327 #RELEASE #YG https://t.co/cojAoU9Tht",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "PHOTOBOOK",
+					"indices": [
+						121,
+						131
+					]
+				},
+				{
+					"text": "VOL4",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "RELEASE",
+					"indices": [
+						148,
+						156
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						157,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M632hX2xxB",
+					"expanded_url": "https://weverse.io/blackpink/notice/12809?hl=ko",
+					"display_url": "weverse.io/blackpink/noti…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1635507900725731300,
+					"id_str": "1635507900725731328",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FrJ9xToaIAARIVc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrJ9xToaIAARIVc.jpg",
+					"url": "https://t.co/cojAoU9Tht",
+					"display_url": "pic.twitter.com/cojAoU9Tht",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1635507960062578688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1635507900725731300,
+					"id_str": "1635507900725731328",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FrJ9xToaIAARIVc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrJ9xToaIAARIVc.jpg",
+					"url": "https://t.co/cojAoU9Tht",
+					"display_url": "pic.twitter.com/cojAoU9Tht",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1635507960062578688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8681415,
+			"friends_count": 0,
+			"listed_count": 8125,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1678287822",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8767,
+		"favorite_count": 20662,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LISA 0327 PHOTOBOOK VOL. 4\nPre-order notice has been uploaded.\n\n▶️https://t.co/M632hX2xxB… \n\n#리사 #BLACKPINK #블랙핑크 #0327 #PHOTOBOOK #VOL4 #20230327 #RELEASE #YG https://t.co/cojAoU9Tht"
+	},
+	{
 		"created_at": "Tue Mar 14 03:24:11 +0000 2023",
 		"id": 1635475879378980900,
 		"id_str": "1635481926646497280",
