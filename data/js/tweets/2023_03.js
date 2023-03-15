@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Wed Mar 15 15:24:32 +0000 2023",
+		"id": 1636019425978597400,
+		"id_str": "1636025595975946242",
+		"full_text": "#JISOO VISUAL FILM #1 \n\nFIRST SINGLE ALBUM [ME]\n✅2023.03.31 12AM (EDT)&amp;1PM (KST)\n\n🎬YouTube: https://t.co/X1hW3WE49q\n\n#JISOO #지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #VISUALFILM #20230331_12amEDT #20230331_1pmKST #RELEASE #YG https://t.co/NRicvFLUE2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JISOO",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						149,
+						166
+					]
+				},
+				{
+					"text": "ME",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "VISUALFILM",
+					"indices": [
+						171,
+						182
+					]
+				},
+				{
+					"text": "20230331_12amEDT",
+					"indices": [
+						183,
+						200
+					]
+				},
+				{
+					"text": "20230331_1pmKST",
+					"indices": [
+						201,
+						217
+					]
+				},
+				{
+					"text": "RELEASE",
+					"indices": [
+						218,
+						226
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						227,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X1hW3WE49q",
+					"expanded_url": "https://youtu.be/XYjVwg63Z7U",
+					"display_url": "youtu.be/XYjVwg63Z7U",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1636016148151148500,
+					"id_str": "1636016148151148546",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1636016148151148546/pu/img/YCnmGo26wWuzMkHx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1636016148151148546/pu/img/YCnmGo26wWuzMkHx.jpg",
+					"url": "https://t.co/NRicvFLUE2",
+					"display_url": "pic.twitter.com/NRicvFLUE2",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1636019425978597377/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1636016148151148500,
+					"id_str": "1636016148151148546",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1636016148151148546/pu/img/YCnmGo26wWuzMkHx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1636016148151148546/pu/img/YCnmGo26wWuzMkHx.jpg",
+					"url": "https://t.co/NRicvFLUE2",
+					"display_url": "pic.twitter.com/NRicvFLUE2",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1636019425978597377/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26326,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1636016148151148546/pu/vid/480x270/cZRGvE4ghfT28AaL.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1636016148151148546/pu/pl/R0dfPm1ms9iOzjrL.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1636016148151148546/pu/vid/1280x720/Q5fOA8LzznNsobdg.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1636016148151148546/pu/vid/640x360/vsH8ENqR5Vg07I41.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8691698,
+			"friends_count": 0,
+			"listed_count": 8135,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1678287822",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50212,
+		"favorite_count": 87877,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#JISOO VISUAL FILM #1 \n\nFIRST SINGLE ALBUM [ME]\n✅2023.03.31 12AM (EDT)&amp;1PM (KST)\n\n🎬YouTube: https://t.co/X1hW3WE49q\n\n#JISOO #지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #VISUALFILM #20230331_12amEDT #20230331_1pmKST #RELEASE #YG https://t.co/NRicvFLUE2"
+	},
+	{
 		"created_at": "Wed Mar 15 12:14:32 +0000 2023",
 		"id": 1635974122248503300,
 		"id_str": "1635977778431500288",
