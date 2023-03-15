@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Wed Mar 15 09:14:29 +0000 2023",
+		"id": 1635928825086238700,
+		"id_str": "1635932470376816640",
+		"full_text": "국내외 셀럽들이 모두 빠진 헤어? 🎀 러블리 힙의 정석, '리본' 헤어 스타일링. \n\n#제니 #Jennie #헤일리비버 #HaileyBieber #뉴진스 #민지 #NewJeans #르세라핌 #은채 #LESSERAFIM #강혜원 \nhttps://t.co/Grfk9wE9oL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제니",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "Jennie",
+					"indices": [
+						52,
+						59
+					]
+				},
+				{
+					"text": "헤일리비버",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "HaileyBieber",
+					"indices": [
+						67,
+						80
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "민지",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						90,
+						99
+					]
+				},
+				{
+					"text": "르세라핌",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "은채",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "LESSERAFIM",
+					"indices": [
+						110,
+						121
+					]
+				},
+				{
+					"text": "강혜원",
+					"indices": [
+						122,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Grfk9wE9oL",
+					"expanded_url": "https://www.allurekorea.com/?p=198719&ddw=139684&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=198719&ddw=…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38071,
+			"friends_count": 1,
+			"listed_count": 300,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1676687083",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "국내외 셀럽들이 모두 빠진 헤어? 🎀 러블리 힙의 정석, '리본' 헤어 스타일링. \n\n#제니 #Jennie #헤일리비버 #HaileyBieber #뉴진스 #민지 #NewJeans #르세라핌 #은채 #LESSERAFIM #강혜원 \nhttps://t.co/Grfk9wE9oL"
+	},
+	{
 		"created_at": "Wed Mar 15 05:24:37 +0000 2023",
 		"id": 1635863392119402500,
 		"id_str": "1635874622703820800",
