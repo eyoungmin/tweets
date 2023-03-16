@@ -1,6 +1,347 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Thu Mar 16 09:39:00 +0000 2023",
+		"id": 1636291708198723600,
+		"id_str": "1636301025781903365",
+		"full_text": "코드쿤스트 [Remember Archive] 앨범이 발매되었습니다. 백예린이 피처링과 작사, 작곡으로 참여한 9번, 12번 곡을 지금 바로 음원사이트에서 감상하세요! https://t.co/7S42i0yIUA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7S42i0yIUA",
+					"expanded_url": "https://twitter.com/aomgofficial/status/1636291214462025728",
+					"display_url": "twitter.com/aomgofficial/s…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53818,
+			"friends_count": 2,
+			"listed_count": 254,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1608765016316182532/etM2nxei_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1608765016316182532/etM2nxei_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1672394456",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1636291214462025700,
+		"quoted_status_id_str": "1636291214462025728",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7S42i0yIUA",
+			"expanded": "https://twitter.com/aomgofficial/status/1636291214462025728",
+			"display": "twitter.com/aomgofficial/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 16 09:00:01 +0000 2023",
+			"id": 1636291214462025700,
+			"id_str": "1636291214462025728",
+			"full_text": "[코드 쿤스트 (CODE KUNST)]\nㅤ\n코드 쿤스트 (CODE KUNST), [Remember Archive]\nhttps://t.co/8DmCqrqhB0\nㅤ\n코드 쿤스트의 정규 5집 [Remember Archive]가 국내외 전 온라인 음원사이트를 통해 발매되었습니다.\nㅤ\n-\n@code_kunst #CODEKUNST #코드쿤스트\n#RememberArchive https://t.co/YGXUunDd4l",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				203
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CODEKUNST",
+						"indices": [
+							169,
+							179
+						]
+					},
+					{
+						"text": "코드쿤스트",
+						"indices": [
+							180,
+							186
+						]
+					},
+					{
+						"text": "RememberArchive",
+						"indices": [
+							187,
+							203
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "code_kunst",
+						"name": "CODE KUNST",
+						"id": 355654196,
+						"id_str": "355654196",
+						"indices": [
+							157,
+							168
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8DmCqrqhB0",
+						"expanded_url": "http://aomgofficial.lnk.to/RememberArchive",
+						"display_url": "aomgofficial.lnk.to/RememberArchive",
+						"indices": [
+							64,
+							87
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1636278311713378300,
+						"id_str": "1636278311713378304",
+						"indices": [
+							204,
+							227
+						],
+						"media_url": "http://pbs.twimg.com/media/FrU6dINaEAA3oru.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FrU6dINaEAA3oru.jpg",
+						"url": "https://t.co/YGXUunDd4l",
+						"display_url": "pic.twitter.com/YGXUunDd4l",
+						"expanded_url": "https://twitter.com/AOMGOFFICIAL/status/1636291214462025728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1636278311713378300,
+						"id_str": "1636278311713378304",
+						"indices": [
+							204,
+							227
+						],
+						"media_url": "http://pbs.twimg.com/media/FrU6dINaEAA3oru.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FrU6dINaEAA3oru.jpg",
+						"url": "https://t.co/YGXUunDd4l",
+						"display_url": "pic.twitter.com/YGXUunDd4l",
+						"expanded_url": "https://twitter.com/AOMGOFFICIAL/status/1636291214462025728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1559687305,
+				"id_str": "1559687305",
+				"name": "aomgofficial",
+				"screen_name": "AOMGOFFICIAL",
+				"location": "",
+				"description": "Contact/Booking: info@aomgofficial.com\n코드 쿤스트 (CODE KUNST), 'Remember Archive'↙\nhttps://t.co/yXUG6k7jz8",
+				"url": "https://t.co/I8LvA1i0Dk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/I8LvA1i0Dk",
+								"expanded_url": "http://www.aomgofficial.com",
+								"display_url": "aomgofficial.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/yXUG6k7jz8",
+								"expanded_url": "http://aomgofficial.lnk.to/RememberArchive",
+								"display_url": "aomgofficial.lnk.to/RememberArchive",
+								"indices": [
+									80,
+									103
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 428206,
+				"friends_count": 21,
+				"listed_count": 935,
+				"created_at": "Mon Jul 01 04:52:29 +0000 2013",
+				"favourites_count": 13,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5194,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1584922677340348417/fdlG7_lo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1584922677340348417/fdlG7_lo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1559687305/1512991073",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 224,
+			"favorite_count": 351,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 157,
+		"favorite_count": 180,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코드쿤스트 [Remember Archive] 앨범이 발매되었습니다. 백예린이 피처링과 작사, 작곡으로 참여한 9번, 12번 곡을 지금 바로 음원사이트에서 감상하세요! https://t.co/7S42i0yIUA"
+	},
+	{
 		"created_at": "Thu Mar 16 06:37:51 +0000 2023",
 		"id": 1636245940909797400,
 		"id_str": "1636255438600646656",
