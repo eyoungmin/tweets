@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Thu Mar 16 06:37:51 +0000 2023",
+		"id": 1636245940909797400,
+		"id_str": "1636255438600646656",
+		"full_text": "✅ Beyond LIVE\n\n🔗 https://t.co/SHkCacqzzl\n\n🎫 Ticket Sales Period\n\n- 2023년 3월 16일(목) 3PM (KST) ~ 2023년 4월 2일(일) 5PM (KST)\n\n- From March 16, 2023 (THU) 3PM to April 2, 2023 (SUN) 5PM (KST)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SHkCacqzzl",
+					"expanded_url": "http://bit.ly/3JoueZ4",
+					"display_url": "bit.ly/3JoueZ4",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1636245938640687000,
+		"in_reply_to_status_id_str": "1636245938640687104",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5885215,
+			"friends_count": 2,
+			"listed_count": 11670,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 259,
+		"favorite_count": 838,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✅ Beyond LIVE\n\n🔗 https://t.co/SHkCacqzzl\n\n🎫 Ticket Sales Period\n\n- 2023년 3월 16일(목) 3PM (KST) ~ 2023년 4월 2일(일) 5PM (KST)\n\n- From March 16, 2023 (THU) 3PM to April 2, 2023 (SUN) 5PM (KST)"
+	},
+	{
+		"created_at": "Thu Mar 16 06:37:51 +0000 2023",
+		"id": 1636245943438946300,
+		"id_str": "1636255437203939328",
+		"full_text": "✅ SMTOWN &amp;STORE \n-PC\nKO: https://t.co/C7YzanMawM\nEN: https://t.co/H7Ie93s796\nJP: https://t.co/qETLFm8wgS\nCN: https://t.co/9hIES2klok\n\n🎫 Ticket Sales Period\n\n- 3월 16일(목) 3PM (KST) ~ 4월 2일(일) 4PM (KST)\n\n- From March 16 (THU) 3PM to April 2 (SUN) 4PM (KST)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C7YzanMawM",
+					"expanded_url": "https://bit.ly/3lc7pA0",
+					"display_url": "bit.ly/3lc7pA0",
+					"indices": [
+						29,
+						52
+					]
+				},
+				{
+					"url": "https://t.co/H7Ie93s796",
+					"expanded_url": "https://bit.ly/3ZNVw2m",
+					"display_url": "bit.ly/3ZNVw2m",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/qETLFm8wgS",
+					"expanded_url": "https://bit.ly/3JzqsMX",
+					"display_url": "bit.ly/3JzqsMX",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/9hIES2klok",
+					"expanded_url": "https://bit.ly/3mNGAT6",
+					"display_url": "bit.ly/3mNGAT6",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1636245940909797400,
+		"in_reply_to_status_id_str": "1636245940909797377",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5885215,
+			"friends_count": 2,
+			"listed_count": 11670,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 194,
+		"favorite_count": 664,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✅ SMTOWN &amp;STORE \n-PC\nKO: https://t.co/C7YzanMawM\nEN: https://t.co/H7Ie93s796\nJP: https://t.co/qETLFm8wgS\nCN: https://t.co/9hIES2klok\n\n🎫 Ticket Sales Period\n\n- 3월 16일(목) 3PM (KST) ~ 4월 2일(일) 4PM (KST)\n\n- From March 16 (THU) 3PM to April 2 (SUN) 4PM (KST)"
+	},
+	{
 		"created_at": "Thu Mar 16 05:14:44 +0000 2023",
 		"id": 1636222407542472700,
 		"id_str": "1636234521606512641",
