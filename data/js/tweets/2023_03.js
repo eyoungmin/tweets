@@ -1,6 +1,158 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Fri Mar 17 02:40:13 +0000 2023",
+		"id": 1636548495720202200,
+		"id_str": "1636558025140969474",
+		"full_text": "[캐릭터 티저] 내 눈치 보라 그래😏 제2의 백사장을 꿈꾸는 장사천재들\n\n👉🏻 https://t.co/sVO1dfSmPP\n👉🏻  https://t.co/OtcRCiResC\n\n#권유리 #KWONYURI\n#소녀시대 #GirlsGeneration\n#장사천재백사장",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권유리",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						102,
+						111
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						118,
+						134
+					]
+				},
+				{
+					"text": "장사천재백사장",
+					"indices": [
+						135,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sVO1dfSmPP",
+					"expanded_url": "https://tv.naver.com/v/34059296",
+					"display_url": "tv.naver.com/v/34059296",
+					"indices": [
+						44,
+						67
+					]
+				},
+				{
+					"url": "https://t.co/OtcRCiResC",
+					"expanded_url": "https://youtu.be/j5G9-aJtW9s",
+					"display_url": "youtu.be/j5G9-aJtW9s",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3909109,
+			"friends_count": 5,
+			"listed_count": 6374,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 694,
+		"favorite_count": 1427,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[캐릭터 티저] 내 눈치 보라 그래😏 제2의 백사장을 꿈꾸는 장사천재들\n\n👉🏻 https://t.co/sVO1dfSmPP\n👉🏻  https://t.co/OtcRCiResC\n\n#권유리 #KWONYURI\n#소녀시대 #GirlsGeneration\n#장사천재백사장"
+	},
+	{
 		"created_at": "Thu Mar 16 09:39:00 +0000 2023",
 		"id": 1636291708198723600,
 		"id_str": "1636301025781903365",
