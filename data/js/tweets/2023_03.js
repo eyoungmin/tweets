@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Sat Mar 18 09:30:23 +0000 2023",
+		"id": 1637016001773727700,
+		"id_str": "1637023633548759042",
+		"full_text": "한혜진이 식욕 터질 때 먹는 단백질 음식은? 여자 연예인들의 다이어트 팁.\n\n#한혜진 #소녀시대 #수영 #한효주 #진서연\nhttps://t.co/RHFilPZEVd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "한혜진",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "수영",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "한효주",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						63,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RHFilPZEVd",
+					"expanded_url": "https://www.allurekorea.com/2022/11/10/%eb%8b%a4%ec%9d%b4%ec%96%b4%ed%8a%b8-%ec%84%b1%ea%b3%b5-%ec%97%ac%ec%9e%90%ec%97%b0%ec%98%88%ec%9d%b8%ec%9d%98-%ea%b3%b5%ed%86%b5%ec%a0%90-3/?ddw=128760&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2022/11/10/%eb…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38085,
+			"friends_count": 1,
+			"listed_count": 300,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1679021456",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한혜진이 식욕 터질 때 먹는 단백질 음식은? 여자 연예인들의 다이어트 팁.\n\n#한혜진 #소녀시대 #수영 #한효주 #진서연\nhttps://t.co/RHFilPZEVd"
+	},
+	{
 		"created_at": "Fri Mar 17 12:25:06 +0000 2023",
 		"id": 1636698913666211800,
 		"id_str": "1636705214081245187",
