@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Mon Mar 20 05:25:48 +0000 2023",
+		"id": 1637680367544205300,
+		"id_str": "1637686857637978112",
+		"full_text": "Welcome on board! 블랙핑크가 대한항공에 탑승한 여러분을 환영합니다\n\n#BLACKPINK WORLD TOUR [BORN PINK]의 공식 항공사, 대한항공의 특별 기내 웰컴영상을 만나보세요!\n\n#BLACKPINK_WORLDTOUR #BLACKPINK_BORNPINK #OFFICIAL_AIRLINE #KoreanAir #WELCOME_VIDEO #YG https://t.co/mw5MUUV6Rp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						46,
+						56
+					]
+				},
+				{
+					"text": "BLACKPINK_WORLDTOUR",
+					"indices": [
+						115,
+						135
+					]
+				},
+				{
+					"text": "BLACKPINK_BORNPINK",
+					"indices": [
+						136,
+						155
+					]
+				},
+				{
+					"text": "OFFICIAL_AIRLINE",
+					"indices": [
+						156,
+						173
+					]
+				},
+				{
+					"text": "KoreanAir",
+					"indices": [
+						174,
+						184
+					]
+				},
+				{
+					"text": "WELCOME_VIDEO",
+					"indices": [
+						185,
+						199
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						200,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1637629689165676500,
+					"id_str": "1637629689165676545",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FroH8F7agAA1Fh0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FroH8F7agAA1Fh0.jpg",
+					"url": "https://t.co/mw5MUUV6Rp",
+					"display_url": "pic.twitter.com/mw5MUUV6Rp",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1637680367544205318/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1637629689165676500,
+					"id_str": "1637629689165676545",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FroH8F7agAA1Fh0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FroH8F7agAA1Fh0.jpg",
+					"url": "https://t.co/mw5MUUV6Rp",
+					"display_url": "pic.twitter.com/mw5MUUV6Rp",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1637680367544205318/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 73706,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1637629689165676545/pl/glPNrwU0RxcsnUI7.m3u8?tag=16&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1637629689165676545/vid/640x360/XqIcvdtdQUeq-uAu.mp4?tag=16"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1637629689165676545/vid/1280x720/8o32PO6Ja7ma1Urw.mp4?tag=16"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1637629689165676545/vid/480x270/f8_XG0gj54U0r9dB.mp4?tag=16"
+							},
+							{
+								"bitrate": 10368000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1637629689165676545/vid/1920x1080/4jcRW8JBYuPQDt_X.mp4?tag=16"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8910759,
+			"friends_count": 10,
+			"listed_count": 9490,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2209,
+		"favorite_count": 6603,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Welcome on board! 블랙핑크가 대한항공에 탑승한 여러분을 환영합니다\n\n#BLACKPINK WORLD TOUR [BORN PINK]의 공식 항공사, 대한항공의 특별 기내 웰컴영상을 만나보세요!\n\n#BLACKPINK_WORLDTOUR #BLACKPINK_BORNPINK #OFFICIAL_AIRLINE #KoreanAir #WELCOME_VIDEO #YG https://t.co/mw5MUUV6Rp"
+	},
+	{
 		"created_at": "Mon Mar 20 03:15:48 +0000 2023",
 		"id": 1637652354479820800,
 		"id_str": "1637654143849431040",
