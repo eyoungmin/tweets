@@ -1,6 +1,158 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Tue Mar 21 06:41:13 +0000 2023",
+		"id": 1638057706279035000,
+		"id_str": "1638068227350700032",
+		"full_text": "[하이라이트] Aㅏ..백사장님😫 한식 불모지에 총출동한 장사천재와 직원들\n\n👉🏻 https://t.co/Zt2qukipB7\n👉🏻 https://t.co/TSQAC57M0M\n\n#권유리 #KWONYURI\n#소녀시대 #GirlsGeneration\n#장사천재백사장",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권유리",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						102,
+						111
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						118,
+						134
+					]
+				},
+				{
+					"text": "장사천재백사장",
+					"indices": [
+						135,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Zt2qukipB7",
+					"expanded_url": "https://naver.me/5bdTP4nJ",
+					"display_url": "naver.me/5bdTP4nJ",
+					"indices": [
+						45,
+						68
+					]
+				},
+				{
+					"url": "https://t.co/TSQAC57M0M",
+					"expanded_url": "https://youtu.be/8JgfE9Vfn1Q",
+					"display_url": "youtu.be/8JgfE9Vfn1Q",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3908184,
+			"friends_count": 5,
+			"listed_count": 6379,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 656,
+		"favorite_count": 1488,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[하이라이트] Aㅏ..백사장님😫 한식 불모지에 총출동한 장사천재와 직원들\n\n👉🏻 https://t.co/Zt2qukipB7\n👉🏻 https://t.co/TSQAC57M0M\n\n#권유리 #KWONYURI\n#소녀시대 #GirlsGeneration\n#장사천재백사장"
+	},
+	{
 		"created_at": "Mon Mar 20 23:26:00 +0000 2023",
 		"id": 1637952162843046000,
 		"id_str": "1637958699674116096",
