@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Mon Mar 20 23:26:00 +0000 2023",
+		"id": 1637952162843046000,
+		"id_str": "1637958699674116096",
+		"full_text": "#JENNIE ‘SOLO’ M/V HITS 900 MILLION VIEWS @Youtube\n\nBLINKs worldwide, thank you so much!\n\n‘SOLO’ M/V\n🎥https://t.co/bngYBZDA7a\n\n#JENNIE #제니 #BLACKPINK #블랙핑크 #SOLO #MV #900MILLION #YOUTUBE #YG https://t.co/jgbEflliAm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JENNIE",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						127,
+						134
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						139,
+						149
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "SOLO",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						162,
+						165
+					]
+				},
+				{
+					"text": "900MILLION",
+					"indices": [
+						166,
+						177
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						178,
+						186
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						187,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						42,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bngYBZDA7a",
+					"expanded_url": "https://youtu.be/b73BI9eUkjM",
+					"display_url": "youtu.be/b73BI9eUkjM",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1637823092788723700,
+					"id_str": "1637823092788723715",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/Frq3bOKagAMKcz4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Frq3bOKagAMKcz4.jpg",
+					"url": "https://t.co/jgbEflliAm",
+					"display_url": "pic.twitter.com/jgbEflliAm",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1637952162843045888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1637823092788723700,
+					"id_str": "1637823092788723715",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/Frq3bOKagAMKcz4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Frq3bOKagAMKcz4.jpg",
+					"url": "https://t.co/jgbEflliAm",
+					"display_url": "pic.twitter.com/jgbEflliAm",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1637952162843045888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8732599,
+			"friends_count": 0,
+			"listed_count": 8144,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1679238753",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9636,
+		"favorite_count": 29639,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#JENNIE ‘SOLO’ M/V HITS 900 MILLION VIEWS @Youtube\n\nBLINKs worldwide, thank you so much!\n\n‘SOLO’ M/V\n🎥https://t.co/bngYBZDA7a\n\n#JENNIE #제니 #BLACKPINK #블랙핑크 #SOLO #MV #900MILLION #YOUTUBE #YG https://t.co/jgbEflliAm"
+	},
+	{
 		"created_at": "Mon Mar 20 19:50:50 +0000 2023",
 		"id": 1637899366404096000,
 		"id_str": "1637904551930888196",
