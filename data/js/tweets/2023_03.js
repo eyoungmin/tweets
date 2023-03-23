@@ -1,6 +1,465 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Thu Mar 23 06:39:34 +0000 2023",
+		"id": 1638782662562431000,
+		"id_str": "1638792585031581696",
+		"full_text": "2023 Red Velvet 4th Concert : R to V\n\nOFFICIAL MD ONLINE SALES NOTICE\n▶ Sales Day\n\n1st MD LINE UP\n2023. 03. 24 (FRI) 15:00 ~ 2023. 04. 03 (MON) 23:59 [KST]\n\n2nd MD LINE UP\n2023. 04. 03 (MON) 15:00 ~ 2023. 04. 10 (MON) 23:59 [KST] https://t.co/M1mhqxpKHs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1638773112232882200,
+					"id_str": "1638773112232882176",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/Fr4XdoYaMAAAHhG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fr4XdoYaMAAAHhG.jpg",
+					"url": "https://t.co/M1mhqxpKHs",
+					"display_url": "pic.twitter.com/M1mhqxpKHs",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1638782662562430976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 280,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 478,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 159,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1638773112232882200,
+					"id_str": "1638773112232882176",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/Fr4XdoYaMAAAHhG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fr4XdoYaMAAAHhG.jpg",
+					"url": "https://t.co/M1mhqxpKHs",
+					"display_url": "pic.twitter.com/M1mhqxpKHs",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1638782662562430976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 280,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 478,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 159,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5889003,
+			"friends_count": 2,
+			"listed_count": 11686,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1519,
+		"favorite_count": 3245,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2023 Red Velvet 4th Concert : R to V\n\nOFFICIAL MD ONLINE SALES NOTICE\n▶ Sales Day\n\n1st MD LINE UP\n2023. 03. 24 (FRI) 15:00 ~ 2023. 04. 03 (MON) 23:59 [KST]\n\n2nd MD LINE UP\n2023. 04. 03 (MON) 15:00 ~ 2023. 04. 10 (MON) 23:59 [KST] https://t.co/M1mhqxpKHs"
+	},
+	{
+		"created_at": "Thu Mar 23 06:39:33 +0000 2023",
+		"id": 1638782665032880000,
+		"id_str": "1638792584071102464",
+		"full_text": "▶ Online Store\nSMTOWN &amp;STORE : https://t.co/InoTF40iFN\nSM Global Shop : https://t.co/ZLGZI335Lq\nSM True Store : https://t.co/AWbZ806Rz1\nYIZHIYU : https://t.co/cW6Q2K44lD https://t.co/TXKGKk0az1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/InoTF40iFN",
+					"expanded_url": "http://smtownandstore.com/",
+					"display_url": "smtownandstore.com",
+					"indices": [
+						35,
+						58
+					]
+				},
+				{
+					"url": "https://t.co/ZLGZI335Lq",
+					"expanded_url": "http://smglobalshop.com",
+					"display_url": "smglobalshop.com",
+					"indices": [
+						76,
+						99
+					]
+				},
+				{
+					"url": "https://t.co/AWbZ806Rz1",
+					"expanded_url": "http://shp.ee/m8urbtz",
+					"display_url": "shp.ee/m8urbtz",
+					"indices": [
+						116,
+						139
+					]
+				},
+				{
+					"url": "https://t.co/cW6Q2K44lD",
+					"expanded_url": "http://withfans.com/web/index.html#/",
+					"display_url": "withfans.com/web/index.html…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1638773198211911700,
+					"id_str": "1638773198211911681",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/Fr4XioraEAE0O8G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fr4XioraEAE0O8G.jpg",
+					"url": "https://t.co/TXKGKk0az1",
+					"display_url": "pic.twitter.com/TXKGKk0az1",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1638782665032880128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 269,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 460,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 153,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1638773198211911700,
+					"id_str": "1638773198211911681",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/Fr4XioraEAE0O8G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fr4XioraEAE0O8G.jpg",
+					"url": "https://t.co/TXKGKk0az1",
+					"display_url": "pic.twitter.com/TXKGKk0az1",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1638782665032880128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 269,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 460,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 153,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1638773198312607700,
+					"id_str": "1638773198312607744",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/Fr4XipDakAAQJv0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fr4XipDakAAQJv0.jpg",
+					"url": "https://t.co/TXKGKk0az1",
+					"display_url": "pic.twitter.com/TXKGKk0az1",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1638782665032880128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 124,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 219,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 374,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1638773198459379700,
+					"id_str": "1638773198459379712",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/Fr4XipmaIAAmqli.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fr4XipmaIAAmqli.jpg",
+					"url": "https://t.co/TXKGKk0az1",
+					"display_url": "pic.twitter.com/TXKGKk0az1",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1638782665032880128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 255,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 144,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 435,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1638782662562431000,
+		"in_reply_to_status_id_str": "1638782662562430976",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5889003,
+			"friends_count": 2,
+			"listed_count": 11686,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 729,
+		"favorite_count": 1272,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "▶ Online Store\nSMTOWN &amp;STORE : https://t.co/InoTF40iFN\nSM Global Shop : https://t.co/ZLGZI335Lq\nSM True Store : https://t.co/AWbZ806Rz1\nYIZHIYU : https://t.co/cW6Q2K44lD https://t.co/TXKGKk0az1"
+	},
+	{
 		"created_at": "Thu Mar 23 05:16:40 +0000 2023",
 		"id": 1638767531929268200,
 		"id_str": "1638771724090216448",
