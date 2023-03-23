@@ -1,6 +1,170 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Thu Mar 23 07:26:47 +0000 2023",
+		"id": 1638797727310966800,
+		"id_str": "1638804468874768385",
+		"full_text": "새로운 계절이 주는 설렘! 여자 연예인들의 봄 날씨 코디 5.\n\n#레드벨벳 #조이 #르세라핌 #사쿠라 #아이브 #안유진 #김민주 #신예은\nhttps://t.co/AxO1ek7BYL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						36,
+						41
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "르세라핌",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "사쿠라",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "아이브",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "안유진",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "김민주",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "신예은",
+					"indices": [
+						72,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AxO1ek7BYL",
+					"expanded_url": "https://www.allurekorea.com/2023/03/06/thisweek-27/?ddw=139216&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2023/03/06/thi…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38054,
+			"friends_count": 1,
+			"listed_count": 299,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 772,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1679021456",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "새로운 계절이 주는 설렘! 여자 연예인들의 봄 날씨 코디 5.\n\n#레드벨벳 #조이 #르세라핌 #사쿠라 #아이브 #안유진 #김민주 #신예은\nhttps://t.co/AxO1ek7BYL"
+	},
+	{
 		"created_at": "Thu Mar 23 06:39:34 +0000 2023",
 		"id": 1638782662562431000,
 		"id_str": "1638792585031581696",
