@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Fri Mar 24 05:24:40 +0000 2023",
+		"id": 1639129916175433700,
+		"id_str": "1639136123124592640",
+		"full_text": "김윤아 라이브앨범\n\n◊ 행복한 사랑은 없네 ◊\n𝐼𝑙 𝑛’𝑦 𝑎 𝑝𝑎𝑠 𝑑’𝑎𝑚𝑜𝑢𝑟 ℎ𝑒𝑢𝑟𝑒𝑢𝑥\n\n𝟮𝟬𝟮𝟯. 𝟰. 𝟳. 𝗙𝗿𝗶 𝟲𝗽𝗺 𝖱𝖾𝗅𝖾𝖺𝗌𝖾\n\n#김윤아 #라이브앨범\n#행복한사랑은없네 https://t.co/MtcvLbRuP0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김윤아",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "라이브앨범",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "행복한사랑은없네",
+					"indices": [
+						97,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1639097857058934800,
+					"id_str": "1639097857058934784",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/Fr8-0RIaEAASGkg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fr8-0RIaEAASGkg.jpg",
+					"url": "https://t.co/MtcvLbRuP0",
+					"display_url": "pic.twitter.com/MtcvLbRuP0",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1639129916175433733/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1639097857058934800,
+					"id_str": "1639097857058934784",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/Fr8-0RIaEAASGkg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fr8-0RIaEAASGkg.jpg",
+					"url": "https://t.co/MtcvLbRuP0",
+					"display_url": "pic.twitter.com/MtcvLbRuP0",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1639129916175433733/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "▼ 𝙅𝗔𝗨𝗥𝗜𝗠 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗔𝗹𝗯𝘂𝗺 【 𝗠𝗘𝗥𝗥𝗬 𝗦𝗣𝗢𝗢𝗞𝗬 𝗫-𝗠𝗔𝗦 】 예약 판매 오픈",
+			"url": "https://t.co/ALtoOX8MmM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ALtoOX8MmM",
+							"expanded_url": "http://inpk.kr/sexB",
+							"display_url": "inpk.kr/sexB",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4852,
+			"friends_count": 5,
+			"listed_count": 30,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1669787144",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 108,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김윤아 라이브앨범\n\n◊ 행복한 사랑은 없네 ◊\n𝐼𝑙 𝑛’𝑦 𝑎 𝑝𝑎𝑠 𝑑’𝑎𝑚𝑜𝑢𝑟 ℎ𝑒𝑢𝑟𝑒𝑢𝑥\n\n𝟮𝟬𝟮𝟯. 𝟰. 𝟳. 𝗙𝗿𝗶 𝟲𝗽𝗺 𝖱𝖾𝗅𝖾𝖺𝗌𝖾\n\n#김윤아 #라이브앨범\n#행복한사랑은없네 https://t.co/MtcvLbRuP0"
+	},
+	{
 		"created_at": "Fri Mar 24 02:16:56 +0000 2023",
 		"id": 1639087336486219800,
 		"id_str": "1639088879973339138",
