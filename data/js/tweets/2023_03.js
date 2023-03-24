@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Fri Mar 24 10:17:02 +0000 2023",
+		"id": 1639208323823321000,
+		"id_str": "1639209702017110020",
+		"full_text": "블랙핑크가 또 '케이팝 최초' 타이틀을 거머쥐었다. https://t.co/4oKvskGpne #블랙핑크 #BLACKPINK #JENNIE #JISOO #LISA #ROSE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						59,
+						69
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						70,
+						77
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "ROSE",
+					"indices": [
+						91,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4oKvskGpne",
+					"expanded_url": "https://www.gqkorea.co.kr/2023/03/24/%eb%b8%94%eb%9e%99%ed%95%91%ed%81%ac-%ed%8c%8c%eb%a6%ac-%ec%95%99%ec%bd%94%eb%a5%b4-%ec%bd%98%ec%84%9c%ed%8a%b8%ea%b0%80-%ed%8a%b9%eb%b3%84%ed%95%9c-%ec%9d%b4%ec%9c%a0/",
+					"display_url": "gqkorea.co.kr/2023/03/24/%eb…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262470,
+			"id_str": "78262470",
+			"name": "GQ KOREA",
+			"screen_name": "GQKOREA",
+			"location": "Seoul, Korea",
+			"description": "Be a Good Man, Don't be Quiet.",
+			"url": "https://t.co/pJOMTcz802",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pJOMTcz802",
+							"expanded_url": "http://www.gqkorea.co.kr",
+							"display_url": "gqkorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150778,
+			"friends_count": 0,
+			"listed_count": 226,
+			"created_at": "Tue Sep 29 09:20:13 +0000 2009",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2743,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262470/1679537457",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블랙핑크가 또 '케이팝 최초' 타이틀을 거머쥐었다. https://t.co/4oKvskGpne #블랙핑크 #BLACKPINK #JENNIE #JISOO #LISA #ROSE"
+	},
+	{
 		"created_at": "Fri Mar 24 07:24:41 +0000 2023",
 		"id": 1639160710235328500,
 		"id_str": "1639166326244798464",
