@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Fri Mar 24 07:24:41 +0000 2023",
+		"id": 1639160710235328500,
+		"id_str": "1639166326244798464",
+		"full_text": "김윤아 콘서트\n\n◊ 행복한 사랑은 없네 ◊\n𝐼𝑙 𝑛’𝑦 𝑎 𝑝𝑎𝑠 𝑑’𝑎𝑚𝑜𝑢𝑟 ℎ𝑒𝑢𝑟𝑒𝑢𝑥\n\n⧫ 일시\n𝟤𝟢𝟤𝟥. 𝟦. 𝟤𝟣 / 𝟤𝟤 / 𝟤𝟥\n𝟤𝟢𝟤𝟥. 𝟦. 𝟤𝟪 / 𝟤𝟫 / 𝟥𝟢\n𝖥𝗋𝗂 𝟪𝗉𝗆 / 𝖲𝖺𝗍 𝟨𝗉𝗆 / 𝖲𝗎𝗇 𝟧𝗉𝗆\n\n⧫ 장소\n이화여자대학교 삼성홀 https://t.co/r9S8CtMLFC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1639160208118419500,
+					"id_str": "1639160208118419456",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/Fr93hk7akAAeWml.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fr93hk7akAAeWml.jpg",
+					"url": "https://t.co/r9S8CtMLFC",
+					"display_url": "pic.twitter.com/r9S8CtMLFC",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1639160710235328515/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 852,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1208,
+							"h": 1702,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1639160208118419500,
+					"id_str": "1639160208118419456",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/Fr93hk7akAAeWml.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fr93hk7akAAeWml.jpg",
+					"url": "https://t.co/r9S8CtMLFC",
+					"display_url": "pic.twitter.com/r9S8CtMLFC",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1639160710235328515/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 852,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1208,
+							"h": 1702,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림 공식 트위터\n𝗝𝗔𝗨𝗥𝗜𝗠 𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 𝖳𝗐𝗂𝗍𝗍𝖾𝗋",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4854,
+			"friends_count": 5,
+			"listed_count": 30,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1669787144",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김윤아 콘서트\n\n◊ 행복한 사랑은 없네 ◊\n𝐼𝑙 𝑛’𝑦 𝑎 𝑝𝑎𝑠 𝑑’𝑎𝑚𝑜𝑢𝑟 ℎ𝑒𝑢𝑟𝑒𝑢𝑥\n\n⧫ 일시\n𝟤𝟢𝟤𝟥. 𝟦. 𝟤𝟣 / 𝟤𝟤 / 𝟤𝟥\n𝟤𝟢𝟤𝟥. 𝟦. 𝟤𝟪 / 𝟤𝟫 / 𝟥𝟢\n𝖥𝗋𝗂 𝟪𝗉𝗆 / 𝖲𝖺𝗍 𝟨𝗉𝗆 / 𝖲𝗎𝗇 𝟧𝗉𝗆\n\n⧫ 장소\n이화여자대학교 삼성홀 https://t.co/r9S8CtMLFC"
+	},
+	{
+		"created_at": "Fri Mar 24 07:24:41 +0000 2023",
+		"id": 1639160712919654400,
+		"id_str": "1639166326181879808",
+		"full_text": "⧫ 티켓 오픈\n𝟮𝟬𝟮𝟯. 𝟯. 𝟮𝟴. 𝗧𝘂𝗲 𝟰𝗽𝗺 @인터파크 티켓\n🔗https://t.co/6rjspALz88\n\n#김윤아 #콘서트\n#행복한사랑은없네",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김윤아",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "행복한사랑은없네",
+					"indices": [
+						74,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6rjspALz88",
+					"expanded_url": "https://me2.kr/GVJem",
+					"display_url": "me2.kr/GVJem",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1639160710235328500,
+		"in_reply_to_status_id_str": "1639160710235328515",
+		"in_reply_to_user_id": 923507155860299800,
+		"in_reply_to_user_id_str": "923507155860299776",
+		"in_reply_to_screen_name": "JaurimOfficial",
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림 공식 트위터\n𝗝𝗔𝗨𝗥𝗜𝗠 𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 𝖳𝗐𝗂𝗍𝗍𝖾𝗋",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4854,
+			"friends_count": 5,
+			"listed_count": 30,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1669787144",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⧫ 티켓 오픈\n𝟮𝟬𝟮𝟯. 𝟯. 𝟮𝟴. 𝗧𝘂𝗲 𝟰𝗽𝗺 @인터파크 티켓\n🔗https://t.co/6rjspALz88\n\n#김윤아 #콘서트\n#행복한사랑은없네"
+	},
+	{
 		"created_at": "Fri Mar 24 05:24:40 +0000 2023",
 		"id": 1639129916175433700,
 		"id_str": "1639136123124592640",
