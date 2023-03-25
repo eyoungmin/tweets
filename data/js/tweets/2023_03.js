@@ -1,6 +1,371 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Sat Mar 25 14:52:02 +0000 2023",
+		"id": 1639635709249167400,
+		"id_str": "1639641296678850561",
+		"full_text": "💜 @hitsradiouk \n#TheUKChartShow https://t.co/FxMUUQLYMG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheUKChartShow",
+					"indices": [
+						16,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hitsradiouk",
+					"name": "Hits Radio",
+					"id": 119172241,
+					"id_str": "119172241",
+					"indices": [
+						2,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FxMUUQLYMG",
+					"expanded_url": "https://twitter.com/hitsradiouk/status/1639206672693616642",
+					"display_url": "twitter.com/hitsradiouk/st…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Raincatchers is yours, listen below 🌧🩰🔮 My fifth album ..P O R T R A i T S.. is out 14th July",
+			"url": "https://t.co/hvZ8uW6Pkl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hvZ8uW6Pkl",
+							"expanded_url": "https://birdy.lnk.to/Bio",
+							"display_url": "birdy.lnk.to/Bio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 305313,
+			"friends_count": 174,
+			"listed_count": 1151,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2523,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1629171726885027843/5g1NCOIB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1629171726885027843/5g1NCOIB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1677837601",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1639206672693616600,
+		"quoted_status_id_str": "1639206672693616642",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FxMUUQLYMG",
+			"expanded": "https://twitter.com/hitsradiouk/status/1639206672693616642",
+			"display": "twitter.com/hitsradiouk/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 24 10:05:00 +0000 2023",
+			"id": 1639206672693616600,
+			"id_str": "1639206672693616642",
+			"full_text": "Ahead of her upcoming album, @birdy has blessed us with a beautiful new single 'Raincatchers' 🌧️✨\n\nListen this Sunday on #TheUKChartShow 📻 https://t.co/t9mSHmrAjM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TheUKChartShow",
+						"indices": [
+							121,
+							136
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "birdy",
+						"name": "Birdy",
+						"id": 270901752,
+						"id_str": "270901752",
+						"indices": [
+							29,
+							35
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1638962021000421400,
+						"id_str": "1638962021000421377",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1638962021000421377/img/IQEi9zy-YXYPAJfU.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1638962021000421377/img/IQEi9zy-YXYPAJfU.jpg",
+						"url": "https://t.co/t9mSHmrAjM",
+						"display_url": "pic.twitter.com/t9mSHmrAjM",
+						"expanded_url": "https://twitter.com/hitsradiouk/status/1639206672693616642/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1638962021000421400,
+						"id_str": "1638962021000421377",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1638962021000421377/img/IQEi9zy-YXYPAJfU.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1638962021000421377/img/IQEi9zy-YXYPAJfU.jpg",
+						"url": "https://t.co/t9mSHmrAjM",
+						"display_url": "pic.twitter.com/t9mSHmrAjM",
+						"expanded_url": "https://twitter.com/hitsradiouk/status/1639206672693616642/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 16791,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1638962021000421377/pl/oA57kKGNH6sJwIOf.m3u8?tag=16&container=fmp4"
+								},
+								{
+									"bitrate": 8768000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1638962021000421377/vid/1080x1080/3W6R_0UZv_e7mhqu.mp4?tag=16"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1638962021000421377/vid/320x320/ylmdZORmDkfD1rTV.mp4?tag=16"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1638962021000421377/vid/720x720/5kBr5pvExkWs9Xz7.mp4?tag=16"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1638962021000421377/vid/540x540/A74X_lISJzuESYmE.mp4?tag=16"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 119172241,
+				"id_str": "119172241",
+				"name": "Hits Radio",
+				"screen_name": "hitsradiouk",
+				"location": "Manchester",
+				"description": "Fancy winning some £££? Remember don't say hello, say 'Make Me A Winner!' ⬇️",
+				"url": "https://t.co/rRAJMN4bzr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rRAJMN4bzr",
+								"expanded_url": "https://bit.ly/HitsMakeMeAWinner",
+								"display_url": "bit.ly/HitsMakeMeAWin…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 163551,
+				"friends_count": 988,
+				"listed_count": 278,
+				"created_at": "Tue Mar 02 21:56:09 +0000 2010",
+				"favourites_count": 12307,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 65566,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1608032264415322112/Rlx6Wui0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1608032264415322112/Rlx6Wui0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/119172241/1672219743",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "💜 @hitsradiouk \n#TheUKChartShow https://t.co/FxMUUQLYMG"
+	},
+	{
 		"created_at": "Sat Mar 25 09:51:59 +0000 2023",
 		"id": 1639558490229473300,
 		"id_str": "1639565786145763328",
