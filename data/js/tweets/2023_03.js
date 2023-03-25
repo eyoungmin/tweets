@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Sat Mar 25 04:17:15 +0000 2023",
+		"id": 1639478965935980500,
+		"id_str": "1639481545844203521",
+		"full_text": "31일 첫 솔로 앨범 &lt;ME&gt;로 컴백을 예고한 블랙핑크 지수 추냥이?! 😺🎀 23년도 1월, #마리끌레르 와 함께한 지수의 밸런스 게임을 다시 만나볼까요?🎈\n#블랙핑크 #지수 #Jisoo #ME @BLACKPINK\n👉 https://t.co/lojIAgIdPW https://t.co/PbQ8jaeYA5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "마리끌레르",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "Jisoo",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "ME",
+					"indices": [
+						111,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						115,
+						125
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lojIAgIdPW",
+					"expanded_url": "https://www.youtube.com/watch?v=Hus_8a7uvy0",
+					"display_url": "youtube.com/watch?v=Hus_8a…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1639177113730424800,
+					"id_str": "1639177113730424833",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fr-G5nPaIAEtfge.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fr-G5nPaIAEtfge.jpg",
+					"url": "https://t.co/PbQ8jaeYA5",
+					"display_url": "pic.twitter.com/PbQ8jaeYA5",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1639478965935980544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 416,
+							"h": 520,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 416,
+							"h": 520,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 416,
+							"h": 520,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1639177113730424800,
+					"id_str": "1639177113730424833",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fr-G5nPaIAEtfge.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fr-G5nPaIAEtfge.jpg",
+					"url": "https://t.co/PbQ8jaeYA5",
+					"display_url": "pic.twitter.com/PbQ8jaeYA5",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1639478965935980544/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 416,
+							"h": 520,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 416,
+							"h": 520,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 416,
+							"h": 520,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Fr-G5nPaIAEtfge.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 115486,
+			"friends_count": 1,
+			"listed_count": 349,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11963,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1638812637025939456/aft0uY0j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1638812637025939456/aft0uY0j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1679558356",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 709,
+		"favorite_count": 1630,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "31일 첫 솔로 앨범 &lt;ME&gt;로 컴백을 예고한 블랙핑크 지수 추냥이?! 😺🎀 23년도 1월, #마리끌레르 와 함께한 지수의 밸런스 게임을 다시 만나볼까요?🎈\n#블랙핑크 #지수 #Jisoo #ME @BLACKPINK\n👉 https://t.co/lojIAgIdPW https://t.co/PbQ8jaeYA5"
+	},
+	{
 		"created_at": "Fri Mar 24 12:55:48 +0000 2023",
 		"id": 1639236836206989300,
 		"id_str": "1639249655145066498",
