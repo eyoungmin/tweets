@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Tue Mar 28 18:52:57 +0000 2023",
+		"id": 1640775797429379000,
+		"id_str": "1640789088935591936",
+		"full_text": "Thank you for all your well wishes, I think they worked I’m feeling a lot better 🤍 first show tonight in Berlin 🩰 https://t.co/kBaXfI3e0T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1640775791918162000,
+					"id_str": "1640775791918161923",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FsU047lXoAMa1Rq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FsU047lXoAMa1Rq.jpg",
+					"url": "https://t.co/kBaXfI3e0T",
+					"display_url": "pic.twitter.com/kBaXfI3e0T",
+					"expanded_url": "https://twitter.com/birdy/status/1640775797429379090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1349,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1640775791918162000,
+					"id_str": "1640775791918161923",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FsU047lXoAMa1Rq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FsU047lXoAMa1Rq.jpg",
+					"url": "https://t.co/kBaXfI3e0T",
+					"display_url": "pic.twitter.com/kBaXfI3e0T",
+					"expanded_url": "https://twitter.com/birdy/status/1640775797429379090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1349,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Raincatchers is yours, listen below 🌧🩰🔮 My fifth album ..P O R T R A i T S.. is out 14th July",
+			"url": "https://t.co/hvZ8uW6Pkl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hvZ8uW6Pkl",
+							"expanded_url": "https://birdy.lnk.to/Bio",
+							"display_url": "birdy.lnk.to/Bio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 305070,
+			"friends_count": 174,
+			"listed_count": 1150,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1629171726885027843/5g1NCOIB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1629171726885027843/5g1NCOIB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1677837601",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 176,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you for all your well wishes, I think they worked I’m feeling a lot better 🤍 first show tonight in Berlin 🩰 https://t.co/kBaXfI3e0T"
+	},
+	{
+		"created_at": "Tue Mar 28 17:52:56 +0000 2023",
+		"id": 1640765859860807700,
+		"id_str": "1640773983921491969",
+		"full_text": "First show tonight in Berlin 🤍 https://t.co/CU5rLvylZf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1640765796832952300,
+					"id_str": "1640765796832952320",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1640765796832952320/pu/img/EgB3OigmG9l5XL1W.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1640765796832952320/pu/img/EgB3OigmG9l5XL1W.jpg",
+					"url": "https://t.co/CU5rLvylZf",
+					"display_url": "pic.twitter.com/CU5rLvylZf",
+					"expanded_url": "https://twitter.com/birdy/status/1640765859860807685/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1640765796832952300,
+					"id_str": "1640765796832952320",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1640765796832952320/pu/img/EgB3OigmG9l5XL1W.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1640765796832952320/pu/img/EgB3OigmG9l5XL1W.jpg",
+					"url": "https://t.co/CU5rLvylZf",
+					"display_url": "pic.twitter.com/CU5rLvylZf",
+					"expanded_url": "https://twitter.com/birdy/status/1640765859860807685/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 21166,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1640765796832952320/pu/vid/576x1024/ZBobfZS6BHU4sBCN.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1640765796832952320/pu/vid/320x568/XPC2DdTchwyyuoy9.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1640765796832952320/pu/pl/mJccp8Yk19EHWvPC.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1640765796832952320/pu/vid/480x852/GTppl39OAmBTWxaj.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Raincatchers is yours, listen below 🌧🩰🔮 My fifth album ..P O R T R A i T S.. is out 14th July",
+			"url": "https://t.co/hvZ8uW6Pkl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hvZ8uW6Pkl",
+							"expanded_url": "https://birdy.lnk.to/Bio",
+							"display_url": "birdy.lnk.to/Bio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 305070,
+			"friends_count": 174,
+			"listed_count": 1150,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1629171726885027843/5g1NCOIB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1629171726885027843/5g1NCOIB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1677837601",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 121,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "First show tonight in Berlin 🤍 https://t.co/CU5rLvylZf"
+	},
+	{
 		"created_at": "Tue Mar 28 15:40:52 +0000 2023",
 		"id": 1640730469225431000,
 		"id_str": "1640740749833650177",
