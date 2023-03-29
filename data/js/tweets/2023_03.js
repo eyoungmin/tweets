@@ -1,6 +1,135 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Wed Mar 29 02:18:19 +0000 2023",
+		"id": 1640890661347152000,
+		"id_str": "1640901169647087616",
+		"full_text": "블랙핑크와 레이디 가가, 한-미 국빈 만찬에서 협업 공연 검토중.\n#블랙핑크 #BLACKPINK #LadyGaga  \nhttps://t.co/IZSbnJHji7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						37,
+						42
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						43,
+						53
+					]
+				},
+				{
+					"text": "LadyGaga",
+					"indices": [
+						54,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IZSbnJHji7",
+					"expanded_url": "https://www.wkorea.com/2023/03/29/%eb%b8%94%eb%9e%99%ed%95%91%ed%81%ac-%eb%a0%88%ec%9d%b4%eb%94%94-%ea%b0%80%ea%b0%80-%ea%b5%ad%eb%b9%88-%eb%a7%8c%ec%b0%ac%ec%97%90%ec%84%9c-%eb%a7%8c%eb%82%98%eb%82%98/?ddw=140523&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2023/03/29/%eb…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5gwu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5gwu0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 334762,
+			"friends_count": 0,
+			"listed_count": 869,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7324,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14903,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1679293637",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블랙핑크와 레이디 가가, 한-미 국빈 만찬에서 협업 공연 검토중.\n#블랙핑크 #BLACKPINK #LadyGaga  \nhttps://t.co/IZSbnJHji7"
+	},
+	{
 		"created_at": "Tue Mar 28 18:52:57 +0000 2023",
 		"id": 1640775797429379000,
 		"id_str": "1640789088935591936",
