@@ -1,6 +1,655 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Thu Mar 30 09:41:19 +0000 2023",
+		"id": 1641366044186136600,
+		"id_str": "1641375038170431491",
+		"full_text": "Red Velvet 4th Concert : R to V in BANGKOK \n\n⏰ 2 shows : \n\nSaturday 13 May 2023 | 6PM \nSunday 14 May 2023 | 4PM \n\n📍 THUNDER DOME \n\n🎟 Ticket Open \n\n1. SM True MEMBERSHIP : Sunday 23 April 2023 from 11AM to 12PM only.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1641366039563993000,
+		"in_reply_to_status_id_str": "1641366039563993089",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5899647,
+			"friends_count": 2,
+			"listed_count": 11685,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 993,
+		"favorite_count": 923,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Red Velvet 4th Concert : R to V in BANGKOK \n\n⏰ 2 shows : \n\nSaturday 13 May 2023 | 6PM \nSunday 14 May 2023 | 4PM \n\n📍 THUNDER DOME \n\n🎟 Ticket Open \n\n1. SM True MEMBERSHIP : Sunday 23 April 2023 from 11AM to 12PM only."
+	},
+	{
+		"created_at": "Thu Mar 30 09:41:19 +0000 2023",
+		"id": 1641366039563993000,
+		"id_str": "1641375038073978882",
+		"full_text": "SM True and the renowned girl group ‘Red Velvet’ to open your fantasy world! \n\n‘Red’ or ‘Velvet’? \n\n‘Velvet’ or ‘Red’? \n\nThe different self of ‘Red Velvet’ will be discovered in an enormous music box and ready to be unfolded for the first time in the fourth concert. https://t.co/hj0rvq1H54",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1641366026939142100,
+					"id_str": "1641366026939142145",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FsdNtIYaEAEgRoc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FsdNtIYaEAEgRoc.jpg",
+					"url": "https://t.co/hj0rvq1H54",
+					"display_url": "pic.twitter.com/hj0rvq1H54",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1641366039563993089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1641366026939142100,
+					"id_str": "1641366026939142145",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FsdNtIYaEAEgRoc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FsdNtIYaEAEgRoc.jpg",
+					"url": "https://t.co/hj0rvq1H54",
+					"display_url": "pic.twitter.com/hj0rvq1H54",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1641366039563993089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5899647,
+			"friends_count": 2,
+			"listed_count": 11685,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3005,
+		"favorite_count": 5961,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SM True and the renowned girl group ‘Red Velvet’ to open your fantasy world! \n\n‘Red’ or ‘Velvet’? \n\n‘Velvet’ or ‘Red’? \n\nThe different self of ‘Red Velvet’ will be discovered in an enormous music box and ready to be unfolded for the first time in the fourth concert. https://t.co/hj0rvq1H54"
+	},
+	{
+		"created_at": "Thu Mar 30 09:41:18 +0000 2023",
+		"id": 1641366046631424000,
+		"id_str": "1641375038011064322",
+		"full_text": "(*Only SM True MEMBERSHIP who has verified and completed your status during 2 July 2022 to 18 April 2023 is allowed to purchase a ticket in SM True MEMBERSHIP round for Red Velvet 4th Concert : R to V in BANGKOK.)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1641366044186136600,
+		"in_reply_to_status_id_str": "1641366044186136576",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5899647,
+			"friends_count": 2,
+			"listed_count": 11685,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 410,
+		"favorite_count": 787,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "(*Only SM True MEMBERSHIP who has verified and completed your status during 2 July 2022 to 18 April 2023 is allowed to purchase a ticket in SM True MEMBERSHIP round for Red Velvet 4th Concert : R to V in BANGKOK.)"
+	},
+	{
+		"created_at": "Thu Mar 30 09:41:18 +0000 2023",
+		"id": 1641366049491918800,
+		"id_str": "1641375038010998785",
+		"full_text": "2. Public Sale : Monday 24 April 2023 from 7PM onwards.⠀\n\nPlease stay tuned for more information.\n\n#RedVelvet #레드벨벳 #RtoV\n#RedVelvet4thConcert_RtoV\n#RedVelvet4thConcert_RtoV_inBKK\n#SMTrue #SMTrue_MEMBERSHIP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						99,
+						109
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "RtoV",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "RedVelvet4thConcert_RtoV",
+					"indices": [
+						122,
+						147
+					]
+				},
+				{
+					"text": "RedVelvet4thConcert_RtoV_inBKK",
+					"indices": [
+						148,
+						179
+					]
+				},
+				{
+					"text": "SMTrue",
+					"indices": [
+						180,
+						187
+					]
+				},
+				{
+					"text": "SMTrue_MEMBERSHIP",
+					"indices": [
+						188,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1641366046631424000,
+		"in_reply_to_status_id_str": "1641366046631424000",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5899647,
+			"friends_count": 2,
+			"listed_count": 11685,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 382,
+		"favorite_count": 701,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "2. Public Sale : Monday 24 April 2023 from 7PM onwards.⠀\n\nPlease stay tuned for more information.\n\n#RedVelvet #레드벨벳 #RtoV\n#RedVelvet4thConcert_RtoV\n#RedVelvet4thConcert_RtoV_inBKK\n#SMTrue #SMTrue_MEMBERSHIP"
+	},
+	{
+		"created_at": "Thu Mar 30 09:38:15 +0000 2023",
+		"id": 1641364742219665400,
+		"id_str": "1641374269379584000",
+		"full_text": "[UAENA ZONE]\n💜3월 - BEHIND THE SCENE OF IU\n💜March - BEHIND THE SCENE OF IU\n\nA New Content for UAENA 6th🎉🎉\n\n▶ https://t.co/QHPNZOgVRW\n\n#아이유 #IU\n#유애나 #UAENA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "유애나",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "UAENA",
+					"indices": [
+						147,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QHPNZOgVRW",
+					"expanded_url": "https://cafe.daum.net/IU/S2pv/2",
+					"display_url": "cafe.daum.net/IU/S2pv/2",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1600869,
+			"friends_count": 1,
+			"listed_count": 2454,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 649,
+		"favorite_count": 1926,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[UAENA ZONE]\n💜3월 - BEHIND THE SCENE OF IU\n💜March - BEHIND THE SCENE OF IU\n\nA New Content for UAENA 6th🎉🎉\n\n▶ https://t.co/QHPNZOgVRW\n\n#아이유 #IU\n#유애나 #UAENA"
+	},
+	{
 		"created_at": "Thu Mar 30 07:41:18 +0000 2023",
 		"id": 1641334624243818500,
 		"id_str": "1641344835238895616",
