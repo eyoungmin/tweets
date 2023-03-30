@@ -1,6 +1,414 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Thu Mar 30 05:41:16 +0000 2023",
+		"id": 1641304495601881000,
+		"id_str": "1641314630655000576",
+		"full_text": "“Red Velvet 4th Concert : R to V” OFFICIAL MD 현장판매안내\n\n▶ 판매 일시 : 2023. 4. 1 (SAT) PM 12:00 ~ PM 17:00\n                         2023. 4. 2 (SUN) AM 10:00 ~ PM 15:00\n\n▶ 판매 장소 : KSPO DOME\n\n#RedVelvet #RtoV\n#RedVelvet4thConcert_RtoV https://t.co/Dtqp1Gj9aS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						185,
+						195
+					]
+				},
+				{
+					"text": "RtoV",
+					"indices": [
+						196,
+						201
+					]
+				},
+				{
+					"text": "RedVelvet4thConcert_RtoV",
+					"indices": [
+						202,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1641123197751009300,
+					"id_str": "1641123197751009280",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FsZw2nKaIAABAlB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FsZw2nKaIAABAlB.jpg",
+					"url": "https://t.co/Dtqp1Gj9aS",
+					"display_url": "pic.twitter.com/Dtqp1Gj9aS",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1641304495601881089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 227,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1641123197751009300,
+					"id_str": "1641123197751009280",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FsZw2nKaIAABAlB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FsZw2nKaIAABAlB.jpg",
+					"url": "https://t.co/Dtqp1Gj9aS",
+					"display_url": "pic.twitter.com/Dtqp1Gj9aS",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1641304495601881089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 227,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5899314,
+			"friends_count": 2,
+			"listed_count": 11687,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1084,
+		"favorite_count": 2832,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“Red Velvet 4th Concert : R to V” OFFICIAL MD 현장판매안내\n\n▶ 판매 일시 : 2023. 4. 1 (SAT) PM 12:00 ~ PM 17:00\n                         2023. 4. 2 (SUN) AM 10:00 ~ PM 15:00\n\n▶ 판매 장소 : KSPO DOME\n\n#RedVelvet #RtoV\n#RedVelvet4thConcert_RtoV https://t.co/Dtqp1Gj9aS"
+	},
+	{
+		"created_at": "Thu Mar 30 05:41:16 +0000 2023",
+		"id": 1641304243645870000,
+		"id_str": "1641314630612951042",
+		"full_text": "🎂 #RedVelvet4thConcert : R to V in SINGAPORE\n\n📅 21 Apr 2023 (Fri), 7.30PM\n📍 The Star Theatre\n\nPop-pop the champagne, cause #𝙍𝙚𝙙𝙑𝙚𝙡𝙫𝙚𝙩 is making their long-awaited return to Singapore! 🍾🥳\n\nTicketing details will be announced soon!\n\n#RtoV #RtoVinSG #CKStarSG https://t.co/5LABvgDv47",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet4thConcert",
+					"indices": [
+						2,
+						22
+					]
+				},
+				{
+					"text": "𝙍𝙚𝙙𝙑𝙚𝙡𝙫𝙚𝙩",
+					"indices": [
+						123,
+						133
+					]
+				},
+				{
+					"text": "RtoV",
+					"indices": [
+						231,
+						236
+					]
+				},
+				{
+					"text": "RtoVinSG",
+					"indices": [
+						237,
+						246
+					]
+				},
+				{
+					"text": "CKStarSG",
+					"indices": [
+						247,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1641300573101383700,
+					"id_str": "1641300573101383683",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FscSLN1aYAMov4E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FscSLN1aYAMov4E.jpg",
+					"url": "https://t.co/5LABvgDv47",
+					"display_url": "pic.twitter.com/5LABvgDv47",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1641304243645870080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1641300573101383700,
+					"id_str": "1641300573101383683",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FscSLN1aYAMov4E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FscSLN1aYAMov4E.jpg",
+					"url": "https://t.co/5LABvgDv47",
+					"display_url": "pic.twitter.com/5LABvgDv47",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1641304243645870080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5899314,
+			"friends_count": 2,
+			"listed_count": 11687,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1899,
+		"favorite_count": 5803,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎂 #RedVelvet4thConcert : R to V in SINGAPORE\n\n📅 21 Apr 2023 (Fri), 7.30PM\n📍 The Star Theatre\n\nPop-pop the champagne, cause #𝙍𝙚𝙙𝙑𝙚𝙡𝙫𝙚𝙩 is making their long-awaited return to Singapore! 🍾🥳\n\nTicketing details will be announced soon!\n\n#RtoV #RtoVinSG #CKStarSG https://t.co/5LABvgDv47"
+	},
+	{
 		"created_at": "Thu Mar 30 03:41:16 +0000 2023",
 		"id": 1641274044468322300,
 		"id_str": "1641284430034526208",
