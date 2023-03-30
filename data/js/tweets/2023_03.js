@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Thu Mar 30 11:41:22 +0000 2023",
+		"id": 1641394872669323300,
+		"id_str": "1641405249855320065",
+		"full_text": "📢 Red Velvet 4th Concert : R to V in JAKARTA\n \n Let's roll out the red carpet for Red Velvet who will be coming to Jakarta for their first official solo concert in the country!\n \n#RedVelvet #RtoV\n#RedVelvet4thConcert_RtoV #DyandraGlobalConcert https://t.co/BYjxh4oM2w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						179,
+						189
+					]
+				},
+				{
+					"text": "RtoV",
+					"indices": [
+						190,
+						195
+					]
+				},
+				{
+					"text": "RedVelvet4thConcert_RtoV",
+					"indices": [
+						196,
+						221
+					]
+				},
+				{
+					"text": "DyandraGlobalConcert",
+					"indices": [
+						222,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1641394864440115200,
+					"id_str": "1641394864440115202",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/Fsdn7scagAIiz-I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fsdn7scagAIiz-I.jpg",
+					"url": "https://t.co/BYjxh4oM2w",
+					"display_url": "pic.twitter.com/BYjxh4oM2w",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1641394872669323270/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1527,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1641394864440115200,
+					"id_str": "1641394864440115202",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/Fsdn7scagAIiz-I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fsdn7scagAIiz-I.jpg",
+					"url": "https://t.co/BYjxh4oM2w",
+					"display_url": "pic.twitter.com/BYjxh4oM2w",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1641394872669323270/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1527,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5899813,
+			"friends_count": 2,
+			"listed_count": 11692,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3109,
+		"favorite_count": 7827,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📢 Red Velvet 4th Concert : R to V in JAKARTA\n \n Let's roll out the red carpet for Red Velvet who will be coming to Jakarta for their first official solo concert in the country!\n \n#RedVelvet #RtoV\n#RedVelvet4thConcert_RtoV #DyandraGlobalConcert https://t.co/BYjxh4oM2w"
+	},
+	{
 		"created_at": "Thu Mar 30 09:41:19 +0000 2023",
 		"id": 1641366044186136600,
 		"id_str": "1641375038170431491",
