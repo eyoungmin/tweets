@@ -1,6 +1,600 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Fri Mar 31 05:18:55 +0000 2023",
+		"id": 1641666636208910300,
+		"id_str": "1641671393996595202",
+		"full_text": "속옷을 너무 올려입은거 아닌가? 싶은 착시현상을 불러 일으키는 로우 라이즈 패션, 셀럽들의 현실 코디 5.\n\n#로우라이즈 #블랙핑크 #리사 #헤이즈 #유빈 #제시 #레드벨벳 #조이 \nhttps://t.co/Q9EERRC46e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로우라이즈",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "헤이즈",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "유빈",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "제시",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						97,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q9EERRC46e",
+					"expanded_url": "https://www.allurekorea.com/?p=200247&ddw=140664&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=200247&ddw=…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38051,
+			"friends_count": 1,
+			"listed_count": 300,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8227,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1679021456",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "속옷을 너무 올려입은거 아닌가? 싶은 착시현상을 불러 일으키는 로우 라이즈 패션, 셀럽들의 현실 코디 5.\n\n#로우라이즈 #블랙핑크 #리사 #헤이즈 #유빈 #제시 #레드벨벳 #조이 \nhttps://t.co/Q9EERRC46e"
+	},
+	{
+		"created_at": "Fri Mar 31 04:41:31 +0000 2023",
+		"id": 1641652000025870300,
+		"id_str": "1641661982859198465",
+		"full_text": "‘D-1’ 레드벨벳 단독 콘서트, ‘레드’와 ‘벨벳’ 모두 담은 다채로운 무대 예고!\n\n‘D-1’ Red Velvet concert features  both ‘Red’ and ‘Velvet’ concepts!\n\nhttps://t.co/qNsAYct4zf\n\n#RedVelvet #RtoV\n#RedVelvet4thConcert_RtoV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						144,
+						154
+					]
+				},
+				{
+					"text": "RtoV",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "RedVelvet4thConcert_RtoV",
+					"indices": [
+						161,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qNsAYct4zf",
+					"expanded_url": "https://bit.ly/3lVLduk",
+					"display_url": "bit.ly/3lVLduk",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5900772,
+			"friends_count": 2,
+			"listed_count": 11695,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1768,
+		"favorite_count": 4985,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘D-1’ 레드벨벳 단독 콘서트, ‘레드’와 ‘벨벳’ 모두 담은 다채로운 무대 예고!\n\n‘D-1’ Red Velvet concert features  both ‘Red’ and ‘Velvet’ concepts!\n\nhttps://t.co/qNsAYct4zf\n\n#RedVelvet #RtoV\n#RedVelvet4thConcert_RtoV"
+	},
+	{
+		"created_at": "Fri Mar 31 04:28:50 +0000 2023",
+		"id": 1641651534823067600,
+		"id_str": "1641658790922551296",
+		"full_text": "#JISOO ‘꽃(FLOWER)’ OUT NOW\n\nNOW ON YOUTUBE\n▶️https://t.co/RrZKrxTnMm\n\n#지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEABLUM #ME #TITLE #꽃 #FLOWER #MV #OUTNOW #YG https://t.co/Is7qt5ABjl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JISOO",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						74,
+						84
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "FIRSTSINGLEABLUM",
+					"indices": [
+						91,
+						108
+					]
+				},
+				{
+					"text": "ME",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "TITLE",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "꽃",
+					"indices": [
+						120,
+						122
+					]
+				},
+				{
+					"text": "FLOWER",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "OUTNOW",
+					"indices": [
+						135,
+						142
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						143,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RrZKrxTnMm",
+					"expanded_url": "https://youtu.be/YudHcBIxlYw",
+					"display_url": "youtu.be/YudHcBIxlYw",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1641645342646227000,
+					"id_str": "1641645342646226945",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1641645342646226945/pu/img/Hsk0cNTH91FaiirS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1641645342646226945/pu/img/Hsk0cNTH91FaiirS.jpg",
+					"url": "https://t.co/Is7qt5ABjl",
+					"display_url": "pic.twitter.com/Is7qt5ABjl",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1641651534823067650/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 980,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 980,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 617,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1641645342646227000,
+					"id_str": "1641645342646226945",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1641645342646226945/pu/img/Hsk0cNTH91FaiirS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1641645342646226945/pu/img/Hsk0cNTH91FaiirS.jpg",
+					"url": "https://t.co/Is7qt5ABjl",
+					"display_url": "pic.twitter.com/Is7qt5ABjl",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1641651534823067650/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 980,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 980,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 617,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							49,
+							54
+						],
+						"duration_millis": 15782,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1641645342646226945/pu/vid/480x528/ZBiMCw8895rMuSax.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1641645342646226945/pu/pl/FTgM4RaGfJcCX2lf.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1641645342646226945/pu/vid/720x792/x2PL4G-b3msh4K2G.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1641645342646226945/pu/vid/320x352/q3bzF-6Fqs59rC6f.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8828092,
+			"friends_count": 0,
+			"listed_count": 8166,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1680233566",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62457,
+		"favorite_count": 106444,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#JISOO ‘꽃(FLOWER)’ OUT NOW\n\nNOW ON YOUTUBE\n▶️https://t.co/RrZKrxTnMm\n\n#지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEABLUM #ME #TITLE #꽃 #FLOWER #MV #OUTNOW #YG https://t.co/Is7qt5ABjl"
+	},
+	{
 		"created_at": "Fri Mar 31 03:28:51 +0000 2023",
 		"id": 1641636441620095000,
 		"id_str": "1641643694804594689",
