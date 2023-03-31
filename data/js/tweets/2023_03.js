@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Fri Mar 31 02:28:49 +0000 2023",
+		"id": 1641623472379146200,
+		"id_str": "1641628585294430208",
+		"full_text": "JISOO’S FLOWER HOUSE ANNOUNCEMENT\n\n안녕하세요! YG엔터테인먼트입니다. 사전 대기 인원 증가에 따라, 모두의 안전을 위해 현장 예약을 미리 진행하고자 합니다. 금일 오전 11시 30분부터 현장 예약, 오후 1시부터 입장 진행 예정입니다. 이용에 착오 없으시길 바라며, 여러분의 너른 양해 바랍니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1641005084464259000,
+		"in_reply_to_status_id_str": "1641005084464259072",
+		"in_reply_to_user_id": 1273850774380884000,
+		"in_reply_to_user_id_str": "1273850774380883975",
+		"in_reply_to_screen_name": "BLACKPINK",
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8825013,
+			"friends_count": 0,
+			"listed_count": 8170,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1679238753",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1069,
+		"favorite_count": 3682,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "JISOO’S FLOWER HOUSE ANNOUNCEMENT\n\n안녕하세요! YG엔터테인먼트입니다. 사전 대기 인원 증가에 따라, 모두의 안전을 위해 현장 예약을 미리 진행하고자 합니다. 금일 오전 11시 30분부터 현장 예약, 오후 1시부터 입장 진행 예정입니다. 이용에 착오 없으시길 바라며, 여러분의 너른 양해 바랍니다."
+	},
+	{
+		"created_at": "Fri Mar 31 02:28:49 +0000 2023",
+		"id": 1641621332851847200,
+		"id_str": "1641628585139007488",
+		"full_text": "#OFFICIALBLINK \n\n#JISOO #FIRSTSINGLEALBUM #ME #꽃 발매 기념 음원 스트리밍 이벤트 안내 공지가 #WeverseMembership 에 업로드되었습니다.\n\n#BLINK 여러분들의 많은 참여 부탁드립니다.(Weverse Membership Only)\n\n#지수 #BLACKPINK #블랙핑크\n#꽃과_함께_찾아온_지수_솔로 #JISOO_Blooming_with_ME",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OFFICIALBLINK",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						17,
+						23
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						24,
+						41
+					]
+				},
+				{
+					"text": "ME",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "꽃",
+					"indices": [
+						46,
+						48
+					]
+				},
+				{
+					"text": "WeverseMembership",
+					"indices": [
+						74,
+						92
+					]
+				},
+				{
+					"text": "BLINK",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						163,
+						173
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "꽃과_함께_찾아온_지수_솔로",
+					"indices": [
+						180,
+						196
+					]
+				},
+				{
+					"text": "JISOO_Blooming_with_ME",
+					"indices": [
+						197,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8930421,
+			"friends_count": 10,
+			"listed_count": 9501,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2694,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1679471312",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2001,
+		"favorite_count": 5196,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#OFFICIALBLINK \n\n#JISOO #FIRSTSINGLEALBUM #ME #꽃 발매 기념 음원 스트리밍 이벤트 안내 공지가 #WeverseMembership 에 업로드되었습니다.\n\n#BLINK 여러분들의 많은 참여 부탁드립니다.(Weverse Membership Only)\n\n#지수 #BLACKPINK #블랙핑크\n#꽃과_함께_찾아온_지수_솔로 #JISOO_Blooming_with_ME"
+	},
+	{
 		"created_at": "Fri Mar 31 00:28:48 +0000 2023",
 		"id": 1641591136858013700,
 		"id_str": "1641598380597039113",
