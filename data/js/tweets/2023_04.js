@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sat Apr 01 08:53:52 +0000 2023",
+		"id": 1642085502214865000,
+		"id_str": "1642087874811109376",
+		"full_text": "Last night’s look 🩰🔮 https://t.co/KZ4IP6X8We",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1642085461131772000,
+					"id_str": "1642085461131771904",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1642085461131771904/pu/img/GzPNGPH2zBPntIoF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1642085461131771904/pu/img/GzPNGPH2zBPntIoF.jpg",
+					"url": "https://t.co/KZ4IP6X8We",
+					"display_url": "pic.twitter.com/KZ4IP6X8We",
+					"expanded_url": "https://twitter.com/birdy/status/1642085502214864899/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1642085461131772000,
+					"id_str": "1642085461131771904",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1642085461131771904/pu/img/GzPNGPH2zBPntIoF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1642085461131771904/pu/img/GzPNGPH2zBPntIoF.jpg",
+					"url": "https://t.co/KZ4IP6X8We",
+					"display_url": "pic.twitter.com/KZ4IP6X8We",
+					"expanded_url": "https://twitter.com/birdy/status/1642085502214864899/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 11533,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1642085461131771904/pu/vid/480x852/z_85x3Ttrl44eIVb.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1642085461131771904/pu/vid/576x1024/jUj5bZE-8AWkiSqn.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1642085461131771904/pu/pl/SP1DgCrZs2q3aAnX.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1642085461131771904/pu/vid/320x568/y5G0y-l_3tJwy97s.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Raincatchers is yours, listen below 🌧🩰🔮 My fifth album ..P O R T R A i T S.. is out 14th July",
+			"url": "https://t.co/fUVSS8j9Fs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fUVSS8j9Fs",
+							"expanded_url": "https://birdy.lnk.to/Music",
+							"display_url": "birdy.lnk.to/Music",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304829,
+			"friends_count": 174,
+			"listed_count": 1150,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1629171726885027843/5g1NCOIB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1629171726885027843/5g1NCOIB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1677837601",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Last night’s look 🩰🔮 https://t.co/KZ4IP6X8We"
+	},
+	{
 		"created_at": "Sat Apr 01 07:29:14 +0000 2023",
 		"id": 1642059220207140900,
 		"id_str": "1642066576022073345",
