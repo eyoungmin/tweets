@@ -1,6 +1,953 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sun Apr 02 04:53:28 +0000 2023",
+		"id": 1642381262894821400,
+		"id_str": "1642389763654053890",
+		"full_text": "에스파, 해외 아티스트 사상 최단기간 日 도쿄돔 입성! 8월 공연 발표!\n오사카성 홀→도쿄 요요기 공연 성황! 4개 지역, 10회 공연 매진 행렬!\n\nhttps://t.co/N5hOy7nbdW\n\n#aespa #에스파\n#SYNK_HYPERLINE #TOKYO \n#aespaLIVETOUR2023_SYNK_HYPERLINE_inJAPAN https://t.co/g9OpmgGYK3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "SYNK_HYPERLINE",
+					"indices": [
+						121,
+						136
+					]
+				},
+				{
+					"text": "TOKYO",
+					"indices": [
+						137,
+						143
+					]
+				},
+				{
+					"text": "aespaLIVETOUR2023_SYNK_HYPERLINE_inJAPAN",
+					"indices": [
+						145,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N5hOy7nbdW",
+					"expanded_url": "https://bit.ly/3KoqI2S",
+					"display_url": "bit.ly/3KoqI2S",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1642381258050379800,
+					"id_str": "1642381258050379776",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FsrpDW_aIAAAZom.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FsrpDW_aIAAAZom.jpg",
+					"url": "https://t.co/g9OpmgGYK3",
+					"display_url": "pic.twitter.com/g9OpmgGYK3",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1642381262894821377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1642381258050379800,
+					"id_str": "1642381258050379776",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FsrpDW_aIAAAZom.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FsrpDW_aIAAAZom.jpg",
+					"url": "https://t.co/g9OpmgGYK3",
+					"display_url": "pic.twitter.com/g9OpmgGYK3",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1642381262894821377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1642381258033606700,
+					"id_str": "1642381258033606656",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FsrpDW7aMAA2CGI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FsrpDW7aMAA2CGI.jpg",
+					"url": "https://t.co/g9OpmgGYK3",
+					"display_url": "pic.twitter.com/g9OpmgGYK3",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1642381262894821377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1642381258176221200,
+					"id_str": "1642381258176221184",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FsrpDXdaUAAO6TX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FsrpDXdaUAAO6TX.jpg",
+					"url": "https://t.co/g9OpmgGYK3",
+					"display_url": "pic.twitter.com/g9OpmgGYK3",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1642381262894821377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11563559,
+			"friends_count": 56,
+			"listed_count": 13050,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2726,
+		"favorite_count": 7859,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에스파, 해외 아티스트 사상 최단기간 日 도쿄돔 입성! 8월 공연 발표!\n오사카성 홀→도쿄 요요기 공연 성황! 4개 지역, 10회 공연 매진 행렬!\n\nhttps://t.co/N5hOy7nbdW\n\n#aespa #에스파\n#SYNK_HYPERLINE #TOKYO \n#aespaLIVETOUR2023_SYNK_HYPERLINE_inJAPAN https://t.co/g9OpmgGYK3"
+	},
+	{
+		"created_at": "Sun Apr 02 04:53:28 +0000 2023",
+		"id": 1642380031019319300,
+		"id_str": "1642389763637354497",
+		"full_text": "BoA wraps up her 20th debut anniversary concerts with the finale concert in Busan! Fans cheered for the first Busan performance in 10 years! \n\nhttps://t.co/I1oywTd9Xp\n\n#BoA #보아\n#BoA20thAnniversaryLive #THEBoAMusicality https://t.co/NKjDRuq9fD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						173,
+						176
+					]
+				},
+				{
+					"text": "BoA20thAnniversaryLive",
+					"indices": [
+						177,
+						200
+					]
+				},
+				{
+					"text": "THEBoAMusicality",
+					"indices": [
+						201,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I1oywTd9Xp",
+					"expanded_url": "https://bit.ly/3MhRxqy",
+					"display_url": "bit.ly/3MhRxqy",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1642380025487032300,
+					"id_str": "1642380025487032322",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/Fsrn7nVaAAIFZL_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fsrn7nVaAAIFZL_.jpg",
+					"url": "https://t.co/NKjDRuq9fD",
+					"display_url": "pic.twitter.com/NKjDRuq9fD",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1642380031019319296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1949,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1642380025487032300,
+					"id_str": "1642380025487032322",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/Fsrn7nVaAAIFZL_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fsrn7nVaAAIFZL_.jpg",
+					"url": "https://t.co/NKjDRuq9fD",
+					"display_url": "pic.twitter.com/NKjDRuq9fD",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1642380031019319296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1949,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1642380025474457600,
+					"id_str": "1642380025474457602",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/Fsrn7nSaIAI3hrb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fsrn7nSaIAI3hrb.jpg",
+					"url": "https://t.co/NKjDRuq9fD",
+					"display_url": "pic.twitter.com/NKjDRuq9fD",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1642380031019319296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1642379938778202000,
+		"in_reply_to_status_id_str": "1642379938778202117",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11563559,
+			"friends_count": 56,
+			"listed_count": 13050,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 110,
+		"favorite_count": 484,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BoA wraps up her 20th debut anniversary concerts with the finale concert in Busan! Fans cheered for the first Busan performance in 10 years! \n\nhttps://t.co/I1oywTd9Xp\n\n#BoA #보아\n#BoA20thAnniversaryLive #THEBoAMusicality https://t.co/NKjDRuq9fD"
+	},
+	{
+		"created_at": "Sun Apr 02 04:53:28 +0000 2023",
+		"id": 1642379938778202000,
+		"id_str": "1642389763633082369",
+		"full_text": "보아, 부산 콘서트도 성황! 데뷔 20주년 콘서트 피날레 장식! 10년 만의 부산 공연에 관객 열광! 퍼포먼스 여제 위엄 입증!\n\nhttps://t.co/I1oywTd9Xp\n\n#BoA #보아\n#BoA20thAnniversaryLive #THEBoAMusicality https://t.co/vguTvc9UJs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "BoA20thAnniversaryLive",
+					"indices": [
+						107,
+						130
+					]
+				},
+				{
+					"text": "THEBoAMusicality",
+					"indices": [
+						131,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I1oywTd9Xp",
+					"expanded_url": "https://bit.ly/3MhRxqy",
+					"display_url": "bit.ly/3MhRxqy",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1642379921854181400,
+					"id_str": "1642379921854181376",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/Fsrn1lRaMAAgd_Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fsrn1lRaMAAgd_Y.jpg",
+					"url": "https://t.co/vguTvc9UJs",
+					"display_url": "pic.twitter.com/vguTvc9UJs",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1642379938778202117/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1642379921854181400,
+					"id_str": "1642379921854181376",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/Fsrn1lRaMAAgd_Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fsrn1lRaMAAgd_Y.jpg",
+					"url": "https://t.co/vguTvc9UJs",
+					"display_url": "pic.twitter.com/vguTvc9UJs",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1642379938778202117/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1642379921829007400,
+					"id_str": "1642379921829007361",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/Fsrn1lLaEAEo1KG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fsrn1lLaEAEo1KG.jpg",
+					"url": "https://t.co/vguTvc9UJs",
+					"display_url": "pic.twitter.com/vguTvc9UJs",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1642379938778202117/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1642379921833201700,
+					"id_str": "1642379921833201664",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/Fsrn1lMaEAAUeP2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fsrn1lMaEAAUeP2.jpg",
+					"url": "https://t.co/vguTvc9UJs",
+					"display_url": "pic.twitter.com/vguTvc9UJs",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1642379938778202117/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11563559,
+			"friends_count": 56,
+			"listed_count": 13050,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 310,
+		"favorite_count": 1813,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보아, 부산 콘서트도 성황! 데뷔 20주년 콘서트 피날레 장식! 10년 만의 부산 공연에 관객 열광! 퍼포먼스 여제 위엄 입증!\n\nhttps://t.co/I1oywTd9Xp\n\n#BoA #보아\n#BoA20thAnniversaryLive #THEBoAMusicality https://t.co/vguTvc9UJs"
+	},
+	{
+		"created_at": "Sun Apr 02 04:53:28 +0000 2023",
+		"id": 1642381619733602300,
+		"id_str": "1642389763620581376",
+		"full_text": "#aespa to become fastest foreign artist in history to hold concert at Tokyo Dome and announced concerts in August!\nWrapping up concerts at Osaka Castle Hall→Tokyo Yoyogi, aespa to continue on their arena tour in Japan with 10 sold-out shows in 4 regions\n\n#에스파 #SYNK_HYPERLINE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						255,
+						259
+					]
+				},
+				{
+					"text": "SYNK_HYPERLINE",
+					"indices": [
+						260,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1642381262894821400,
+		"in_reply_to_status_id_str": "1642381262894821377",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11563559,
+			"friends_count": 56,
+			"listed_count": 13050,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 749,
+		"favorite_count": 1316,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "#aespa to become fastest foreign artist in history to hold concert at Tokyo Dome and announced concerts in August!\nWrapping up concerts at Osaka Castle Hall→Tokyo Yoyogi, aespa to continue on their arena tour in Japan with 10 sold-out shows in 4 regions\n\n#에스파 #SYNK_HYPERLINE"
+	},
+	{
 		"created_at": "Sun Apr 02 01:29:19 +0000 2023",
 		"id": 1642331884314321000,
 		"id_str": "1642338387972562945",
