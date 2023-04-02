@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sun Apr 02 15:53:36 +0000 2023",
+		"id": 1642544918722740200,
+		"id_str": "1642555890707599360",
+		"full_text": "Red Velvet 4th Concert : R to V with SMTOWN❤️🖤\n\n#RedVelvet #레드벨벳\n#SUPERJUNIOR #EUNHYUK\n#SHINee #MINHO \n#NCT #NCT127 #DOYOUNG https://t.co/buyLKsLogk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						48,
+						58
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						65,
+						77
+					]
+				},
+				{
+					"text": "EUNHYUK",
+					"indices": [
+						78,
+						86
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						87,
+						94
+					]
+				},
+				{
+					"text": "MINHO",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						108,
+						115
+					]
+				},
+				{
+					"text": "DOYOUNG",
+					"indices": [
+						116,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1642543298731733000,
+					"id_str": "1642543298731732994",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/Fst8bXkacAIGPsp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fst8bXkacAIGPsp.jpg",
+					"url": "https://t.co/buyLKsLogk",
+					"display_url": "pic.twitter.com/buyLKsLogk",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1642544918722740225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1642543298731733000,
+					"id_str": "1642543298731732994",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/Fst8bXkacAIGPsp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fst8bXkacAIGPsp.jpg",
+					"url": "https://t.co/buyLKsLogk",
+					"display_url": "pic.twitter.com/buyLKsLogk",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1642544918722740225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11564981,
+			"friends_count": 56,
+			"listed_count": 13048,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14445,
+		"favorite_count": 31454,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet 4th Concert : R to V with SMTOWN❤️🖤\n\n#RedVelvet #레드벨벳\n#SUPERJUNIOR #EUNHYUK\n#SHINee #MINHO \n#NCT #NCT127 #DOYOUNG https://t.co/buyLKsLogk"
+	},
+	{
 		"created_at": "Sun Apr 02 13:42:06 +0000 2023",
 		"id": 1642513553688252400,
 		"id_str": "1642522799645372416",
