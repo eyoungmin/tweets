@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Mon Apr 03 02:53:47 +0000 2023",
+		"id": 1642720725722370000,
+		"id_str": "1642722030830206976",
+		"full_text": "Red Velvet successfully kicks off 2023 global tour with Seoul concert! Fans from 90 regions around the world tuned in on and offline! \nNext concert is in Singapore on the 21st! #RedVelvet is on to Europe after Asia!\n\nhttps://t.co/07MWFFCab1\n\n#레드벨벳 #RtoV https://t.co/w0OT5dAlec",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						177,
+						187
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						242,
+						247
+					]
+				},
+				{
+					"text": "RtoV",
+					"indices": [
+						248,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/07MWFFCab1",
+					"expanded_url": "https://bit.ly/3nvZC0A",
+					"display_url": "bit.ly/3nvZC0A",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1642720721926500400,
+					"id_str": "1642720721926500353",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FswdyweaMAEqSBw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FswdyweaMAEqSBw.jpg",
+					"url": "https://t.co/w0OT5dAlec",
+					"display_url": "pic.twitter.com/w0OT5dAlec",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1642720725722370048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 528,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 528,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1642720721926500400,
+					"id_str": "1642720721926500353",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FswdyweaMAEqSBw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FswdyweaMAEqSBw.jpg",
+					"url": "https://t.co/w0OT5dAlec",
+					"display_url": "pic.twitter.com/w0OT5dAlec",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1642720725722370048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 528,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 528,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1642720721905541000,
+					"id_str": "1642720721905541120",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FswdywZaYAAd5dW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FswdywZaYAAd5dW.jpg",
+					"url": "https://t.co/w0OT5dAlec",
+					"display_url": "pic.twitter.com/w0OT5dAlec",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1642720725722370048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1642720381504213000,
+		"in_reply_to_status_id_str": "1642720381504212992",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11565408,
+			"friends_count": 56,
+			"listed_count": 13051,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 323,
+		"favorite_count": 719,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet successfully kicks off 2023 global tour with Seoul concert! Fans from 90 regions around the world tuned in on and offline! \nNext concert is in Singapore on the 21st! #RedVelvet is on to Europe after Asia!\n\nhttps://t.co/07MWFFCab1\n\n#레드벨벳 #RtoV https://t.co/w0OT5dAlec"
+	},
+	{
 		"created_at": "Mon Apr 03 01:19:44 +0000 2023",
 		"id": 1642697286357745700,
 		"id_str": "1642698363043807232",
