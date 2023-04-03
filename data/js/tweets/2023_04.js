@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Mon Apr 03 09:54:24 +0000 2023",
+		"id": 1642821668803338200,
+		"id_str": "1642827882497036290",
+		"full_text": "skinny love in Wiesbaden , a beautiful sea of stars\n\n📸 Jay Sikora https://t.co/SqVPw6FGIC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1642821588289454000,
+					"id_str": "1642821588289454080",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1642821588289454080/pu/img/Wq6Ep-DZB3iR2p8Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1642821588289454080/pu/img/Wq6Ep-DZB3iR2p8Q.jpg",
+					"url": "https://t.co/SqVPw6FGIC",
+					"display_url": "pic.twitter.com/SqVPw6FGIC",
+					"expanded_url": "https://twitter.com/birdy/status/1642821668803338240/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1276,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1642821588289454000,
+					"id_str": "1642821588289454080",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1642821588289454080/pu/img/Wq6Ep-DZB3iR2p8Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1642821588289454080/pu/img/Wq6Ep-DZB3iR2p8Q.jpg",
+					"url": "https://t.co/SqVPw6FGIC",
+					"display_url": "pic.twitter.com/SqVPw6FGIC",
+					"expanded_url": "https://twitter.com/birdy/status/1642821668803338240/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1276,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							319,
+							180
+						],
+						"duration_millis": 44991,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1642821588289454080/pu/vid/478x270/IpUMdzZvfwGpx0GQ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1642821588289454080/pu/pl/BslASKGgC3HP1noE.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1642821588289454080/pu/vid/638x360/SxqsvbF4VPGcm791.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1642821588289454080/pu/vid/1276x720/O2ewcWF8aBXOFPHd.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Raincatchers is yours, listen below 🌧🩰🔮 My fifth album ..P O R T R A i T S.. is out 14th July",
+			"url": "https://t.co/fUVSS8j9Fs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fUVSS8j9Fs",
+							"expanded_url": "https://birdy.lnk.to/Music",
+							"display_url": "birdy.lnk.to/Music",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304713,
+			"friends_count": 174,
+			"listed_count": 1151,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 845,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1629171726885027843/5g1NCOIB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1629171726885027843/5g1NCOIB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1677837601",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "skinny love in Wiesbaden , a beautiful sea of stars\n\n📸 Jay Sikora https://t.co/SqVPw6FGIC"
+	},
+	{
+		"created_at": "Mon Apr 03 09:39:16 +0000 2023",
+		"id": 1642814552625795000,
+		"id_str": "1642824075557892097",
+		"full_text": "[아이유의 팔레트🎨]\n\n우리는 더 행복해질 거예요 (With 유인나) Ep.18-1\nWe will be happier (With YOO IN NA) Ep.18-1\n\n🎨 https://t.co/hwZ0wNXCCh\n\n#아이유 #IU \n#유인나 #YOOINNA https://t.co/NuH0xDo2nN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "유인나",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "YOOINNA",
+					"indices": [
+						134,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hwZ0wNXCCh",
+					"expanded_url": "https://youtu.be/Noku6OCqyeo",
+					"display_url": "youtu.be/Noku6OCqyeo",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1642814526805643300,
+					"id_str": "1642814526805643264",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FsxzG64aEAAjZMM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FsxzG64aEAAjZMM.jpg",
+					"url": "https://t.co/NuH0xDo2nN",
+					"display_url": "pic.twitter.com/NuH0xDo2nN",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1642814552625795073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1642814526805643300,
+					"id_str": "1642814526805643264",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FsxzG64aEAAjZMM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FsxzG64aEAAjZMM.jpg",
+					"url": "https://t.co/NuH0xDo2nN",
+					"display_url": "pic.twitter.com/NuH0xDo2nN",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1642814552625795073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1602767,
+			"friends_count": 1,
+			"listed_count": 2458,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1989,
+		"favorite_count": 4701,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[아이유의 팔레트🎨]\n\n우리는 더 행복해질 거예요 (With 유인나) Ep.18-1\nWe will be happier (With YOO IN NA) Ep.18-1\n\n🎨 https://t.co/hwZ0wNXCCh\n\n#아이유 #IU \n#유인나 #YOOINNA https://t.co/NuH0xDo2nN"
+	},
+	{
 		"created_at": "Mon Apr 03 06:29:38 +0000 2023",
 		"id": 1642764334257549300,
 		"id_str": "1642776353308131328",
