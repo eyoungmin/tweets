@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Mon Apr 03 06:29:38 +0000 2023",
+		"id": 1642764334257549300,
+		"id_str": "1642776353308131328",
+		"full_text": "Check out #JISOO's #FLOWER on the @AppleMusic Global Chart Show with @BrookeReese❤️\n\n🎧 https://t.co/sOelloXwTY\n⏰ April 3rd, 3pm (PDT), 10pm (BST) / April 4th, 7am (KST)\n\n#지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #꽃 #YG https://t.co/invcPv1x0L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JISOO",
+					"indices": [
+						10,
+						16
+					]
+				},
+				{
+					"text": "FLOWER",
+					"indices": [
+						19,
+						26
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						174,
+						184
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						185,
+						190
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						191,
+						208
+					]
+				},
+				{
+					"text": "꽃",
+					"indices": [
+						209,
+						211
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						212,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						34,
+						45
+					]
+				},
+				{
+					"screen_name": "BrookeReese",
+					"name": "Brooke Reese",
+					"id": 201547358,
+					"id_str": "201547358",
+					"indices": [
+						69,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sOelloXwTY",
+					"expanded_url": "http://apple.co/Chart",
+					"display_url": "apple.co/Chart",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1642763936054517800,
+					"id_str": "1642763936054517761",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/FsxFGJpaIAEFQ6p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FsxFGJpaIAEFQ6p.jpg",
+					"url": "https://t.co/invcPv1x0L",
+					"display_url": "pic.twitter.com/invcPv1x0L",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1642764334257549312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1642763936054517800,
+					"id_str": "1642763936054517761",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/FsxFGJpaIAEFQ6p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FsxFGJpaIAEFQ6p.jpg",
+					"url": "https://t.co/invcPv1x0L",
+					"display_url": "pic.twitter.com/invcPv1x0L",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1642764334257549312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8936432,
+			"friends_count": 10,
+			"listed_count": 9494,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1680235305",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1572,
+		"favorite_count": 4772,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out #JISOO's #FLOWER on the @AppleMusic Global Chart Show with @BrookeReese❤️\n\n🎧 https://t.co/sOelloXwTY\n⏰ April 3rd, 3pm (PDT), 10pm (BST) / April 4th, 7am (KST)\n\n#지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #꽃 #YG https://t.co/invcPv1x0L"
+	},
+	{
 		"created_at": "Mon Apr 03 04:29:36 +0000 2023",
 		"id": 1642738882348306400,
 		"id_str": "1642746144986898432",
