@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Tue Apr 04 12:29:57 +0000 2023",
+		"id": 1643221879174447000,
+		"id_str": "1643229415499808768",
+		"full_text": "A flower cake🌹and card for JISOO from #ZEPETO BLINKs just arrived!\nThank you so, so much for supporting JISOO’s first solo debut in @zepeto_official! 😘\nJISOO loves BLINKs💖\n\n#JISOO #지수 #BLACKPINK #블랙핑크 #ZEPETO #ZEPETOlovesJISOO #YG https://t.co/xMeSGpeT6c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ZEPETO",
+					"indices": [
+						38,
+						45
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						173,
+						179
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						180,
+						183
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						184,
+						194
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						195,
+						200
+					]
+				},
+				{
+					"text": "ZEPETO",
+					"indices": [
+						201,
+						208
+					]
+				},
+				{
+					"text": "ZEPETOlovesJISOO",
+					"indices": [
+						209,
+						226
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						227,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zepeto_official",
+					"name": "ZEPETO",
+					"id": 1254595988796264400,
+					"id_str": "1254595988796264450",
+					"indices": [
+						132,
+						148
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1643210467295522800,
+					"id_str": "1643210467295522816",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/Fs3bNsJacAAIrJy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fs3bNsJacAAIrJy.jpg",
+					"url": "https://t.co/xMeSGpeT6c",
+					"display_url": "pic.twitter.com/xMeSGpeT6c",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1643221879174447106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1109,
+							"h": 1479,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1643210467295522800,
+					"id_str": "1643210467295522816",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/Fs3bNsJacAAIrJy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fs3bNsJacAAIrJy.jpg",
+					"url": "https://t.co/xMeSGpeT6c",
+					"display_url": "pic.twitter.com/xMeSGpeT6c",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1643221879174447106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1109,
+							"h": 1479,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8855165,
+			"friends_count": 0,
+			"listed_count": 8238,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1680233566",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5166,
+		"favorite_count": 20491,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A flower cake🌹and card for JISOO from #ZEPETO BLINKs just arrived!\nThank you so, so much for supporting JISOO’s first solo debut in @zepeto_official! 😘\nJISOO loves BLINKs💖\n\n#JISOO #지수 #BLACKPINK #블랙핑크 #ZEPETO #ZEPETOlovesJISOO #YG https://t.co/xMeSGpeT6c"
+	},
+	{
 		"created_at": "Tue Apr 04 09:54:39 +0000 2023",
 		"id": 1643178140477317000,
 		"id_str": "1643190336766857218",
