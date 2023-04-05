@@ -1,6 +1,448 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 05 07:30:09 +0000 2023",
+		"id": 1643508771245654000,
+		"id_str": "1643516359106543620",
+		"full_text": "Come join us in JISOO's FLOWER Challenge on TikTok!\n\n🌹https://t.co/XPhjalUUUG\n\n#FLOWERchallenge #JISOO_FLOWER #지수꽃 #JISOO #지수 #BLACKPINK #블랙핑크",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FLOWERchallenge",
+					"indices": [
+						79,
+						95
+					]
+				},
+				{
+					"text": "JISOO_FLOWER",
+					"indices": [
+						96,
+						109
+					]
+				},
+				{
+					"text": "지수꽃",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						126,
+						136
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						137,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XPhjalUUUG",
+					"expanded_url": "https://vt.tiktok.com/ZS8pS7rvG/",
+					"display_url": "vt.tiktok.com/ZS8pS7rvG/",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8858514,
+			"friends_count": 0,
+			"listed_count": 8262,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1680233566",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2465,
+		"favorite_count": 7624,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Come join us in JISOO's FLOWER Challenge on TikTok!\n\n🌹https://t.co/XPhjalUUUG\n\n#FLOWERchallenge #JISOO_FLOWER #지수꽃 #JISOO #지수 #BLACKPINK #블랙핑크"
+	},
+	{
+		"created_at": "Wed Apr 05 07:30:09 +0000 2023",
+		"id": 1643503795031384000,
+		"id_str": "1643516359093960704",
+		"full_text": "🌹 Join the 'ME' Listening Party on @Stationhead! 🌹\n\n🎧 https://t.co/sCZcs1Bl5u\n\n⏰ Apr 6, 7am KST | Apr 5, 3pm PST / 6pm EST\n\n✔ A Stationhead log-in and Spotify/Apple Music account is required!\n\n#지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #꽃 #FLOWER #YG https://t.co/EUkfav2zeD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지수",
+					"indices": [
+						193,
+						196
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						197,
+						207
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						208,
+						213
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						214,
+						231
+					]
+				},
+				{
+					"text": "꽃",
+					"indices": [
+						232,
+						234
+					]
+				},
+				{
+					"text": "FLOWER",
+					"indices": [
+						235,
+						242
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						243,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "STATIONHEAD",
+					"name": "STATIONHEAD",
+					"id": 3623255597,
+					"id_str": "3623255597",
+					"indices": [
+						35,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sCZcs1Bl5u",
+					"expanded_url": "https://share.stationhead.com/0hPPfh3FHUt",
+					"display_url": "share.stationhead.com/0hPPfh3FHUt",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1643502661340389400,
+					"id_str": "1643502661340389381",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1643502661340389381/img/4C347-uGj3BN1Jaw.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1643502661340389381/img/4C347-uGj3BN1Jaw.jpg",
+					"url": "https://t.co/EUkfav2zeD",
+					"display_url": "pic.twitter.com/EUkfav2zeD",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1643503795031384064/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1643502661340389400,
+					"id_str": "1643502661340389381",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1643502661340389381/img/4C347-uGj3BN1Jaw.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1643502661340389381/img/4C347-uGj3BN1Jaw.jpg",
+					"url": "https://t.co/EUkfav2zeD",
+					"display_url": "pic.twitter.com/EUkfav2zeD",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1643503795031384064/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 15000,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1643502661340389381/vid/480x852/K5AfO-dq5s3dN1zV.mp4?tag=16"
+							},
+							{
+								"bitrate": 10368000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1643502661340389381/vid/1080x1920/HVyBiFGQNzmo5u_Z.mp4?tag=16"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1643502661340389381/vid/720x1280/Fwz2iCajxzv1JcrF.mp4?tag=16"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1643502661340389381/pl/A4fZ2aXRi_am4uYp.m3u8?tag=16&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1643502661340389381/vid/320x568/6vVBCvEkxBYFfC5G.mp4?tag=16"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8938662,
+			"friends_count": 10,
+			"listed_count": 9514,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1680235305",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 913,
+		"favorite_count": 2920,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🌹 Join the 'ME' Listening Party on @Stationhead! 🌹\n\n🎧 https://t.co/sCZcs1Bl5u\n\n⏰ Apr 6, 7am KST | Apr 5, 3pm PST / 6pm EST\n\n✔ A Stationhead log-in and Spotify/Apple Music account is required!\n\n#지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #꽃 #FLOWER #YG https://t.co/EUkfav2zeD"
+	},
+	{
 		"created_at": "Wed Apr 05 06:39:46 +0000 2023",
 		"id": 1643493765540376600,
 		"id_str": "1643503679410937856",
