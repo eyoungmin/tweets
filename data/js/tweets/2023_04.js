@@ -1,6 +1,170 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 05 03:20:16 +0000 2023",
+		"id": 1643448380008415200,
+		"id_str": "1643453471520071686",
+		"full_text": "너도 나도 갖고 있는 셔츠, 각자의 개성으로 스타일링한 셀럽처럼 독특하게 연출해 보자.\n\n#르세라핌 #허윤진 #여자아이들 #미연 #고민시 #강민경 #블랙핑크 #지수\nhttps://t.co/9PZWb1zfwW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "르세라핌",
+					"indices": [
+						50,
+						55
+					]
+				},
+				{
+					"text": "허윤진",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "여자아이들",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "미연",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "고민시",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "강민경",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						88,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9PZWb1zfwW",
+					"expanded_url": "https://www.allurekorea.com/2023/03/23/%ec%85%94%ec%b8%a0-%ed%95%98%eb%82%98%eb%a1%9c-%ec%9d%bc%ec%a3%bc%ec%9d%bc-%ec%bd%94%eb%94%94%ed%95%98%ea%b8%b0/?ddw=140259&ds_ch=facebook&utm_source=facebook&utm_medium=SNS",
+					"display_url": "allurekorea.com/2023/03/23/%ec…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38042,
+			"friends_count": 1,
+			"listed_count": 298,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 814,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1679021456",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "너도 나도 갖고 있는 셔츠, 각자의 개성으로 스타일링한 셀럽처럼 독특하게 연출해 보자.\n\n#르세라핌 #허윤진 #여자아이들 #미연 #고민시 #강민경 #블랙핑크 #지수\nhttps://t.co/9PZWb1zfwW"
+	},
+	{
 		"created_at": "Tue Apr 04 12:29:57 +0000 2023",
 		"id": 1643221879174447000,
 		"id_str": "1643229415499808768",
