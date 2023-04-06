@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Thu Apr 06 06:30:26 +0000 2023",
+		"id": 1643856061118521300,
+		"id_str": "1643863715979182080",
+		"full_text": "Check out and listen to #JISOO's #FLOWER on @SpotifyKpop \"K-Pop ON! (온)\" playlist!\n\n📷 https://t.co/nr6728FNCN\n\n#지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #꽃 #YG https://t.co/Ppwvbu39Xd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JISOO",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "FLOWER",
+					"indices": [
+						33,
+						40
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						115,
+						125
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						132,
+						149
+					]
+				},
+				{
+					"text": "ME",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "꽃",
+					"indices": [
+						154,
+						156
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						157,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SpotifyKpop",
+					"name": "Spotify ❤️ K-Pop",
+					"id": 978459450871697400,
+					"id_str": "978459450871697408",
+					"indices": [
+						44,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nr6728FNCN",
+					"expanded_url": "https://spotify.link/K-PopON",
+					"display_url": "spotify.link/K-PopON",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1643808837445783600,
+					"id_str": "1643808837445783553",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Fs_7baqakAE5fLV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fs_7baqakAE5fLV.jpg",
+					"url": "https://t.co/Ppwvbu39Xd",
+					"display_url": "pic.twitter.com/Ppwvbu39Xd",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1643856061118521345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1643808837445783600,
+					"id_str": "1643808837445783553",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Fs_7baqakAE5fLV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fs_7baqakAE5fLV.jpg",
+					"url": "https://t.co/Ppwvbu39Xd",
+					"display_url": "pic.twitter.com/Ppwvbu39Xd",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1643856061118521345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8938961,
+			"friends_count": 10,
+			"listed_count": 9517,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1680235305",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 782,
+		"favorite_count": 2675,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out and listen to #JISOO's #FLOWER on @SpotifyKpop \"K-Pop ON! (온)\" playlist!\n\n📷 https://t.co/nr6728FNCN\n\n#지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #꽃 #YG https://t.co/Ppwvbu39Xd"
+	},
+	{
 		"created_at": "Thu Apr 06 05:30:25 +0000 2023",
 		"id": 1643841536587866000,
 		"id_str": "1643848615658438657",
