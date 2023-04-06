@@ -1,6 +1,606 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Thu Apr 06 03:43:59 +0000 2023",
+		"id": 1643806916144160800,
+		"id_str": "1643821828639543298",
+		"full_text": "오늘(6일) 저녁 8시, 2023 백예린 단독 공연 ’Square’가 인터파크티켓을 통해 오픈됩니다. 모두 놓치지 마세요!\n⠀\n◼공연 일시\n▫2023.5.19 (금) 8PM\n▫2023.5.20 (토) 6PM\n▫2023.5.21 (일) 5PM\n⠀\n◼공연 장소 : SK 핸드볼경기장\n◼좌석 형태 : 지정 좌석\n◼공연 시간 : 120분 https://t.co/zZXsMWvgZK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1643804214731354000,
+					"id_str": "1643804214731354113",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/Fs_3OVtaMAEqAwB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fs_3OVtaMAEqAwB.jpg",
+					"url": "https://t.co/zZXsMWvgZK",
+					"display_url": "pic.twitter.com/zZXsMWvgZK",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1643806916144160771/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 847,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1446,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1643804214731354000,
+					"id_str": "1643804214731354113",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/Fs_3OVtaMAEqAwB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fs_3OVtaMAEqAwB.jpg",
+					"url": "https://t.co/zZXsMWvgZK",
+					"display_url": "pic.twitter.com/zZXsMWvgZK",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1643806916144160771/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 847,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1446,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54596,
+			"friends_count": 2,
+			"listed_count": 257,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1608765016316182532/etM2nxei_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1608765016316182532/etM2nxei_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1672394456",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 473,
+		"favorite_count": 652,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘(6일) 저녁 8시, 2023 백예린 단독 공연 ’Square’가 인터파크티켓을 통해 오픈됩니다. 모두 놓치지 마세요!\n⠀\n◼공연 일시\n▫2023.5.19 (금) 8PM\n▫2023.5.20 (토) 6PM\n▫2023.5.21 (일) 5PM\n⠀\n◼공연 장소 : SK 핸드볼경기장\n◼좌석 형태 : 지정 좌석\n◼공연 시간 : 120분 https://t.co/zZXsMWvgZK"
+	},
+	{
+		"created_at": "Thu Apr 06 03:43:59 +0000 2023",
+		"id": 1643806921277968400,
+		"id_str": "1643821828589101057",
+		"full_text": "◼티켓 가격\n▫VIP 143,000원\n▫R석 132,000원\n⠀\n◼티켓 오픈\n▫2023.4.6 (목) 오후 8시 인터파크\n▫국내: https://t.co/gqIpUzuBru\n▫글로벌:(Global)https://t.co/MkALYeZ30I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gqIpUzuBru",
+					"expanded_url": "https://tickets.interpark.com/goods/23005010",
+					"display_url": "tickets.interpark.com/goods/23005010",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/MkALYeZ30I",
+					"expanded_url": "https://www.globalinterpark.com/detail/edetail?prdNo=23005010",
+					"display_url": "globalinterpark.com/detail/edetail…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1643806916144160800,
+		"in_reply_to_status_id_str": "1643806916144160771",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54596,
+			"friends_count": 2,
+			"listed_count": 257,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1608765016316182532/etM2nxei_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1608765016316182532/etM2nxei_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1672394456",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "◼티켓 가격\n▫VIP 143,000원\n▫R석 132,000원\n⠀\n◼티켓 오픈\n▫2023.4.6 (목) 오후 8시 인터파크\n▫국내: https://t.co/gqIpUzuBru\n▫글로벌:(Global)https://t.co/MkALYeZ30I"
+	},
+	{
+		"created_at": "Thu Apr 06 03:30:24 +0000 2023",
+		"id": 1643810760269893600,
+		"id_str": "1643818408998236160",
+		"full_text": "#JISOO ‘꽃(FLOWER)’ M/V HIGHLIGHT CLIP #2\n\n🎬’꽃(FLOWER)’ M/V: https://t.co/RrZKrxTnMm\n\n#지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #TITLE #꽃 #FLOWER #MV #HIGHLIGHTCLIP #YG https://t.co/KNhZFZSRx4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JISOO",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						89,
+						99
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						106,
+						123
+					]
+				},
+				{
+					"text": "ME",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "TITLE",
+					"indices": [
+						128,
+						134
+					]
+				},
+				{
+					"text": "꽃",
+					"indices": [
+						135,
+						137
+					]
+				},
+				{
+					"text": "FLOWER",
+					"indices": [
+						138,
+						145
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "HIGHLIGHTCLIP",
+					"indices": [
+						150,
+						164
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						165,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RrZKrxTnMm",
+					"expanded_url": "https://youtu.be/YudHcBIxlYw",
+					"display_url": "youtu.be/YudHcBIxlYw",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1643091316312621000,
+					"id_str": "1643091316312621059",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/Fs1vD8_WIAEganX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fs1vD8_WIAEganX.jpg",
+					"url": "https://t.co/KNhZFZSRx4",
+					"display_url": "pic.twitter.com/KNhZFZSRx4",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1643810760269893633/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1643091316312621000,
+					"id_str": "1643091316312621059",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/Fs1vD8_WIAEganX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fs1vD8_WIAEganX.jpg",
+					"url": "https://t.co/KNhZFZSRx4",
+					"display_url": "pic.twitter.com/KNhZFZSRx4",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1643810760269893633/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 15250,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1643091316312621059/vid/720x1280/bWbYLTS7hOeWe8CE.mp4?tag=16"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1643091316312621059/vid/480x852/iget0QzWIps9YhIq.mp4?tag=16"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1643091316312621059/vid/320x568/67m9KEcVocYp6eS9.mp4?tag=16"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1643091316312621059/pl/DI7cnEGao0W-3P7G.m3u8?tag=16&container=fmp4"
+							},
+							{
+								"bitrate": 10368000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1643091316312621059/vid/1080x1920/24WaqTML6geT2H9L.mp4?tag=16"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8860245,
+			"friends_count": 0,
+			"listed_count": 8279,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1680233566",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6095,
+		"favorite_count": 19211,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#JISOO ‘꽃(FLOWER)’ M/V HIGHLIGHT CLIP #2\n\n🎬’꽃(FLOWER)’ M/V: https://t.co/RrZKrxTnMm\n\n#지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #TITLE #꽃 #FLOWER #MV #HIGHLIGHTCLIP #YG https://t.co/KNhZFZSRx4"
+	},
+	{
 		"created_at": "Wed Apr 05 15:30:16 +0000 2023",
 		"id": 1643629587014852600,
 		"id_str": "1643637181880172545",
