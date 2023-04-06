@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Thu Apr 06 11:45:16 +0000 2023",
+		"id": 1643931822924116000,
+		"id_str": "1643942950202757120",
+		"full_text": "[Daily HYO] New York &amp; Paris VLOG 🇺🇸🇫🇷 HYO in 타임스퀘어🏙️ + 뉴욕 패션쇼✨ + 파리 공연🎧\n\nhttps://t.co/55ssYOnUtn\n\n#HYOYEON #HYO #효연\n#GirlsGeneration #소녀시대\n#VLOG #NEWYORK #PARIS https://t.co/dYjTSSN4L2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYOYEON",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						121,
+						137
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "VLOG",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "NEWYORK",
+					"indices": [
+						150,
+						158
+					]
+				},
+				{
+					"text": "PARIS",
+					"indices": [
+						159,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/55ssYOnUtn",
+					"expanded_url": "https://youtu.be/Yw475fvkYeM",
+					"display_url": "youtu.be/Yw475fvkYeM",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1643931815512805400,
+					"id_str": "1643931815512805377",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FtBrRrqakAEMon9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtBrRrqakAEMon9.jpg",
+					"url": "https://t.co/dYjTSSN4L2",
+					"display_url": "pic.twitter.com/dYjTSSN4L2",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1643931822924115975/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1643931815512805400,
+					"id_str": "1643931815512805377",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FtBrRrqakAEMon9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtBrRrqakAEMon9.jpg",
+					"url": "https://t.co/dYjTSSN4L2",
+					"display_url": "pic.twitter.com/dYjTSSN4L2",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1643931822924115975/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3902595,
+			"friends_count": 5,
+			"listed_count": 6396,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1179,
+		"favorite_count": 2241,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Daily HYO] New York &amp; Paris VLOG 🇺🇸🇫🇷 HYO in 타임스퀘어🏙️ + 뉴욕 패션쇼✨ + 파리 공연🎧\n\nhttps://t.co/55ssYOnUtn\n\n#HYOYEON #HYO #효연\n#GirlsGeneration #소녀시대\n#VLOG #NEWYORK #PARIS https://t.co/dYjTSSN4L2"
+	},
+	{
 		"created_at": "Thu Apr 06 09:28:06 +0000 2023",
 		"id": 1643903348830253000,
 		"id_str": "1643908427083571201",
