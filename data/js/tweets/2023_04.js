@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Thu Apr 06 17:55:17 +0000 2023",
+		"id": 1644033867903299600,
+		"id_str": "1644036066070994947",
+		"full_text": "UK 🇬🇧 If you pre-order my album ..P O R T R A I T S.. you could win tickets to my London show, tour merch and a meet and greet with me! I can’t wait to see you 🤍\nhttps://t.co/Wb09quU8Ad https://t.co/TSGMW2MuqB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wb09quU8Ad",
+					"expanded_url": "https://shop.officialbirdy.com/gb/",
+					"display_url": "shop.officialbirdy.com/gb/",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1644033846038413300,
+					"id_str": "1644033846038413313",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FtDIEo_WwAEkIZl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtDIEo_WwAEkIZl.jpg",
+					"url": "https://t.co/TSGMW2MuqB",
+					"display_url": "pic.twitter.com/TSGMW2MuqB",
+					"expanded_url": "https://twitter.com/birdy/status/1644033867903299605/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1644033846038413300,
+					"id_str": "1644033846038413313",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FtDIEo_WwAEkIZl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtDIEo_WwAEkIZl.jpg",
+					"url": "https://t.co/TSGMW2MuqB",
+					"display_url": "pic.twitter.com/TSGMW2MuqB",
+					"expanded_url": "https://twitter.com/birdy/status/1644033867903299605/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Raincatchers is yours, listen below 🌧🩰🔮 My fifth album ..P O R T R A i T S.. is out 14th July",
+			"url": "https://t.co/fUVSS8j9Fs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fUVSS8j9Fs",
+							"expanded_url": "https://birdy.lnk.to/Music",
+							"display_url": "birdy.lnk.to/Music",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304564,
+			"friends_count": 174,
+			"listed_count": 1152,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 845,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2536,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1629171726885027843/5g1NCOIB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1629171726885027843/5g1NCOIB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1677837601",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "UK 🇬🇧 If you pre-order my album ..P O R T R A I T S.. you could win tickets to my London show, tour merch and a meet and greet with me! I can’t wait to see you 🤍\nhttps://t.co/Wb09quU8Ad https://t.co/TSGMW2MuqB"
+	},
+	{
 		"created_at": "Thu Apr 06 16:30:33 +0000 2023",
 		"id": 1644010990588285000,
 		"id_str": "1644014740698439687",
