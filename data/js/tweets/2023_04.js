@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Thu Apr 06 16:30:33 +0000 2023",
+		"id": 1644010990588285000,
+		"id_str": "1644014740698439687",
+		"full_text": "#JISOO answers the Web's Most Searched Questions\non @wired Autocomplete Interview!\n\nGo check it out now!\n📷 https://t.co/Y3b8V3WFKY \n\n#JISOO #지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #TITLE #꽃 #FLOWER #AllEyesOnMe #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JISOO",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						144,
+						154
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						161,
+						178
+					]
+				},
+				{
+					"text": "ME",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "TITLE",
+					"indices": [
+						183,
+						189
+					]
+				},
+				{
+					"text": "꽃",
+					"indices": [
+						190,
+						192
+					]
+				},
+				{
+					"text": "FLOWER",
+					"indices": [
+						193,
+						200
+					]
+				},
+				{
+					"text": "AllEyesOnMe",
+					"indices": [
+						201,
+						213
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						214,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WIRED",
+					"name": "WIRED",
+					"id": 1344951,
+					"id_str": "1344951",
+					"indices": [
+						52,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y3b8V3WFKY",
+					"expanded_url": "https://youtu.be/BcHub-31afc",
+					"display_url": "youtu.be/BcHub-31afc",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8862646,
+			"friends_count": 0,
+			"listed_count": 8283,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1680233566",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4894,
+		"favorite_count": 12211,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#JISOO answers the Web's Most Searched Questions\non @wired Autocomplete Interview!\n\nGo check it out now!\n📷 https://t.co/Y3b8V3WFKY \n\n#JISOO #지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #TITLE #꽃 #FLOWER #AllEyesOnMe #YG"
+	},
+	{
 		"created_at": "Thu Apr 06 12:55:14 +0000 2023",
 		"id": 1643948808827555800,
 		"id_str": "1643960557379125249",
