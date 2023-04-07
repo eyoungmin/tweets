@@ -1,6 +1,498 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Fri Apr 07 10:30:45 +0000 2023",
+		"id": 1644279793956028400,
+		"id_str": "1644286583422558209",
+		"full_text": "차린건 꽃향기뿐🌹\n\n'차쥐뿔 X 지수' 영상 보러 가기 ❤️👇\n\nhttps://t.co/MID3si7hyi\n\n#JISOO #지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #꽃 #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JISOO",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						72,
+						82
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						89,
+						106
+					]
+				},
+				{
+					"text": "ME",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "꽃",
+					"indices": [
+						111,
+						113
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						114,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MID3si7hyi",
+					"expanded_url": "https://youtu.be/ZMYR5s9DoTs",
+					"display_url": "youtu.be/ZMYR5s9DoTs",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8940452,
+			"friends_count": 10,
+			"listed_count": 9511,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1680235305",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1180,
+		"favorite_count": 2833,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "차린건 꽃향기뿐🌹\n\n'차쥐뿔 X 지수' 영상 보러 가기 ❤️👇\n\nhttps://t.co/MID3si7hyi\n\n#JISOO #지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #꽃 #YG"
+	},
+	{
+		"created_at": "Fri Apr 07 10:30:45 +0000 2023",
+		"id": 1644279796002869200,
+		"id_str": "1644286582927622144",
+		"full_text": "Check out #JISOO on '차린건 쥐뿔도 없지만' ❤️\n\n📺 https://t.co/MID3si7hyi\n\n#지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #꽃 #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JISOO",
+					"indices": [
+						10,
+						16
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						69,
+						79
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						86,
+						103
+					]
+				},
+				{
+					"text": "ME",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "꽃",
+					"indices": [
+						108,
+						110
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						111,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MID3si7hyi",
+					"expanded_url": "https://youtu.be/ZMYR5s9DoTs",
+					"display_url": "youtu.be/ZMYR5s9DoTs",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1644279793956028400,
+		"in_reply_to_status_id_str": "1644279793956028418",
+		"in_reply_to_user_id": 878204370403250200,
+		"in_reply_to_user_id_str": "878204370403250176",
+		"in_reply_to_screen_name": "ygofficialblink",
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8940452,
+			"friends_count": 10,
+			"listed_count": 9511,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1680235305",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 209,
+		"favorite_count": 640,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Check out #JISOO on '차린건 쥐뿔도 없지만' ❤️\n\n📺 https://t.co/MID3si7hyi\n\n#지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #꽃 #YG"
+	},
+	{
+		"created_at": "Fri Apr 07 10:30:45 +0000 2023",
+		"id": 1644279525541576700,
+		"id_str": "1644286582919245825",
+		"full_text": "차린건 꽃향기뿐🌹\n\n'차쥐뿔 X 지수' 영상 보러 가기❤️👇\n📺https://t.co/1GOjtQF7BA\n\n#JISOO #지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #꽃 #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JISOO",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						88,
+						105
+					]
+				},
+				{
+					"text": "ME",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "꽃",
+					"indices": [
+						110,
+						112
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						113,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1GOjtQF7BA",
+					"expanded_url": "https://youtu.be/ZMYR5s9DoTs",
+					"display_url": "youtu.be/ZMYR5s9DoTs",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8865643,
+			"friends_count": 0,
+			"listed_count": 8282,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1680233566",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4932,
+		"favorite_count": 9873,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "차린건 꽃향기뿐🌹\n\n'차쥐뿔 X 지수' 영상 보러 가기❤️👇\n📺https://t.co/1GOjtQF7BA\n\n#JISOO #지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #꽃 #YG"
+	},
+	{
 		"created_at": "Fri Apr 07 09:45:28 +0000 2023",
 		"id": 1644263758305345500,
 		"id_str": "1644275189373345792",
