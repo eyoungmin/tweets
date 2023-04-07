@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Fri Apr 07 03:20:47 +0000 2023",
+		"id": 1644173152283418600,
+		"id_str": "1644178380194037760",
+		"full_text": "다이어트 자극! 셀럽들이 알려주는 단기간 복근 만드는 운동 루틴.\n\n#블랙핑크 #로제 #트와이스 #모모 #소유 #한혜진\nhttps://t.co/KWxD30L7n4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "모모",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "소유",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "한혜진",
+					"indices": [
+						62,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KWxD30L7n4",
+					"expanded_url": "https://www.allurekorea.com/2022/05/07/%ec%8a%a4%ed%83%80%eb%93%a4%ec%9d%98-%eb%b3%b5%ea%b7%bc-%ec%8b%ac%ed%8f%90-%ec%86%8c%ec%83%9d%eb%b2%95/?ddw=109968&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2022/05/07/%ec…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38031,
+			"friends_count": 1,
+			"listed_count": 298,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 821,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1679021456",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다이어트 자극! 셀럽들이 알려주는 단기간 복근 만드는 운동 루틴.\n\n#블랙핑크 #로제 #트와이스 #모모 #소유 #한혜진\nhttps://t.co/KWxD30L7n4"
+	},
+	{
 		"created_at": "Fri Apr 07 02:30:41 +0000 2023",
 		"id": 1644154261071347700,
 		"id_str": "1644165770522370048",
