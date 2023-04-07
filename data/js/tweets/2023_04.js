@@ -1,6 +1,479 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Fri Apr 07 13:30:48 +0000 2023",
+		"id": 1644331090373668900,
+		"id_str": "1644331894652252163",
+		"full_text": "#ROSÉ ‘On The Ground’ Dance Performance HITS 100 MILLION VIEWS @Youtube\n\nBLINKs worldwide, thank you so much!\n\n‘On The Ground’ Dance Performance\n🎥https://t.co/eQAlaCSrBt\n\n#로제 #BLACKPINK #블랙핑크 #OnTheGround #DancePerformance #100MILLION #YOUTUBE #YG https://t.co/imgdyHNKyE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ROSÉ",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						175,
+						185
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						186,
+						191
+					]
+				},
+				{
+					"text": "OnTheGround",
+					"indices": [
+						192,
+						204
+					]
+				},
+				{
+					"text": "DancePerformance",
+					"indices": [
+						205,
+						222
+					]
+				},
+				{
+					"text": "100MILLION",
+					"indices": [
+						223,
+						234
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						235,
+						243
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						244,
+						247
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						63,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eQAlaCSrBt",
+					"expanded_url": "https://youtu.be/z6CSW2yu8Mg",
+					"display_url": "youtu.be/z6CSW2yu8Mg",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1644327838718529500,
+					"id_str": "1644327838718529536",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/FtHTdREakAAGsIa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtHTdREakAAGsIa.jpg",
+					"url": "https://t.co/imgdyHNKyE",
+					"display_url": "pic.twitter.com/imgdyHNKyE",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1644331090373668869/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1644327838718529500,
+					"id_str": "1644327838718529536",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/FtHTdREakAAGsIa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtHTdREakAAGsIa.jpg",
+					"url": "https://t.co/imgdyHNKyE",
+					"display_url": "pic.twitter.com/imgdyHNKyE",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1644331090373668869/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8866627,
+			"friends_count": 0,
+			"listed_count": 8282,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1680233566",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7343,
+		"favorite_count": 20148,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ROSÉ ‘On The Ground’ Dance Performance HITS 100 MILLION VIEWS @Youtube\n\nBLINKs worldwide, thank you so much!\n\n‘On The Ground’ Dance Performance\n🎥https://t.co/eQAlaCSrBt\n\n#로제 #BLACKPINK #블랙핑크 #OnTheGround #DancePerformance #100MILLION #YOUTUBE #YG https://t.co/imgdyHNKyE"
+	},
+	{
+		"created_at": "Fri Apr 07 12:59:03 +0000 2023",
+		"id": 1644311637720182800,
+		"id_str": "1644323904259870722",
+		"full_text": "[#VIDEO] 서현의 소소하고 사소한 Winter Vlog🧣\n▶ https://t.co/yXmU2jJ4Ql\n\n#서현 #SEOHYUN #SEOHYUN_OFFICIAL https://t.co/iZ9MEhs1iV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDEO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						66,
+						74
+					]
+				},
+				{
+					"text": "SEOHYUN_OFFICIAL",
+					"indices": [
+						75,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yXmU2jJ4Ql",
+					"expanded_url": "https://youtu.be/JjQZhvrBu58",
+					"display_url": "youtu.be/JjQZhvrBu58",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1644311624612982800,
+					"id_str": "1644311624612982784",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FtHEte0aMAA-yU3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtHEte0aMAA-yU3.jpg",
+					"url": "https://t.co/iZ9MEhs1iV",
+					"display_url": "pic.twitter.com/iZ9MEhs1iV",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1644311637720182784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1644311624612982800,
+					"id_str": "1644311624612982784",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FtHEte0aMAA-yU3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtHEte0aMAA-yU3.jpg",
+					"url": "https://t.co/iZ9MEhs1iV",
+					"display_url": "pic.twitter.com/iZ9MEhs1iV",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1644311637720182784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 어덕행덕,덕라밸을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TpRYY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TpRYY",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68794,
+			"friends_count": 15,
+			"listed_count": 287,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642180366588084224/DMdzJcqU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642180366588084224/DMdzJcqU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 379,
+		"favorite_count": 414,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VIDEO] 서현의 소소하고 사소한 Winter Vlog🧣\n▶ https://t.co/yXmU2jJ4Ql\n\n#서현 #SEOHYUN #SEOHYUN_OFFICIAL https://t.co/iZ9MEhs1iV"
+	},
+	{
 		"created_at": "Fri Apr 07 11:43:16 +0000 2023",
 		"id": 1644294270806007800,
 		"id_str": "1644304830997966848",
