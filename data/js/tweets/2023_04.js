@@ -1,6 +1,401 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Fri Apr 07 09:45:28 +0000 2023",
+		"id": 1644263758305345500,
+		"id_str": "1644275189373345792",
+		"full_text": "【#SONEJAPAN】2月28日(火)にFCサイト内「SPECIAL」にて公開した『SONE NOTE LIVE Vol.41』のメイキング映像を「BLOG」に公開✨ぜひご覧ください♬\n※会員様限定コンテンツのため、転載禁止です。\n#少女時代\n#TaeYeon\n#テヨン\n#SONENOTELIVE https://t.co/G1ByE6kkAu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SONEJAPAN",
+					"indices": [
+						1,
+						11
+					]
+				},
+				{
+					"text": "少女時代",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "TaeYeon",
+					"indices": [
+						123,
+						131
+					]
+				},
+				{
+					"text": "テヨン",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "SONENOTELIVE",
+					"indices": [
+						137,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1644251309837779000,
+					"id_str": "1644251309837778944",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FtGN2sxaAAA9VKR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtGN2sxaAAA9VKR.jpg",
+					"url": "https://t.co/G1ByE6kkAu",
+					"display_url": "pic.twitter.com/G1ByE6kkAu",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1644263758305345536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1908,
+							"h": 1064,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 669,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1644251309837779000,
+					"id_str": "1644251309837778944",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FtGN2sxaAAA9VKR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtGN2sxaAAA9VKR.jpg",
+					"url": "https://t.co/G1ByE6kkAu",
+					"display_url": "pic.twitter.com/G1ByE6kkAu",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1644263758305345536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1908,
+							"h": 1064,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 669,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/T70Fo3NBNn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/T70Fo3NBNn",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 123554,
+			"friends_count": 0,
+			"listed_count": 551,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555086105711886337/zo-mAiti_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555086105711886337/zo-mAiti_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1659596396",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 452,
+		"favorite_count": 730,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【#SONEJAPAN】2月28日(火)にFCサイト内「SPECIAL」にて公開した『SONE NOTE LIVE Vol.41』のメイキング映像を「BLOG」に公開✨ぜひご覧ください♬\n※会員様限定コンテンツのため、転載禁止です。\n#少女時代\n#TaeYeon\n#テヨン\n#SONENOTELIVE https://t.co/G1ByE6kkAu"
+	},
+	{
+		"created_at": "Fri Apr 07 09:28:21 +0000 2023",
+		"id": 1644263750315147300,
+		"id_str": "1644270879319130113",
+		"full_text": "𑁍𝗥𝗘𝗟𝗘𝗔𝗦𝗘 𝗢𝗡𑁍\n김윤아 라이브앨범\n\n◊ 행복한 사랑은 없네 ◊\n𝐼𝑙 𝑛’𝑦 𝑎 𝑝𝑎𝑠 𝑑’𝑎𝑚𝑜𝑢𝑟 ℎ𝑒𝑢𝑟𝑒𝑢𝑥\n\n지금 전 음원 사이트에서 감상하실 수 있습니다.\n\n#김윤아 #라이브앨범\n#행복한사랑은없네 https://t.co/yhGhzJXKT1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김윤아",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "라이브앨범",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "행복한사랑은없네",
+					"indices": [
+						109,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1644253727694659600,
+					"id_str": "1644253727694659584",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/FtGQDb_aIAAXPC2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtGQDb_aIAAXPC2.jpg",
+					"url": "https://t.co/yhGhzJXKT1",
+					"display_url": "pic.twitter.com/yhGhzJXKT1",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1644263750315147267/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1644253727694659600,
+					"id_str": "1644253727694659584",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/FtGQDb_aIAAXPC2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtGQDb_aIAAXPC2.jpg",
+					"url": "https://t.co/yhGhzJXKT1",
+					"display_url": "pic.twitter.com/yhGhzJXKT1",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1644263750315147267/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림 공식 트위터\n𝗝𝗔𝗨𝗥𝗜𝗠 𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 𝖳𝗐𝗂𝗍𝗍𝖾𝗋",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4882,
+			"friends_count": 5,
+			"listed_count": 31,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 337,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1669787144",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𑁍𝗥𝗘𝗟𝗘𝗔𝗦𝗘 𝗢𝗡𑁍\n김윤아 라이브앨범\n\n◊ 행복한 사랑은 없네 ◊\n𝐼𝑙 𝑛’𝑦 𝑎 𝑝𝑎𝑠 𝑑’𝑎𝑚𝑜𝑢𝑟 ℎ𝑒𝑢𝑟𝑒𝑢𝑥\n\n지금 전 음원 사이트에서 감상하실 수 있습니다.\n\n#김윤아 #라이브앨범\n#행복한사랑은없네 https://t.co/yhGhzJXKT1"
+	},
+	{
 		"created_at": "Fri Apr 07 07:28:19 +0000 2023",
 		"id": 1644235439828791300,
 		"id_str": "1644240670603837441",
