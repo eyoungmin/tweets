@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Fri Apr 07 14:30:49 +0000 2023",
+		"id": 1644346132754202600,
+		"id_str": "1644346996382130176",
+		"full_text": "붉게 타버려진 #지수 와 #영지 📷\n\n📽https://t.co/RrZKrxTnMm\n\n#JISOO_FLOWER #지수꽃 #ME #JISOO #BLACKPINK #블랙핑크 #FLOWERchallenge https://t.co/yjbnJEiGs5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지수",
+					"indices": [
+						8,
+						11
+					]
+				},
+				{
+					"text": "영지",
+					"indices": [
+						14,
+						17
+					]
+				},
+				{
+					"text": "JISOO_FLOWER",
+					"indices": [
+						47,
+						60
+					]
+				},
+				{
+					"text": "지수꽃",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "ME",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "FLOWERchallenge",
+					"indices": [
+						94,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RrZKrxTnMm",
+					"expanded_url": "https://youtu.be/YudHcBIxlYw",
+					"display_url": "youtu.be/YudHcBIxlYw",
+					"indices": [
+						22,
+						45
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1644345733917839400,
+					"id_str": "1644345733917839360",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1644345733917839360/pu/img/TzNCVBtHPfHtY-vG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1644345733917839360/pu/img/TzNCVBtHPfHtY-vG.jpg",
+					"url": "https://t.co/yjbnJEiGs5",
+					"display_url": "pic.twitter.com/yjbnJEiGs5",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1644346132754202624/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1644345733917839400,
+					"id_str": "1644345733917839360",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1644345733917839360/pu/img/TzNCVBtHPfHtY-vG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1644345733917839360/pu/img/TzNCVBtHPfHtY-vG.jpg",
+					"url": "https://t.co/yjbnJEiGs5",
+					"display_url": "pic.twitter.com/yjbnJEiGs5",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1644346132754202624/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1644345733917839360/pu/vid/720x1280/i08qqTvoc4LDni_d.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1644345733917839360/pu/pl/6gzWHWDNUisBVCFh.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1644345733917839360/pu/vid/480x852/e4jWGGvouxS-RNeh.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1644345733917839360/pu/vid/320x568/VC1kJCgYT8fxdPse.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8866866,
+			"friends_count": 0,
+			"listed_count": 8281,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 989,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1680233566",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19376,
+		"favorite_count": 46855,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "붉게 타버려진 #지수 와 #영지 📷\n\n📽https://t.co/RrZKrxTnMm\n\n#JISOO_FLOWER #지수꽃 #ME #JISOO #BLACKPINK #블랙핑크 #FLOWERchallenge https://t.co/yjbnJEiGs5"
+	},
+	{
 		"created_at": "Fri Apr 07 13:30:48 +0000 2023",
 		"id": 1644331090373668900,
 		"id_str": "1644331894652252163",
