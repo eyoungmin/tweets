@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sat Apr 08 00:21:00 +0000 2023",
+		"id": 1644490239619084300,
+		"id_str": "1644495523708059651",
+		"full_text": "봄비에 기온 다시 뚝 떨어졌다고? 패션과 보온성 두 마리 토끼를 잡은 셀럽들의 봄 아우터 코디.\n\n#블랙핑크 #제니 #아이브 #안유진 #문가영 #블랙핑크 #지수 #레드벨벳 #조이 https://t.co/8VNK4xGlDz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "아이브",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "안유진",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "문가영",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						96,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8VNK4xGlDz",
+					"expanded_url": "https://www.allurekorea.com/2023/02/17/thisweek-26/?ddw=138353&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2023/02/17/thi…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38025,
+			"friends_count": 1,
+			"listed_count": 298,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 827,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1679021456",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "봄비에 기온 다시 뚝 떨어졌다고? 패션과 보온성 두 마리 토끼를 잡은 셀럽들의 봄 아우터 코디.\n\n#블랙핑크 #제니 #아이브 #안유진 #문가영 #블랙핑크 #지수 #레드벨벳 #조이 https://t.co/8VNK4xGlDz"
+	},
+	{
 		"created_at": "Fri Apr 07 23:30:54 +0000 2023",
 		"id": 1644475520544030700,
 		"id_str": "1644482916460683264",
