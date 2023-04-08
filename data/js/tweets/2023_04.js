@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sat Apr 08 05:30:58 +0000 2023",
+		"id": 1644565782662357000,
+		"id_str": "1644573528585371648",
+		"full_text": "How are you glowing up for our set?!🖤💖\nCreate a Short and show us what you got, brought to you by #YouTubeShorts!! #CoachellaOnYouTube @YouTube\n\nhttps://t.co/L7S7FKSRoX https://t.co/ApD1PNiGqV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YouTubeShorts",
+					"indices": [
+						98,
+						112
+					]
+				},
+				{
+					"text": "CoachellaOnYouTube",
+					"indices": [
+						115,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						135,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/L7S7FKSRoX",
+					"expanded_url": "http://yt.be/blackpinkcoachella",
+					"display_url": "yt.be/blackpinkcoach…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1644565737267417000,
+					"id_str": "1644565737267417090",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1644565737267417090/pu/img/eCW8T4Uv3zduNd0_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1644565737267417090/pu/img/eCW8T4Uv3zduNd0_.jpg",
+					"url": "https://t.co/ApD1PNiGqV",
+					"display_url": "pic.twitter.com/ApD1PNiGqV",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1644565782662356994/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1644565737267417000,
+					"id_str": "1644565737267417090",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1644565737267417090/pu/img/eCW8T4Uv3zduNd0_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1644565737267417090/pu/img/eCW8T4Uv3zduNd0_.jpg",
+					"url": "https://t.co/ApD1PNiGqV",
+					"display_url": "pic.twitter.com/ApD1PNiGqV",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1644565782662356994/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 14800,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1644565737267417090/pu/vid/540x540/GG0YOkOVToEgThh_.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1644565737267417090/pu/pl/TXO9wV9tlahzQFkj.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1644565737267417090/pu/vid/720x720/PMiB3ayg4zzB5rLO.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1644565737267417090/pu/vid/320x320/VcKwBV3082IKTvJM.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8870938,
+			"friends_count": 0,
+			"listed_count": 8285,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 994,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1680233566",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3754,
+		"favorite_count": 16278,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How are you glowing up for our set?!🖤💖\nCreate a Short and show us what you got, brought to you by #YouTubeShorts!! #CoachellaOnYouTube @YouTube\n\nhttps://t.co/L7S7FKSRoX https://t.co/ApD1PNiGqV"
+	},
+	{
 		"created_at": "Sat Apr 08 04:30:58 +0000 2023",
 		"id": 1644550637575889000,
 		"id_str": "1644558429388677121",
