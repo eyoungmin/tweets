@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Mon Apr 10 23:31:48 +0000 2023",
+		"id": 1645562321853644800,
+		"id_str": "1645570304771604480",
+		"full_text": "#BLACKPINK ‘How You Like That’ M/V HITS 1.2 BILLION VIEWS @Youtube\n\nBLINKs worldwide, thank you so much!  \n\n‘How You Like That’ M/V\n🎥https://t.co/8n3Y0Sqnft\n\n#블랙핑크 #HOWYOULIKETHAT #MV #1_2BILLION #YOUTUBE #YG https://t.co/2rDEwH4f5y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "HOWYOULIKETHAT",
+					"indices": [
+						164,
+						179
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						180,
+						183
+					]
+				},
+				{
+					"text": "1_2BILLION",
+					"indices": [
+						184,
+						195
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						196,
+						204
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						205,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						58,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8n3Y0Sqnft",
+					"expanded_url": "https://youtu.be/ioNng23DkIM",
+					"display_url": "youtu.be/ioNng23DkIM",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1645562314840748000,
+					"id_str": "1645562314840748032",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FtY2NO_aMAA-PI9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtY2NO_aMAA-PI9.jpg",
+					"url": "https://t.co/2rDEwH4f5y",
+					"display_url": "pic.twitter.com/2rDEwH4f5y",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1645562321853644800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645562314840748000,
+					"id_str": "1645562314840748032",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FtY2NO_aMAA-PI9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtY2NO_aMAA-PI9.jpg",
+					"url": "https://t.co/2rDEwH4f5y",
+					"display_url": "pic.twitter.com/2rDEwH4f5y",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1645562321853644800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8887358,
+			"friends_count": 0,
+			"listed_count": 8310,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1680233566",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7257,
+		"favorite_count": 24892,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘How You Like That’ M/V HITS 1.2 BILLION VIEWS @Youtube\n\nBLINKs worldwide, thank you so much!  \n\n‘How You Like That’ M/V\n🎥https://t.co/8n3Y0Sqnft\n\n#블랙핑크 #HOWYOULIKETHAT #MV #1_2BILLION #YOUTUBE #YG https://t.co/2rDEwH4f5y"
+	},
+	{
 		"created_at": "Mon Apr 10 11:43:59 +0000 2023",
 		"id": 1645389736864010200,
 		"id_str": "1645392177042800640",
