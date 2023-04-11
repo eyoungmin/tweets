@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Tue Apr 11 14:56:30 +0000 2023",
+		"id": 1645788975653867500,
+		"id_str": "1645803010923335688",
+		"full_text": "봄비가 내리고 꽃도 지는데,\n당신에 대한 나의 사랑은 절정으로 만개합니다.\n당신이 나에게 마치 사월의 봄처럼 \n늘 온화하시기 때문입니다.\n허락해주셔서 감사합니다🌸\n.\n#심규선 #Newsingle #MV #영상공모 #마감 #감사합니다 https://t.co/ni7b42VwXX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "Newsingle",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "영상공모",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "마감",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "감사합니다",
+					"indices": [
+						123,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1645788966292172800,
+					"id_str": "1645788966292172800",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FtcEWFcaMAA4aWT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtcEWFcaMAA4aWT.jpg",
+					"url": "https://t.co/ni7b42VwXX",
+					"display_url": "pic.twitter.com/ni7b42VwXX",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1645788975653867530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 819,
+							"h": 819,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 819,
+							"h": 819,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645788966292172800,
+					"id_str": "1645788966292172800",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FtcEWFcaMAA4aWT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtcEWFcaMAA4aWT.jpg",
+					"url": "https://t.co/ni7b42VwXX",
+					"display_url": "pic.twitter.com/ni7b42VwXX",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1645788975653867530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 819,
+							"h": 819,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 819,
+							"h": 819,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1645788972457812000,
+					"id_str": "1645788972457811974",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FtcEWcaaYAYA3DH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtcEWcaaYAYA3DH.jpg",
+					"url": "https://t.co/ni7b42VwXX",
+					"display_url": "pic.twitter.com/ni7b42VwXX",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1645788975653867530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 819,
+							"h": 819,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 819,
+							"h": 819,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌌2022 단독 콘서트 '밤의 정원'",
+			"url": "https://t.co/q8FfaeWXfm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8FfaeWXfm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10874,
+			"friends_count": 0,
+			"listed_count": 162,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2567,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1661404317",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "봄비가 내리고 꽃도 지는데,\n당신에 대한 나의 사랑은 절정으로 만개합니다.\n당신이 나에게 마치 사월의 봄처럼 \n늘 온화하시기 때문입니다.\n허락해주셔서 감사합니다🌸\n.\n#심규선 #Newsingle #MV #영상공모 #마감 #감사합니다 https://t.co/ni7b42VwXX"
+	},
+	{
 		"created_at": "Tue Apr 11 11:44:15 +0000 2023",
 		"id": 1645745287124881400,
 		"id_str": "1645754629995610112",
