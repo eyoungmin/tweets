@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Tue Apr 11 04:31:52 +0000 2023",
+		"id": 1645642209159712800,
+		"id_str": "1645645819117199360",
+		"full_text": "🌹 and 🌷\n\nShorts ▶️ https://t.co/Art7CElJST\nReels ▶️ https://t.co/HEYpWAULTv\nTikTok ▶️ https://t.co/tqLs0wN7Up\n\n#JISOO_FLOWER #지수꽃 #ME #JISOO #지수 #BLACKPINK #블랙핑크 #FLOWERchallenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JISOO_FLOWER",
+					"indices": [
+						111,
+						124
+					]
+				},
+				{
+					"text": "지수꽃",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "ME",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						145,
+						155
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "FLOWERchallenge",
+					"indices": [
+						162,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Art7CElJST",
+					"expanded_url": "https://youtube.com/shorts/FJf8U0bB1iw",
+					"display_url": "youtube.com/shorts/FJf8U0b…",
+					"indices": [
+						19,
+						42
+					]
+				},
+				{
+					"url": "https://t.co/HEYpWAULTv",
+					"expanded_url": "https://www.instagram.com/reel/Cq4bpa2JBff/?igshid=YmMyMTA2M2Y=",
+					"display_url": "instagram.com/reel/Cq4bpa2JB…",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/tqLs0wN7Up",
+					"expanded_url": "https://vt.tiktok.com/ZS8n2Avp5/",
+					"display_url": "vt.tiktok.com/ZS8n2Avp5/",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8947645,
+			"friends_count": 10,
+			"listed_count": 9525,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2783,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1680235305",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 962,
+		"favorite_count": 3007,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "🌹 and 🌷\n\nShorts ▶️ https://t.co/Art7CElJST\nReels ▶️ https://t.co/HEYpWAULTv\nTikTok ▶️ https://t.co/tqLs0wN7Up\n\n#JISOO_FLOWER #지수꽃 #ME #JISOO #지수 #BLACKPINK #블랙핑크 #FLOWERchallenge"
+	},
+	{
 		"created_at": "Mon Apr 10 23:31:48 +0000 2023",
 		"id": 1645562321853644800,
 		"id_str": "1645570304771604480",
