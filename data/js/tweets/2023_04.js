@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 12 06:56:39 +0000 2023",
+		"id": 1646033845224104000,
+		"id_str": "1646044644088709122",
+		"full_text": "제 4화 Guest. 권월편 | 방청예약 안내 \n\n🌬&lt;세이렌하우스&gt; 4월의 초대 게스트는 \n남해로 간 뮤지션 권월(@kwon_wol ) 님 입니다. \n\n-공개방송 일시 | 4/19 (수) 8pm\n-방청예약 오픈 일시 | 4/12(수) 8pm (무료 15석 한정) \n\n💁🏻무료 방청신청 링크 (선착순 15석) \nhttps://t.co/8cJkthG0Ce https://t.co/qqQmFzBgCX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8cJkthG0Ce",
+					"expanded_url": "https://m.booking.naver.com/booking/6/bizes/593478/items/4998730",
+					"display_url": "m.booking.naver.com/booking/6/bize…",
+					"indices": [
+						179,
+						202
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1646033786126368800,
+					"id_str": "1646033786126368768",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1646033786126368768/pu/img/iJtEOrCZrgf9CNLZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1646033786126368768/pu/img/iJtEOrCZrgf9CNLZ.jpg",
+					"url": "https://t.co/qqQmFzBgCX",
+					"display_url": "pic.twitter.com/qqQmFzBgCX",
+					"expanded_url": "https://twitter.com/savina0128/status/1646033845224103936/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1646033786126368800,
+					"id_str": "1646033786126368768",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1646033786126368768/pu/img/iJtEOrCZrgf9CNLZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1646033786126368768/pu/img/iJtEOrCZrgf9CNLZ.jpg",
+					"url": "https://t.co/qqQmFzBgCX",
+					"display_url": "pic.twitter.com/qqQmFzBgCX",
+					"expanded_url": "https://twitter.com/savina0128/status/1646033845224103936/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 38066,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1646033786126368768/pu/vid/720x900/HSMMLWlJHCyo8v4Y.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1646033786126368768/pu/vid/480x600/iJgOrLMLM19v9Cp2.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1646033786126368768/pu/vid/320x400/wXZOGU9ILR3x1TUa.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1646033786126368768/pu/pl/xXbtMt-2F2SCXmDV.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나앤드론즈",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "Musician",
+			"url": "https://t.co/V1U5R1XyaU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V1U5R1XyaU",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1256,
+			"friends_count": 242,
+			"listed_count": 33,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제 4화 Guest. 권월편 | 방청예약 안내 \n\n🌬&lt;세이렌하우스&gt; 4월의 초대 게스트는 \n남해로 간 뮤지션 권월(@kwon_wol ) 님 입니다. \n\n-공개방송 일시 | 4/19 (수) 8pm\n-방청예약 오픈 일시 | 4/12(수) 8pm (무료 15석 한정) \n\n💁🏻무료 방청신청 링크 (선착순 15석) \nhttps://t.co/8cJkthG0Ce https://t.co/qqQmFzBgCX"
+	},
+	{
 		"created_at": "Wed Apr 12 04:22:09 +0000 2023",
 		"id": 1645990998139625500,
 		"id_str": "1646005760613130241",
