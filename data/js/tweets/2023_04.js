@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 12 07:32:12 +0000 2023",
+		"id": 1646047054500880400,
+		"id_str": "1646053589008232448",
+		"full_text": "할명수에 #지수 가 왔단다🌹\n\nJISOO x HALMYUNGSOO\n📺 https://t.co/4WitSCAgIV\n\n지수와 명수의 케미를 확인하려면\n4/14(금) 오후 5시 30분 많관부❣️\n\n#JISOO #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #꽃 #YG https://t.co/fcI7cTeqWy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지수",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						131,
+						148
+					]
+				},
+				{
+					"text": "ME",
+					"indices": [
+						149,
+						152
+					]
+				},
+				{
+					"text": "꽃",
+					"indices": [
+						153,
+						155
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						156,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4WitSCAgIV",
+					"expanded_url": "https://youtu.be/qCsl6DHb3M4",
+					"display_url": "youtu.be/qCsl6DHb3M4",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1646041807233642500,
+					"id_str": "1646041807233642496",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FtfqTXWacAAbNud.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtfqTXWacAAbNud.jpg",
+					"url": "https://t.co/fcI7cTeqWy",
+					"display_url": "pic.twitter.com/fcI7cTeqWy",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1646047054500880386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1646041807233642500,
+					"id_str": "1646041807233642496",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FtfqTXWacAAbNud.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtfqTXWacAAbNud.jpg",
+					"url": "https://t.co/fcI7cTeqWy",
+					"display_url": "pic.twitter.com/fcI7cTeqWy",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1646047054500880386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8949804,
+			"friends_count": 10,
+			"listed_count": 9529,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1680235305",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1882,
+		"favorite_count": 4598,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "할명수에 #지수 가 왔단다🌹\n\nJISOO x HALMYUNGSOO\n📺 https://t.co/4WitSCAgIV\n\n지수와 명수의 케미를 확인하려면\n4/14(금) 오후 5시 30분 많관부❣️\n\n#JISOO #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #꽃 #YG https://t.co/fcI7cTeqWy"
+	},
+	{
 		"created_at": "Wed Apr 12 06:56:39 +0000 2023",
 		"id": 1646033845224104000,
 		"id_str": "1646044644088709122",
