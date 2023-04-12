@@ -1,6 +1,480 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 12 11:44:29 +0000 2023",
+		"id": 1646106653585191000,
+		"id_str": "1646117076770209793",
+		"full_text": "어쩌면좋아😄😄\n영스트리트 너무 재밌자나😝💙💙\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/PAyKZ5ogSJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						26,
+						29
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						41,
+						51
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						59,
+						68
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						80,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1646106634157170700,
+					"id_str": "1646106634157170688",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FtglQydaIAAd6sk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtglQydaIAAd6sk.jpg",
+					"url": "https://t.co/PAyKZ5ogSJ",
+					"display_url": "pic.twitter.com/PAyKZ5ogSJ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1646106653585190912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1646106634157170700,
+					"id_str": "1646106634157170688",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FtglQydaIAAd6sk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtglQydaIAAd6sk.jpg",
+					"url": "https://t.co/PAyKZ5ogSJ",
+					"display_url": "pic.twitter.com/PAyKZ5ogSJ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1646106653585190912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5912759,
+			"friends_count": 2,
+			"listed_count": 11798,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1537,
+		"favorite_count": 4629,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어쩌면좋아😄😄\n영스트리트 너무 재밌자나😝💙💙\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/PAyKZ5ogSJ"
+	},
+	{
+		"created_at": "Wed Apr 12 11:44:29 +0000 2023",
+		"id": 1646106166324347000,
+		"id_str": "1646117076526854147",
+		"full_text": "Rock N Roll!! My happy B-day Party🎂\n\nhttps://t.co/HQrGYz3jyr\n\n#HappyYERIday\n#예리 #YERI\n#yerimiese #예리미즈\n#RedVelvet #레드벨벳 https://t.co/fDKNhkUB3o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HappyYERIday",
+					"indices": [
+						62,
+						75
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "yerimiese",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"text": "예리미즈",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						103,
+						113
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						114,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HQrGYz3jyr",
+					"expanded_url": "https://youtu.be/vDXQso-Y-Jg",
+					"display_url": "youtu.be/vDXQso-Y-Jg",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1646106157986254800,
+					"id_str": "1646106157986254849",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/Ftgk1ElakAEL-Ao.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ftgk1ElakAEL-Ao.jpg",
+					"url": "https://t.co/fDKNhkUB3o",
+					"display_url": "pic.twitter.com/fDKNhkUB3o",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1646106166324346880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1646106157986254800,
+					"id_str": "1646106157986254849",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/Ftgk1ElakAEL-Ao.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ftgk1ElakAEL-Ao.jpg",
+					"url": "https://t.co/fDKNhkUB3o",
+					"display_url": "pic.twitter.com/fDKNhkUB3o",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1646106166324346880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5912759,
+			"friends_count": 2,
+			"listed_count": 11798,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3005,
+		"favorite_count": 7256,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rock N Roll!! My happy B-day Party🎂\n\nhttps://t.co/HQrGYz3jyr\n\n#HappyYERIday\n#예리 #YERI\n#yerimiese #예리미즈\n#RedVelvet #레드벨벳 https://t.co/fDKNhkUB3o"
+	},
+	{
 		"created_at": "Wed Apr 12 10:32:15 +0000 2023",
 		"id": 1646095763330711600,
 		"id_str": "1646098898371346432",
