@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 12 04:22:09 +0000 2023",
+		"id": 1645990998139625500,
+		"id_str": "1646005760613130241",
+		"full_text": "지민에 이어. \nhttps://t.co/abmyPVG192 #LISA #TAEYANG #BLACKPINK #블랙핑크 #리사",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						33,
+						38
+					]
+				},
+				{
+					"text": "TAEYANG",
+					"indices": [
+						39,
+						47
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						48,
+						58
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						65,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/abmyPVG192",
+					"expanded_url": "https://www.gqkorea.co.kr/2023/04/12/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC-%EB%A6%AC%EC%82%AC%EA%B0%80-%ED%83%9C%EC%96%91%EC%9D%98-%EC%83%88-%EC%95%A8%EB%B2%94%EC%97%90-%EC%B0%B8%EC%97%AC%ED%95%9C%EB%8B%A4/?ddw=141343&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "gqkorea.co.kr/2023/04/12/%EB…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">TweetDeck Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262470,
+			"id_str": "78262470",
+			"name": "GQ KOREA",
+			"screen_name": "GQKOREA",
+			"location": "Seoul, Korea",
+			"description": "Be a Good Man, Don't be Quiet.",
+			"url": "https://t.co/pJOMTcz802",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pJOMTcz802",
+							"expanded_url": "http://www.gqkorea.co.kr",
+							"display_url": "gqkorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 152059,
+			"friends_count": 0,
+			"listed_count": 227,
+			"created_at": "Tue Sep 29 09:20:13 +0000 2009",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2768,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262470/1679537457",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 517,
+		"favorite_count": 980,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지민에 이어. \nhttps://t.co/abmyPVG192 #LISA #TAEYANG #BLACKPINK #블랙핑크 #리사"
+	},
+	{
 		"created_at": "Wed Apr 12 03:32:08 +0000 2023",
 		"id": 1645986072252526600,
 		"id_str": "1645993176304328707",
