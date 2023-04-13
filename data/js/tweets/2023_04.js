@@ -1,6 +1,590 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Thu Apr 13 03:32:26 +0000 2023",
+		"id": 1646347533919334400,
+		"id_str": "1646355637759008769",
+		"full_text": "JISOO - ‘꽃(FLOWER)’ M/V @ INCHEON INTL AIRPORT AMAZING SQUARE\n\n#JISOO #지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #TITLE #꽃 #FLOWER #MV #YG https://t.co/qwhFn51wTq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JISOO",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						74,
+						84
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						91,
+						108
+					]
+				},
+				{
+					"text": "ME",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "TITLE",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "꽃",
+					"indices": [
+						120,
+						122
+					]
+				},
+				{
+					"text": "FLOWER",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						135,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1646083283099463700,
+					"id_str": "1646083283099463681",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1646083283099463681/img/HvRJ6FgSgyQK5EhS.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1646083283099463681/img/HvRJ6FgSgyQK5EhS.jpg",
+					"url": "https://t.co/qwhFn51wTq",
+					"display_url": "pic.twitter.com/qwhFn51wTq",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1646347533919334400/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1646083283099463700,
+					"id_str": "1646083283099463681",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1646083283099463681/img/HvRJ6FgSgyQK5EhS.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1646083283099463681/img/HvRJ6FgSgyQK5EhS.jpg",
+					"url": "https://t.co/qwhFn51wTq",
+					"display_url": "pic.twitter.com/qwhFn51wTq",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1646347533919334400/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30263,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1646083283099463681/pl/-ECvlGuRDI5NuKig.m3u8?tag=16&container=fmp4"
+							},
+							{
+								"bitrate": 10368000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1646083283099463681/vid/1920x1080/oFfS_LXU-6094hEB.mp4?tag=16"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1646083283099463681/vid/480x270/dGMkCagvZLq8VQ4-.mp4?tag=16"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1646083283099463681/vid/640x360/6WTgmaOCELr9_JHF.mp4?tag=16"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1646083283099463681/vid/1280x720/Hwvm15Q6jxZGuUKN.mp4?tag=16"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8951705,
+			"friends_count": 10,
+			"listed_count": 9522,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2796,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1680235305",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1383,
+		"favorite_count": 4353,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "JISOO - ‘꽃(FLOWER)’ M/V @ INCHEON INTL AIRPORT AMAZING SQUARE\n\n#JISOO #지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #TITLE #꽃 #FLOWER #MV #YG https://t.co/qwhFn51wTq"
+	},
+	{
+		"created_at": "Thu Apr 13 03:32:26 +0000 2023",
+		"id": 1646347580169941000,
+		"id_str": "1646355636396109830",
+		"full_text": "JISOO - ‘꽃(FLOWER)’ M/V @ COEX &amp; PARNAS MEDIA TOWER\n\n#JISOO #지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #TITLE #꽃 #FLOWER #MV #YG https://t.co/0hcIA0kL8a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JISOO",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						68,
+						78
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						85,
+						102
+					]
+				},
+				{
+					"text": "ME",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "TITLE",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "꽃",
+					"indices": [
+						114,
+						116
+					]
+				},
+				{
+					"text": "FLOWER",
+					"indices": [
+						117,
+						124
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						129,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1646083301139165200,
+					"id_str": "1646083301139165185",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1646083301139165185/img/bAD6o-isg2vxAPmc.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1646083301139165185/img/bAD6o-isg2vxAPmc.jpg",
+					"url": "https://t.co/0hcIA0kL8a",
+					"display_url": "pic.twitter.com/0hcIA0kL8a",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1646347580169940992/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1646083301139165200,
+					"id_str": "1646083301139165185",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1646083301139165185/img/bAD6o-isg2vxAPmc.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1646083301139165185/img/bAD6o-isg2vxAPmc.jpg",
+					"url": "https://t.co/0hcIA0kL8a",
+					"display_url": "pic.twitter.com/0hcIA0kL8a",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1646347580169940992/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 58658,
+						"variants": [
+							{
+								"bitrate": 10368000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1646083301139165185/vid/1080x1920/MWd5S4XLeFGGhScD.mp4?tag=16"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1646083301139165185/vid/720x1280/7zfK6hdM8_MiJtAb.mp4?tag=16"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1646083301139165185/vid/320x568/4sPGh3pjz9NUKub9.mp4?tag=16"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1646083301139165185/pl/DeM7BSsppuKp5qjp.m3u8?tag=16&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1646083301139165185/vid/480x852/gAlRYIvyXSsFTR6d.mp4?tag=16"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8951705,
+			"friends_count": 10,
+			"listed_count": 9522,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2796,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1680235305",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1210,
+		"favorite_count": 3736,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "JISOO - ‘꽃(FLOWER)’ M/V @ COEX &amp; PARNAS MEDIA TOWER\n\n#JISOO #지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #TITLE #꽃 #FLOWER #MV #YG https://t.co/0hcIA0kL8a"
+	},
+	{
 		"created_at": "Thu Apr 13 02:32:25 +0000 2023",
 		"id": 1646328260891115500,
 		"id_str": "1646340533705404419",
