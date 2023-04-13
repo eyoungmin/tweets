@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Thu Apr 13 12:32:26 +0000 2023",
+		"id": 1646483370866536400,
+		"id_str": "1646491534617899010",
+		"full_text": "고프코어 입문 시 필수 참고! 바람막이부터 카고 팬츠까지 셀럽들의 #고프코어 패션 5.\n\n#이청아 #마마무 #문별 #이시영 #레드벨벳 #슬기 #미노이 #차정원 \nhttps://t.co/9PSwlVHhI5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고프코어",
+					"indices": [
+						37,
+						42
+					]
+				},
+				{
+					"text": "이청아",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "문별",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "이시영",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "미노이",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "차정원",
+					"indices": [
+						84,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9PSwlVHhI5",
+					"expanded_url": "https://www.allurekorea.com/?p=201449&ddw=141364&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=201449&ddw=…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38086,
+			"friends_count": 1,
+			"listed_count": 297,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1679021456",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "고프코어 입문 시 필수 참고! 바람막이부터 카고 팬츠까지 셀럽들의 #고프코어 패션 5.\n\n#이청아 #마마무 #문별 #이시영 #레드벨벳 #슬기 #미노이 #차정원 \nhttps://t.co/9PSwlVHhI5"
+	},
+	{
 		"created_at": "Thu Apr 13 11:32:31 +0000 2023",
 		"id": 1646461353224450000,
 		"id_str": "1646476454836723713",
