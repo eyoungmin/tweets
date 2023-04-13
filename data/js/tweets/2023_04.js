@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Thu Apr 13 10:57:00 +0000 2023",
+		"id": 1646460117963997200,
+		"id_str": "1646467514833027072",
+		"full_text": "Heartbreaker.. soundcheck to live show.. this was magical ✨ https://t.co/hR8bl9WXBc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1646460075953848300,
+					"id_str": "1646460075953848322",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1646460075953848322/pu/img/Oiq9I2NcZ7TT9_ac.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1646460075953848322/pu/img/Oiq9I2NcZ7TT9_ac.jpg",
+					"url": "https://t.co/hR8bl9WXBc",
+					"display_url": "pic.twitter.com/hR8bl9WXBc",
+					"expanded_url": "https://twitter.com/birdy/status/1646460117963997185/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1646460075953848300,
+					"id_str": "1646460075953848322",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1646460075953848322/pu/img/Oiq9I2NcZ7TT9_ac.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1646460075953848322/pu/img/Oiq9I2NcZ7TT9_ac.jpg",
+					"url": "https://t.co/hR8bl9WXBc",
+					"display_url": "pic.twitter.com/hR8bl9WXBc",
+					"expanded_url": "https://twitter.com/birdy/status/1646460117963997185/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 34266,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1646460075953848322/pu/vid/320x568/FogPGH2K9tkzwa8a.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1646460075953848322/pu/pl/YhAXQGxPBRI6NFgQ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1646460075953848322/pu/vid/480x852/7Ad31F7YZVXsZ4M8.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1646460075953848322/pu/vid/576x1024/L4FAmUMm53UBZo6H.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Raincatchers is yours, listen below 🌧🩰🔮 My new album ..P O R T R A I T S..  is out 14th July",
+			"url": "https://t.co/fUVSS8j9Fs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fUVSS8j9Fs",
+							"expanded_url": "https://birdy.lnk.to/Music",
+							"display_url": "birdy.lnk.to/Music",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304333,
+			"friends_count": 174,
+			"listed_count": 1152,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 845,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1629171726885027843/5g1NCOIB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1629171726885027843/5g1NCOIB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1677837601",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Heartbreaker.. soundcheck to live show.. this was magical ✨ https://t.co/hR8bl9WXBc"
+	},
+	{
 		"created_at": "Thu Apr 13 09:32:25 +0000 2023",
 		"id": 1646438079819919400,
 		"id_str": "1646446229277032450",
