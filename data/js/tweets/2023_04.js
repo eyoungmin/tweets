@@ -1,6 +1,187 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Thu Apr 13 11:32:31 +0000 2023",
+		"id": 1646461353224450000,
+		"id_str": "1646476454836723713",
+		"full_text": "#THANKUBLINK \n\n#지수 의 꽃이 Mnet #엠카운트다운 에서 1위를 수상하였습니다!🏆\n\n블링크 덕분에 오늘도 행복지수 103%🌹\n\n#JISOO #BLACKPINK #블랙핑크\n#FIRSTSINGLEALBUM #ME #꽃 #FLOWER\n#JISOO3rdWin #FLOWER3rdWIN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THANKUBLINK",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						15,
+						18
+					]
+				},
+				{
+					"text": "엠카운트다운",
+					"indices": [
+						29,
+						36
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						103,
+						120
+					]
+				},
+				{
+					"text": "ME",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "꽃",
+					"indices": [
+						125,
+						127
+					]
+				},
+				{
+					"text": "FLOWER",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "JISOO3rdWin",
+					"indices": [
+						136,
+						148
+					]
+				},
+				{
+					"text": "FLOWER3rdWIN",
+					"indices": [
+						149,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8952377,
+			"friends_count": 11,
+			"listed_count": 9521,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1680235305",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2486,
+		"favorite_count": 5552,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#THANKUBLINK \n\n#지수 의 꽃이 Mnet #엠카운트다운 에서 1위를 수상하였습니다!🏆\n\n블링크 덕분에 오늘도 행복지수 103%🌹\n\n#JISOO #BLACKPINK #블랙핑크\n#FIRSTSINGLEALBUM #ME #꽃 #FLOWER\n#JISOO3rdWin #FLOWER3rdWIN"
+	},
+	{
 		"created_at": "Thu Apr 13 10:57:00 +0000 2023",
 		"id": 1646460117963997200,
 		"id_str": "1646467514833027072",
