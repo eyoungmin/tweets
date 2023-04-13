@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Thu Apr 13 09:32:25 +0000 2023",
+		"id": 1646438079819919400,
+		"id_str": "1646446229277032450",
+		"full_text": "다리를 길어 보이게 만드는 크롭톱 스타일링 팁 4.\n\n#아이린 #여자아이들 #민니 #레드벨벳 #웬디 #에스파 #윈터\nhttps://t.co/IYCNmOAJz5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이린",
+					"indices": [
+						30,
+						34
+					]
+				},
+				{
+					"text": "여자아이들",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"text": "민니",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						61,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IYCNmOAJz5",
+					"expanded_url": "https://www.allurekorea.com/?p=177676&ddw=141353&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=177676&ddw=…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38074,
+			"friends_count": 1,
+			"listed_count": 297,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1679021456",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다리를 길어 보이게 만드는 크롭톱 스타일링 팁 4.\n\n#아이린 #여자아이들 #민니 #레드벨벳 #웬디 #에스파 #윈터\nhttps://t.co/IYCNmOAJz5"
+	},
+	{
 		"created_at": "Thu Apr 13 03:32:26 +0000 2023",
 		"id": 1646347533919334400,
 		"id_str": "1646355637759008769",
