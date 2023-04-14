@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Fri Apr 14 01:32:42 +0000 2023",
+		"id": 1646686471632597000,
+		"id_str": "1646687894159912963",
+		"full_text": "BLACKPINK WORLD TOUR [BORN PINK] ENCORE IN NORTH AMERICA TEASER 1\n\n#BLACKPINK #블랙핑크 #BLACKPINK_WORLDTOUR #BLACKPINK_BORNPINK #NORTH_AMERICA #ENCORE #TEASER #YG https://t.co/Egd04pNoQ1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						67,
+						77
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "BLACKPINK_WORLDTOUR",
+					"indices": [
+						84,
+						104
+					]
+				},
+				{
+					"text": "BLACKPINK_BORNPINK",
+					"indices": [
+						105,
+						124
+					]
+				},
+				{
+					"text": "NORTH_AMERICA",
+					"indices": [
+						125,
+						139
+					]
+				},
+				{
+					"text": "ENCORE",
+					"indices": [
+						140,
+						147
+					]
+				},
+				{
+					"text": "TEASER",
+					"indices": [
+						148,
+						155
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						156,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1646685259164180500,
+					"id_str": "1646685259164180480",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1646685259164180480/img/ex2QCdtHXSv0TsX2.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1646685259164180480/img/ex2QCdtHXSv0TsX2.jpg",
+					"url": "https://t.co/Egd04pNoQ1",
+					"display_url": "pic.twitter.com/Egd04pNoQ1",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1646686471632596993/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1646685259164180500,
+					"id_str": "1646685259164180480",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1646685259164180480/img/ex2QCdtHXSv0TsX2.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1646685259164180480/img/ex2QCdtHXSv0TsX2.jpg",
+					"url": "https://t.co/Egd04pNoQ1",
+					"display_url": "pic.twitter.com/Egd04pNoQ1",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1646686471632596993/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 6000,
+						"variants": [
+							{
+								"bitrate": 10368000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1646685259164180480/vid/1080x1920/3U7DVs2Ij6PHwUbF.mp4?tag=16"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1646685259164180480/vid/480x852/CsFzODztfnVQAgmA.mp4?tag=16"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1646685259164180480/pl/Kzz5-JifmSk5224m.m3u8?tag=16&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1646685259164180480/vid/720x1280/IQ2vfO8aZIXQPkg7.mp4?tag=16"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1646685259164180480/vid/320x568/tdLVcvxEglpNhobj.mp4?tag=16"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8953283,
+			"friends_count": 11,
+			"listed_count": 9520,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2802,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1680235305",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1178,
+		"favorite_count": 4363,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLACKPINK WORLD TOUR [BORN PINK] ENCORE IN NORTH AMERICA TEASER 1\n\n#BLACKPINK #블랙핑크 #BLACKPINK_WORLDTOUR #BLACKPINK_BORNPINK #NORTH_AMERICA #ENCORE #TEASER #YG https://t.co/Egd04pNoQ1"
+	},
+	{
 		"created_at": "Thu Apr 13 16:44:44 +0000 2023",
 		"id": 1646541843977629700,
 		"id_str": "1646555027492700167",
