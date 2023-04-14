@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Fri Apr 14 07:32:45 +0000 2023",
+		"id": 1646770265513242600,
+		"id_str": "1646778504661417984",
+		"full_text": "Thank you @Spotify🌹\nListen to FLOWER on Spotify!\n\n🎧 https://t.co/RefcB8uOsy\n\n#지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #꽃 #YG https://t.co/tA8DAoCrBI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지수",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						81,
+						91
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						98,
+						115
+					]
+				},
+				{
+					"text": "ME",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "꽃",
+					"indices": [
+						120,
+						122
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						123,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						10,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RefcB8uOsy",
+					"expanded_url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs?si=bryE3bltTEWhlrLMKSHGsg",
+					"display_url": "open.spotify.com/artist/6UZ0ba5…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1646746815428165600,
+					"id_str": "1646746815428165632",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FtprgPiaAAARSvk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtprgPiaAAARSvk.jpg",
+					"url": "https://t.co/tA8DAoCrBI",
+					"display_url": "pic.twitter.com/tA8DAoCrBI",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1646770265513242624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1544,
+							"h": 867,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1646746815428165600,
+					"id_str": "1646746815428165632",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FtprgPiaAAARSvk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtprgPiaAAARSvk.jpg",
+					"url": "https://t.co/tA8DAoCrBI",
+					"display_url": "pic.twitter.com/tA8DAoCrBI",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1646770265513242624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1544,
+							"h": 867,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8953840,
+			"friends_count": 11,
+			"listed_count": 9522,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2806,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1680235305",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1615,
+		"favorite_count": 5044,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you @Spotify🌹\nListen to FLOWER on Spotify!\n\n🎧 https://t.co/RefcB8uOsy\n\n#지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #꽃 #YG https://t.co/tA8DAoCrBI"
+	},
+	{
 		"created_at": "Fri Apr 14 06:32:44 +0000 2023",
 		"id": 1646755255278002200,
 		"id_str": "1646763401463447552",
