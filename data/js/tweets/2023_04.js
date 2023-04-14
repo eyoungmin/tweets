@@ -1,6 +1,577 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Fri Apr 14 09:44:55 +0000 2023",
+		"id": 1646801712894857200,
+		"id_str": "1646811762845536256",
+		"full_text": "푸른 밤 이 노래 - 조이 (JOY) &amp; 하동균\n\n🎧 Melon: https://t.co/c4oWlBaBYt\n🎧 FLO: https://t.co/spjD486COQ\n🎧 genie: https://t.co/7bVCx0VR73\n🎧 NAVER VIBE: https://t.co/l69UgI8NcL\n🎧 bugs: https://t.co/aUofqFQwR7\n\n#푸른밤이노래 #Blue_night_song\n#레드벨벳 #RedVelvet\n#조이 #JOY https://t.co/gTDy2vMdFk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "푸른밤이노래",
+					"indices": [
+						200,
+						207
+					]
+				},
+				{
+					"text": "Blue_night_song",
+					"indices": [
+						208,
+						224
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						225,
+						230
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						231,
+						241
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						242,
+						245
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						246,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c4oWlBaBYt",
+					"expanded_url": "http://bit.ly/41KC4Ej",
+					"display_url": "bit.ly/41KC4Ej",
+					"indices": [
+						41,
+						64
+					]
+				},
+				{
+					"url": "https://t.co/spjD486COQ",
+					"expanded_url": "http://bit.ly/41eTskI",
+					"display_url": "bit.ly/41eTskI",
+					"indices": [
+						72,
+						95
+					]
+				},
+				{
+					"url": "https://t.co/7bVCx0VR73",
+					"expanded_url": "https://bit.ly/416Ky8M",
+					"display_url": "bit.ly/416Ky8M",
+					"indices": [
+						105,
+						128
+					]
+				},
+				{
+					"url": "https://t.co/l69UgI8NcL",
+					"expanded_url": "http://bit.ly/43pjS4u",
+					"display_url": "bit.ly/43pjS4u",
+					"indices": [
+						143,
+						166
+					]
+				},
+				{
+					"url": "https://t.co/aUofqFQwR7",
+					"expanded_url": "https://bit.ly/3UDbgn5",
+					"display_url": "bit.ly/3UDbgn5",
+					"indices": [
+						175,
+						198
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1646801682054127600,
+					"id_str": "1646801682054127618",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/FtqdZ5paIAIC9Af.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtqdZ5paIAIC9Af.jpg",
+					"url": "https://t.co/gTDy2vMdFk",
+					"display_url": "pic.twitter.com/gTDy2vMdFk",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1646801712894857216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1646801682054127600,
+					"id_str": "1646801682054127618",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/FtqdZ5paIAIC9Af.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtqdZ5paIAIC9Af.jpg",
+					"url": "https://t.co/gTDy2vMdFk",
+					"display_url": "pic.twitter.com/gTDy2vMdFk",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1646801712894857216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet 'The ReVe Festival 2022 - Birthday'",
+			"url": "https://t.co/p4ULiRKs5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p4ULiRKs5o",
+							"expanded_url": "https://RedVelvet.lnk.to/Birthday",
+							"display_url": "RedVelvet.lnk.to/Birthday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5914491,
+			"friends_count": 2,
+			"listed_count": 11807,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589276270671503360/6do7s7aC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1667746812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2676,
+		"favorite_count": 4813,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "푸른 밤 이 노래 - 조이 (JOY) &amp; 하동균\n\n🎧 Melon: https://t.co/c4oWlBaBYt\n🎧 FLO: https://t.co/spjD486COQ\n🎧 genie: https://t.co/7bVCx0VR73\n🎧 NAVER VIBE: https://t.co/l69UgI8NcL\n🎧 bugs: https://t.co/aUofqFQwR7\n\n#푸른밤이노래 #Blue_night_song\n#레드벨벳 #RedVelvet\n#조이 #JOY https://t.co/gTDy2vMdFk"
+	},
+	{
+		"created_at": "Fri Apr 14 09:32:47 +0000 2023",
+		"id": 1646796840627757000,
+		"id_str": "1646808710130421763",
+		"full_text": "구름 한 점 없이 예쁜 날\n#지수 가 할명수에 다녀왔단다🌹\n\nJISOO x HALMYUNGSOO 👇\n📺 https://t.co/w5hR2qovkm\n\n#JISOO #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #꽃 #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지수",
+					"indices": [
+						15,
+						18
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						90,
+						100
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						107,
+						124
+					]
+				},
+				{
+					"text": "ME",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "꽃",
+					"indices": [
+						129,
+						131
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						132,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w5hR2qovkm",
+					"expanded_url": "https://youtu.be/n3WFdE7Bhc0",
+					"display_url": "youtu.be/n3WFdE7Bhc0",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8954028,
+			"friends_count": 11,
+			"listed_count": 9522,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1680235305",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2180,
+		"favorite_count": 5526,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구름 한 점 없이 예쁜 날\n#지수 가 할명수에 다녀왔단다🌹\n\nJISOO x HALMYUNGSOO 👇\n📺 https://t.co/w5hR2qovkm\n\n#JISOO #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #꽃 #YG"
+	},
+	{
+		"created_at": "Fri Apr 14 09:22:46 +0000 2023",
+		"id": 1646799705060540400,
+		"id_str": "1646806188581953537",
+		"full_text": "제니∙지수 등 셀럽이 사랑하는 큐티뽀짝 키링 5🥰\n\n#키링 #키링추천 #제니 #지수 #셀럽스타일링 \n\nhttps://t.co/aLTwwV7W06",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "키링",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "키링추천",
+					"indices": [
+						33,
+						38
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						43,
+						46
+					]
+				},
+				{
+					"text": "셀럽스타일링",
+					"indices": [
+						47,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aLTwwV7W06",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/76624?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/76624?…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 92681,
+			"friends_count": 6,
+			"listed_count": 412,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제니∙지수 등 셀럽이 사랑하는 큐티뽀짝 키링 5🥰\n\n#키링 #키링추천 #제니 #지수 #셀럽스타일링 \n\nhttps://t.co/aLTwwV7W06"
+	},
+	{
 		"created_at": "Fri Apr 14 07:32:45 +0000 2023",
 		"id": 1646770265513242600,
 		"id_str": "1646778504661417984",
