@@ -1,6 +1,135 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Fri Apr 14 02:22:40 +0000 2023",
+		"id": 1646686279860641800,
+		"id_str": "1646700470226829314",
+		"full_text": "블랙핑크 로제를 둘러싼 마약 루머에 소속사가 강경 대응을 예고했다.\n#로제 #ROSÉ #Blackpink \nhttps://t.co/EcRio7Igm2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로제",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						42,
+						47
+					]
+				},
+				{
+					"text": "Blackpink",
+					"indices": [
+						48,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EcRio7Igm2",
+					"expanded_url": "https://www.wkorea.com/2023/04/14/%eb%b8%94%eb%9e%99%ed%95%91%ed%81%ac-%eb%a1%9c%ec%a0%9c-%eb%a7%88%ec%95%bd-%eb%a3%a8%eb%a8%b8%ec%97%90-%ea%b0%95%eb%a0%a5-%eb%8c%80%ec%9d%91/?ddw=141476&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2023/04/14/%eb…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5gwu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5gwu0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 335820,
+			"friends_count": 0,
+			"listed_count": 869,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1679293637",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블랙핑크 로제를 둘러싼 마약 루머에 소속사가 강경 대응을 예고했다.\n#로제 #ROSÉ #Blackpink \nhttps://t.co/EcRio7Igm2"
+	},
+	{
 		"created_at": "Fri Apr 14 01:32:42 +0000 2023",
 		"id": 1646686471632597000,
 		"id_str": "1646687894159912963",
