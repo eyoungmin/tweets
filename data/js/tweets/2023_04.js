@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sat Apr 15 12:57:30 +0000 2023",
+		"id": 1647213186188464000,
+		"id_str": "1647222618108444674",
+		"full_text": "New Single Mix 중🪻\n#심규선 #Lucia #Mix #kokosound #Newsingle #comingsoon https://t.co/kSQudhTWzg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						18,
+						22
+					]
+				},
+				{
+					"text": "Lucia",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"text": "Mix",
+					"indices": [
+						30,
+						34
+					]
+				},
+				{
+					"text": "kokosound",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"text": "Newsingle",
+					"indices": [
+						46,
+						56
+					]
+				},
+				{
+					"text": "comingsoon",
+					"indices": [
+						57,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1647213008610009000,
+					"id_str": "1647213008610009090",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1647213008610009090/pu/img/Rfl3vCKjUTOyURqf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1647213008610009090/pu/img/Rfl3vCKjUTOyURqf.jpg",
+					"url": "https://t.co/kSQudhTWzg",
+					"display_url": "pic.twitter.com/kSQudhTWzg",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1647213186188464128/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1647213008610009000,
+					"id_str": "1647213008610009090",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1647213008610009090/pu/img/Rfl3vCKjUTOyURqf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1647213008610009090/pu/img/Rfl3vCKjUTOyURqf.jpg",
+					"url": "https://t.co/kSQudhTWzg",
+					"display_url": "pic.twitter.com/kSQudhTWzg",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1647213186188464128/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 21176,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1647213008610009090/pu/vid/720x1280/RdNJ6Ld5lEjkdnIp.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1647213008610009090/pu/pl/LS_MykGS7rpfCIJR.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1647213008610009090/pu/vid/320x568/FTLOBChqkg4Oeqgy.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1647213008610009090/pu/vid/480x852/Zu5ORjNPa6Bz-Cz_.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌌2022 단독 콘서트 '밤의 정원'",
+			"url": "https://t.co/q8FfaeWXfm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8FfaeWXfm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10877,
+			"friends_count": 0,
+			"listed_count": 162,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1661404317",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New Single Mix 중🪻\n#심규선 #Lucia #Mix #kokosound #Newsingle #comingsoon https://t.co/kSQudhTWzg"
+	},
+	{
 		"created_at": "Sat Apr 15 07:33:03 +0000 2023",
 		"id": 1647140952983896000,
 		"id_str": "1647140967386959873",
