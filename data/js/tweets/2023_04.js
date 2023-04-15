@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sat Apr 15 06:37:46 +0000 2023",
+		"id": 1647117552399577000,
+		"id_str": "1647127054461140993",
+		"full_text": "봄비가 내리는 요즘, #제시카 #허윤진 등 셀럽들의 간절기룩 참고하자.\n\n#임지연 #소녀시대 #티파니영 #르세라핌 #혜리\nhttps://t.co/fL1nGhUd3C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제시카",
+					"indices": [
+						12,
+						16
+					]
+				},
+				{
+					"text": "허윤진",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "임지연",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "티파니영",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "르세라핌",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "혜리",
+					"indices": [
+						64,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fL1nGhUd3C",
+					"expanded_url": "https://www.allurekorea.com/2023/04/03/thisweek-31/?ddw=140796&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2023/04/03/thi…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38088,
+			"friends_count": 1,
+			"listed_count": 298,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1679021456",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "봄비가 내리는 요즘, #제시카 #허윤진 등 셀럽들의 간절기룩 참고하자.\n\n#임지연 #소녀시대 #티파니영 #르세라핌 #혜리\nhttps://t.co/fL1nGhUd3C"
+	},
+	{
 		"created_at": "Sat Apr 15 04:32:59 +0000 2023",
 		"id": 1647091043706503200,
 		"id_str": "1647095653183504384",
