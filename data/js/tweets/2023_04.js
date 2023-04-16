@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sun Apr 16 07:33:19 +0000 2023",
+		"id": 1647490487568449500,
+		"id_str": "1647503419874189317",
+		"full_text": "#BLACKPINKINYOURAREA\n\n#지수 의 꽃이 SBS #인기가요 1위 후보에 올랐습니다!\n\n📲슈퍼스타 X 어플 &gt; 투표/응모 &gt; 실시간 투표 &gt; 지수 ‘꽃' 투표\n▶️IOS : https://t.co/4LYq56sVJt\n▶️Android : https://t.co/pYUX4yWQP5\n\n#JISOO #BLACKPINK #블랙핑크\n#FIRSTSINGLEALBUM #ME #꽃 #FLOWER",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINKINYOURAREA",
+					"indices": [
+						0,
+						20
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						22,
+						25
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						181,
+						191
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						192,
+						197
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						198,
+						215
+					]
+				},
+				{
+					"text": "ME",
+					"indices": [
+						216,
+						219
+					]
+				},
+				{
+					"text": "꽃",
+					"indices": [
+						220,
+						222
+					]
+				},
+				{
+					"text": "FLOWER",
+					"indices": [
+						223,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4LYq56sVJt",
+					"expanded_url": "http://apple.co/3zofvJk",
+					"display_url": "apple.co/3zofvJk",
+					"indices": [
+						113,
+						136
+					]
+				},
+				{
+					"url": "https://t.co/pYUX4yWQP5",
+					"expanded_url": "http://bit.ly/3zspltK",
+					"display_url": "bit.ly/3zspltK",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8959524,
+			"friends_count": 11,
+			"listed_count": 9528,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2820,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1680235305",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1263,
+		"favorite_count": 4037,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BLACKPINKINYOURAREA\n\n#지수 의 꽃이 SBS #인기가요 1위 후보에 올랐습니다!\n\n📲슈퍼스타 X 어플 &gt; 투표/응모 &gt; 실시간 투표 &gt; 지수 ‘꽃' 투표\n▶️IOS : https://t.co/4LYq56sVJt\n▶️Android : https://t.co/pYUX4yWQP5\n\n#JISOO #BLACKPINK #블랙핑크\n#FIRSTSINGLEALBUM #ME #꽃 #FLOWER"
+	},
+	{
 		"created_at": "Sun Apr 16 06:33:18 +0000 2023",
 		"id": 1647482453039403000,
 		"id_str": "1647488319821946881",
