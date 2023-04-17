@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Mon Apr 17 06:23:33 +0000 2023",
+		"id": 1647840062288306200,
+		"id_str": "1647848253348540416",
+		"full_text": "블랙핑크(BLACKPINK)부터, 칼리우치스(Kali Uchis)까지. 코첼라 베스트 퍼포먼스 스타일 9. \nhttps://t.co/QpHMmsluhH\n#KaliUchis #BLACKPINK #블랙핑크 #OmarApollo #BoyGenius #COACHELLA2023 #Coachella",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KaliUchis",
+					"indices": [
+						85,
+						95
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "OmarApollo",
+					"indices": [
+						113,
+						124
+					]
+				},
+				{
+					"text": "BoyGenius",
+					"indices": [
+						125,
+						135
+					]
+				},
+				{
+					"text": "COACHELLA2023",
+					"indices": [
+						136,
+						150
+					]
+				},
+				{
+					"text": "Coachella",
+					"indices": [
+						151,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QpHMmsluhH",
+					"expanded_url": "https://www.gqkorea.co.kr/2023/04/17/%EC%BD%94%EC%B2%BC%EB%9D%BC-%EB%B2%A0%EC%8A%A4%ED%8A%B8-%ED%8D%BC%ED%8F%AC%EB%A8%BC%EC%8A%A4-%EC%8A%A4%ED%83%80%EC%9D%BC-9/?ddw=141621&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "gqkorea.co.kr/2023/04/17/%EC…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262470,
+			"id_str": "78262470",
+			"name": "GQ KOREA",
+			"screen_name": "GQKOREA",
+			"location": "Seoul, Korea",
+			"description": "Be a Good Man, Don't be Quiet.",
+			"url": "https://t.co/pJOMTcz802",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pJOMTcz802",
+							"expanded_url": "http://www.gqkorea.co.kr",
+							"display_url": "gqkorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 152124,
+			"friends_count": 0,
+			"listed_count": 227,
+			"created_at": "Tue Sep 29 09:20:13 +0000 2009",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262470/1679537457",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블랙핑크(BLACKPINK)부터, 칼리우치스(Kali Uchis)까지. 코첼라 베스트 퍼포먼스 스타일 9. \nhttps://t.co/QpHMmsluhH\n#KaliUchis #BLACKPINK #블랙핑크 #OmarApollo #BoyGenius #COACHELLA2023 #Coachella"
+	},
+	{
 		"created_at": "Mon Apr 17 04:23:32 +0000 2023",
 		"id": 1647806268860670000,
 		"id_str": "1647818047585918976",
