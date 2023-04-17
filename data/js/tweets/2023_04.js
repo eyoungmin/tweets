@@ -1,6 +1,613 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Mon Apr 17 01:57:08 +0000 2023",
+		"id": 1647772650033533000,
+		"id_str": "1647781206421798913",
+		"full_text": "KIM YERIM (Red Velvet YERI) to play the main character in '갈채', a special educational drama for understanding teens with disabilities\n\nhttps://t.co/jTczKtOdiB\n\n#KIMYERIM #김예림\n#YERI #예리\n#RedVelvet #레드벨벳 \n#갈채",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KIMYERIM",
+					"indices": [
+						160,
+						169
+					]
+				},
+				{
+					"text": "김예림",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						181,
+						184
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						185,
+						195
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						196,
+						201
+					]
+				},
+				{
+					"text": "갈채",
+					"indices": [
+						203,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jTczKtOdiB",
+					"expanded_url": "https://naver.me/F4tMykKO",
+					"display_url": "naver.me/F4tMykKO",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1647772584963080200,
+		"in_reply_to_status_id_str": "1647772584963080192",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11584867,
+			"friends_count": 56,
+			"listed_count": 13060,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14070,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 266,
+		"favorite_count": 651,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KIM YERIM (Red Velvet YERI) to play the main character in '갈채', a special educational drama for understanding teens with disabilities\n\nhttps://t.co/jTczKtOdiB\n\n#KIMYERIM #김예림\n#YERI #예리\n#RedVelvet #레드벨벳 \n#갈채"
+	},
+	{
+		"created_at": "Mon Apr 17 01:57:08 +0000 2023",
+		"id": 1647772584963080200,
+		"id_str": "1647781206375768068",
+		"full_text": "김예림(레드벨벳 예리), 청소년 장애 이해 드라마 ‘갈채’ 주인공으로 출연!\n‘소통의 시간’ 400여 명의 학생들과 함께 시사회 진행! 뜻깊은 연기 행보로 따뜻한 영향력 펼친다\n\nhttps://t.co/jTczKtOdiB\n\n#KIMYERIM #김예림\n#YERI #예리\n#RedVelvet #레드벨벳 \n#갈채 https://t.co/7TafIrpiRk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KIMYERIM",
+					"indices": [
+						125,
+						134
+					]
+				},
+				{
+					"text": "김예림",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						150,
+						160
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "갈채",
+					"indices": [
+						168,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jTczKtOdiB",
+					"expanded_url": "https://naver.me/F4tMykKO",
+					"display_url": "naver.me/F4tMykKO",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1647772579992838100,
+					"id_str": "1647772579992838145",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft4QbmUaIAEzYiX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft4QbmUaIAEzYiX.jpg",
+					"url": "https://t.co/7TafIrpiRk",
+					"display_url": "pic.twitter.com/7TafIrpiRk",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1647772584963080192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1647772579992838100,
+					"id_str": "1647772579992838145",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft4QbmUaIAEzYiX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft4QbmUaIAEzYiX.jpg",
+					"url": "https://t.co/7TafIrpiRk",
+					"display_url": "pic.twitter.com/7TafIrpiRk",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1647772584963080192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1647772580030615600,
+					"id_str": "1647772580030615552",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft4QbmdakAAsLAu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft4QbmdakAAsLAu.jpg",
+					"url": "https://t.co/7TafIrpiRk",
+					"display_url": "pic.twitter.com/7TafIrpiRk",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1647772584963080192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1201,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1647772580001222700,
+					"id_str": "1647772580001222656",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft4QbmWaEAAq0OX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft4QbmWaEAAq0OX.jpg",
+					"url": "https://t.co/7TafIrpiRk",
+					"display_url": "pic.twitter.com/7TafIrpiRk",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1647772584963080192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11584867,
+			"friends_count": 56,
+			"listed_count": 13060,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14070,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1280,
+		"favorite_count": 3599,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김예림(레드벨벳 예리), 청소년 장애 이해 드라마 ‘갈채’ 주인공으로 출연!\n‘소통의 시간’ 400여 명의 학생들과 함께 시사회 진행! 뜻깊은 연기 행보로 따뜻한 영향력 펼친다\n\nhttps://t.co/jTczKtOdiB\n\n#KIMYERIM #김예림\n#YERI #예리\n#RedVelvet #레드벨벳 \n#갈채 https://t.co/7TafIrpiRk"
+	},
+	{
+		"created_at": "Mon Apr 17 01:38:14 +0000 2023",
+		"id": 1647765720233803800,
+		"id_str": "1647776448516616195",
+		"full_text": "Editor 서동범\nPhoto 김신애 ‧ Kim Sinae\nStylist 엄아름\nHair 이일중\nMakeup 이나겸\nPlant Stylist 하이이화\nAssistant 정민호\nLocation 미술가 최정화의 집\n\n@TAEYEONsmtown @LouisVuitton #LouisVuitton #LVSS23\n#태연 #TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LouisVuitton",
+					"indices": [
+						148,
+						161
+					]
+				},
+				{
+					"text": "LVSS23",
+					"indices": [
+						162,
+						169
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						174,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TAEYEONsmtown",
+					"name": "TAEYEON Official",
+					"id": 1496499777965822000,
+					"id_str": "1496499777965821956",
+					"indices": [
+						119,
+						133
+					]
+				},
+				{
+					"screen_name": "LouisVuitton",
+					"name": "Louis Vuitton",
+					"id": 44084633,
+					"id_str": "44084633",
+					"indices": [
+						134,
+						147
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1647765658854383600,
+		"in_reply_to_status_id_str": "1647765658854383616",
+		"in_reply_to_user_id": 196001644,
+		"in_reply_to_user_id_str": "196001644",
+		"in_reply_to_screen_name": "bazaarkorea",
+		"user": {
+			"id": 196001644,
+			"id_str": "196001644",
+			"name": "하퍼스바자",
+			"screen_name": "bazaarkorea",
+			"location": "South Korea",
+			"description": "세계 최초의 패션 매거진 하퍼스 바자\n\n https://t.co/anxga5uHtr",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/anxga5uHtr",
+							"expanded_url": "http://harpersbazaar.co.kr",
+							"display_url": "harpersbazaar.co.kr",
+							"indices": [
+								23,
+								46
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35348,
+			"friends_count": 2,
+			"listed_count": 200,
+			"created_at": "Tue Sep 28 02:26:27 +0000 2010",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350003704779272193/KOXSR-bJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350003704779272193/KOXSR-bJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/196001644/1681479432",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "Editor 서동범\nPhoto 김신애 ‧ Kim Sinae\nStylist 엄아름\nHair 이일중\nMakeup 이나겸\nPlant Stylist 하이이화\nAssistant 정민호\nLocation 미술가 최정화의 집\n\n@TAEYEONsmtown @LouisVuitton #LouisVuitton #LVSS23\n#태연 #TAEYEON"
+	},
+	{
 		"created_at": "Sun Apr 16 09:57:42 +0000 2023",
 		"id": 1647532316112347100,
 		"id_str": "1647539755691720705",
