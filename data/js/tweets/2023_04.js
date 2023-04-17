@@ -1,6 +1,597 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Mon Apr 17 07:33:37 +0000 2023",
+		"id": 1647850983123488800,
+		"id_str": "1647865884927459328",
+		"full_text": "Thank you @SpotifyKpop !\nListen to #JISOO's FLOWER on @Spotify 🌹\n\n🎧https://t.co/c0jbWmL2Zz\n\n#지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #꽃 #YG https://t.co/ftWSZiDbcs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JISOO",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						113,
+						130
+					]
+				},
+				{
+					"text": "ME",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "꽃",
+					"indices": [
+						135,
+						137
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						138,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SpotifyKpop",
+					"name": "Spotify ❤️ K-Pop",
+					"id": 978459450871697400,
+					"id_str": "978459450871697408",
+					"indices": [
+						10,
+						22
+					]
+				},
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						54,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/c0jbWmL2Zz",
+					"expanded_url": "https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql?si=Ga_4P1ouTXysbjV-1tuWCw",
+					"display_url": "open.spotify.com/album/2xvV55nQ…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1647850937149722600,
+					"id_str": "1647850937149722624",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft5XsleakAAyWgJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft5XsleakAAyWgJ.jpg",
+					"url": "https://t.co/ftWSZiDbcs",
+					"display_url": "pic.twitter.com/ftWSZiDbcs",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1647850983123488769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1647850937149722600,
+					"id_str": "1647850937149722624",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft5XsleakAAyWgJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft5XsleakAAyWgJ.jpg",
+					"url": "https://t.co/ftWSZiDbcs",
+					"display_url": "pic.twitter.com/ftWSZiDbcs",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1647850983123488769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1647850947786473500,
+					"id_str": "1647850947786473473",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft5XtNGagAEEo7I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft5XtNGagAEEo7I.jpg",
+					"url": "https://t.co/ftWSZiDbcs",
+					"display_url": "pic.twitter.com/ftWSZiDbcs",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1647850983123488769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1647850961493446700,
+					"id_str": "1647850961493446657",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft5XuAKaUAEwyc-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft5XuAKaUAEwyc-.jpg",
+					"url": "https://t.co/ftWSZiDbcs",
+					"display_url": "pic.twitter.com/ftWSZiDbcs",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1647850983123488769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 668,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1141,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8963073,
+			"friends_count": 11,
+			"listed_count": 9532,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1680235305",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1427,
+		"favorite_count": 5479,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you @SpotifyKpop !\nListen to #JISOO's FLOWER on @Spotify 🌹\n\n🎧https://t.co/c0jbWmL2Zz\n\n#지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #꽃 #YG https://t.co/ftWSZiDbcs"
+	},
+	{
+		"created_at": "Mon Apr 17 07:30:57 +0000 2023",
+		"id": 1647858491107975200,
+		"id_str": "1647865212878323713",
+		"full_text": "⧫ 일반 예매 오픈\n𝟮𝟬𝟮𝟯. 𝟰. 𝟮𝟬 𝗧𝗵𝘂 𝟲𝗽𝗺 @인터파크 티켓\n\n⧫ 기존 예매자 선예매 오픈\n𝟮𝟬𝟮𝟯. 𝟰. 𝟮𝟬 𝗧𝗵𝘂 𝟮~𝟲𝗽𝗺 @인터파크 티켓\n* 𝟦/𝟩 𝟦시까지 예매를 유지한 예매자에 한해 선예매권을 부여합니다.\n\n🔗https://t.co/D0IgMBl6dw\n자세한 내용은 예매 페이지를 참고하세요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D0IgMBl6dw",
+					"expanded_url": "https://me2.kr/KpBaQ",
+					"display_url": "me2.kr/KpBaQ",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1647858488234877000,
+		"in_reply_to_status_id_str": "1647858488234876931",
+		"in_reply_to_user_id": 923507155860299800,
+		"in_reply_to_user_id_str": "923507155860299776",
+		"in_reply_to_screen_name": "JaurimOfficial",
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림 공식 트위터\n𝗝𝗔𝗨𝗥𝗜𝗠 𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 𝖳𝗐𝗂𝗍𝗍𝖾𝗋",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4881,
+			"friends_count": 5,
+			"listed_count": 31,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 339,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1669787144",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⧫ 일반 예매 오픈\n𝟮𝟬𝟮𝟯. 𝟰. 𝟮𝟬 𝗧𝗵𝘂 𝟲𝗽𝗺 @인터파크 티켓\n\n⧫ 기존 예매자 선예매 오픈\n𝟮𝟬𝟮𝟯. 𝟰. 𝟮𝟬 𝗧𝗵𝘂 𝟮~𝟲𝗽𝗺 @인터파크 티켓\n* 𝟦/𝟩 𝟦시까지 예매를 유지한 예매자에 한해 선예매권을 부여합니다.\n\n🔗https://t.co/D0IgMBl6dw\n자세한 내용은 예매 페이지를 참고하세요."
+	},
+	{
+		"created_at": "Mon Apr 17 07:30:57 +0000 2023",
+		"id": 1647858488234877000,
+		"id_str": "1647865212693893120",
+		"full_text": "김윤아 단독 콘서트\n\n◊ 행복한 사랑은 없네 ◊\n𝐼𝑙 𝑛’𝑦 𝑎 𝑝𝑎𝑠 𝑑’𝑎𝑚𝑜𝑢𝑟 ℎ𝑒𝑢𝑟𝑒𝑢𝑥\n\n⧫ 일시\n𝟤𝟢𝟤𝟥. 𝟨. 𝟤𝟥 / 𝟤𝟦 / 𝟤𝟧\n𝟤𝟢𝟤𝟥. 𝟨. 𝟥𝟢 / 𝟩. 𝟣 / 𝟤\n𝖥𝗋𝗂 𝟪𝗉𝗆 / 𝖲𝖺𝗍 𝟨𝗉𝗆 / 𝖲𝗎𝗇 𝟧𝗉𝗆\n\n⧫ 장소\n연세대학교 백주년기념관 콘서트홀 https://t.co/LairwItMdI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1647858000919675000,
+					"id_str": "1647858000919674880",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft5eHwEaQAAqsZ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft5eHwEaQAAqsZ4.jpg",
+					"url": "https://t.co/LairwItMdI",
+					"display_url": "pic.twitter.com/LairwItMdI",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1647858488234876931/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 845,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1199,
+							"h": 1703,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1647858000919675000,
+					"id_str": "1647858000919674880",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft5eHwEaQAAqsZ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft5eHwEaQAAqsZ4.jpg",
+					"url": "https://t.co/LairwItMdI",
+					"display_url": "pic.twitter.com/LairwItMdI",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1647858488234876931/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 845,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1199,
+							"h": 1703,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림 공식 트위터\n𝗝𝗔𝗨𝗥𝗜𝗠 𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 𝖳𝗐𝗂𝗍𝗍𝖾𝗋",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4881,
+			"friends_count": 5,
+			"listed_count": 31,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 339,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1669787144",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김윤아 단독 콘서트\n\n◊ 행복한 사랑은 없네 ◊\n𝐼𝑙 𝑛’𝑦 𝑎 𝑝𝑎𝑠 𝑑’𝑎𝑚𝑜𝑢𝑟 ℎ𝑒𝑢𝑟𝑒𝑢𝑥\n\n⧫ 일시\n𝟤𝟢𝟤𝟥. 𝟨. 𝟤𝟥 / 𝟤𝟦 / 𝟤𝟧\n𝟤𝟢𝟤𝟥. 𝟨. 𝟥𝟢 / 𝟩. 𝟣 / 𝟤\n𝖥𝗋𝗂 𝟪𝗉𝗆 / 𝖲𝖺𝗍 𝟨𝗉𝗆 / 𝖲𝗎𝗇 𝟧𝗉𝗆\n\n⧫ 장소\n연세대학교 백주년기념관 콘서트홀 https://t.co/LairwItMdI"
+	},
+	{
 		"created_at": "Mon Apr 17 06:23:33 +0000 2023",
 		"id": 1647840062288306200,
 		"id_str": "1647848253348540416",
