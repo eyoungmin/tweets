@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Mon Apr 17 17:58:03 +0000 2023",
+		"id": 1648009500790489000,
+		"id_str": "1648023030692556803",
+		"full_text": "Friends, you have until 12pm bst on wednesday 19th april to be in with the chance of winning tickets to my london show, a meet and greet, and merch! \n\nPre-order my new album to enter! 🤍🤍https://t.co/Wb09quU8Ad https://t.co/4pgQrg5MlO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wb09quU8Ad",
+					"expanded_url": "https://shop.officialbirdy.com/gb/",
+					"display_url": "shop.officialbirdy.com/gb/",
+					"indices": [
+						186,
+						209
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1648009378111320000,
+					"id_str": "1648009378111320067",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft7nzEDWcAMAyYB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft7nzEDWcAMAyYB.jpg",
+					"url": "https://t.co/4pgQrg5MlO",
+					"display_url": "pic.twitter.com/4pgQrg5MlO",
+					"expanded_url": "https://twitter.com/birdy/status/1648009500790489088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1648009378111320000,
+					"id_str": "1648009378111320067",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft7nzEDWcAMAyYB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft7nzEDWcAMAyYB.jpg",
+					"url": "https://t.co/4pgQrg5MlO",
+					"display_url": "pic.twitter.com/4pgQrg5MlO",
+					"expanded_url": "https://twitter.com/birdy/status/1648009500790489088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Heartbreaker is yours on Friday 💔 My new album ..P O R T R A I T S.. is out 14th July https://t.co/GcmNlUHTQm",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GcmNlUHTQm",
+							"expanded_url": "http://wct.live/birdy-heartbreaker",
+							"display_url": "wct.live/birdy-heartbre…",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 304233,
+			"friends_count": 174,
+			"listed_count": 1153,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 845,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1629171726885027843/5g1NCOIB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1629171726885027843/5g1NCOIB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1681487996",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Friends, you have until 12pm bst on wednesday 19th april to be in with the chance of winning tickets to my london show, a meet and greet, and merch! \n\nPre-order my new album to enter! 🤍🤍https://t.co/Wb09quU8Ad https://t.co/4pgQrg5MlO"
+	},
+	{
 		"created_at": "Mon Apr 17 16:58:03 +0000 2023",
 		"id": 1648004370150113300,
 		"id_str": "1648007927754530827",
