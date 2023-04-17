@@ -1,10 +1,218 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Mon Apr 17 16:58:03 +0000 2023",
+		"id": 1648004370150113300,
+		"id_str": "1648007927754530827",
+		"full_text": "https://t.co/uxs9ORYErS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1648004365083451400,
+					"id_str": "1648004365083451392",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft7jPREXoAAgPs9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft7jPREXoAAgPs9.jpg",
+					"url": "https://t.co/uxs9ORYErS",
+					"display_url": "pic.twitter.com/uxs9ORYErS",
+					"expanded_url": "https://twitter.com/birdy/status/1648004370150113280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1648004365083451400,
+					"id_str": "1648004365083451392",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft7jPREXoAAgPs9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft7jPREXoAAgPs9.jpg",
+					"url": "https://t.co/uxs9ORYErS",
+					"display_url": "pic.twitter.com/uxs9ORYErS",
+					"expanded_url": "https://twitter.com/birdy/status/1648004370150113280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1648004365091741700,
+					"id_str": "1648004365091741703",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft7jPRGWIAcYm1O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft7jPRGWIAcYm1O.jpg",
+					"url": "https://t.co/uxs9ORYErS",
+					"display_url": "pic.twitter.com/uxs9ORYErS",
+					"expanded_url": "https://twitter.com/birdy/status/1648004370150113280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1648004362289946600,
+		"in_reply_to_status_id_str": "1648004362289946624",
+		"in_reply_to_user_id": 270901752,
+		"in_reply_to_user_id_str": "270901752",
+		"in_reply_to_screen_name": "birdy",
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Heartbreaker is yours on Friday 💔 My new album ..P O R T R A I T S.. is out 14th July https://t.co/GcmNlUHTQm",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GcmNlUHTQm",
+							"expanded_url": "http://wct.live/birdy-heartbreaker",
+							"display_url": "wct.live/birdy-heartbre…",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 304236,
+			"friends_count": 174,
+			"listed_count": 1153,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 845,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1629171726885027843/5g1NCOIB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1629171726885027843/5g1NCOIB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1681487996",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/uxs9ORYErS"
+	},
+	{
 		"created_at": "Mon Apr 17 11:45:41 +0000 2023",
 		"id": 1647919798364553200,
 		"id_str": "1647929319136669699",
-		"full_text": "영스가 시작했대❗️💙\n가자 가자🏃‍♀️\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/ccZAAz2b7j",
+		"full_text": "영스가 시작했대❗️💙\n가자 가자🏃♀️\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/ccZAAz2b7j",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -273,7 +481,7 @@ Grailbird.data.tweets_2023_04 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "영스가 시작했대❗️💙\n가자 가자🏃‍♀️\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/ccZAAz2b7j"
+		"text": "영스가 시작했대❗️💙\n가자 가자🏃♀️\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/ccZAAz2b7j"
 	},
 	{
 		"created_at": "Mon Apr 17 10:57:59 +0000 2023",
