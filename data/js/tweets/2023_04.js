@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Mon Apr 17 10:57:59 +0000 2023",
+		"id": 1647908866590482400,
+		"id_str": "1647917314044469248",
+		"full_text": "Very much enjoying this tour and the beautiful places we have been ✨ thank you everyone who has come to the shows so far and made them so special .\nFour days until Heartbreaker comes out, I can’t wait to share it with you 💔😮 \nhttps://t.co/7olUfb3TcY https://t.co/OFVxCn8nqa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7olUfb3TcY",
+					"expanded_url": "https://wct.live/birdy-heartbreaker",
+					"display_url": "wct.live/birdy-heartbre…",
+					"indices": [
+						226,
+						249
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1647908860647075800,
+					"id_str": "1647908860647075842",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft6MYLUWcAIGalI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft6MYLUWcAIGalI.jpg",
+					"url": "https://t.co/OFVxCn8nqa",
+					"display_url": "pic.twitter.com/OFVxCn8nqa",
+					"expanded_url": "https://twitter.com/birdy/status/1647908866590482434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1647908860647075800,
+					"id_str": "1647908860647075842",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft6MYLUWcAIGalI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft6MYLUWcAIGalI.jpg",
+					"url": "https://t.co/OFVxCn8nqa",
+					"display_url": "pic.twitter.com/OFVxCn8nqa",
+					"expanded_url": "https://twitter.com/birdy/status/1647908866590482434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1647908860638707700,
+					"id_str": "1647908860638707712",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft6MYLSWwAA8W4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft6MYLSWwAA8W4D.jpg",
+					"url": "https://t.co/OFVxCn8nqa",
+					"display_url": "pic.twitter.com/OFVxCn8nqa",
+					"expanded_url": "https://twitter.com/birdy/status/1647908866590482434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1647908860655554600,
+					"id_str": "1647908860655554563",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft6MYLWX0AM5Eho.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft6MYLWX0AM5Eho.jpg",
+					"url": "https://t.co/OFVxCn8nqa",
+					"display_url": "pic.twitter.com/OFVxCn8nqa",
+					"expanded_url": "https://twitter.com/birdy/status/1647908866590482434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1349,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1647908860642852900,
+					"id_str": "1647908860642852865",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft6MYLTWAAEFgKA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft6MYLTWAAEFgKA.jpg",
+					"url": "https://t.co/OFVxCn8nqa",
+					"display_url": "pic.twitter.com/OFVxCn8nqa",
+					"expanded_url": "https://twitter.com/birdy/status/1647908866590482434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1349,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Heartbreaker is yours on Friday 💔 My new album ..P O R T R A I T S.. is out 14th July https://t.co/GcmNlUHTQm",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GcmNlUHTQm",
+							"expanded_url": "http://wct.live/birdy-heartbreaker",
+							"display_url": "wct.live/birdy-heartbre…",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 304257,
+			"friends_count": 174,
+			"listed_count": 1153,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 845,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1629171726885027843/5g1NCOIB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1629171726885027843/5g1NCOIB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1681487996",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 87,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very much enjoying this tour and the beautiful places we have been ✨ thank you everyone who has come to the shows so far and made them so special .\nFour days until Heartbreaker comes out, I can’t wait to share it with you 💔😮 \nhttps://t.co/7olUfb3TcY https://t.co/OFVxCn8nqa"
+	},
+	{
 		"created_at": "Mon Apr 17 09:46:40 +0000 2023",
 		"id": 1647888824641671200,
 		"id_str": "1647899366936412160",
