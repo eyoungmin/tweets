@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Tue Apr 18 09:33:48 +0000 2023",
+		"id": 1648250371587047400,
+		"id_str": "1648258519668252673",
+		"full_text": "#뷰티쁠 #beautypl #레드벨벳 #웬디 #redvelvet #wendy #완이 #완뭉이 #완람쥐 #작소완 #손스윗 #컨셉요정 #웬디화보 #커버스타",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뷰티쁠",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "beautypl",
+					"indices": [
+						5,
+						14
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						15,
+						20
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						21,
+						24
+					]
+				},
+				{
+					"text": "redvelvet",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"text": "wendy",
+					"indices": [
+						36,
+						42
+					]
+				},
+				{
+					"text": "완이",
+					"indices": [
+						43,
+						46
+					]
+				},
+				{
+					"text": "완뭉이",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "완람쥐",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "작소완",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "손스윗",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "컨셉요정",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "웬디화보",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "커버스타",
+					"indices": [
+						79,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1648250363852775400,
+		"in_reply_to_status_id_str": "1648250363852775424",
+		"in_reply_to_user_id": 245726999,
+		"in_reply_to_user_id_str": "245726999",
+		"in_reply_to_screen_name": "beautyplmania",
+		"user": {
+			"id": 245726999,
+			"id_str": "245726999",
+			"name": "뷰티쁠  BEAUTY+",
+			"screen_name": "beautyplmania",
+			"location": "Korea",
+			"description": "우리의 일상을 바꾸는 (뷰티+라이프) 매거진 뷰티쁠입니다. 코스메틱 브랜드의 신제품과 행사, 이벤트 소식을 매일 매일 업데이트하고 잘 나가는 뷰티 에디터들의 뷰티 노하우를 폭풍 전수합니다.",
+			"url": "https://t.co/Uf5BVayCrg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Uf5BVayCrg",
+							"expanded_url": "http://www.beautypl.co.kr/",
+							"display_url": "beautypl.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22074,
+			"friends_count": 5856,
+			"listed_count": 105,
+			"created_at": "Tue Feb 01 10:13:18 +0000 2011",
+			"favourites_count": 1321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1455061400750292992/OS7J5ozW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455061400750292992/OS7J5ozW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/245726999/1680238169",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "qht",
+		"text": "#뷰티쁠 #beautypl #레드벨벳 #웬디 #redvelvet #wendy #완이 #완뭉이 #완람쥐 #작소완 #손스윗 #컨셉요정 #웬디화보 #커버스타"
+	},
+	{
 		"created_at": "Tue Apr 18 08:23:50 +0000 2023",
 		"id": 1648227609908740000,
 		"id_str": "1648240908897271808",
