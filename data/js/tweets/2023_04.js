@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Tue Apr 18 12:33:58 +0000 2023",
+		"id": 1648295363642798000,
+		"id_str": "1648303857066188802",
+		"full_text": "https://t.co/qg7KMjAKQp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1648290936106127400,
+					"id_str": "1648290936106127360",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft_n35UaEAAs7gb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft_n35UaEAAs7gb.jpg",
+					"url": "https://t.co/qg7KMjAKQp",
+					"display_url": "pic.twitter.com/qg7KMjAKQp",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1648295363642798082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 825,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1408,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1648290936106127400,
+					"id_str": "1648290936106127360",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft_n35UaEAAs7gb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft_n35UaEAAs7gb.jpg",
+					"url": "https://t.co/qg7KMjAKQp",
+					"display_url": "pic.twitter.com/qg7KMjAKQp",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1648295363642798082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 825,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1408,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1648290936072589300,
+					"id_str": "1648290936072589314",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft_n35MaUAI_9Ob.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft_n35MaUAI_9Ob.jpg",
+					"url": "https://t.co/qg7KMjAKQp",
+					"display_url": "pic.twitter.com/qg7KMjAKQp",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1648295363642798082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1648290936097771500,
+					"id_str": "1648290936097771520",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft_n35SakAATTQv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft_n35SakAATTQv.jpg",
+					"url": "https://t.co/qg7KMjAKQp",
+					"display_url": "pic.twitter.com/qg7KMjAKQp",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1648295363642798082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 467,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 824,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1407,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1648295358701928400,
+		"in_reply_to_status_id_str": "1648295358701928450",
+		"in_reply_to_user_id": 1273850774380884000,
+		"in_reply_to_user_id_str": "1273850774380883975",
+		"in_reply_to_screen_name": "BLACKPINK",
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8940607,
+			"friends_count": 0,
+			"listed_count": 8329,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1680233566",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6689,
+		"favorite_count": 19871,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/qg7KMjAKQp"
+	},
+	{
 		"created_at": "Tue Apr 18 11:45:55 +0000 2023",
 		"id": 1648281125134155800,
 		"id_str": "1648291765453987840",
