@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Tue Apr 18 16:34:01 +0000 2023",
+		"id": 1648361539894931500,
+		"id_str": "1648364268331606016",
+		"full_text": "#JISOO remembers her “Firsts” on @TeenVogue!\n\nGo check it out now!\n▶️ https://t.co/MRRJOYyFEm\n\n#지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #TITLE #꽃 #FLOWER #AllEyesOnMe #YG https://t.co/4wKi8et4Bl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JISOO",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						99,
+						109
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						116,
+						133
+					]
+				},
+				{
+					"text": "ME",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "TITLE",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "꽃",
+					"indices": [
+						145,
+						147
+					]
+				},
+				{
+					"text": "FLOWER",
+					"indices": [
+						148,
+						155
+					]
+				},
+				{
+					"text": "AllEyesOnMe",
+					"indices": [
+						156,
+						168
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						169,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TeenVogue",
+					"name": "Teen Vogue",
+					"id": 24190981,
+					"id_str": "24190981",
+					"indices": [
+						33,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MRRJOYyFEm",
+					"expanded_url": "https://youtu.be/LmU3VxLDWEs",
+					"display_url": "youtu.be/LmU3VxLDWEs",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1648361535675453400,
+					"id_str": "1648361535675453445",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FuAoFVNaUAUXmjM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuAoFVNaUAUXmjM.jpg",
+					"url": "https://t.co/4wKi8et4Bl",
+					"display_url": "pic.twitter.com/4wKi8et4Bl",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1648361539894931459/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1648361535675453400,
+					"id_str": "1648361535675453445",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FuAoFVNaUAUXmjM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuAoFVNaUAUXmjM.jpg",
+					"url": "https://t.co/4wKi8et4Bl",
+					"display_url": "pic.twitter.com/4wKi8et4Bl",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1648361539894931459/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8942156,
+			"friends_count": 0,
+			"listed_count": 8325,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1013,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1680233566",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4969,
+		"favorite_count": 13473,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#JISOO remembers her “Firsts” on @TeenVogue!\n\nGo check it out now!\n▶️ https://t.co/MRRJOYyFEm\n\n#지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #TITLE #꽃 #FLOWER #AllEyesOnMe #YG https://t.co/4wKi8et4Bl"
+	},
+	{
 		"created_at": "Tue Apr 18 12:33:58 +0000 2023",
 		"id": 1648295363642798000,
 		"id_str": "1648303857066188802",
