@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 19 16:58:38 +0000 2023",
+		"id": 1648726111985991700,
+		"id_str": "1648732851943161856",
+		"full_text": "Heartbreaker and the official video is coming Friday.. 📽❤️‍🩹\nhttps://t.co/t4F4sRVgj8 https://t.co/99BX8tBS7n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t4F4sRVgj8",
+					"expanded_url": "http://wct.live/birdy-heartbreaker",
+					"display_url": "wct.live/birdy-heartbre…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1648726106097295400,
+					"id_str": "1648726106097295361",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FuFzqH3XoAE8XVe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuFzqH3XoAE8XVe.jpg",
+					"url": "https://t.co/99BX8tBS7n",
+					"display_url": "pic.twitter.com/99BX8tBS7n",
+					"expanded_url": "https://twitter.com/birdy/status/1648726111985991684/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1648726106097295400,
+					"id_str": "1648726106097295361",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FuFzqH3XoAE8XVe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuFzqH3XoAE8XVe.jpg",
+					"url": "https://t.co/99BX8tBS7n",
+					"display_url": "pic.twitter.com/99BX8tBS7n",
+					"expanded_url": "https://twitter.com/birdy/status/1648726111985991684/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1648726106101493800,
+					"id_str": "1648726106101493762",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FuFzqH4XsAIV3sE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuFzqH4XsAIV3sE.jpg",
+					"url": "https://t.co/99BX8tBS7n",
+					"display_url": "pic.twitter.com/99BX8tBS7n",
+					"expanded_url": "https://twitter.com/birdy/status/1648726111985991684/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Heartbreaker is yours on Friday 💔 My new album ..P O R T R A I T S.. is out 14th July https://t.co/GcmNlUHTQm",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GcmNlUHTQm",
+							"expanded_url": "http://wct.live/birdy-heartbreaker",
+							"display_url": "wct.live/birdy-heartbre…",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 304154,
+			"friends_count": 174,
+			"listed_count": 1153,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 845,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1629171726885027843/5g1NCOIB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1629171726885027843/5g1NCOIB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1681487996",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 130,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Heartbreaker and the official video is coming Friday.. 📽❤️‍🩹\nhttps://t.co/t4F4sRVgj8 https://t.co/99BX8tBS7n"
+	},
+	{
 		"created_at": "Wed Apr 19 12:34:15 +0000 2023",
 		"id": 1648657700212068400,
 		"id_str": "1648666317564641284",
