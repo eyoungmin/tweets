@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 19 03:24:02 +0000 2023",
+		"id": 1648523009999896600,
+		"id_str": "1648527852219011072",
+		"full_text": "리사가 빌리 아일리시, 도미닉 파이크와 함께 찍은 우정샷을 공개했다.\n#리사 #블랙핑크 #코첼라 #Lisa #Blackpink #BillieEilish #DominicFike \nhttps://t.co/JGIjWk9vsJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "리사",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "코첼라",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "Lisa",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "Blackpink",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"text": "BillieEilish",
+					"indices": [
+						71,
+						84
+					]
+				},
+				{
+					"text": "DominicFike",
+					"indices": [
+						85,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JGIjWk9vsJ",
+					"expanded_url": "https://www.wkorea.com/2023/04/19/%eb%b8%94%eb%9e%99%ed%95%91%ed%81%ac-%eb%a6%ac%ec%82%ac-%eb%b9%8c%eb%a6%ac-%ec%95%84%ec%9d%bc%eb%a6%ac%ec%8b%9c%ec%99%80%ec%9d%98-%ec%9a%b0%ec%a0%95%ec%83%b7-%ea%b3%b5%ea%b0%9c/?ddw=141743&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2023/04/19/%eb…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5gwu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5gwu0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 336162,
+			"friends_count": 0,
+			"listed_count": 866,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1679293637",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "리사가 빌리 아일리시, 도미닉 파이크와 함께 찍은 우정샷을 공개했다.\n#리사 #블랙핑크 #코첼라 #Lisa #Blackpink #BillieEilish #DominicFike \nhttps://t.co/JGIjWk9vsJ"
+	},
+	{
 		"created_at": "Wed Apr 19 02:24:02 +0000 2023",
 		"id": 1648506706853240800,
 		"id_str": "1648512751416008710",
