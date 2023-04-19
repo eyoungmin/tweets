@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 19 02:24:02 +0000 2023",
+		"id": 1648506706853240800,
+		"id_str": "1648512751416008710",
+		"full_text": "블랙핑크 코첼라 공연, 눈여겨봐야 할 리사의 패션\n\n이번 시즌 트렌드를 반영한 리사의 코첼라 패션! 아이템 하나하나 분석해 봤습니다. \nhttps://t.co/3zafEcqHP5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3zafEcqHP5",
+					"expanded_url": "https://www.vogue.co.kr/2023/04/17/%eb%b8%94%eb%9e%99%ed%95%91%ed%81%ac-%ec%bd%94%ec%b2%bc%eb%9d%bc-%ea%b3%b5%ec%97%b0-%eb%88%88%ec%97%ac%ea%b2%a8%eb%b4%90%ec%95%bc-%ed%95%a0-%eb%a6%ac%ec%82%ac%ec%9d%98-%ed%8c%a8%ec%85%98/?ddw=140385&ds_ch=twitter&utm_source=twitter&utm_medium=SNS&fbclid=IwAR2MqoGikwkLeOiwcFyqiV_wD82rwznXc4jte4TicX79C9Nnovco3ojgNHs",
+					"display_url": "vogue.co.kr/2023/04/17/%eb…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159102271,
+			"id_str": "159102271",
+			"name": "VOGUE KOREA",
+			"screen_name": "VogueKorea",
+			"location": "",
+			"description": "Vogue Korea official twitter",
+			"url": "https://t.co/cObX4QhDqc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cObX4QhDqc",
+							"expanded_url": "https://www.vogue.co.kr/",
+							"display_url": "vogue.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 231353,
+			"friends_count": 0,
+			"listed_count": 464,
+			"created_at": "Thu Jun 24 13:11:05 +0000 2010",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159102271/1681457355",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5EF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 573,
+		"favorite_count": 954,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블랙핑크 코첼라 공연, 눈여겨봐야 할 리사의 패션\n\n이번 시즌 트렌드를 반영한 리사의 코첼라 패션! 아이템 하나하나 분석해 봤습니다. \nhttps://t.co/3zafEcqHP5"
+	},
+	{
 		"created_at": "Tue Apr 18 16:34:01 +0000 2023",
 		"id": 1648361539894931500,
 		"id_str": "1648364268331606016",
