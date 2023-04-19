@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 19 08:57:46 +0000 2023",
+		"id": 1648604423764217900,
+		"id_str": "1648611838051901440",
+		"full_text": "김예림(레드벨벳 예리), 청소년 장애 이해 드라마 ‘갈채’ 출연이 의미 있는 이유\n\nhttps://t.co/iB60SmF7PS\n\n#KIMYERIM #김예림\n#YERI #예리\n#RedVelvet #레드벨벳 \n#갈채 https://t.co/4BadtnHrqe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KIMYERIM",
+					"indices": [
+						72,
+						81
+					]
+				},
+				{
+					"text": "김예림",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "갈채",
+					"indices": [
+						115,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iB60SmF7PS",
+					"expanded_url": "https://bit.ly/3mJiol5",
+					"display_url": "bit.ly/3mJiol5",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1648604407083450400,
+					"id_str": "1648604407083450368",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/FuEE-TtaQAAAwXK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuEE-TtaQAAAwXK.jpg",
+					"url": "https://t.co/4BadtnHrqe",
+					"display_url": "pic.twitter.com/4BadtnHrqe",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1648604423764217856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1011,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 675,
+							"h": 1011,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1648604407083450400,
+					"id_str": "1648604407083450368",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/FuEE-TtaQAAAwXK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuEE-TtaQAAAwXK.jpg",
+					"url": "https://t.co/4BadtnHrqe",
+					"display_url": "pic.twitter.com/4BadtnHrqe",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1648604423764217856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1011,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 675,
+							"h": 1011,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1648604406970196000,
+					"id_str": "1648604406970195970",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/FuEE-TSaIAIbOOz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuEE-TSaIAIbOOz.jpg",
+					"url": "https://t.co/4BadtnHrqe",
+					"display_url": "pic.twitter.com/4BadtnHrqe",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1648604423764217856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1201,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1648604406986993700,
+					"id_str": "1648604406986993664",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/FuEE-TWacAAh4Ij.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuEE-TWacAAh4Ij.jpg",
+					"url": "https://t.co/4BadtnHrqe",
+					"display_url": "pic.twitter.com/4BadtnHrqe",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1648604423764217856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1201,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1648604406974382000,
+					"id_str": "1648604406974382080",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/FuEE-TTaAAAKADX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuEE-TTaAAAKADX.jpg",
+					"url": "https://t.co/4BadtnHrqe",
+					"display_url": "pic.twitter.com/4BadtnHrqe",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1648604423764217856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1230,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 465,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 820,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11590892,
+			"friends_count": 56,
+			"listed_count": 13060,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586422828147974144/eRSNnR48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1667067652",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1469,
+		"favorite_count": 3845,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김예림(레드벨벳 예리), 청소년 장애 이해 드라마 ‘갈채’ 출연이 의미 있는 이유\n\nhttps://t.co/iB60SmF7PS\n\n#KIMYERIM #김예림\n#YERI #예리\n#RedVelvet #레드벨벳 \n#갈채 https://t.co/4BadtnHrqe"
+	},
+	{
 		"created_at": "Wed Apr 19 07:34:11 +0000 2023",
 		"id": 1648582289687998500,
 		"id_str": "1648590803445399552",
