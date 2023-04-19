@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 19 09:31:28 +0000 2023",
+		"id": 1648615129075024000,
+		"id_str": "1648620317764464640",
+		"full_text": "김윤아 단독 콘서트 티켓 오픈 𝗗-𝟭\n\n◊ 행복한 사랑은 없네 ◊\n𝐼𝑙 𝑛’𝑦 𝑎 𝑝𝑎𝑠 𝑑’𝑎𝑚𝑜𝑢𝑟 ℎ𝑒𝑢𝑟𝑒𝑢𝑥\n\n⧫ 일시\n𝟤𝟢𝟤𝟥. 𝟨. 𝟤𝟥 / 𝟤𝟦 / 𝟤𝟧\n𝟤𝟢𝟤𝟥. 𝟨. 𝟥𝟢 / 𝟩. 𝟣 / 𝟤\n𝖥𝗋𝗂 𝟪𝗉𝗆 / 𝖲𝖺𝗍 𝟨𝗉𝗆 / 𝖲𝗎𝗇 𝟧𝗉𝗆\n\n⧫ 장소\n연세대학교 백주년기념관 콘서트홀 https://t.co/0Q6ZJQk1NW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1648592041620959200,
+					"id_str": "1648592041620959234",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1648592041620959234/pu/img/T9GAdp7VXjYUCg9k.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1648592041620959234/pu/img/T9GAdp7VXjYUCg9k.jpg",
+					"url": "https://t.co/0Q6ZJQk1NW",
+					"display_url": "pic.twitter.com/0Q6ZJQk1NW",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1648615129075023873/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1648592041620959200,
+					"id_str": "1648592041620959234",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1648592041620959234/pu/img/T9GAdp7VXjYUCg9k.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1648592041620959234/pu/img/T9GAdp7VXjYUCg9k.jpg",
+					"url": "https://t.co/0Q6ZJQk1NW",
+					"display_url": "pic.twitter.com/0Q6ZJQk1NW",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1648615129075023873/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 68468,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1648592041620959234/pu/vid/320x568/QTTM16HuX9hEm6_v.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1648592041620959234/pu/vid/480x852/DCCQv-O8x85afvRY.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1648592041620959234/pu/vid/720x1280/dHuWrlpSh08813X7.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1648592041620959234/pu/pl/bP7f80X__LzSC0hQ.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림 공식 트위터\n𝗝𝗔𝗨𝗥𝗜𝗠 𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 𝖳𝗐𝗂𝗍𝗍𝖾𝗋",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4892,
+			"friends_count": 5,
+			"listed_count": 31,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1669787144",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김윤아 단독 콘서트 티켓 오픈 𝗗-𝟭\n\n◊ 행복한 사랑은 없네 ◊\n𝐼𝑙 𝑛’𝑦 𝑎 𝑝𝑎𝑠 𝑑’𝑎𝑚𝑜𝑢𝑟 ℎ𝑒𝑢𝑟𝑒𝑢𝑥\n\n⧫ 일시\n𝟤𝟢𝟤𝟥. 𝟨. 𝟤𝟥 / 𝟤𝟦 / 𝟤𝟧\n𝟤𝟢𝟤𝟥. 𝟨. 𝟥𝟢 / 𝟩. 𝟣 / 𝟤\n𝖥𝗋𝗂 𝟪𝗉𝗆 / 𝖲𝖺𝗍 𝟨𝗉𝗆 / 𝖲𝗎𝗇 𝟧𝗉𝗆\n\n⧫ 장소\n연세대학교 백주년기념관 콘서트홀 https://t.co/0Q6ZJQk1NW"
+	},
+	{
+		"created_at": "Wed Apr 19 09:31:27 +0000 2023",
+		"id": 1648615133986574300,
+		"id_str": "1648620316447342592",
+		"full_text": "⧫ 일반 예매 오픈\n𝟮𝟬𝟮𝟯. 𝟰. 𝟮𝟬 𝗧𝗵𝘂 𝟲𝗽𝗺 @인터파크 티켓\n\n⧫ 기존 예매자 선예매 오픈\n𝟮𝟬𝟮𝟯. 𝟰. 𝟮𝟬 𝗧𝗵𝘂 𝟮~𝟱:𝟱𝟵𝗽𝗺 @인터파크 티켓\n* 𝟦/𝟩 𝟦시까지 예매를 유지한 예매자에 한해 선예매권을 부여합니다. \n\n자세한 내용은 예매 페이지를 참고하세요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1648615129075024000,
+		"in_reply_to_status_id_str": "1648615129075023873",
+		"in_reply_to_user_id": 923507155860299800,
+		"in_reply_to_user_id_str": "923507155860299776",
+		"in_reply_to_screen_name": "JaurimOfficial",
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림 공식 트위터\n𝗝𝗔𝗨𝗥𝗜𝗠 𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 𝖳𝗐𝗂𝗍𝗍𝖾𝗋",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4892,
+			"friends_count": 5,
+			"listed_count": 31,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1597829203688189959/_49B4sTC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1669787144",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "⧫ 일반 예매 오픈\n𝟮𝟬𝟮𝟯. 𝟰. 𝟮𝟬 𝗧𝗵𝘂 𝟲𝗽𝗺 @인터파크 티켓\n\n⧫ 기존 예매자 선예매 오픈\n𝟮𝟬𝟮𝟯. 𝟰. 𝟮𝟬 𝗧𝗵𝘂 𝟮~𝟱:𝟱𝟵𝗽𝗺 @인터파크 티켓\n* 𝟦/𝟩 𝟦시까지 예매를 유지한 예매자에 한해 선예매권을 부여합니다. \n\n자세한 내용은 예매 페이지를 참고하세요."
+	},
+	{
 		"created_at": "Wed Apr 19 08:57:46 +0000 2023",
 		"id": 1648604423764217900,
 		"id_str": "1648611838051901440",
